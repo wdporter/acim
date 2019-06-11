@@ -8,6 +8,36 @@ sup {
   top: -0.4em;
 }
 
+div.head {
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: .5em;
+}
+
+
+div.topnav div {
+  padding: .5em 1.5em;
+  color: white;
+  background-color:purple;
+}
+
+div.topnav div+div {
+  border-left: 1px solid white;
+  color: white;
+  background-color:purple;
+}
+
+
+
+div.paragraph {
+  border-bottom: 1px solid black;
+}
+
+div.paragraph {
+  margin-bottom: 1em;
+  padding-left: .5em;
+}
+
 p {
   line-height: 1.5;
 }
@@ -16,14 +46,34 @@ p.expanded {
 }
 
 p.substituted {
-/*  display: none; */
+  margin-left: 2em;
+  border-left: 1px solid black;
+  padding-left: 1em;
 }
 
 p.simplified {
-  padding-left: 3em;
-  padding-right: 3em;
+  padding: 1em 2em;
   font-style: italic;
 }
 
+div.pagination a {
+  color: black;
+  text-decoration: none;
+  padding: 4px 8px;
+}
 
+div.pagination a.active {
+  color: white;
+  background-color: purple;
+}
 
+div.pagination a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 700px) {
+  body { 
+    width:40em;
+    margin: 0 auto;
+  }
+}
