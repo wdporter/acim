@@ -1,7 +1,5 @@
 body {
   font-family: Verdana, sans-serif;
-  max-width: 60%;
-  margin: auto;
 }
 
 sup {
@@ -12,23 +10,20 @@ sup {
 
 p {
   line-height: 1.5;
-  color: #333;
+}
+
+p.expanded {
 }
 
 p.substituted {
+/*  display: none; */
 }
 
-p.hidden {
-  display: none;
-}
-
-p.indented {
+p.simplified {
   padding-left: 3em;
   padding-right: 3em;
-}
-
-p.emphasis {
   font-style: italic;
 }
+
 
 
