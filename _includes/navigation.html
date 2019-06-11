@@ -1,0 +1,8 @@
+<nav>
+    <div>
+      <div {% if page.url contains '/t'%}class=active{%endif%}><a href=/t>Text</a></div>
+      <div {% if page.url contains '/w'%}class=active{%endif%}><a href=/w>Workbook</a></div>
+      <div {% if page.url contains '/m'%}class=active{%endif%}><a href=/m>Manual</a></div>
+      <div {% if page.url contains '/other'%}class=active{%endif%}><a href=/other>Other</a></div>
+    </div>
+  </nav>

@@ -15,4 +15,26 @@ sup {
   top: -0.4em;
 }
 
+nav>div {
+  display: flex;
+}
+nav>div div {
+  padding: .5em 1.5em;
+  color: white;
+  background-color:purple;
+}
+nav>div div.active {
+  padding: .5em 1.5em;
+  color: white;
+  background-color:blue;
+}
+nav>div div+div {
+  border-left:1px solid white;
+}
+nav>div div a {
+  color: white;
+  text-decoration: none;
+}
+
+
 
