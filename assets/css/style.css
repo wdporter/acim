@@ -23,10 +23,12 @@ div.topnav div {
 
 div.topnav div+div {
   border-left: 1px solid white;
-  color: white;
-  background-color:purple;
 }
 
+div.topnav a {
+  color: white;
+  text-decoration: none;
+}
 
 
 div.paragraph {
