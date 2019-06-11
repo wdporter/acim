@@ -21,12 +21,12 @@ nav>div {
 nav>div div {
   padding: .5em 1.5em;
   color: white;
-  background-color:purple;
+  background-color:blue;
 }
 nav>div div.active {
   padding: .5em 1.5em;
   color: white;
-  background-color:blue;
+  background-color:purple;
 }
 nav>div div+div {
   border-left:1px solid white;
