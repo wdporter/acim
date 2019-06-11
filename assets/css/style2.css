@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+@media screen and (min-width: 700px) {
+  body { 
+    width:40em;
+    margin: 0 auto;
+  }
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+
