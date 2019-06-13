@@ -9,13 +9,6 @@ body {
   }
 }
 
-sup {
-  vertical-align: baseline;
-  position: relative;
-  top: -0.4em;
-}
-
-
 
 nav>div {
   display: flex;
@@ -38,13 +31,13 @@ nav>div div a {
   text-decoration: none;
 }
 
-div.paragraph {
+div.content div.paragraph {
   border: 1px dashed purple;
   margin-bottom: 1em;
   line-height: 1.5;
 }
 
-p.expanded, p.substituted, p.simplified {
+p.native, p.expanded, p.substituted, p.simplified {
   margin-left: 1em;
   border-left: 2px blue dotted;
 }
