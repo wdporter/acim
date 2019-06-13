@@ -36,5 +36,21 @@ nav>div div a {
   text-decoration: none;
 }
 
+div.paragraph {
+  border: 1px dashed black;
+}
+div.paragraph {
+  margin-bottom: 1em;
+}
 
+p.emphasis {
+  font-style: italic;
+}
 
+p.indented {
+  margin-left: 3em;
+}
+
+p.simplified {
+  font-style: italic;
+}
