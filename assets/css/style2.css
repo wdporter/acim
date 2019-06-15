@@ -34,13 +34,29 @@ nav>div div a {
 div.content div.paragraph {
   border: 1px dashed purple;
   margin-bottom: 1em;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 p.native, p.expanded, p.substituted, p.simplified {
   margin-left: 1em;
-  border-left: 2px blue dotted;
+  padding-left: .5em;
 }
+
+p.expanded, p.substituted, p.simplified {
+  border-left: 2px solid;
+}
+
+p.expanded  {
+  border-left-color: blue;
+}
+p.substituted, p.simplified {
+  border-left-color: green;
+}
+p.simplified {
+  border-left-color: red;
+}
+
+
 
 p span.indented {
   display: block;
