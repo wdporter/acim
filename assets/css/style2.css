@@ -57,23 +57,26 @@ div.content div.paragraph {
   margin-bottom: 1em;
 }
 
-p.native, p.expanded, p.substituted, p.simplified {
+p.native, p.expanded, p.substituted, p.simplified, p.commentary {
   margin-left: 1em;
   padding-left: .5em;
 }
 
-p.expanded, p.substituted, p.simplified {
+p.expanded, p.substituted, p.simplified, p.commentary {
   border-left: 2px solid;
 }
 
 p.expanded  {
   border-left-color: blue;
 }
-p.substituted, p.simplified {
+p.substituted  {
   border-left-color: green;
 }
 p.simplified {
   border-left-color: red;
+}
+p.commentary {
+  border-left-color: darkorange;
 }
 
 
