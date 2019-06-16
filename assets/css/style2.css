@@ -43,8 +43,12 @@ header, footer {
 header {
   background-color: purple;
   font-size: xx-large;
-
 }
+header a, header a:visited, header a:active {
+  color: white;
+  text-decoration: none;
+}
+
 footer {
   background-color:#888;
 
