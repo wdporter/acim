@@ -4,8 +4,9 @@ body {
 
 @media screen and (min-width: 700px) {
   body { 
-    width:50em;
+    width:40em;
     margin: 0 auto;
+
   }
 }
 
@@ -31,10 +32,29 @@ nav>div div a {
   text-decoration: none;
 }
 
+header, footer {
+  height: 6rem; 
+  color: white; 
+  text-align:center; 
+  display:flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+header {
+  background-color: purple;
+  font-size: xx-large;
+
+}
+footer {
+  background-color:#888;
+
+}
+
 div.content div.paragraph {
+  font-size: .8em;
+  line-height: 1.75;
   border: 1px dashed purple;
   margin-bottom: 1em;
-  line-height: 1.75;
 }
 
 p.native, p.expanded, p.substituted, p.simplified {
