@@ -61,7 +61,7 @@ div.content div.paragraph {
   margin-bottom: 1em;
 }
 
-p.native, p.expanded, p.substituted, p.simplified, p.commentary {
+p.fip, p.expanded, p.substituted, p.simplified, p.commentary {
   margin-left: 1em;
   padding-left: .5em;
 }
