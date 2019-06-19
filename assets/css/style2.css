@@ -81,6 +81,7 @@ p.simplified {
 }
 p.commentary {
   border-left-color: darkorange;
+  display: none;
 }
 
 
