@@ -78,21 +78,10 @@ p.substituted  {
 }
 p.simplified {
   border-left-color: red;
+  font-style: italic;
 }
 p.commentary {
   border-left-color: darkorange;
   display: none;
 }
 
-
-
-p span.indented {
-  display: block;
-  margin: 1.5em 3em;
-  font-style: italic;
-}
-
-
-p.simplified {
-  font-style: italic;
-}
