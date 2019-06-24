@@ -1,0 +1,13 @@
+---
+layout: chapter
+---
+
+<div>
+    <span class=prev-section>{% unless page.prev-section == "" %}<a href={{page.prev-section}}>←prev section</a>{% endunless %}</span>
+    <span class=next-section>{% unless page.next-section == "" %}<a href={{page.next-section}}>next section→</a>{% endunless %}</span>
+</div>
+
+
+<div class=content>
+{{ content }}
+</div>

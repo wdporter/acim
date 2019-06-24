@@ -3,19 +3,20 @@
   <head>
     <meta charset=utf-8>
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <title>ACIM Easy to Read — {{ page.title }}</title>
-    <!--<link rel=stylesheet href=/acim/assets/css/style.css>-->
-    <link rel=stylesheet href=/assets/css/style.css>
+    <title>{{site.title}} — {{ page.title }}</title>
+    <link rel=stylesheet href="/assets/css/style2.css?v=6">
+    <script src="/assets/js/site.js?v=7"></script>
   </head>
   <body>
-    <div class=head>A Course in Miracles — Easy to Read</div>
-    <div style=display:flex class=topnav>
-      <div><a href=/t>Text</a></div>
-      <div><a href=/w>Workbook</a></div>
-      <div><a href=/m>Manual</a></div>
-      <div><a href=/other>Other</a></div>
-    </div>
-
-    {{ content }}
+    <header><a href=/>{{site.heading}}</a></header>
+    {% include navigation.html %}
+    <main>
+      <h1>{{page.title}}</h1>
+      {{ content }}
+    </main>
+    <footer>
+        <div>by David Porter</div>
+    </footer>
+    
   </body>
 </html>

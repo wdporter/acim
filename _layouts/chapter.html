@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div>
+    <span class=prev-chapter>{% unless page.prev-chapter == "" %}<a href={{page.prev-chapter}}>←prev chapter</a>{% endunless %}</span>
+    <span class=next-chapter>{% unless page.next-chapter == "" %}<a href={{page.next-chapter}}>next chapter→</a>{% endunless %}</span>
+</div>
+
+{{ content }}
