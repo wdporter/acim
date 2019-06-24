@@ -6,7 +6,13 @@ layout: chapter
     <span class=prev-section>{% unless page.prev-section == "" %}<a href={{page.prev-section}}>←prev section</a>{% endunless %}</span>
     <span class=next-section>{% unless page.next-section == "" %}<a href={{page.next-section}}>next section→</a>{% endunless %}</span>
 </div>
-
+<div>
+    <input type=checkbox id=cb-fip class=check-par checked><label for=cb-fip>FIP</label>
+    <input type=checkbox id=cb-expanded class=check-par checked><label for=cb-expanded>Expanded</label>
+    <input type=checkbox id=cb-substituted class=check-par checked><label for=cb-substituted>Substituted</label>
+    <input type=checkbox id=cb-simplified class=check-par checked><label for=cb-simplified>Simplified</label>
+    <input type=checkbox id=cb-commentary class=check-par checked><label for=cb-commentary>Commentary</label>
+  </div>
 
 <div class=content>
 {{ content }}
