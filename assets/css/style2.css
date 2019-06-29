@@ -85,3 +85,7 @@ p.commentary {
   display: none;
 }
 
+span.course-quote {
+	white-space: pre;
+	font-style: italic;
+}
