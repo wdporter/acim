@@ -10,12 +10,12 @@
   <body>
     <header><a href=/>{{site.heading}}</a></header>
     {% include navigation.html %}
-	<div></div>
+	  <div>{{ page.breadcrumbs }}</div>
     <main>
-      <h1>{{page.title}}</h1>
+      <h1>{{ page.title }}</h1>
       {{ content }}
     </main>
     <footer>
         <div>compiled by David Porter</div>
     </footer>
-    
+
