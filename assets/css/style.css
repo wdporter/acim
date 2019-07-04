@@ -2,6 +2,13 @@ body {
   font-family: Verdana, sans-serif;
 }
 
+@media screen and (min-width: 700px) {
+  body { 
+    width:40em;
+    margin: 0 auto;
+  }
+}
+
 sup {
   vertical-align: baseline;
   position: relative;
@@ -60,7 +67,7 @@ p.substituted {
   padding-left: 1em;
   background-color: #eee;
 }
-p.substituted.more-indented {
+p.substituted {
   padding-left: 4em;
 }
 
@@ -84,9 +91,3 @@ div.pagination a:hover {
   text-decoration: underline;
 }
 
-@media screen and (min-width: 700px) {
-  body { 
-    width:40em;
-    margin: 0 auto;
-  }
-}
