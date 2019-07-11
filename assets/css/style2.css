@@ -1,12 +1,13 @@
 body {
-  font-family: Verdana, sans-serif;
+  /* modern verdana based
+  https://css-tricks.com/snippets/css/font-stacks/ */
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 }
 
 @media screen and (min-width: 700px) {
   body { 
     width:40em;
     margin: 0 auto;
-
   }
 }
 
@@ -55,7 +56,9 @@ footer {
 }
 
 div.content div.paragraph {
-  font-size: .8em;
+  /* modern georgia based 
+  https://css-tricks.com/snippets/css/font-stacks/ */
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   line-height: 1.75;
   border: 1px dashed purple;
   margin-bottom: 1em;
