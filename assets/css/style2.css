@@ -2,6 +2,7 @@ body {
   /* modern verdana based
   https://css-tricks.com/snippets/css/font-stacks/ */
   font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+	font-variant-numeric: lining-nums;
 }
 
 @media screen and (min-width: 700px) {
@@ -10,7 +11,6 @@ body {
     margin: 0 auto;
   }
 }
-
 
 nav>div {
   display: flex;
@@ -49,7 +49,8 @@ header a, header a:visited, header a:active {
   color: white;
   text-decoration: none;
 }
-
+main h1 {
+}
 footer {
   background-color:#888;
 
@@ -67,6 +68,7 @@ div.content div.paragraph {
 p.fip, p.expanded, p.substituted, p.simplified, p.commentary {
   margin-left: 1em;
   padding-left: .5em;
+  padding-right: .5em;
 }
 
 p.expanded, p.substituted, p.simplified, p.commentary {
