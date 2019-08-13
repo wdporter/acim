@@ -2,7 +2,7 @@ body {
   /* modern verdana based
   https://css-tricks.com/snippets/css/font-stacks/ */
   font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
-	font-variant-numeric: lining-nums;
+  font-variant-numeric: lining-nums;
 }
 
 @media screen and (min-width: 700px) {
