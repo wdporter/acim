@@ -19,6 +19,9 @@ nav>div div {
   padding: .5em 1.5em;
   color: white;
   background-color:blue;
+  flex-grow: 1;
+  text-align: center;
+  font-weight: bold;
 }
 nav>div div.active {
   padding: .5em 1.5em;
@@ -44,6 +47,7 @@ header, footer {
 header {
   background-color: purple;
   font-size: xx-large;
+  font-weight: bold;	
 }
 header a, header a:visited, header a:active {
   color: white;
