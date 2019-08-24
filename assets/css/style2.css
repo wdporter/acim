@@ -53,8 +53,7 @@ header a, header a:visited, header a:active {
   color: white;
   text-decoration: none;
 }
-main h1 {
-}
+
 footer {
   background-color:#888;
 
@@ -74,6 +73,15 @@ p.fip, p.expanded, p.substituted, p.simplified, p.commentary {
   padding-left: .5em;
   padding-right: .5em;
 }
+
+p.fip {
+	margin-right: 1em;
+	box-shadow: 
+       inset 0 -3em 3em rgba(0,0,0,0.1), 
+             0 0  0 2px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
 
 p.expanded, p.substituted, p.simplified, p.commentary {
   border-left: 2px solid;
