@@ -18,12 +18,10 @@ footer: © No claims made. No permissions sought or granted.
 
 ## A Course In Miracles — A Golden Chain
 
-<!--
-- <a href=/text>Text</a>
-- <a href=/workbook>Workbook</a>
-- <a href=/manual>Manual</a>
-- <a href=/other>and More…</a>
--->
+- [Text](/text/)
+- [Workbook](/workbook/)
+- [Manual](/manual/)
+- [and More…](/more/)
 
 
 The course text is supplied in alternative renderings which substitute pronouns.

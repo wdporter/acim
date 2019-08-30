@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/W-David-Porter/acim#readme",
 	"dependencies": {
-    "vuepress": "^0.12.0"
+    "vuepress": "^1.0.3"
  }
 }
