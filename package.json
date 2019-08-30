@@ -1,0 +1,24 @@
+{
+  "name": "acim",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/W-David-Porter/acim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  	"docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W-David-Porter/acim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W-David-Porter/acim/issues"
+  },
+  "homepage": "https://github.com/W-David-Porter/acim#readme",
+	"dependencies": {
+    "vuepress": "^0.12.0"
+ }
+}
