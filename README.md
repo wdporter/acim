@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/W-David-Porter/acim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#some lead text
 
-### Markdown
+- <a href=/text>Text</a>
+- <a href=/workbook>Workbook</a>
+- <a href=/manual>Manual</a>
+- <a href=/other>Other Stuff</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+This is a <em>catena aurea</em> (golden chain) for <em>A Course in Miracles</em>.
 
-# Header 1
-## Header 2
-### Header 3
+The course text is supplied in alternative renderings which substitute pronouns.
 
-- Bulleted
-- List
+This is done to help clarify some confusing paragraphs. It is not an attempt to render it easier to read, but rather to provide an aid to study.
 
-1. Numbered
-2. List
+Substituting pronouns replaces Him and He, thus de-gendering God, but this was NOT the point of the exercise.
 
-**Bold** and _Italic_ and `Code` text
+I also try to clarify the adverbial ‘but’. I find this annoying and confusing.
 
-[Link](url) and ![Image](src)
-```
+I have provided a summary for each paragraph. The summary is my own. I do not claim these summaries are in any way ‘scribed’ or ‘channelled’ or even ‘inspired’, but I did at times need to ask for guidance.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I have also provided excerpts from well known course commentators. This is the Golden Chain.
 
-### Jekyll Themes
+Yes, I changed some of the spelling and punctuation to reflect a more ‘British’ orientation. Some personal prejudices are also reflected thereby. If you believe this is wrong, you can let me know why. Maybe I’ll change my mind.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/W-David-Porter/acim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I very much welcome correspondence with suggestions for improvements or additions.
 
-### Support or Contact
+The site is built with static site generator Jekyll and the <a href=https://github.com/W-David-Porter/acim>sources are in github</a>. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm thinking of porting it to vuepress instead. 
+
+If you don't know what github is, you can <a href=mailto:acim@fea.st>email me</a> instead. 
+
+Help with CSS and site design would be appreciated also.
+
+
