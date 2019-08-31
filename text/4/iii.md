@@ -1,72 +1,75 @@
 ---
-layout: content
-reference: T-4.III
-title: Love without Conflict
-prev-chapter: /text/3
-next-chapter: /text/5
-prev-section: /text/4/i
-next-section: /text/4/iv
+
 ---
 
-<div class=paragraph id=p1>
-	<p class=fip>
-		1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
-		<sup>2</sup>This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
-		<sup>3</sup>The word ‘within’ is unnecessary. 
-		<sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
-		<sup>5</sup>What else <em>but</em> you did the Creator create, and what else <em>but</em> you is His Kingdom? 
-		<sup>6</sup>This is the whole message of the Atonement; a message which in its totality transcends the sum of its parts. 
-		<sup>7</sup>You, too, have a Kingdom that your spirit created. 
-		<sup>8</sup>It has not ceased to create because of the ego’s illusions. 
-		<sup>9</sup>Your creations are no more fatherless than you are. 
-		<sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be. 
-		<sup>11</sup>Be confident that your creations are as safe as you are.
-		<span class=course-quote>
-			<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. 
-			<sup>13</sup>Amen.
-		</span>
+# T-4.III Love Without Conflict
 
-	<p class=expanded>
-		1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
-		<sup>2</sup>This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
-		<sup>3</sup>The word ‘within’ is unnecessary. 
-		<sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
-		<sup>5</sup>What else <em>but</em> you did the Creator create, and what else <em>but</em> you is His [the-Creator’s] Kingdom? 
-		<sup>6</sup>This [The Kingdom of Heaven is you] is the whole message of the Atonement; a message which in its [message’s] totality transcends the sum of its [the message’s] parts. 
-		<sup>7</sup>You, too, have a Kingdom that your spirit created. 
-		<sup>8</sup>It [your spirit] has not ceased to create because of the ego’s illusions. 
-		<sup>9</sup>Your creations are no more fatherless than you are. 
-		<sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be [co-creators]. 
-		<sup>11</sup>Be confident that your creations are as safe as you are [safe].
-		<span class=course-quote>
-			<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it [the Kingdom]. 
-			<sup>13</sup>Amen.
-		</span>
+## T-4.III.1
 
-	<p class=substituted>
-		1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
-		<sup>2</sup>“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
-		<sup>3</sup>The word ‘within’ is unnecessary. 
-		<sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
-		<sup>5</sup>What else <em>but</em> you did the Creator create, and what else <em>but</em> you is the Creator’s Kingdom? 
-		<sup>6</sup>The Kingdom of Heaven is you, is the whole message of the Atonement; a message which in message’s totality transcends the sum of the message’s parts. 
-		<sup>7</sup>You, too, have a Kingdom that your spirit created. 
-		<sup>8</sup>Your spirit has not ceased to create because of the ego’s illusions. 
-		<sup>9</sup>Your creations are no more fatherless than you are. 
-		<sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be co-creators. 
-		<sup>11</sup>Be confident that your creations are as safe as you are safe.
-		<span class=course-quote>
-			<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against the Kingdom. 
-			<sup>13</sup>Amen.
-		</span>
+<p class=fip id=p1>
+1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+<sup>2</sup>This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
+<sup>3</sup>The word ‘within’ is unnecessary. 
+<sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
+<sup>5</sup>What else <em>but</em> you did the Creator create, and what else <em>but</em> you is His Kingdom? 
+<sup>6</sup>This is the whole message of the Atonement; a message which in its totality transcends the sum of its parts. 
+<sup>7</sup>You, too, have a Kingdom that your spirit created. 
+<sup>8</sup>It has not ceased to create because of the ego’s illusions. 
+<sup>9</sup>Your creations are no more fatherless than you are. 
+<sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be. 
+<sup>11</sup>Be confident that your creations are as safe as you are.
+<span class=course-quote><br>
+<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. <br>
+<sup>13</sup>Amen.<br>
+</span>
+</p>
 
-	<p class=simplified>The Kingdom of Heaven is you, because God created you. The kingdom you made is an illusion. Ego and spirit cannot co-create. Your spirit and God will always co-create.
+#### expanded
 
-	<p class=commentary>
+1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+<sup>2</sup>This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
+<sup>3</sup>The word ‘within’ is unnecessary. 
+<sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
+<sup>5</sup>What else <em>but</em> you did the Creator create, and what else <em>but</em> you is His [the-Creator’s] Kingdom? 
+<sup>6</sup>This [The Kingdom of Heaven is you] is the whole message of the Atonement; a message which in its [message’s] totality transcends the sum of its [the message’s] parts. 
+<sup>7</sup>You, too, have a Kingdom that your spirit created. 
+<sup>8</sup>It [your spirit] has not ceased to create because of the ego’s illusions. 
+<sup>9</sup>Your creations are no more fatherless than you are. 
+<sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be [co-creators]. 
+<sup>11</sup>Be confident that your creations are as safe as you are [safe].
+<span class=course-quote><br>
+<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it [the Kingdom]. <br>
+<sup>13</sup>Amen.
+</span>
 
-	<p class="commentary wapnick">
-</div>
 
+#### substituted
+
+1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+<sup>2</sup>“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
+<sup>3</sup>The word ‘within’ is unnecessary. 
+<sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
+<sup>5</sup>What else <em>but</em> you did the Creator create, and what else <em>but</em> you is the Creator’s Kingdom? 
+<sup>6</sup>The Kingdom of Heaven is you, is the whole message of the Atonement; a message which in message’s totality transcends the sum of the message’s parts. 
+<sup>7</sup>You, too, have a Kingdom that your spirit created. 
+<sup>8</sup>Your spirit has not ceased to create because of the ego’s illusions. 
+<sup>9</sup>Your creations are no more fatherless than you are. 
+<sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be co-creators. 
+<sup>11</sup>Be confident that your creations are as safe as you are safe.
+<span class=course-quote><br>
+<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against the Kingdom. <br>
+<sup>13</sup>Amen.
+</span>
+
+
+#### simplified
+
+The Kingdom of Heaven is you, because God created you. The kingdom you made is an illusion. Ego and spirit cannot co-create. Your spirit and God will always co-create.
+
+#### commentary
+
+
+<!--
 <div class=paragraph id=p2>
 	<p class=fip>
 		2.&emsp;This is written in the form of a prayer because it is useful in moments of temptation. 
@@ -360,6 +363,27 @@ next-section: /text/4/iv
 	<p class="commentary wapnick">
 </div>
 
+-->
 
 
+
+## T-4.III.
+
+<p class=fip id=pX>
+
+</p>
+
+#### expanded
+
+
+
+#### substituted
+
+
+
+#### simplified
+
+
+
+#### commentary
 

@@ -1,11 +1,17 @@
+---
+
+---
+
 # T-in Introduction
+
 ## T-in.1
 
-<div class=fip id=p1>
+<p class=fip id=p1>
 1.&emsp;This is a course in miracles. <sup>2</sup>It is a required course. <sup>3</sup>Only the time you take it is voluntary. <sup>4</sup>Free will does not mean that you can establish the curriculum. <sup>5</sup>It means only that you can elect what you want to take at a given time. <sup>6</sup>The course does not aim at teaching the meaning of love, for that is beyond what can be taught. <sup>7</sup>It does aim, however, at removing the blocks to the awareness of love’s presence, which is your natural inheritance. <sup>8</sup>The opposite of love is fear, but what is all-encompassing can have no opposite.
-</div>
+</p>
 
-### expanded
+#### expanded
+
 1.&emsp;This is a course in miracles. 
 <sup>2</sup>It [the course] is a required course. 
 <sup>3</sup> Only the time you take it [the course] is voluntary. 
@@ -15,20 +21,23 @@
 <sup>7</sup>It [the course] does aim, however, at removing the blocks to the awareness of love’s presence, which [love] is your natural inheritance. 
 <sup>8</sup>The opposite of love is fear, but what is all-encompassing can have no opposite.
 
-### substituted
+#### substituted
+
 1.&emsp;This is a course in miracles. <sup>2</sup>The course is a required course. <sup>3</sup>Only the time you take the course is voluntary. <sup>4</sup>Free will does not mean that you can establish the curriculum. <sup>5</sup>Free will means only that you can elect what you want to take at a given time. <sup>6</sup>The course does not aim at teaching the meaning of love, for the meaning of love is beyond what can be taught. <sup>7</sup>The course does aim, however, at removing the blocks to the awareness of love’s presence; love is your natural inheritance. <sup>8</sup>The opposite of love is fear, but what is all-encompassing can have no opposite.
 
-### simplified
+#### simplified
+
 This is a course in miracles. The lessons are required. You choose when to take the lessons. The course does not teach the meaning of love. The course teaches how to remove the blocks to the awareness of love’s presence. The opposite of love is fear. But love love is all-encompassing. Love has no opposite.
 
-### commentary
+#### commentary
+
 (1) …that part of the script has already been filmed, and thus has already “happened”, but we are still free to choose <em>when</em> we will review it. This choice is the only notion of free will that the Course accepts as meaningful. (Wapnick, AVI, p.13.)
 
 (1–2) …if the Course is a person’s path it should be followed; however, if it is not a suitable path, another would be found to serve the same purpose (Wapnick, LDNC p.12).
 
 (1–5) We cannot establish the curriculum now because it has already been established by us. We can choose, though, what station, film, video tape or part of the kaleidoscope we are going to observe and re-experience at any given time. Yet what we are observing has already happened. The forms in which we are going to learn the curriculum have been chosen as well, as this passage indicates. (Wapnick, AVI, p.28–29.)
 
-(2) What is “required” is the <em>universal</em> course, and that any particular form of it (such as <em>A Course in Miracles</em>) is required only for those to whom that form is assigned (C of A, p. 3).</p>
+(2) What is “required” is the <em>universal</em> course, and that any particular form of it (such as <em>A Course in Miracles</em>) is required only for those to whom that form is assigned (C of A, p. 3).
 
 (5)…what will be brought about is our awakening from the dream of the past, into the eternal present of God. The “choice” that is referred to is <em>when</em> people will choose to awaken from the dream. In other words, they can choose when they will press the right-minded button instead of the wrong-minded one, and choose finally to view and experience only happy dreams. (Wapnick, AVI, p.111.)
 
@@ -63,32 +72,32 @@ This is a course in miracles. The lessons are required. You choose when to take 
 
 ## T-in.2
 
-<div class=fip id=p2>2.&emsp;This course can therefore be summed up very simply in this way:<br>
+<p class=fip id=p2>
+2.&emsp;This course can therefore be summed up very simply in this way:<br>
 <span class=course-quote><sup>2</sup>Nothing real can be threatened.<br>
 <sup>3</sup>Nothing unreal exists.</span><br>
 <sup>4</sup>Herein lies the peace of God.
-</div>
+</p>
 
-### expanded
+#### expanded
 
 2.&emsp;This course can therefore be summed up very simply in this way:<br>
 <span class=course-quote><sup>2</sup>Nothing real can be threatened.<br>
 <sup>3</sup>Nothing unreal exists.</span><br>
 <sup>4</sup>Herein lies the peace of God.
 
-
-### substituted
+#### substituted
 
 2.&emsp;This course can therefore be summed up very simply in this way:<br>
 <span class=course-quote><sup>2</sup>Nothing real can be threatened.<br>
 <sup>3</sup>Nothing unreal exists.</span><br>
 <sup>4</sup>Herein lies the peace of God.
 
-### simplified
+#### simplified
 
 The real never changes, so the real can’t be threatened. Anything that can change doesn’t actually exist. True peace is knowing this.
 
-###  commentary
+#### commentary
 
 (2–4) God and Christ alone are real, and therefore cannot be threatened by the “tiny, mad idea” of separation that is not of God, and so cannot be real and does not exist. <em>Any</em> and <em>every</em> problem thus must also be non-existent, since a problem in the presence of God is inconceivable… The true “problem”, then, must lie in the <em>belief</em> there is a problem (Wapnick, LDNC, p.525, c/f AAC, p. 227.).
 

@@ -1,13 +1,4 @@
----
-layout: content
-reference: T-1.II
-title: Revelation, Time and Miracles
-prev-chapter: /text/in
-next-chapter: /text/2
-prev-section: /text/1/i
-next-section: /text/1/iii
----
-
+# T-1.II Revelation, Time and Miracles
 
 <div class=paragraph id=p1>
 	<p class=fip>
