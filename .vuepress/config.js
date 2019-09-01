@@ -7,6 +7,9 @@ module.exports = {
   ],
 	serviceWorker: true,
 	themeConfig: {
+		serviceWorker: {
+			updatePopup: true
+		},
     nav: [
       {
         text: "Text",
@@ -52,7 +55,7 @@ module.exports = {
 							"/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles",
 							"/text/1-the-meaning-of-miracles/iii-atonement-and-miracles",
 							"/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness",
-							//"/text/1-the-meaning-of-miracles/v-wholeness-and-spirit",
+							"/text/1-the-meaning-of-miracles/v-wholeness-and-spirit",
 							//"/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs",
 							//"/text/1-the-meaning-of-miracles/vii-distortions-of-miracle-impulses"
 						] 
@@ -61,7 +64,7 @@ module.exports = {
 			}
 		],
 		repo: "w-david-porter/acim",
-		repoLabel: "Help Us",
+		repoLabel: "Help",
     editLinks: true,
     editLinkText: "Help us improve this page",
 		evergreen: true

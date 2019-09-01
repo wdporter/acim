@@ -49,17 +49,29 @@ I begin the process of Atonement. I help you to cancel out errors. Atonement is 
 
 #### commentary
 
+:::tip
 In the Course, the Atonement as an event refers to the resurrection, not the crucifixion (C of A, p. 15.)
+:::
 
+:::tip
 (1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who them became the victim of his Father’s justified vengeance. (Wapnick, FAJ, p.189.)
+:::
 
+:::tip
 (1) The life of Jesus was [an] “act of love”, for he was the “thought” within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been “placed” by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, LDNC, p.514.) c/f [T-1.III.4:1](#p4), [T-2.II.4:2–5](/text/2/ii#p4).
+:::
 
+:::tip
 (1) When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin”. (Wapnick, AVI, p.228)
+:::
 
+:::tip
 (1) This “appointment” of Jesus occurred on quite a different level since there is no time, and all of what we know as time is happening in this one instant, <em>now</em>, which we merely re-experience within our minds. (Wapnick, AAC, p.206.)
+:::
 
+:::tip
 (1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, FAJ, p.293.)
+:::
 
 ## T.1.III.2
 
@@ -90,9 +102,13 @@ Heaven and earth will not continue to exist as separate states. My word is the r
   
 #### commentary
 
+:::tip
 (2) Rather than <em>Jesus</em> being the resurrection and the life, his <em>word</em>— his <em> teaching</em> — is. (C of A, p.20.)
+:::
 
+:::tip
 (4) The Course reverses cause and effect. Instead of how you think of yourself dictating what you are, what you are needs to dictate how you think of yourself. (C of A, p.20.)
+:::
 
 ## T-1.III.3
 
@@ -211,7 +227,9 @@ Error is vulnerable. Remember you are in a state of grace forever. Undoing error
 
 #### commentary
 
+:::tip
 (4–6) We live always in the grace of God’s freely given love. What Jesus taught during his earthly life is what he teaches now in the Course. (Wapnick, FAJ, p.216.)
+:::
 
 ## T-1.III.6
 

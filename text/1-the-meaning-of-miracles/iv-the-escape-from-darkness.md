@@ -13,6 +13,7 @@
 </p>
 
 #### expanded
+
 1.&emsp;The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. 
 <sup>2</sup>This step [recognising that darkness cannot hide] usually entails fear. 
 <sup>3</sup>Second [stage], the recognition that there is nothing you want to hide even if you could [hide something]. 
@@ -123,35 +124,40 @@ You have everything. The Atonement makes you aware you always have had everthing
 (4) Until the moment of birth, the fetus has little or no awareness of itself as a separate being. It does not desire, since its basic physiological needs are met by and through the mother. In this respect, and this respect only, life in the womb is similar to the state of paradise described in the second chapter of Genesis where Adam wanted for nothing, all having been given by God, reflecting what *A Course in Miracles* refers to as the principle of abundance. In a state without lack there can be no sense of separation or “otherness”. (Wapnick, AAC, p.100.) 
 :::
 
-<!--
+## T-1.IV.4
 
-<div class=paragraph id="p4">
+<p class=fip id=p4>
+4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
+<sup>2</sup>That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
+<sup>3</sup>I came to fulfill the law by re-interpreting it. 
+<sup>4</sup>The law itself, if properly understood, offers only protection. 
+<sup>5</sup>It is those who have not yet changed their minds who brought the “hell-fire” concept into it. 
+<sup>6</sup>I assure you that I will witness for anyone who lets me, and to whatever extent he permits it. 
+<sup>7</sup>Your witnessing demonstrates your belief, and thus strengthens it. 
+<sup>8</sup>Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favour of the abundance they have learned belongs to them.
+</p>
 
-	<p class=fip>
-		4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
-		<sup>2</sup>That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. <sup>3</sup>I came to fulfill the law by re-interpreting it. <sup>4</sup>The law itself, if properly understood, offers only protection. <sup>5</sup>It is those who have not yet changed their minds who brought the “hell-fire” concept into it. <sup>6</sup>I assure you that I will witness for anyone who lets me, and to whatever extent he permits it. <sup>7</sup>Your witnessing demonstrates your belief, and thus strengthens it. <sup>8</sup>Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favour of the abundance they have learned belongs to them.
+#### expanded
+4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
+<sup>2</sup>That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
+<sup>3</sup>I came to fulfill the law by re-interpreting it [the law]. 
+<sup>4</sup>The law itself [law’s self], if properly understood, offers only protection. 
+<sup>5</sup>It is those [yet-unchanged-minds] who have not yet changed their [yet-unchanged] minds who brought the “hell-fire” concept into it [the law]. 
+<sup>6</sup>I assure you that I will witness for anyone who lets me, and to whatever extent he [the one being witnessed for] permits it [me to witness]. 
+<sup>7</sup>Your witnessing demonstrates your belief, and thus strengthens it [your belief]. 
+<sup>8</sup>Those who witness for me are expressing, through their [witnessers’] miracles, that they [witnessers] have abandoned the belief in deprivation in favour of the abundance they [witnessers] have learned belongs to them [witnessers].
+
+#### substituted>
+
+4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
+<sup>2</sup>Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
+<sup>3</sup>I came to fulfill the law by re-interpreting the law. 
+<sup>4</sup>The law law’s self, if properly understood, offers only protection. 
+<sup>5</sup>It yet-unchanged-minds who have not yet changed yet-unchanged-minds who brought the “hell-fire” concept into the law. 
+<sup>6</sup>I assure you that I will witness for anyone who lets me, and to whatever extent the one being witnessed for permits me to witness. <sup>7</sup>Your witnessing demonstrates your belief, and thus strengthens your belief. 
+<sup>8</sup>Those who witness for me are expressing, through witnessers’ miracles, that witnessers have abandoned the belief in deprivation in favour of the abundance witnessers have learned belongs to witnessers for me.
 	
-	<p class=expanded>
-		4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
-		<sup>2</sup>That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-		<sup>3</sup>I came to fulfill the law by re-interpreting it [the law]. 
-		<sup>4</sup>The law itself [law’s self], if properly understood, offers only protection. 
-		<sup>5</sup>It is those [yet-unchanged-minds] who have not yet changed their [yet-unchanged] minds who brought the “hell-fire” concept into it [the law]. 
-		<sup>6</sup>I assure you that I will witness for anyone who lets me, and to whatever extent he [the one being witnessed for] permits it [me to witness]. 
-		<sup>7</sup>Your witnessing demonstrates your belief, and thus strengthens it [your belief]. 
-		<sup>8</sup>Those who witness for me are expressing, through their [witnessers’] miracles, that they [witnessers] have abandoned the belief in deprivation in favour of the abundance they [witnessers] have learned belongs to them [witnessers].
-	
-	<p class=substituted>
-		4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
-		<sup>2</sup>Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-		<sup>3</sup>I came to fulfill the law by re-interpreting the law. 
-		<sup>4</sup>The law law’s self, if properly understood, offers only protection. 
-		<sup>5</sup>It yet-unchanged-minds who have not yet changed yet-unchanged-minds who brought the “hell-fire” concept into the law. 
-		<sup>6</sup>I assure you that I will witness for anyone who lets me, and to whatever extent the one being witnessed for permits me to witness. <sup>7</sup>Your witnessing demonstrates your belief, and thus strengthens your belief. 
-		<sup>8</sup>Those who witness for me are expressing, through witnessers’ miracles, that witnessers have abandoned the belief in deprivation in favour of the abundance witnessers have learned belongs to witnessers for me.
-	
-	<p class=simplified>Forgiveness replaces fear. There is no death. The law was for protection. There was no hell-fire in the law. Allow me to witness for you. Abandon belief in deprivation. Witnessing for me strengthens your belief. Witnesses for me have abundance.
+#### simplified
 
-</div>
+Forgiveness replaces fear. There is no death. The law was for protection. There was no hell-fire in the law. Allow me to witness for you. Abandon belief in deprivation. Witnessing for me strengthens your belief. Witnesses for me have abundance.
 
--->
