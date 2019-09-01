@@ -45,7 +45,7 @@
 
 #### simplified
 
-I begin the process of Atonement. I helps you to cancel out errors. Atonement is being restored to your natural state. Correct error by listening to me. Learn to undo error and act to correct error. Be ready and willing to do miracles. Doing more miracles brings more conviction. Miracles are for Atonement.
+I begin the process of Atonement. I help you to cancel out errors. Atonement is being restored to your natural state. Correct error by listening to me. Learn to undo error and act to correct error. Be ready and willing to do miracles. Doing more miracles brings more conviction. Miracles are for Atonement.
 
 #### commentary
 
