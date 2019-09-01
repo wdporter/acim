@@ -36,6 +36,7 @@
 #### simplified
 The miracle and the body are learning aids. You can choose to express miracles. You did not create yourself.
 
+## T-1.V.2
 
 <p class=fip id=p2>
 2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
@@ -72,6 +73,8 @@ Collapse time by recognising you have everything. Every collapse brings everyone
 :::tip
 (1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, AVI, p.129.)
 :::
+
+## T-1.V.3
 
 <p class=fip id=p3>
 3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
@@ -132,6 +135,8 @@ All are children of God. All are dependent on God. All share God’s gifts equal
 (6) The true teacher of God … is not one with a <em>special</em> mission, nor a <em>special</em> gift to give others <em>special</em> messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in re-inforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
 :::
 
+## T-1.V.4
+
 <p class=fip id=p4>
 4.&emsp;Ultimately, every member of the family of God must return. 
 <sup>2</sup>The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. 
@@ -169,6 +174,8 @@ All of God’s creations are holy. The miracles calls every member of the family
 (3–4) God is not mocked because His creation of you will have the last word — no matter how sinful you appear to become, you cannot change the holiness He created in you. (C of A, p. 31.)
 :::
 
+## T-1.V.5
+
 <p class=fip id=p5>
 5.&emsp;Whatever is true is eternal, and cannot change or be changed. 
 <sup>2</sup>Spirit is therefore unalterable because it is already perfect, but the mind can elect what it chooses to serve. 
@@ -190,6 +197,8 @@ All of God’s creations are holy. The miracles calls every member of the family
 #### simplified
 
 The mind can choose to create the same way the spirit creates. Or the mind can become a tyrant and imprison you. 
+
+## T-1.V.6
 
 <p class=fip id="p6">
 6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. <sup>2</sup>The abundance of Christ is the natural result of choosing to follow Him. <sup>3</sup>All shallow roots must be uprooted, because they are not deep enough to sustain you. <sup>4</sup>The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. <sup>5</sup>As these false underpinnings are given up, the equilibrium is temporarily experienced as unstable. <sup>6</sup>However, nothing is less stable than an upside-down orientation. <sup>7</sup>Nor can anything that holds it upside down be conducive to increased stability.
