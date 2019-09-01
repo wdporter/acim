@@ -15,9 +15,9 @@ module.exports = {
 					{ text: "Text", link: "/text/" },
 					{ text: "T-in. Introduction", link: "/text/introduction/" },
 					{ text: "T-1. The Meaning of Miracles",  link: "/text/1-the-meaning-of-miracles/"}, 
-					{ text: "T-2. The Separation and the Atonement", link: "/text/2/" },
-					{ text: "T-3. The Innocent Perception", link: "/text/3/" },
-					{ text: "T-4. The Illusions of the Ego", link: "/text/4/" }
+					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement/" },
+					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception/" },
+					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego/" }
 				]
 			},
       {
@@ -35,11 +35,31 @@ module.exports = {
     ],
  		//displayAllHeaders: true,
 		//sidebar: "auto",
-		 /* throws error */
-		 sidebar: [
-      "/text/introduction/",
-			"/text/1-the-meaning-of-miracles/i-principles-of-miracles"
-    ],
+		sidebar: [
+			{
+				title: "Text",
+				children: [
+					{
+						title: "Introduction",
+						children: [
+							"/text/introduction/"
+						]
+					},
+					{
+						title: "1. The Meaning of Miracles",
+						children: [
+							"/text/1-the-meaning-of-miracles/i-principles-of-miracles",
+							"/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles",
+							"/text/1-the-meaning-of-miracles/iii-atonement-and-miracles",
+							"/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness",
+							//"/text/1-the-meaning-of-miracles/v-wholeness-and-spirit",
+							//"/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs",
+							//"/text/1-the-meaning-of-miracles/vii-distortions-of-miracle-impulses"
+						] 
+					}
+				]
+			}
+		],
 		repo: "w-david-porter/acim",
 		repoLabel: "Help Us",
     editLinks: true,
