@@ -1,95 +1,129 @@
 ---
-layout: content
-reference: T-1.IV
-title: The Escape from Darkness
-prev-chapter: /text/in
-next-chapter: /text/2
-prev-section: /text/1/iii
-next-section: /text/1/v
 ---
+# T-1.IV The Escape from Darkness
 
-<div class=paragraph id="p1">
-  <p class=fip>
-	1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
-	<sup>2</sup>This step usually entails fear. 
-	<sup>3</sup>Second, the recognition that there is nothing you want to hide even if you could. 
-	<sup>4</sup>This step brings escape from fear. 
-	<sup>5</sup>When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+## T-1.IV.1
 
-  <p class=expanded>1.&emsp;The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. <sup>2</sup>This step [recognising that darkness cannot hide] usually entails fear. <sup>3</sup>Second [stage], the recognition that there is nothing you want to hide even if you could [hide something]. <sup>4</sup>This step [recognising there is nothing you want to hide] brings escape from fear. <sup>5</sup>When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+<p class=fip id=p1>
+1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
+<sup>2</sup>This step usually entails fear. 
+<sup>3</sup>Second, the recognition that there is nothing you want to hide even if you could. 
+<sup>4</sup>This step brings escape from fear. 
+<sup>5</sup>When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+</p>
 
-  <p class=substituted>1.&emsp;The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. <sup>2</sup>Recognising that darkness cannot hide usually entails fear. <sup>3</sup>Second stage, the recognition that there is nothing you want to hide even if you could hide something. <sup>4</sup>Recognising there is nothing you want to hide brings escape from fear. <sup>5</sup>When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+#### expanded
+1.&emsp;The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. 
+<sup>2</sup>This step [recognising that darkness cannot hide] usually entails fear. 
+<sup>3</sup>Second [stage], the recognition that there is nothing you want to hide even if you could [hide something]. 
+<sup>4</sup>This step [recognising there is nothing you want to hide] brings escape from fear. 
+<sup>5</sup>When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+
+#### substituted
+
+1.&emsp;The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. 
+<sup>2</sup>Recognising that darkness cannot hide usually entails fear. 
+<sup>3</sup>Second stage, the recognition that there is nothing you want to hide even if you could hide something. 
+<sup>4</sup>Recognising there is nothing you want to hide brings escape from fear. 
+<sup>5</sup>When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
   
-  <p class=simplified>First recognise darkness cannot hide. Second recognise there is nothing you want to hide. This is escape from fear. You will understand peace and joy.
-</div>
+#### simplified
 
+First recognise darkness cannot hide. Second recognise there is nothing you want to hide. This is escape from fear. You will understand peace and joy.
 
-<div class=paragraph id="p2">
-	<p class=fip>
-		2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
-		<sup>2</sup>This deception makes you fearful because you realise in your heart it <em>is</em> a deception, and you exert enormous efforts to establish its reality. 
-		<sup>3</sup>The miracle sets reality where it belongs. 
-		<sup>4</sup>Reality belongs only to spirit, and the miracle acknowledges only truth. 
-		<sup>5</sup>It thus dispels illusions about yourself, and puts you in communion with yourself and God. 
-		<sup>6</sup>The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
-		<sup>7</sup>This establishes the proper function of the mind and corrects its errors, which are merely lacks of love. 
-		<sup>8</sup>Your mind can be possessed by illusions, but spirit is eternally free. 
-		<sup>9</sup>If a mind perceives without love, it perceives an empty shell and is unaware of the spirit within. 
-		<sup>10</sup>But the Atonement restores spirit to its proper place. 
-		<sup>11</sup>The mind that serves spirit <em>is</em> invulnerable.
+## T-1.IV.2
 
-	<p class=expanded
-		>2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. 
-		<sup>2</sup>This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] <em>is</em> a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
-		<sup>3</sup>The miracle sets reality where it [the reality] belongs. 
-		<sup>4</sup>Reality belongs only to spirit, and the miracle acknowledges only truth. 
-		<sup>5</sup>It [the miracle] thus dispels illusions about yourself, and puts you in communion with yourself and God. 
-		<sup>6</sup>The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
-		<sup>7</sup>This [placing the mind in the service of the Holy Spirit] establishes the proper function of the mind and corrects its [the mind’s] errors, which are merely lacks of love. 
-		<sup>8</sup>Your mind can be possessed by illusions, but spirit is eternally free. 
-		<sup>9</sup>If a mind perceives without love, it [the mind] perceives an empty shell and [the mind] is unaware of the spirit within. 
-		<sup>10</sup>But the Atonement restores spirit to its [spirit’s] proper place. 
-		<sup>11</sup>The mind that serves spirit <em>is</em> invulnerable.
+<p class=fip id=p2>
+2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
+<sup>2</sup>This deception makes you fearful because you realise in your heart it <em>is</em> a deception, and you exert enormous efforts to establish its reality. 
+<sup>3</sup>The miracle sets reality where it belongs. 
+<sup>4</sup>Reality belongs only to spirit, and the miracle acknowledges only truth. 
+<sup>5</sup>It thus dispels illusions about yourself, and puts you in communion with yourself and God. 
+<sup>6</sup>The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
+<sup>7</sup>This establishes the proper function of the mind and corrects its errors, which are merely lacks of love. 
+<sup>8</sup>Your mind can be possessed by illusions, but spirit is eternally free. 
+<sup>9</sup>If a mind perceives without love, it perceives an empty shell and is unaware of the spirit within. 
+<sup>10</sup>But the Atonement restores spirit to its proper place. 
+<sup>11</sup>The mind that serves spirit <em>is</em> invulnerable.
+</p>
 
-  <p class=substituted>2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. <sup>2</sup>The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness <em>is</em> a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. <sup>3</sup>The miracle sets reality where reality belongs. <sup>4</sup>Reality belongs only to spirit, and the miracle acknowledges only truth. <sup>5</sup>The miracle thus dispels illusions about yourself, and puts you in communion with yourself and God. <sup>6</sup>The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. <sup>7</sup>Placing the mind in the service of the Holy Spirit establishes the proper function of the mind and corrects the mind’s errors, which are merely lacks of love. <sup>8</sup>Your mind can be possessed by illusions, but spirit is eternally free. <sup>9</sup>If a mind perceives without love, the mind perceives an empty shell and the mind is unaware of the spirit within. <sup>10</sup>But the Atonement restores spirit to spirit’s proper place. <sup>11</sup>The mind that serves spirit <em>is</em> invulnerable.
+#### expanded
 
-  <p class=simplified>Stop trying to hide holiness in darkness. A miracle brings corrects error. A miracle brings reality, truth and love to the mind. The mind becomes invulnerable.
-</div>
+2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. 
+<sup>2</sup>This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] <em>is</em> a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
+<sup>3</sup>The miracle sets reality where it [the reality] belongs. 
+<sup>4</sup>Reality belongs only to spirit, and the miracle acknowledges only truth. 
+<sup>5</sup>It [the miracle] thus dispels illusions about yourself, and puts you in communion with yourself and God. 
+<sup>6</sup>The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
+<sup>7</sup>This [placing the mind in the service of the Holy Spirit] establishes the proper function of the mind and corrects its [the mind’s] errors, which are merely lacks of love. 
+<sup>8</sup>Your mind can be possessed by illusions, but spirit is eternally free. 
+<sup>9</sup>If a mind perceives without love, it [the mind] perceives an empty shell and [the mind] is unaware of the spirit within. 
+<sup>10</sup>But the Atonement restores spirit to its [spirit’s] proper place. 
+<sup>11</sup>The mind that serves spirit <em>is</em> invulnerable.
 
-<div class=paragraph id="p3">
+#### substituted
 
-	<p class=fip>
-		3.&emsp;Darkness is lack of light as sin is lack of love. 
-		<sup>2</sup>It has no unique properties of its own. 
-		<sup>3</sup>It is an example of the ‘scarcity’ belief, from which only error can proceed. 
-		<sup>4</sup>Truth is always abundant. 
-		<sup>5</sup>Those who perceive and acknowledge that they have everything have no needs of any kind. 
-		<sup>6</sup>The purpose of the Atonement is to restore everything to you; or rather, to restore it to your awareness. 
-		<sup>7</sup>You were given everything when you were created, just as everyone was.
+2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. 
+<sup>2</sup>The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness <em>is</em> a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. 
+<sup>3</sup>The miracle sets reality where reality belongs. 
+<sup>4</sup>Reality belongs only to spirit, and the miracle acknowledges only truth. 
+<sup>5</sup>The miracle thus dispels illusions about yourself, and puts you in communion with yourself and God. 
+<sup>6</sup>The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
+<sup>7</sup>Placing the mind in the service of the Holy Spirit establishes the proper function of the mind and corrects the mind’s errors, which are merely lacks of love. 
+<sup>8</sup>Your mind can be possessed by illusions, but spirit is eternally free. 
+<sup>9</sup>If a mind perceives without love, the mind perceives an empty shell and the mind is unaware of the spirit within. 
+<sup>10</sup>But the Atonement restores spirit to spirit’s proper place. 
+<sup>11</sup>The mind that serves spirit <em>is</em> invulnerable.
 
-	<p class=expanded>
-		3.&emsp;Darkness is lack of light as sin is lack of love. 
-		<sup>2</sup>It [darkness] has no unique properties of its [darkness’s] own. 
-		<sup>3</sup>It [darkness] is an example of the ‘scarcity’ belief, from which only error can proceed. 
-		<sup>4</sup>Truth is always abundant. 
-		<sup>5</sup>Those who perceive and acknowledge that they [perceivers and acknowledgers] have everything have no needs of any kind. <sup>6</sup>The purpose of the Atonement is to restore everything to you; or rather, to restore it [everything] to your awareness. <sup>7</sup>You were given everything when you were created, just as everyone was [given everything when they were created].
+#### simplified
 
-	<p class=substituted>
-		3.&emsp;Darkness is lack of light as sin is lack of love. 
-		<sup>2</sup>Darkness has no unique properties of darkness’s own. 
-		<sup>3</sup>Darkness is an example of the ‘scarcity’ belief, from which only error can proceed. 
-		<sup>4</sup>Truth is always abundant. 
-		<sup>5</sup>Those who perceive and acknowledge that perceivers and acknowledgers have everything have no needs of any kind. 
-		<sup>6</sup>The purpose of the Atonement is to restore everything to you; or rather, to restore everything to your awareness. 
-		<sup>7</sup>You were given everything when you were created, just as everyone was given everything when they were created.
+Stop trying to hide holiness in darkness. A miracle brings corrects error. A miracle brings reality, truth and love to the mind. The mind becomes invulnerable.
+
+## T-1.IV.3
+
+<p class=fip id="p3">
+3.&emsp;Darkness is lack of light as sin is lack of love. 
+<sup>2</sup>It has no unique properties of its own. 
+<sup>3</sup>It is an example of the ‘scarcity’ belief, from which only error can proceed. 
+<sup>4</sup>Truth is always abundant. 
+<sup>5</sup>Those who perceive and acknowledge that they have everything have no needs of any kind. 
+<sup>6</sup>The purpose of the Atonement is to restore everything to you; or rather, to restore it to your awareness. 
+<sup>7</sup>You were given everything when you were created, just as everyone was.
+</p>
+
+#### expanded
+
+3.&emsp;Darkness is lack of light as sin is lack of love. 
+<sup>2</sup>It [darkness] has no unique properties of its [darkness’s] own. 
+<sup>3</sup>It [darkness] is an example of the ‘scarcity’ belief, from which only error can proceed. 
+<sup>4</sup>Truth is always abundant. 
+<sup>5</sup>Those who perceive and acknowledge that they [perceivers and acknowledgers] have everything have no needs of any kind. <sup>6</sup>The purpose of the Atonement is to restore everything to you; or rather, to restore it [everything] to your awareness. <sup>7</sup>You were given everything when you were created, just as everyone was [given everything when they were created].
+
+#### substituted
+
+3.&emsp;Darkness is lack of light as sin is lack of love. 
+<sup>2</sup>Darkness has no unique properties of darkness’s own. 
+<sup>3</sup>Darkness is an example of the ‘scarcity’ belief, from which only error can proceed. 
+<sup>4</sup>Truth is always abundant. 
+<sup>5</sup>Those who perceive and acknowledge that perceivers and acknowledgers have everything have no needs of any kind. 
+<sup>6</sup>The purpose of the Atonement is to restore everything to you; or rather, to restore everything to your awareness. 
+<sup>7</sup>You were given everything when you were created, just as everyone was given everything when they were created.
 	
-	<p class=simplified>You have everything. The Atonement makes you aware you always have had everthing. You don’t need anything else.
-	
-	<p class=commentary>(1) Guilt arises from sin, which the Couse defines at one point as lack of love, the post-separation condition. (Wapnick, FAJ, p. 16.)
-	
-	<p class=commentary>Until the moment of birth, the fetus has little or no awareness of itself as a separate being. It does not desire, since its basic physiological needs are met by and through the mother. In this respect, and this respect only, life in the womb is similar to the state of paradise described in the second chapter of Genesis where Adam wanted for nothing, all having been given by God, reflecting what <em>A Course in Miracles</em> refers to as the principle of abundance. In a state without lack there can be no sense of separation or “otherness”. (Wapnick, AAC, p.100.) 
+#### simplified
 
-</div>
+You have everything. The Atonement makes you aware you always have had everthing. You don’t need anything else.
+	
+#### commentary
+
+:::tip
+(1) Guilt arises from sin, which the Couse defines at one point as lack of love, the post-separation condition. (Wapnick, FAJ, p. 16.)
+:::
+
+:::tip 
+(4) Until the moment of birth, the fetus has little or no awareness of itself as a separate being. It does not desire, since its basic physiological needs are met by and through the mother. In this respect, and this respect only, life in the womb is similar to the state of paradise described in the second chapter of Genesis where Adam wanted for nothing, all having been given by God, reflecting what *A Course in Miracles* refers to as the principle of abundance. In a state without lack there can be no sense of separation or “otherness”. (Wapnick, AAC, p.100.) 
+:::
+
+<!--
 
 <div class=paragraph id="p4">
 
@@ -120,3 +154,4 @@ next-section: /text/1/v
 
 </div>
 
+-->

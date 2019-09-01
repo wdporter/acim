@@ -7,7 +7,10 @@
 ## T-1.I.1
 
 <p class=fip id=p1>
-1.&emsp;There is no order of difficulty in miracles. <sup>2</sup>One is not “harder” or “bigger” than another. <sup>3</sup>They are all the same. <sup>4</sup>All expressions of love are maximal.
+1.&emsp;There is no order of difficulty in miracles. 
+<sup>2</sup>One is not “harder” or “bigger” than another. 
+<sup>3</sup>They are all the same. 
+<sup>4</sup>All expressions of love are maximal.
 </p>
 
 #### expanded

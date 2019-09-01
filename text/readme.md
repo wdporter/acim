@@ -3,9 +3,9 @@ sidebar: false
 ---
 # Text
 
-- [Introduction](/text/t-in-introduction/)
-- [1. The Meaning of Miracles](/text/1/)
-- [2. The Separation and the Atonement](/text/2/)
+- [Introduction](/text/introduction/)
+- [1. The Meaning of Miracles](/text/1-the-meaning-of-miracles/)
+- [2. The Separation and the Atonement](/text/2-the-separation-and-the-atonement/)
 - [3. The Innocent Perception](/text/3/)
 - [4. The Illusions of the Ego](/text/4/)
 - [5. Healing and Wholeness](/text/5/)

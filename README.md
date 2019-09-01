@@ -13,6 +13,7 @@ features:
 - title: Manual for Teachers
   details: The role of teaching and learning is actually reversed in the thinking of the world. The reversal is characteristic. It seems as if the teacher and the learner are separated, the teacher giving something to the learner rather than to himself. Further, the act of teaching is regarded as a special activity in which one engages only a relatively small proportion of one’s time. The course, on the other hand, emphasises that to teach is to learn, so that teacher and learner are the same. It also emphasises that teaching is a constant process; it goes on every moment of the day and continues into sleeping thoughts as well.
 footer: © No claims made. No permissions sought or granted. 
+sidebar: false
 ---
 
 

@@ -13,7 +13,7 @@ module.exports = {
 				link: "/text/",
 				items: [
 					{ text: "Text", link: "/text/" },
-					{ text: "T-in. Introduction", link: "/text/t-in-introduction/" },
+					{ text: "T-in. Introduction", link: "/text/introduction/" },
 					{ text: "T-1. The Meaning of Miracles",  link: "/text/1-the-meaning-of-miracles/"}, 
 					{ text: "T-2. The Separation and the Atonement", link: "/text/2/" },
 					{ text: "T-3. The Innocent Perception", link: "/text/3/" },
@@ -33,18 +33,17 @@ module.exports = {
         link: '/other/'
       }
     ],
-		sidebar: "auto",
-		displayAllHeaders: true,
-		//https://vuepress.vuejs.org/default-theme-config/ 
-		/*sidebar: [
-      '/',
-      '/page-a',
-      ['/page-b', 'Explicit link text']
-    ]*/
+ 		//displayAllHeaders: true,
+		//sidebar: "auto",
+		 /* throws error */
+		 sidebar: [
+      "/text/introduction/",
+			"/text/1-the-meaning-of-miracles/i-principles-of-miracles"
+    ],
 		repo: "w-david-porter/acim",
 		repoLabel: "Help Us",
     editLinks: true,
-    editLinkText: "Help us improve this page!",
+    editLinkText: "Help us improve this page",
 		evergreen: true
   }
 }
