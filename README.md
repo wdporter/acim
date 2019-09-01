@@ -3,7 +3,7 @@ home: true
 heroImage: ./logo.png
 heroText: A Course In Miracles
 tagline: Catena Aurea (A Golden Chain)
-actionText: Get Started →
+actionText: Wake Up →
 actionLink: /text/
 features:
 - title: Text
@@ -16,7 +16,9 @@ footer: © No claims made. No permissions sought or granted.
 ---
 
 
-## A Course In Miracles — A Golden Chain
+# A Course In Miracles
+
+## A Golden Chain
 
 - [Text](/text/)
 - [Workbook](/workbook/)

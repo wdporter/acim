@@ -1,8 +1,9 @@
 ---
+sidebar: false
 ---
 # Text
 
-- [Introduction](/text/in/)
+- [Introduction](/text/t-in-introduction/)
 - [1. The Meaning of Miracles](/text/1/)
 - [2. The Separation and the Atonement](/text/2/)
 - [3. The Innocent Perception](/text/3/)
