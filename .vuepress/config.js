@@ -59,6 +59,19 @@ module.exports = {
 							"/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs",
 							"/text/1-the-meaning-of-miracles/vii-distortions-of-miracle-impulses"
 						] 
+					},
+					{
+						title: "2 The Separation and the Atonement",
+						children: [
+							"/text/2-the-separation-and-the-atonement/i-the-origins-of-separation",
+							"/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence",
+							"/text/2-the-separation-and-the-atonement/iii-the-altar-of-god",
+							"/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear",
+							"/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker",
+							"/text/2-the-separation-and-the-atonement/vi-fear-and-conflict",
+							"/text/2-the-separation-and-the-atonement/vii-cause-and-effect",
+							"/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement"
+						]
 					}
 				]
 			}

@@ -1,14 +1,5 @@
----
-layout: content
-reference: T-2.IV
-title: Healing as Release from Fear
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/ii
-next-section: /text/2/v
----
-
-
+# T-2.IV Healing as Release from Fear
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;Our emphasis is now on healing. 
@@ -249,3 +240,4 @@ next-section: /text/2/v
 
 	<p class=commentary>Jesus’ own Course [is] the perfect example of the principles he was teaching his students; his words not being “the highest level of communication” of which his students are capable of understanding, but certainly the highest level that they can tolerate in their fearful state. (Wapnick, FCTL, p. 94.)
 </div>
+-->

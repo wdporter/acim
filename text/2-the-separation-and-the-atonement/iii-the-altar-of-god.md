@@ -1,14 +1,7 @@
 ---
-layout: content
-reference: T-2.III
-title: The Altar of God
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/ii
-next-section: /text/2/iv
 ---
-
-
+# T-2.III The Altar of God
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;The Atonement can only be accepted within you by releasing the inner light. 
@@ -219,3 +212,4 @@ next-section: /text/2/iv
 
 
 </div>
+-->

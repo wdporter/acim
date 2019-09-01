@@ -1,14 +1,5 @@
----
-layout: content
-reference: T-2.VII
-title: Cause and Effect
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/vi
-next-section: /text/2/viii
----
-
-
+# T-2.VII Cause and Effect
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;You may still complain about fear, but you nevertheless persist in making yourself fearful. 
@@ -306,3 +297,4 @@ next-section: /text/2/viii
 
 	<p class=commentary>(9) …time is not linear, space is not real, and that if we let him teach us his lesson we could learn very quickly. (Wapnick, AVI, p.152.)
 </div>
+-->

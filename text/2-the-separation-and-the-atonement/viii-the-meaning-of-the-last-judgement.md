@@ -1,14 +1,5 @@
----
-layout: content
-reference: T-2.VIII
-title: The Meaning of the Last Judgement
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/vii
-next-section: /text/3/i
----
-
-
+# T-2.VIII The Meaning of the Last Judgement
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
@@ -208,3 +199,5 @@ next-section: /text/3/i
 
 <p class=commentary>(7–11) When we forgive everything in this world, thereby forgiving ourselves, there will be no fear. The guilt that demands fear of God’s punishment would be gone: without its <em>cause</em> (guilt), the <em>effect</em> (fear) must disappear. And this undoing of our guilt and fear through forgiveness constitutes our role in the Atonement. (Wapnick, AVI, p. 247.)
 </div>
+
+-->

@@ -1,14 +1,7 @@
 ---
-layout: content
-reference: T-2.I
-title: The Origins of Separation 
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/1/vii
-next-section: /text/2/ii
 ---
-
-
+# T-2.I The Origins of Separation 
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;To extend is a fundamental aspect of God which He gave to His Son. 
@@ -232,3 +225,4 @@ next-section: /text/2/ii
 	<p class=simplified>The miracle heals all misperceptions. Health is inner peace. With health you can accept miracles and correct errors.
 	
 </div>
+-->

@@ -1,14 +1,5 @@
----
-layout: content
-reference: T-2.V
-title: The Function of the Miracle Worker
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/iv
-next-section: /text/2/vi
----
-
-
+# T-2.V The Function of the Miracle Worker
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;Before miracle workers are ready to undertake their function in this world, it is essential that they fully understand the fear of release. 
@@ -529,3 +520,4 @@ next-section: /text/2/vi
 	<p class=simplified>If a situation calls for help, think of the situation as God sending you. God will direct you what to do. God will teach you to heal. Be content. Be healed and heal.
 </div>
 
+-->

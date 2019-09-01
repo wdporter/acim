@@ -1,14 +1,7 @@
 ---
-layout: content
-reference: T-2.II
-title: The Atonement as Defence
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/i
-next-section: /text/2/iii
 ---
-
-
+# T-2.II The Atonement as Defence
+<!--
 <div class=paragraph id=p1>
 	<p class=fip>
 		1.&emsp;You can do anything I ask. 
@@ -309,3 +302,4 @@ next-section: /text/2/iii
 	<p class=simplified>If a defence can attack, then the defence can be turned against you. You protect yourself and others by using the Atonement as defence. 
 
 </div>
+-->

@@ -1,14 +1,5 @@
----
-layout: content
-reference: T-2.VI
-title: Fear and Conflict
-prev-chapter: /text/1
-next-chapter: /text/3
-prev-section: /text/2/v
-next-section: /text/2/vii
----
-
-
+# T-2.VI Fear and Conflict
+<!--
 <div class=paragraph id=p1>
 
 	<p class=fip>
@@ -411,3 +402,4 @@ next-section: /text/2/vii
 
 
 
+-->
