@@ -16,11 +16,11 @@ module.exports = {
 				link: "/text/",
 				items: [
 					{ text: "Text", link: "/text/" },
-					{ text: "T-in. Introduction", link: "/text/introduction/" },
+					{ text: "T-in. Introduction", link: "/text/introduction" },
 					{ text: "T-1. The Meaning of Miracles",  link: "/text/1-the-meaning-of-miracles/"}, 
-					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement/" },
-					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception/" },
-					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego/" }
+					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement" },
+					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception" },
+					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego" }
 				]
 			},
       {
@@ -36,7 +36,7 @@ module.exports = {
         link: "/other/",
 				items: [
 					{text: "Other Stuff", link: "/other/"},
-					{text: "Random Section", link: "/other/random/"}
+					{text: "Random Section", link: "/other/random"}
 				]
       }
     ],
