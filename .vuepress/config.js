@@ -32,8 +32,12 @@ module.exports = {
         link: '/manual/'
       },
       {
-        text: 'More',
-        link: '/other/'
+        text: "Other",
+        link: "/other/",
+				items: [
+					{text: "Other Stuff", link: "/other/"},
+					{text: "Random Section", link: "/other/random/"}
+				]
       }
     ],
  		//displayAllHeaders: true,
@@ -73,6 +77,12 @@ module.exports = {
 							"/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement"
 						]
 					}
+				]
+			},
+			{
+				title: "Other Stuff",
+				children: [ 
+					"/other/random"
 				]
 			}
 		],

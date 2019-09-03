@@ -1,40 +1,51 @@
 ---
-layout: content
-title: Random ACIM Section
 ---
-
+# Random Section
 <style>
-div+div {
+span#block + span#block {
   margin-top: 2rem;
 }
-div#generateButton {
+
+span#generateButton {
   display: inline-block;
   padding: 1.5em 3em 1.5em 3em;
   background-color: #ccc;
 }
-div#generateButton:hover {
+
+span#generateButton:hover {
   border: 1px solid blue;
 }
+
 input#fipRadio {
   margin-left: 2em;
 }
-div#resultSpan {
+
+span#resultSpan {
   font-size: 2em;
 }
 </style>
 
 
-  <div id=generateButton>God Is
-  </div>
-  <div>
-    <input type=radio id=fipRadio name=editionGroup checked />
+  <span id=generateButton style=display:block id=block>
+	
+	God Is
+  
+	</span>
+  
+	<span style=display:block  id=block>
+  
+	  <input type=radio id=fipRadio name=editionGroup checked />
     <label for=fipRadio>FIP</label>
     <input type=radio id=coaRadio name=editionGroup />
     <label for=coaRadio>COA</label>
     <input type=radio id=jcimRadio name=editionGroup />
     <label for=jcimRadio>JCIM</label>
-  </div>
-  <div id=resultSpan></div>
+  
+	</span>
+  
+	<span id=resultSpan style=display:block  id=block>
+	
+	</span>
 
   <script>
 
