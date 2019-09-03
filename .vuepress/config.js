@@ -35,8 +35,9 @@ module.exports = {
         text: "Other",
         link: "/other/",
 				items: [
-					{text: "Other Stuff", link: "/other/"},
-					{text: "Random Section", link: "/other/random"}
+					{text: "Other Stuff", link: "/other/"}
+					,{text: "Bibliography", link: "/other/bibliography"}
+					,{text: "Random Section", link: "/other/random"}
 				]
       }
     ],
@@ -83,6 +84,7 @@ module.exports = {
 				title: "Other Stuff",
 				children: [ 
 					"/other/random"
+					,"/other/bibliography"
 				]
 			}
 		],
