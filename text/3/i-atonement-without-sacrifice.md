@@ -1,13 +1,6 @@
----
-layout: content
-reference: T-3.I
-title: Atonement Without Sacrifice
-prev-chapter: /text/2
-next-chapter: /text/4
-prev-section: /text/2/viii
-next-section: /text/3/ii
----
+# T-3.I Atonement Without Sacrifice
 
+<!--
 
 <div class=paragraph id=p1>
 	<p class=fip>
@@ -328,3 +321,4 @@ next-section: /text/3/ii
 </div>
 
 
+-->
