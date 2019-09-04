@@ -55,7 +55,7 @@
 
 Do not be afraid. Do not allow anything not of God to affect you. 
 
-#### commentary>
+#### commentary
 
 :::tip
 (11–2:5)… the two uses of denial: the ego’s need to deny the guilt it has first made real, as opposed to the Holy Spirit’s denial of the ego’s denial of truth. The Holy Spirit denies the reality of the ego’s story of sin, guilt and fear, and denies that the ego has indeed changed our reality as God’s Son. (Wapnick, AVI, p.84.) 
