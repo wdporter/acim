@@ -1,7 +1,3 @@
----
-
----
-
 # T-1.I Principles of Miracles
 
 ## T-1.I.1
@@ -38,7 +34,7 @@ Miracles are all equal to do. Love always expresses as much as it can.
 :::
 
 :::tip
-(1) [It's] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, LDNC, p. 562)
+(1) [It’s] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, LDNC, p. 562)
 :::
 
 :::tip
@@ -572,11 +568,11 @@ It is only when we choose the miracle, and can say and truly believe that “I a
 #### expanded
 
 21.&emsp;Miracles are natural signs of forgiveness. 
-<sup>2</sup>Through miracles you accept God’s forgiveness by extending it [God’s forgiveness] to others.
+<sup>2</sup>Through miracles you accept God’s forgiveness by extending it [God’s-forgiveness] to others.
 
 #### substituted
 
-21.&emsp;Miracles are natural signs of forgiveness. <sup>2</sup>Through miracles you accept God’s forgiveness by extending God’s forgiveness to others.
+21.&emsp;Miracles are natural signs of forgiveness. <sup>2</sup>Through miracles you accept God’s forgiveness by extending God’s-forgiveness to others.
 
 #### simplified
 
@@ -773,12 +769,12 @@ Revelation comes through release from fear.
 #### expanded
 
 29.&emsp;Miracles praise God through you. 
-<sup>2</sup>They [miracles] praise Him [God] by honouring His [God’s] creations, affirming their [God’s creations’] perfection. 
+<sup>2</sup>They [miracles] praise Him [God] by honouring His [God’s] creations, affirming their [God’s-creations’] perfection. 
 <sup>3</sup>They [miracles] heal because they [miracles] deny body-identification and affirm spirit-identification.
 
 #### substituted
 
-29.&emsp;Miracles praise God through you. <sup>2</sup>Miracles praise God by honouring God’s creations, affirming God’s creations’ perfection. <sup>3</sup>Miracles heal because miracles deny body-identification and affirm spirit-identification.
+29.&emsp;Miracles praise God through you. <sup>2</sup>Miracles praise God by honouring God’s creations, affirming God’s-creations’ perfection. <sup>3</sup>Miracles heal because miracles deny body-identification and affirm spirit-identification.
 
 #### simplified
 
@@ -823,13 +819,13 @@ c/f [principle 12](#12), Wapnick AAC, p.230,231.
 
 31.&emsp;Miracles should inspire gratitude, not awe. 
 <sup>2</sup>You should thank God for what you really are. 
-<sup>3</sup>The children of God are holy and the miracle honours their [the children of God’s] holiness, which can be hidden but never lost.
+<sup>3</sup>The children of God are holy and the miracle honours their [the-children-of-God’s] holiness, which can be hidden but never lost.
 
 #### substituted
 
 31.&emsp;Miracles should inspire gratitude, not awe. 
 <sup>2</sup>You should thank God for what you really are. 
-<sup>3</sup>The children of God are holy and the miracle honours the children of God’s holiness, which can be hidden but never lost.
+<sup>3</sup>The children of God are holy and the miracle honours the-children-of-God’s holiness, which can be hidden but never lost.
 
 #### simplified
 
@@ -899,13 +895,11 @@ Illusions imprison you in nightmares. Illusions are errors. Miracles free you fr
 
 #### expanded
 
-34.&emsp;Miracles restore the mind to its [the mind’s] fullness. 
-<sup>2</sup>By atoning for lack they [miracles] establish perfect protection. <sup>3</sup>The spirit’s strength leaves no room for intrusions.
+34.&emsp;Miracles restore the mind to its [the-mind’s] fullness. <sup>2</sup>By atoning for lack they [miracles] establish perfect protection. <sup>3</sup>The spirit’s strength leaves no room for intrusions.
 
 #### substituted
 
-34.&emsp;Miracles restore the mind to the mind’s fullness. 
-<sup>2</sup>By atoning for lack miracles establish perfect protection. <sup>3</sup>The spirit’s strength leaves no room for intrusions.
+34.&emsp;Miracles restore the mind to the-mind’s fullness. <sup>2</sup>By atoning for lack miracles establish perfect protection. <sup>3</sup>The spirit’s strength leaves no room for intrusions.
 
 #### simplified
 
@@ -986,13 +980,13 @@ I correct false thinking with miracles. To know the Divine Order you need miracl
 
 38.&emsp;The Holy Spirit is the mechanism of miracles. 
 <sup>2</sup>He [Holy Spirit] recognises both God’s creations and your illusions. 
-<sup>3</sup>He [Holy Spirit] separates the true from the false by His [Holy Spirit’s] ability to perceive totally rather than selectively.
+<sup>3</sup>He [Holy Spirit] separates the true from the false by His [the-Holy-Spirit’s] ability to perceive totally rather than selectively.
 
 #### substituted
 
 38.&emsp;The Holy Spirit is the mechanism of miracles. 
 <sup>2</sup>Holy Spirit recognises both God’s creations and your illusions. 
-<sup>3</sup>Holy Spirit separates the true from the false by Holy Spirit’s ability to perceive totally rather than selectively.
+<sup>3</sup>Holy Spirit separates the true from the false by the-Holy-Spirit’s ability to perceive totally rather than selectively.
 
 #### simplified
 
@@ -1224,13 +1218,13 @@ You can control time with miracles. Revelation transcends time.
 
 49.&emsp;The miracle makes no distinction among degrees of misperception. 
 <sup>2</sup>It [the miracle] is a device for perception correction, effective quite apart from either the degree or the direction of the error. 
-<sup>3</sup>This is its [the miracle’s] true indiscriminateness.
+<sup>3</sup>This is its [the-miracle’s] true indiscriminateness.
 
 #### substituted
 
 49.&emsp;The miracle makes no distinction among degrees of misperception. 
 <sup>2</sup>The miracle is a device for perception correction, effective quite apart from either the degree or the direction of the error. 
-<sup>3</sup>This is the miracle’s true indiscriminateness.
+<sup>3</sup>This is the-miracle’s true indiscriminateness.
 
 #### simplified
 

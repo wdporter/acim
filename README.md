@@ -24,14 +24,14 @@ sidebar: false
 - [Text](/text/)
 - [Workbook](/workbook/)
 - [Manual](/manual/)
-- [and More…](/more/)
+- [and More…](/other/)
 
 
 The course text is supplied in alternative renderings which substitute pronouns.
 
-This is done to help clarify some confusing paragraphs. It is not an attempt to render it easier to read, but rather to provide an aid to study.
+This is done to help clarify some confusing paragraphs. It is not necessarily an attempt to make it easier to read, but rather to provide an aid to study.
 
-Substituting pronouns replaces Him and He, thus de-gendering God, but this was NOT the point of the exercise.
+Substituting pronouns replaces Him and He, but de-gendering God was not the point of the exercise.
 
 I also try to clarify the adverbial ‘but’. I find this annoying and confusing.
 
@@ -43,12 +43,8 @@ Yes, I changed some of the spelling and punctuation to reflect a more ‘British
 
 I very much welcome correspondence with suggestions for improvements or additions.
 
-The site is built with static site generator Jekyll and the <a href=https://github.com/W-David-Porter/acim>sources are in github</a>. 
-
-I'm thinking of porting it to vuepress instead. 
+The site is built with static site generator Vuepress and the <a href=https://github.com/W-David-Porter/acim>sources are in github</a>. 
 
 If you don't know what github is, you can <a href=mailto:acim@fea.st>email me</a> instead. 
-
-Help with CSS and site design would be appreciated also.
 
 by David Porter. 
