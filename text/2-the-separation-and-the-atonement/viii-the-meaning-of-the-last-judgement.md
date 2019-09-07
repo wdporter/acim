@@ -1,6 +1,6 @@
 # T-2.VIII The Meaning of the Last Judgement
 
-# T-2.VIII.1
+## T-2.VIII.1
 
 <p class=fip id=p1>
 1.&emsp;One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
@@ -43,7 +43,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 (6) …the true meaning of the Last Judgement is that God is not vengeful. His Final Judgement … is that He simply loves us as He always did. (Wapnick, AVI, p. 240.)
 :::
 
-# T-2.VIII.2
+## T-2.VIII.2
 
 <p class=fip id=p2>
 2.&emsp;The Last Judgement is one of the most threatening ideas in your thinking. 
@@ -104,7 +104,7 @@ God does not judge. Judgement is a learning device. The Last Judgement extends o
 (6–8) The more quickly we can make this choice [between miracles or grievances], the more quickly our minds can be healed; thus the more quickly Jesus can heal other minds through our own. (Wapnick, AVI, p. 241.)
 :::
 
-# T-2.VIII.3
+## T-2.VIII.3
 
 <p class=fip id=p3>
 3.&emsp;The Last Judgement is generally thought of as a procedure undertaken by God. 
@@ -157,7 +157,7 @@ The Last Judgement is the restoration of right-mindedness to all the Sonship.
 (7–8) The individual process of learning right-minded judgements is what is referred to here. As this is learned and we accept the Atonemnt for ourselves, the vacillations between the ego and the Holy Spirit cease, so that our judgements are only those of the Holy Spirit. (Wapnick, AVI, p.242.) 
 :::
 
-# T-2.VIII.4
+## T-2.VIII.4
 
 <p class=fip id=p4>
 4.&emsp;The first step toward freedom involves a sorting out of the false from the true. 
@@ -197,7 +197,7 @@ First sort out the false from the true. Sorting out the false from the true is c
 (3–5) We are … asked once again to judge between the truth of God’s and Christ’s reality as spirit, and the ego’s illusory world of materiality. (Wapnick, AVI, p.244.)
 :::
 
-# T-2.VIII.5
+## T-2.VIII.5
 
 <p class=fip id=p5>
 5.&emsp;The term ‘Last Judgement’ is frightening not only because it has been projected onto God, but also because of the association of ‘last’ with death. 

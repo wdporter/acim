@@ -1,5 +1,3 @@
----
----
 # T-1.IV The Escape from Darkness
 
 ## T-1.IV.1

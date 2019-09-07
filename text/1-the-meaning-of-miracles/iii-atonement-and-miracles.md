@@ -1,5 +1,3 @@
----
----
 # T-1.III Atonement and Miracles
 
 ## T-1.III.1
@@ -176,12 +174,12 @@ I am the Atonement. I can do any miracle I like. Ask me what miracle to do. Foll
 <p class=fip id=p5>
 5.&emsp;Error cannot really threaten truth, which can always withstand it. 
 <sup>2</sup>Only the error is actually vulnerable. 
-<sup>3</sup>You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
-<span class=course-quote>
-<sup>4</sup>Spirit is in a state of grace forever.<br>
-<sup>5</sup>Your reality is only spirit.<br>
-<sup>6</sup>Therefore you are in a state of grace forever.<br>
-</span>
+<sup>3</sup>You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:<br><br>
+<em>
+&emsp;&emsp;&emsp;<sup>4</sup>Spirit is in a state of grace forever.<br>
+&emsp;&emsp;&emsp;<sup>5</sup>Your reality is only spirit.<br>
+&emsp;&emsp;&emsp;<sup>6</sup>Therefore you are in a state of grace forever.<br><br>
+</em>
 <sup>7</sup>Atonement undoes all errors in this respect, and thus uproots the source of fear. 
 <sup>8</sup>Whenever you experience God’s re-assurances as threat, it is always because you are defending misplaced or misdirected loyalty. 
 <sup>9</sup>When you project this to others you imprison them, but only to the extent to which you re-inforce errors they have already made. 
@@ -191,35 +189,39 @@ I am the Atonement. I can do any miracle I like. Ask me what miracle to do. Foll
   
 #### expanded
 
+<p>
 5.&emsp;Error cannot really threaten truth, which [truth] can always withstand it [error]. 
 <sup>2</sup>Only the error is actually vulnerable. 
-<sup>3</sup>You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
-<span class=course-quote>
-<sup>4</sup>Spirit is in a state of grace forever.<br>
-<sup>5</sup>Your reality is only spirit.<br>
-<sup>6</sup>Therefore you are in a state of grace forever.<br>
-</span>
+<sup>3</sup>You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:<br><br>
+<em>
+&emsp;&emsp;&emsp;<sup>4</sup>Spirit is in a state of grace forever.<br>
+&emsp;&emsp;&emsp;<sup>5</sup>Your reality is only spirit.<br>
+&emsp;&emsp;&emsp;<sup>6</sup>Therefore you are in a state of grace forever.<br><br>
+</em>
 <sup>7</sup>Atonement undoes all errors in this respect [as being in a state of grace], and thus uproots the source of fear. 
 <sup>8</sup>Whenever you experience God’s re-assurances as threat, it [experiencing God’s re-assurances as threat] is always because you are defending misplaced or misdirected loyalty. 
 <sup>9</sup>When you project this [defence of misplaced or misdirected loyalty] to others you imprison them [the other], but only to the extent to which you re-inforce errors they [the other] have already made. 
 <sup>10</sup>This [imprisoning the other] makes them [the other] vulnerable to the distortions of others, since their [the other’s] own perception of themselves [other’s self] is distorted. 
 <sup>11</sup>The miracle worker can only bless them [the other], and this [blessing the other] undoes their [the other’s] distortions and frees them [the other] from prison.
+</p>
 
 #### substituted
 
+<p>
 5.&emsp;Error cannot really threaten truth; truth can always withstand error. 
 <sup>2</sup>Only the error is actually vulnerable. 
-<sup>3</sup>You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
-<span class=course-quote>
-<sup>4</sup>Spirit is in a state of grace forever.<br>
-<sup>5</sup>Your reality is only spirit.<br>
-<sup>6</sup>Therefore you are in a state of grace forever.<br>
-</span>
+<sup>3</sup>You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:<br><br>
+<em>
+&emsp;&emsp;&emsp;<sup>4</sup>Spirit is in a state of grace forever.<br>
+&emsp;&emsp;&emsp;<sup>5</sup>Your reality is only spirit.<br>
+&emsp;&emsp;&emsp;<sup>6</sup>Therefore you are in a state of grace forever.<br><br>
+</em>
 <sup>7</sup>Atonement undoes all errors as being in a state of grace, and thus uproots the source of fear. 
 <sup>8</sup>Whenever you experience God’s re-assurances as threat, experiencing God’s re-assurances as threat is always because you are defending misplaced or misdirected loyalty. 
 <sup>9</sup>When you project this defence of misplaced or misdirected loyalty to others you imprison the other, but only to the extent to which you re-inforce errors the other has already made. 
 <sup>10</sup>Imprisoning the other makes the other vulnerable to the distortions of others, since the other’s own perception of the other’s self is distorted. 
 <sup>11</sup>The miracle worker can only bless the other, and blessing the other undoes the other’s distortions and frees the other from prison.
+</p>
 
 #### simplified
 

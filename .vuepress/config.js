@@ -16,11 +16,11 @@ module.exports = {
 				link: "/text/",
 				items: [
 					{ text: "Text", link: "/text/" },
-					{ text: "T-in. Introduction", link: "/text/introduction" },
+					{ text: "T-in. Introduction", link: "/text/introduction/" },
 					{ text: "T-1. The Meaning of Miracles",  link: "/text/1-the-meaning-of-miracles/"}, 
-					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement" },
-					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception" },
-					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego" }
+					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement/" },
+					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception/" },
+					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego/" }
 				]
 			},
       {
@@ -35,9 +35,9 @@ module.exports = {
         text: "Other",
         link: "/other/",
 				items: [
-					{text: "Other Stuff", link: "/other/"}
-					,{text: "Bibliography", link: "/other/bibliography"}
-					,{text: "Random Section", link: "/other/random"}
+					{text: "Other Stuff", link: "/other/"},
+					{text: "Bibliography", link: "/other/bibliography"},
+					{text: "Random Section", link: "/other/random"}
 				]
       }
     ],
@@ -66,7 +66,7 @@ module.exports = {
 						] 
 					},
 					{
-						title: "2 The Separation and the Atonement",
+						title: "2. The Separation and the Atonement",
 						children: [
 							"/text/2-the-separation-and-the-atonement/i-the-origins-of-separation",
 							"/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence",
@@ -76,6 +76,18 @@ module.exports = {
 							"/text/2-the-separation-and-the-atonement/vi-fear-and-conflict",
 							"/text/2-the-separation-and-the-atonement/vii-cause-and-effect",
 							"/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement"
+						]
+					},
+					{
+						title: "3. The Innocent Perception",
+						children: [
+							"/text/3-the-innocent-perception/i-atonement-without-sacrifice",
+							"/text/3-the-innocent-perception/ii-miracles-as-true-perception",
+							"/text/3-the-innocent-perception/iii-perception-versus-knowledge",
+							"/text/3-the-innocent-perception/iv-error-and-the-ego",
+							"/text/3-the-innocent-perception/v-beyond-perception",
+							"/text/3-the-innocent-perception/vi-judgement-and-the-authority-problem",
+							"/text/3-the-innocent-perception/vii-creating-versus-the-self-image"
 						]
 					}
 				]

@@ -7,5 +7,3 @@
 - [V. Beyond Perception](/text/3-the-innocent-perception/v-beyond-perception)
 - [VI. Judgement and the Authority Problem](/text/3-the-innocent-perception/vi-judgement-and-the-authority-problem)
 - [VII. Creating versus the Self-Image](/text/3-the-innocent-perception/vii-creating-versus-the-self-image)
-
-

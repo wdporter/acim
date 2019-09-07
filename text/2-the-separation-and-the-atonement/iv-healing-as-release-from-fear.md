@@ -1,6 +1,7 @@
 # T-2.IV Healing as Release from Fear
 
 ## T-2.IV.1
+
 <p class=fip id=p1>
 1.&emsp;Our emphasis is now on healing. 
 <sup>2</sup>The miracle is the means, the Atonement is the principle, and healing is the result. 

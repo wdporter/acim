@@ -1,6 +1,7 @@
 # T-2.V The Function of the Miracle Worker
 
 ## T-2.V.1
+
 <p class=fip id=p1>
 1.&emsp;Before miracle workers are ready to undertake their function in this world, it is essential that they fully understand the fear of release. 
 <sup>2</sup>Otherwise they may unwittingly foster the belief that release is imprisonment, a belief that is already very prevalent. 
@@ -58,6 +59,7 @@ Fear of release comes from believing the mind can hurt itself. The mind cannot h
 :::
 
 ## T-2.V.2
+
 <p class=fip id=p2>
 2.&emsp;Magic is the mindless or the miscreative use of mind. 
 <sup>2</sup>Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so. 
@@ -229,7 +231,7 @@ Accept the Atonement for yourself. Accepting the Atonement will heal your mind. 
 <sup>6</sup>The body is, however, easily brought into alignment with a mind that has learned to look beyond it toward the light.
 </p>
 
-#### expanded	
+#### expanded
 
 6.&emsp;It should be emphasised again that the body does not learn any more than it [the body] creates. 
 <sup>2</sup>As a learning device it [the body] merely follows the learner, but if it [the body] is falsely endowed with self-initiative, it [the body] becomes a serious obstruction to the very learning it [the body] should facilitate. 
@@ -238,7 +240,7 @@ Accept the Atonement for yourself. Accepting the Atonement will heal your mind. 
 <sup>5</sup>The mind, however, can bring its [the mind’s] illumination to the body by recognising that it [the body] is not the learner, and is therefore unamenable to learning. 
 <sup>6</sup>The body is, however, easily brought into alignment with a mind that has learned to look beyond it [the body] toward the light.
 
-#### substituted	
+#### substituted
 
 6.&emsp;It should be emphasised again that the body does not learn any more than the body creates. 
 <sup>2</sup>As a learning device the body merely follows the learner, but if the body is falsely endowed with self-initiative, the body becomes a serious obstruction to the very learning the body should facilitate. 
@@ -331,6 +333,7 @@ Do not try to heal anything your physical eye sees. Do not be afraid to look at 
 <sup>6</sup>Charity is really a weaker reflection of a much more powerful love-encompassment that is far beyond any form of charity you can conceive of as yet. 
 <sup>7</sup>Charity is essential to right-mindedness in the limited sense in which it can now be attained.
 </sup>
+</p>
 
 #### expanded
 
@@ -422,6 +425,7 @@ Charity is limited to the world of perception. The miracle is an expression of c
 Miracles change your relationship to time and Space. I will help you to adjust.
 
 ## T-2.V.12
+
 <p class=fip id=p12>
 12.&emsp;(2) A clear distinction between what is created and what is made is essential. 
 <sup>2</sup>All forms of healing rest on this fundamental correction in level perception.
@@ -463,6 +467,7 @@ Healing rests on you distinguishing between what is created and what is made.
 Right mind responds to error with a desire to heal.
 
 ## T-2.V.14
+
 <p class=fip id=p14>
 14.&emsp;(4) The miracle is always a denial of this error and an affirmation of the truth. 
 <sup>2</sup>Only right-mindedness can correct in a way that has any real effect. 
@@ -589,39 +594,50 @@ Right-mindedness is in time. Right-mindedness is directed by Jesus. One-mindedne
 ## T-2.V.18
 
 <p class=fip id=p18>
-18.&emsp;(8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:
-<span class=course-quote>
-<sup>2</sup>I am here only to be truly helpful.<br>
-<sup>3</sup>I am here to represent Him Who sent me.<br>
-<sup>4</sup>I do not have to worry about what to say or what to do, because He Who sent me will direct me.<br>
-<sup>5</sup>I am content to be wherever He wishes, knowing He goes there with me.<br>
-<sup>6</sup>I will be healed as I let Him teach me to heal.
-</span>
+18.&emsp;(8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:<br><br>
+<em>
+&emsp;&emsp;&emsp;<sup>2</sup>I am here only to be truly helpful. <br>
+&emsp;&emsp;&emsp;<sup>3</sup>I am here to represent Him Who sent me. <br>
+&emsp;&emsp;&emsp;<sup>4</sup>I do not have to worry about what to say or what to do, <br>
+&emsp;&emsp;&emsp;&emsp;because He Who sent me will direct me. <br>
+&emsp;&emsp;&emsp;<sup>5</sup>I am content to be wherever He wishes, <br>
+&emsp;&emsp;&emsp;&emsp;knowing He goes there with me. <br>
+&emsp;&emsp;&emsp;<sup>6</sup>I will be healed as I let Him teach me to heal.
+</em>
 </p>
 
 #### expanded
 
-18.&emsp;(8) You can do much on behalf of your own healing and that [the healing] of others if, in a situation calling for help, you think of it [the situation calling for help] this way:
-<span class=course-quote>
-<sup>2</sup>I am here only to be truly helpful.<br>
-<sup>3</sup>I am here to represent Him Who sent me [God]. <br>
-<sup>4</sup>I do not have to worry about what to say or what to do, because He [God] Who sent me will direct me. <br>
-<sup>5</sup>I am content to be wherever He [God] wishes, knowing He [God] goes there with me. <br>
-<sup>6</sup>I will be healed as I let Him [God] teach me to heal.
-<span>
+<p>
+18.&emsp;(8) You can do much on behalf of your own healing and that [the healing] of others if, in a situation calling for help, you think of it [the situation calling for help] this way: <br><br>
+<em>
+&emsp;&emsp;&emsp;<sup>2</sup>I am here only to be truly helpful. <br>
+&emsp;&emsp;&emsp;<sup>3</sup>I am here to represent Him Who sent me [God]. <br>
+&emsp;&emsp;&emsp;<sup>4</sup>I do not have to worry about what to say or what to do, <br>
+&emsp;&emsp;&emsp;&emsp;because He [God] Who sent me will direct me. <br>
+&emsp;&emsp;&emsp;<sup>5</sup>I am content to be wherever He [God] wishes, <br>
+&emsp;&emsp;&emsp;knowing He [God] goes there with me. <br>
+&emsp;&emsp;&emsp;<sup>6</sup>I will be healed as I let Him [God] teach me to heal.
+</em>
+</p>
 
 #### substituted
 
-18.&emsp;(8) You can do much on behalf of your own healing and the healing of others if, in a situation calling for help, you think of the situation calling for help this way:
-<span class=course-quote>
-<sup>2</sup>I am here only to be truly helpful.<br>
-<sup>3</sup>I am here to represent God; God sent me. <br>
-<sup>4</sup>I do not have to worry about what to say or what to do, because God-Who-sent-me, will direct me. <br>
-<sup>5</sup>I am content to be wherever God wishes, knowing God goes there with me. <br>
-<sup>6</sup>I will be healed as I let Him God teach me to heal.
-</span>
+<p>
+18.&emsp;(8) You can do much on behalf of your own healing and the healing of others if, in a situation calling for help, you think of the situation calling for help this way: <br><br>
+<em>
+&emsp;&emsp;&emsp;<sup>2</sup>I am here only to be truly helpful.<br>
+&emsp;&emsp;&emsp;<sup>3</sup>I am here to represent God; God sent me. <br>
+&emsp;&emsp;&emsp;<sup>4</sup>I do not have to worry about what to say or what to do, <br>
+&emsp;&emsp;&emsp;&emsp;because God-Who-sent-me, will direct me. <br>
+&emsp;&emsp;&emsp;<sup>5</sup>I am content to be wherever God wishes, <br>
+&emsp;&emsp;&emsp;&emsp;knowing God goes there with me. <br>
+&emsp;&emsp;&emsp;<sup>6</sup>I will be healed as I let Him God teach me to heal.
+</em>
+</p>
 
 #### simplified
 
 If a situation calls for help, think of the situation as God sending you. God will direct you what to do. God will teach you to heal. Be content. Be healed and heal.
+
 
