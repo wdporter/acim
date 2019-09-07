@@ -2,7 +2,6 @@
 
 ## T-2.III.1
 
-
 <p class=fip id=p1>
 1.&emsp;The Atonement can only be accepted within you by releasing the inner light. 
 <sup>2</sup>Since the separation, defences have been used almost entirely to defend <em>against</em> the Atonement, and thus maintain the separation. 
@@ -59,7 +58,6 @@ You believe you need the body to attain Atonement. In separation, you defend the
 :::
 
 ## T-2.III.2
-
 
 <p class=fip id=p2>
 2.&emsp;For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it undoes the separation and restores the wholeness of the mind. 
