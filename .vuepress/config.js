@@ -89,6 +89,14 @@ module.exports = {
 							"/text/3-the-innocent-perception/vi-judgement-and-the-authority-problem",
 							"/text/3-the-innocent-perception/vii-creating-versus-the-self-image"
 						]
+					},
+					{
+						title: "4. The Illusions of the Ego",
+						children: [
+							"/text/4-the-illusions-of-the-ego/introduction",
+							"/text/4-the-illusions-of-the-ego/i-right-teaching-and-right-learning",
+							"/text/4-the-illusions-of-the-ego/ii-the-ego-and-false-autonomy"
+						]
 					}
 				]
 			},
