@@ -95,7 +95,8 @@ module.exports = {
 						children: [
 							"/text/4-the-illusions-of-the-ego/introduction",
 							"/text/4-the-illusions-of-the-ego/i-right-teaching-and-right-learning",
-							"/text/4-the-illusions-of-the-ego/ii-the-ego-and-false-autonomy"
+							"/text/4-the-illusions-of-the-ego/ii-the-ego-and-false-autonomy",
+							"/text/4-the-illusions-of-the-ego/iii-love-without-conflict"
 						]
 					}
 				]
