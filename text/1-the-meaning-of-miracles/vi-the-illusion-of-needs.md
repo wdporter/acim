@@ -152,18 +152,18 @@ The course urges us to look at the world benevolently: since we believe we are h
 <p class=fip id=p5>
 5.&emsp;All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. 
 <sup>2</sup>To whatever extent you are willing to submit your beliefs to this test, to that extent are your perceptions corrected. 
-<sup>3</sup>In sorting out the false from the true, the miracle proceeds along these lines: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>4</sup>Perfect love casts out fear.<br>
-&emsp;&emsp;&emsp;<sup>5</sup>If fear exists, <br>
-&emsp;&emsp;&emsp;then there is not perfect love.<br>
-</em>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<sup>6</sup>But:<br>
-<em>
-&emsp;&emsp;&emsp;<sup>7</sup>Only perfect love exists.<br>
-&emsp;&emsp;&emsp;<sup>8</sup>If there is fear,<br>
-&emsp;&emsp;&emsp;It produces a state that does not exist.<br><br>
-</em>
+<sup>3</sup>In sorting out the false from the true, the miracle proceeds along these lines:
+<span class=course-quote>
+<sup>4</sup>Perfect love casts out fear.<br>
+<sup>5</sup>If fear exists, <br>
+then there is not perfect love.
+</span>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<sup>6</sup>But:
+<span class=course-quote>
+<sup>7</sup>Only perfect love exists.<br>
+<sup>8</sup>If there is fear,<br>
+It produces a state that does not exist.
+</span>
 <sup>9</sup>Believe this and you will be free. 
 <sup>10</sup>Only God can establish this solution, and this faith <em>is</em> His gift.
 </p>
@@ -173,18 +173,18 @@ The course urges us to look at the world benevolently: since we believe we are h
 <p>
 5.&emsp;All aspects of fear are untrue because they [all aspects of fear] do not exist at the creative level, and therefore do not exist at all. 
 <sup>2</sup>To whatever extent you are willing to submit your beliefs to this [existing at the creative level] test, to that extent are your perceptions corrected. 
-<sup>3</sup>In sorting out the false from the true, the miracle proceeds along these lines: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>4</sup>Perfect love casts out fear.<br>
-&emsp;&emsp;&emsp;<sup>5</sup>If fear exists, <br>
-&emsp;&emsp;&emsp;then there is not perfect love.<br>
-</em>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<sup>6</sup>But:<br> 
-<em>
-&emsp;&emsp;&emsp;<sup>7</sup>Only perfect love exists.<br>
-&emsp;&emsp;&emsp;<sup>8</sup>If there is fear,<br>
-&emsp;&emsp;&emsp;It [fear] produces a state that does not exist.<br><br>
-</em>
+<sup>3</sup>In sorting out the false from the true, the miracle proceeds along these lines:
+<span class=course-quote>
+<sup>4</sup>Perfect love casts out fear.<br>
+<sup>5</sup>If fear exists, <br>
+then there is not perfect love.
+</span>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<sup>6</sup>But:
+<span class=course-quote>
+<sup>7</sup>Only perfect love exists.<br>
+<sup>8</sup>If there is fear,<br>
+It [fear] produces a state that does not exist.
+</span>
 <sup>9</sup>Believe this [only perfect love exists] and you will be free. 
 <sup>10</sup>Only God can establish this solution [perfect love], and this faith [in perfect love] <em>is</em> His [God’s] gift.
 </p>
@@ -194,18 +194,18 @@ The course urges us to look at the world benevolently: since we believe we are h
 <p>
 5.&emsp;All aspects of fear are untrue because all aspects of fear do not exist at the creative level, and therefore do not exist at all. 
 <sup>2</sup>To whatever extent you are willing to submit your beliefs to the test of existing at the creative level, to that extent are your perceptions corrected. 
-<sup>3</sup>In sorting out the false from the true, the miracle proceeds along these lines: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>4</sup>Perfect love casts out fear.<br>
-&emsp;&emsp;&emsp;<sup>5</sup>If fear exists, <br>
-&emsp;&emsp;&emsp;then there is not perfect love.<br>
-</em>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<sup>6</sup>But:</span> <br>
-<em>
-&emsp;&emsp;&emsp;<sup>7</sup>Only perfect love exists.<br>
-&emsp;&emsp;&emsp;<sup>8</sup>If there is fear,<br>
-&emsp;&emsp;&emsp;Fear produces a state that does not exist.<br><br>
-</em>
+<sup>3</sup>In sorting out the false from the true, the miracle proceeds along these lines:
+<span class=course-quote>
+<sup>4</sup>Perfect love casts out fear.<br>
+<sup>5</sup>If fear exists, <br>
+then there is not perfect love.
+</span>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<sup>6</sup>But:</span>
+<span class=course-quote>
+<sup>7</sup>Only perfect love exists.<br>
+<sup>8</sup>If there is fear,<br>
+Fear produces a state that does not exist.
+</span>
 <sup>9</sup>Believe only perfect love exists and you will be free. 
 <sup>10</sup>Only God can establish the solution of perfect love, and faith in prefect love <em>is</em> God’s gift.
 </p>

@@ -1,6 +1,3 @@
----
----
-
 # Other Stuff
 
 - [Bibliography](/other/bibliography)

@@ -470,11 +470,11 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 <sup>6</sup>Let us undertake to learn this lesson together so we can be free of them together. 
 <sup>7</sup>I need devoted teachers who share my aim of healing the mind. 
 <sup>8</sup>Spirit is far beyond the need of your protection or mine. 
-<sup>9</sup>Remember this: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>10</sup>In this world you need not have tribulation because I have overcome the world. <br>
-&emsp;&emsp;&emsp;<sup>11</sup>That is why you should be of good cheer.
-</em>
+<sup>9</sup>Remember this: 
+<span class=course-quote>
+<sup>10</sup>In this world you need not have tribulation because I have overcome the world. 
+<sup>11</sup>That is why you should be of good cheer.
+</span>
 </p>
 
 #### expanded
@@ -488,11 +488,11 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 <sup>6</sup>Let us undertake to learn this lesson [body and ego are unimportant] together so we can be free of them [body and ego] together. 
 <sup>7</sup>I need devoted teachers who share my aim of healing the mind. 
 <sup>8</sup>Spirit is far beyond the need of your protection or mine [protection]. 
-<sup>9</sup>Remember this: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>10</sup>In this world you need not have tribulation because I have overcome the world. <br>
-&emsp;&emsp;&emsp;<sup>11</sup>That is why [because I have overcome the world] you should be of good cheer.
-</em>
+<sup>9</sup>Remember this: 
+<span class=course-quote>
+<sup>10</sup>In this world you need not have tribulation because I have overcome the world. 
+<sup>11</sup>That is why [because I have overcome the world] you should be of good cheer.
+</span>
 </p>
 
 #### substituted
@@ -506,11 +506,11 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 <sup>6</sup>Let us undertake to learn the lesson that body and ego are unimportant together, so we can be free of body and ego together. 
 <sup>7</sup>I need devoted teachers who share my aim of healing the mind. 
 <sup>8</sup>Spirit is far beyond the need of your protection or my protection. 
-<sup>9</sup>Remember this: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>10</sup>In this world you need not have tribulation because I have overcome the world. <br>
-&emsp;&emsp;&emsp;<sup>11</sup>Because I have overcome the world you should be of good cheer.
-</em>
+<sup>9</sup>Remember this: 
+<span class=course-quote>
+<sup>10</sup>In this world you need not have tribulation because I have overcome the world. 
+<sup>11</sup>Because I have overcome the world you should be of good cheer.
+</span>
 </p>
 
 #### simplified

@@ -13,16 +13,15 @@
 <sup>8</sup>It has not ceased to create because of the ego’s illusions. 
 <sup>9</sup>Your creations are no more fatherless than you are. 
 <sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be. 
-<sup>11</sup>Be confident that your creations are as safe as you are.<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. 
+<sup>11</sup>Be confident that your creations are as safe as you are.
+<span class=course-quote>
+<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. 
 <sup>13</sup>Amen.
-</em>
+</span>
 </p>
 
 #### expanded
 
-<p>
 1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
@@ -33,16 +32,15 @@
 <sup>8</sup>It [your spirit] has not ceased to create because of the ego’s illusions. 
 <sup>9</sup>Your creations are no more fatherless than you are. 
 <sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be [co-creators]. 
-<sup>11</sup>Be confident that your creations are as safe as you are [safe].<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it [the Kingdom]. 
+<sup>11</sup>Be confident that your creations are as safe as you are [safe].
+<span class=course-quote>
+<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it [the Kingdom]. 
 <sup>13</sup>Amen.
-</em>
-</p>
+</span>
+
 
 #### substituted
 
-<p>
 1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
@@ -53,11 +51,12 @@
 <sup>8</sup>Your spirit has not ceased to create because of the ego’s illusions. 
 <sup>9</sup>Your creations are no more fatherless than you are. 
 <sup>10</sup>Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be co-creators. 
-<sup>11</sup>Be confident that your creations are as safe as you are safe.<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against the Kingdom. <sup>13</sup>Amen.
-</em>
-</p>
+<sup>11</sup>Be confident that your creations are as safe as you are safe.
+<span class=course-quote>
+<sup>12</sup>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against the Kingdom. 
+<sup>13</sup>Amen.
+</span>
+
 
 #### simplified
 

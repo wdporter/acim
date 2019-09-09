@@ -594,46 +594,40 @@ Right-mindedness is in time. Right-mindedness is directed by Jesus. One-mindedne
 ## T-2.V.18
 
 <p class=fip id=p18>
-18.&emsp;(8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>2</sup>I am here only to be truly helpful. <br>
-&emsp;&emsp;&emsp;<sup>3</sup>I am here to represent Him Who sent me. <br>
-&emsp;&emsp;&emsp;<sup>4</sup>I do not have to worry about what to say or what to do, <br>
-&emsp;&emsp;&emsp;&emsp;because He Who sent me will direct me. <br>
-&emsp;&emsp;&emsp;<sup>5</sup>I am content to be wherever He wishes, <br>
-&emsp;&emsp;&emsp;&emsp;knowing He goes there with me. <br>
-&emsp;&emsp;&emsp;<sup>6</sup>I will be healed as I let Him teach me to heal.
-</em>
+18.&emsp;(8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:
+<span class=course-quote>
+<sup>2</sup>I am here only to be truly helpful. <br>
+<sup>3</sup>I am here to represent Him Who sent me. <br>
+<sup>4</sup>I do not have to worry about what to say or what to do, because He Who sent me will direct me. <br>
+<sup>5</sup>I am content to be wherever He wishes, knowing He goes there with me. <br>
+<sup>6</sup>I will be healed as I let Him teach me to heal.
+</span>
 </p>
 
 #### expanded
 
 <p>
-18.&emsp;(8) You can do much on behalf of your own healing and that [the healing] of others if, in a situation calling for help, you think of it [the situation calling for help] this way: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>2</sup>I am here only to be truly helpful. <br>
-&emsp;&emsp;&emsp;<sup>3</sup>I am here to represent Him Who sent me [God]. <br>
-&emsp;&emsp;&emsp;<sup>4</sup>I do not have to worry about what to say or what to do, <br>
-&emsp;&emsp;&emsp;&emsp;because He [God] Who sent me will direct me. <br>
-&emsp;&emsp;&emsp;<sup>5</sup>I am content to be wherever He [God] wishes, <br>
-&emsp;&emsp;&emsp;knowing He [God] goes there with me. <br>
-&emsp;&emsp;&emsp;<sup>6</sup>I will be healed as I let Him [God] teach me to heal.
-</em>
+18.&emsp;(8) You can do much on behalf of your own healing and that [the healing] of others if, in a situation calling for help, you think of it [the situation calling for help] this way: 
+<span class=course-quote>
+<sup>2</sup>I am here only to be truly helpful. <br>
+<sup>3</sup>I am here to represent Him Who sent me [God]. <br>
+<sup>4</sup>I do not have to worry about what to say or what to do, because He [God] Who sent me will direct me. <br>
+<sup>5</sup>I am content to be wherever He [God] wishes, knowing He [God] goes there with me. <br>
+<sup>6</sup>I will be healed as I let Him [God] teach me to heal.
+</span>
 </p>
 
 #### substituted
 
 <p>
-18.&emsp;(8) You can do much on behalf of your own healing and the healing of others if, in a situation calling for help, you think of the situation calling for help this way: <br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>2</sup>I am here only to be truly helpful.<br>
-&emsp;&emsp;&emsp;<sup>3</sup>I am here to represent God; God sent me. <br>
-&emsp;&emsp;&emsp;<sup>4</sup>I do not have to worry about what to say or what to do, <br>
-&emsp;&emsp;&emsp;&emsp;because God-Who-sent-me, will direct me. <br>
-&emsp;&emsp;&emsp;<sup>5</sup>I am content to be wherever God wishes, <br>
-&emsp;&emsp;&emsp;&emsp;knowing God goes there with me. <br>
-&emsp;&emsp;&emsp;<sup>6</sup>I will be healed as I let Him God teach me to heal.
-</em>
+18.&emsp;(8) You can do much on behalf of your own healing and the healing of others if, in a situation calling for help, you think of the situation calling for help this way: 
+<span class=course-quote>
+<sup>2</sup>I am here only to be truly helpful.<br>
+<sup>3</sup>I am here to represent God; God sent me. <br>
+<sup>4</sup>I do not have to worry about what to say or what to do, because God-Who-sent-me, will direct me. <br>
+<sup>5</sup>I am content to be wherever God wishes, knowing God goes there with me. <br>
+<sup>6</sup>I will be healed as I let Him God teach me to heal.
+</span>
 </p>
 
 #### simplified

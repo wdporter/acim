@@ -73,33 +73,33 @@ This is a course in miracles. The lessons are required. You choose when to take 
 ## T-in.2
 
 <p class=fip id=p2>
-2.&emsp;This course can therefore be summed up very simply in this way:<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>2</sup>Nothing real can be threatened.<br>
-&emsp;&emsp;&emsp;<sup>3</sup>Nothing unreal exists.<br><br>
-</em>
+2.&emsp;This course can therefore be summed up very simply in this way:
+<span class=course-quote>
+<sup>2</sup>Nothing real can be threatened.<br>
+<sup>3</sup>Nothing unreal exists.
+</span>
 <sup>4</sup>Herein lies the peace of God.
 </p>
 
 #### expanded
 
 <p>
-2.&emsp;This course can therefore be summed up very simply in this way:<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>2</sup>Nothing real can be threatened.<br>
-&emsp;&emsp;&emsp;<sup>3</sup>Nothing unreal exists.<br><br>
-</em>
+2.&emsp;This course can therefore be summed up very simply in this way:
+<span class=course-quote>
+<sup>2</sup>Nothing real can be threatened.<br>
+<sup>3</sup>Nothing unreal exists.
+</span>
 <sup>4</sup>Herein lies the peace of God.
 </p>
 
 #### substituted
 
 <p>
-2.&emsp;This course can therefore be summed up very simply in this way:<br><br>
-<em>
-&emsp;&emsp;&emsp;<sup>2</sup>Nothing real can be threatened.<br>
-&emsp;&emsp;&emsp;<sup>3</sup>Nothing unreal exists.<br><br>
-</em>
+2.&emsp;This course can therefore be summed up very simply in this way:
+<span class=course-quote>
+<sup>2</sup>Nothing real can be threatened.<br>
+<sup>3</sup>Nothing unreal exists.
+</span>
 <sup>4</sup>Herein lies the peace of God.
 
 #### simplified
