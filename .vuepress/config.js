@@ -109,8 +109,9 @@ module.exports = {
 			{
 				title: "Other Stuff",
 				children: [ 
-					"/other/random"
-					,"/other/bibliography"
+					"/other/random",
+					"/other/bibliography",
+					"/other/prayers-from-the-course"
 				]
 			}
 		],
