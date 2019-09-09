@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: logo.png
+heroImage: logo.jpg
 heroText: A Course In Miracles
 tagline: Catena Aurea (A Golden Chain)
 actionText: Wake Up →
