@@ -10,11 +10,11 @@ God Is
 <span class="block">
 
 <input type="radio" id="fipRadio" name="editionGroup" checked />
-<label for="fipRadio">FIP</label>
+<label for="fipRadio" title="Foundation for Inner Peace">FIP</label>
 <input type="radio" id="coaRadio" name="editionGroup" />
-<label for="coaRadio">COA</label>
+<label for="coaRadio" title="Circle of Atonement">COA</label>
 <input type="radio" id="jcimRadio" name="editionGroup" />
-<label for="jcimRadio">JCIM</label>
+<label for="jcimRadio" title="Original Edition">JCIM</label>
 
 </span>
 
