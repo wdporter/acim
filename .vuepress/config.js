@@ -96,7 +96,12 @@ module.exports = {
 							"/text/4-the-illusions-of-the-ego/introduction",
 							"/text/4-the-illusions-of-the-ego/i-right-teaching-and-right-learning",
 							"/text/4-the-illusions-of-the-ego/ii-the-ego-and-false-autonomy",
-							"/text/4-the-illusions-of-the-ego/iii-love-without-conflict"
+							"/text/4-the-illusions-of-the-ego/iii-love-without-conflict",
+							"/text/4-the-illusions-of-the-ego/iv-this-need-not-be",
+							"/text/4-the-illusions-of-the-ego/v-the-ego-body-illusion",
+							"/text/4-the-illusions-of-the-ego/vi-the-rewards-of-god"
+
+
 						]
 					}
 				]
