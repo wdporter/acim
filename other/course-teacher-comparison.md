@@ -5,7 +5,7 @@ This was originally published on circleofa.org. It’s no longer there. I wonder
 
 ## The Relationship Between the Circle’s Teachings and the Teachings Of Ken Wapnick
 
-##### by Robert Perry and Greg Mackie.
+#### by Robert Perry and Greg Mackie.
 
 We at the Circle, particularly those of us who write for the Circle (Robert Perry, Allen Watson and Greg Mackie), have for years been regularly asked by students to clarify the relationship between our teachings and those of Ken Wapnick. These students know that both Ken Wapnick and the Circle of Atonement seek to accurately represent the Course, yet they are also aware that we see the Course differently. This presents a confusing situation for students, many of whom regard both the Circle and Ken Wapnick as authoritative sources of teaching.
 

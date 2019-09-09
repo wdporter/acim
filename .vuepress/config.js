@@ -112,6 +112,7 @@ module.exports = {
 					"/other/bibliography",
 					"/other/random",
 					"/other/prayers-from-the-course",
+					"/other/course-thought-system",
 					"/other/course-teacher-comparison"
 				]
 			}
