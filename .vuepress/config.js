@@ -20,7 +20,8 @@ module.exports = {
 					{ text: "T-1. The Meaning of Miracles",  link: "/text/1-the-meaning-of-miracles/"}, 
 					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement/" },
 					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception/" },
-					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego/" }
+					{ text: "T-4. The Illusions of the Ego", link: "/text/4-the-illusions-of-the-ego/" },
+					{ text: "T-5. Healing and Wholeness", link: "/text/4-healing-and-wholeness/" }
 				]
 			},
       {
@@ -42,7 +43,6 @@ module.exports = {
       }
     ],
  		//displayAllHeaders: true,
-		//sidebar: "auto",
 		sidebar: [
 			{
 				title: "Text",
@@ -101,6 +101,12 @@ module.exports = {
 							"/text/4-the-illusions-of-the-ego/v-the-ego-body-illusion",
 							"/text/4-the-illusions-of-the-ego/vi-the-rewards-of-god",
 							"/text/4-the-illusions-of-the-ego/vii-creation-and-communication"
+						]
+					},
+					{
+						title: "5. Healing and Wholeness",
+						children: [
+							"/text/5-healing-and-wholeness/introduction"
 						]
 					}
 				]

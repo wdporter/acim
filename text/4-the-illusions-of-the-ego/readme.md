@@ -7,7 +7,7 @@
 - [IV. This Need Not Be](/text/4-the-illusions-of-the-ego/iv-this-need-not-be)
 - [V. The Ego–Body Illusion](/text/4-the-illusions-of-the-ego/v-the-ego-body-illusion)
 - [VI. The Rewards of God](/text/4-the-illusions-of-the-ego/vi-the-rewards-of-god)
-- [VII. ] (/text/4/vii-creation-and-communication)
+- [VII. Creation and Communication](/text/4/vii-creation-and-communication)
 
 
 
