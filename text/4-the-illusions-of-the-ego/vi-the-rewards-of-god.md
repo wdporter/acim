@@ -280,3 +280,8 @@ God created your brothers. Be grateful to God for what God created.
 
 Engaging yourself with the Sonship in engaging yourself with me. God comes to you as you give God to your brothers. Learn first of your brothers.
 
+#### commentary
+
+:::tip
+(2) …the basic principle of the Course itself, expressed over and over again in many different ways: “Salvation is a collaborative venture”, “The ark is entered two by two” [T-20.IV.6:5](/text/20-the-vision-of-holiness/iv-entering-the-ark#p6), “No one can enter Heaven by himself” [W-p1.134.17:7](/workbook/part-1/134-let-me-perceive-forgiveness-as-it-is#p17), and “together, or not at all” [T-19.IV-D.12:8](/text/19-the-attainment-of-peace/iv-d-the-fourth-obstacle-the-fear-of-god#p12). (Wapnick, ATG, p.4)
+:::

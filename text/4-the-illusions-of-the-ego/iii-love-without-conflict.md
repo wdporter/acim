@@ -57,10 +57,16 @@
 <sup>13</sup>Amen.
 </span>
 
-
 #### simplified
 
 The Kingdom of Heaven is you, because God created you. The kingdom you made is an illusion. Ego and spirit cannot co-create. Your spirit and God will always co-create.
+
+#### commentary
+
+:::tip
+(12) Our oneness with each other has been established by God, and while we can choose to *see* ourselves as separate, we are not free to *make* ourselves be separate… The Kingdom is our joining with each other, for the Kingdom is the Christ in Whom we join. (Wapnick, CP, p.58) 
+:::
+
 
 ## T-4.III.2
 
@@ -280,6 +286,12 @@ Your will is free. Ask to be kept mindful of God’s Love for you. God has alrea
 #### simplified
 
 You must give up your ideas that oppose knowledge. Your ideas are like a wall that blocks the light. Watch out for fear. Ask me to help. I wait patiently and with love. I come when you ask truly.
+
+#### commentary
+
+:::tip
+(10) This help is present even if we do not consciously believe in him; there are no egos in Heaven. (Wapnick, FAJ, p.295)
+:::
 
 ## T-4.III.8
 

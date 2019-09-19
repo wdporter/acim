@@ -306,6 +306,12 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 
 You made the ego. The ego is not real. Accept reality. Reality is: God is Real, you are God’s Son, God is pleased with His Son.
 
+#### commentary
+
+:::tip
+(6) Regardless of what we might do or not do to deserve God’s Love, His Love is constant, merciful, and compassionate to the children He loves, who still dream of His punishing anger. All of us share equally in God’s Kingdom, because we are His beloved children. (Wapnick, FAJ, p.216)
+:::
+
 ## T-4.I.9
 
 <p class=fip id=p9>
@@ -425,6 +431,12 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 #### simplified
 
 The ego’s house is shabby, unsheltering and impoverished. Only the home God made is worthy of God’s creations. You have chosen to leave to God’s home. God’s home is always ready for you. You can choose to enter God’s home any time. 
+
+#### commentary
+
+:::tip
+(2–5) God is the only foundation that can withstand the turbelences of our world. (Wapnick, FAJ, p. 223)
+:::
 
 ## T-4.I.12
 

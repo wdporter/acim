@@ -1,6 +1,3 @@
----
----
-
 # T-4.IV This Need Not Be
 
 ## T-4.IV.1
@@ -42,9 +39,9 @@
 
 You listen to your ego, rather than listen to God. You are trying to save your ego. The ego exists as a trick.  
 
-#### commentary
 
-## T-1.IV.2
+
+## T-4.IV.2
 
 <p class=fip id=p2>
 2.&emsp;I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you <em>can</em> change your mind. 
@@ -86,9 +83,9 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 
 You can change your mind. When you are not joyous you have chosen wrongly. Choose to align your mind with God’s mind. Your mind is one with God’s mind. But denying your mind’s oneness with God, creates a split mind and identifies with the ego. See in yourself and in your brother that you are all glorious creations of God.
 
-#### commentary
 
-## T-1.IV.3
+
+## T-4.IV.3
 
 <p class=fip id=p3>
 3.&emsp;When you are sad, *know this need not be*. 
@@ -112,9 +109,9 @@ You can change your mind. When you are not joyous you have chosen wrongly. Choos
 
 You do not need to be sad. You can decide not to feel deprived.
 
-#### commentary
 
-## T-1.IV.4
+
+## T-4.IV.4
 
 <p class=fip id=p4>
 4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
@@ -135,9 +132,9 @@ You do not need to be sad. You can decide not to feel deprived.
 
 You do not need to be anxious. The ego is capricious. Be vigilant aganst what the ego dictates.
 
-#### commentary
 
-## T-1.IV.5
+
+## T-4.IV.5
 
 <p class=fip id=p5>
 5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not. 
@@ -170,9 +167,9 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 
 The ego has violated the laws of God. But you have not violated the laws of God. The Atonement means I will look after the sins of the ego. Change your mind about those who the ego has hurt. Only the ego experiences guilt.
 
-#### commentary
 
-## T-1.IV.6
+
+## T-4.IV.6
 
 <p class=fip id=p6>
 6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by it. 
@@ -202,9 +199,9 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 
 Do not be deceived by the ego. The ego tempts you but the ego offers nothing. The ego is dis-spiriting. Give up the ego and heal your mind. Be vigilant against the ego. You do not need to be dis-spirited.
 
-#### commentary
 
-## T-1.IV.7
+
+## T-4.IV.7
 
 <p class=fip id=p7>
 7.&emsp;The habit of engaging with God and His creations is easily made if you actively refuse to let your mind slip away. 
@@ -231,9 +228,9 @@ Do not be deceived by the ego. The ego tempts you but the ego offers nothing. Th
 
 Do not let your mind slip away. You are worth the effort. Be consistent against deception. Do not be disheartened.
 
-#### commentary
 
-## T-1.IV.8
+
+## T-4.IV.8
 
 <p class=fip id=p8>
 8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many of them you have refused? 
@@ -278,9 +275,9 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 
 You have refused to gladden yourself. You have limited your power by your own choosing. You mind and my mind can unite, and have the strength the God. Make the strength of God your only goal. Watch your mind carefully for beliefs that hinder you. You can judge against the ego. Withdraw allegiance, protection and love from the ego.  0
 
-#### commentary
 
-## T-1.IV.9
+
+## T-4.IV.9
 
 <p class=fip id=p9>
 9.&emsp;You are a mirror of truth, in which God Himself shines in perfect light. 
@@ -313,11 +310,8 @@ You have refused to gladden yourself. You have limited your power by your own ch
 
 God’s Self shines through you. Do not look at the ego’s images. God brought your mind into being. God always shines on you. The ego stops God shining through you.
 
-#### commentary
 
-
-
-## T-1.IV.10
+## T-4.IV.10
 
 <p class=fip id=p10>
 10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
@@ -359,9 +353,9 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 
 The First Coming of Christ was when the Son of God was created. The Second Coming of Christ is when the ego ends and your mind is healed. I choose you to join with me. You might think I make a mistake in calling you. The ego wants you to think I am not real. 
 
-#### commentary
 
-## T-1.IV.11
+
+## T-4.IV.11
 
 <p class=fip id=p11>
 11.&emsp;I do not attack your ego. 
@@ -412,6 +406,6 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 
 I do not attack your ego. I help you keep vigilance in working with your higher mind. Your higher mind is the home of the Holy Spirit. With our minds joined we are invincible. When you and your brother come together, sanity will be restored. Raising the dead is just the same as inspiring the dis-spirited, or stabilising the unstable. I call you as an expressio of love and you will answer as an expression of love.
 
-#### commentary
+
 
 

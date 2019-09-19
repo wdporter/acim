@@ -1,4 +1,4 @@
-# T-5.I THE INVITATION TO THE HOLY SPIRIT
+# T-5.I The Invitation To The Holy Spirit
 
 ## T-5.I.1
 
