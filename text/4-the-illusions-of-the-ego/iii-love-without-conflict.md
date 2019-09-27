@@ -245,49 +245,26 @@ Your will is free. Ask to be kept mindful of God’s Love for you. God has alrea
 ## T-4.III.7
 
 <p class=fip id=p7>
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. 
-<sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. 
-<sup>3</sup>Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. 
-<sup>4</sup>No one can see through a wall, but I can step around it. 
-<sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so. 
-<sup>6</sup>I can help you only as our Father created us. 
-<sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. 
-<sup>8</sup>I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. 
-<sup>9</sup>Because I wait in love and not in impatience, you will surely ask me truly. 
-<sup>10</sup>I will come in response to a single unequivocal call.
+7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. <sup>8</sup>I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 </p>
 
 #### expanded
 
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. 
-<sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. 
-<sup>3</sup>Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. 
-<sup>4</sup>No one can see through a wall, but I can step around it [the wall]. 
-<sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around the wall]. 
-<sup>6</sup>I can help you only as our Father created us. 
-<sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. 
-<sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
-<sup>9</sup>Because I wait in love and not [wait] in impatience, you will surely ask me truly. 
-<sup>10</sup>I will come in response to a single unequivocal call.
+7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it [the wall]. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around the wall]. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not [wait] in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 
 #### substituted
 
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. 
-<sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. 
-<sup>3</sup>Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. 
-<sup>4</sup>No one can see through a wall, but I can step around the wall. 
-<sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to step around the wall. 
-<sup>6</sup>I can help you only as our Father created us. 
-<sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. 
-<sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
-<sup>9</sup>Because I wait in love and not wait in impatience, you will surely ask me truly. 
-<sup>10</sup>I will come in response to a single unequivocal call.
+7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around the wall. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to step around the wall. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not wait in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 
 #### simplified
 
 You must give up your ideas that oppose knowledge. Your ideas are like a wall that blocks the light. Watch out for fear. Ask me to help. I wait patiently and with love. I come when you ask truly.
 
 #### commentary
+
+:::tip
+(7) …we are asked to respect the power of our minds to make illusions more powerful than truth, so that over time we can use this power to change our minds about truth and illusion. (Wapnick, AAC, p.290)
+:::
 
 :::tip
 (10) This help is present even if we do not consciously believe in him; there are no egos in Heaven. (Wapnick, FAJ, p.295)
@@ -322,6 +299,32 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 #### simplified
 
 Be honest about what you really want. Being honest about what you really want is the first step. We will make your mind ready together. Then we can both help make other minds ready for God.
+
+#### commentary
+
+:::tip
+(1–2) …specifically address how Jesus sees his (or the Holy Spirit’s) role of looking with us at the ego’s darkness… Passages like these make no real sense, and  cannot truly be understood by students *unless* they first recognise the total unreality of all they perceive and experience. c/f [T-11.V.1:1–2:3,8–9](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego.html#p1), [T-4.IV.2:4–6](/text/4-the-illusions-of-the-ego/iv-this-need-not-be.html#p2) (Wapnick, FCTL, p.130–131)
+:::
+
+:::tip
+(1–2) Honesty with oneself regarding the investment in specialness is essential to the process of forgiveness, for it undoes denial and projection, the ego’s ‘double shield’ that protecs its guilt and therefore its own existence. (Wapnick, FCTL, p.181)
+:::
+
+
+::: tip
+(1–3) …Jesus’ role in the Holy Spirit’s plan for our salvation is to help us draw away the ego’s veil that kept *its* plan of individuality, guilt, and mindlessness hidden from our awareness. Calling on his help reflects our little willngness finally to see within our minds the seeming terror we once believed was there, and which became protected by the world and the body. Reaching for Jesus’ hand means choosing to look at what our ego is up to, and has always been up to. Our choice for Jesus is born of the honesty to bring to him all our darkest thoughts and wishes. This would have to include, acknowledging the ego’s goal, the desire to kill even him, not to mention everyone else, in order to satisfy our craving for specialness and to ensure the continuation of our individuality. 
+
+Our looking with Jesus therefore entails allowing ourselves finally to be aware — without judgement, fear or guilt — of the ugly murderousness that results from our need to protect and preserve our individual existence. This inherent selfishness of the separated self is not concerned with the cost of upholding individuality. As long as its craving for survival is satsified, moreover, it does not care who must pay the price, as long as it is not itself, and even if it means the seeming life of another. c/f [T-4.IV.2:4–6](/text/4-the-illusions-of-the-ego/iv-this-need-not-be#p2) (Wapnick, AAC, p. 191)
+:::
+
+:::tip
+(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light ‘forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) (true enough, but be wary of the idea that if you don’t agree with Ken it’s because the ego is distorting the Course’s teachings –Ed.)
+::: 
+
+
+:::tip
+…we must openly look at these errors and bring them to his love, *after* which they can be released. (Wapnick, FCTL, p.2)
+:::
 
 ## T-4.III.9
 

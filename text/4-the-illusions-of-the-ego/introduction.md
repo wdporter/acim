@@ -123,6 +123,9 @@ The journey to the cross is the last useless journey. The journey to the cross h
 #### commentary
 
 :::tip
+(1) Aside from the obvious reference to his own crucifixion, Jesus uses the term as a symbol for the ego thought system of suffering, sacrifice and death. While the ego’s journey is therefore useless and goes nowhere, the Holy Spirit’s journey for us leads away from the dream of death — symbolised by the cross — by awakening us. (Wapnick, AVI, p.140)
+
+:::tip
 (1,2,7–10) We are certainly *not* asked to take as our model what Christianity taught to be the sacrificial suffering of Jesus’s death. (Wapnick, CP, p.75)
 :::
 
