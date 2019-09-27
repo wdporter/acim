@@ -35,7 +35,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 
 #### commentary
 
-::tip
+:::tip
 (1–5) …making is of the separated mind, and creating [is] of the spirit. (Wapnick, AVI, p.239.)
 :::
 

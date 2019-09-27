@@ -1,8 +1,6 @@
----
----
 # T-4.V The Ego–Body Illusion
 
-## T-5.V.1
+## T-4.V.1
 
 <p class=fip id=p1>
 1.&emsp;All things work together for good. 
@@ -38,7 +36,7 @@ The ego thinks some things can be bad. The ego is vigilant about what it allows 
 
 #### commentary
 
-## T-5.V.2
+## T-4.V.2
 
 <p class=fip id=p2>
 2. A major source of the ego’s off-balanced state is its lack of discrimination between the body and the Thoughts of God. 
@@ -77,7 +75,7 @@ Thoughts of God point to the non-existence of the ego. The ego tries to change t
 #### commentary
 
 
-## T-5.V.3
+## T-4.V.3
 
 <p class=fip id=p3>
 3. Any thought system that confuses God and the body must be insane. 
@@ -107,20 +105,20 @@ The ego is afraid of God and the body. It makes sense for the ego to fear God. I
 #### commentary
 
 
-## T-5.V.4
+## T-4.V.4
 
 <p class=fip id=p4>
 4. The body is the ego’s home by its own election. 
-</sup>2</sup>It is the only identification with which the ego feels safe, since the body’s vulnerability is its own best argument that you cannot be of God. 
-</sup>3</sup>This is the belief that the ego sponsors eagerly. 
-</sup>4</sup>Yet the ego hates the body, because it cannot accept it as good enough to be its home. 
-</sup>5</sup>Here is where the mind becomes actually dazed. 
-</sup>6</sup>Being told by the ego that it is really part of the body and that the body is its protector, the mind is also told that the body cannot protect it. 
-</sup>7</sup>Therefore, the mind asks, “Where can I go for protection?”, to which the ego replies, “Turn to me”. 
-</sup>8</sup>The mind, and not without cause, reminds the ego that it has itself insisted that it is identified with the body, so there is no point in turning to *it* for protection. 
-</sup>9</sup>The ego has no real answer to this because there is none, but it does have a typical solution. 
-</sup>10</sup>It obliterates the question from the mind’s awareness. 
-</sup>11</sup>Once out of awareness the question can and does produce uneasiness, but it cannot be answered because it cannot be asked.
+<sup>2</sup>It is the only identification with which the ego feels safe, since the body’s vulnerability is its own best argument that you cannot be of God. 
+<sup>3</sup>This is the belief that the ego sponsors eagerly. 
+<sup>4</sup>Yet the ego hates the body, because it cannot accept it as good enough to be its home. 
+<sup>5</sup>Here is where the mind becomes actually dazed. 
+<sup>6</sup>Being told by the ego that it is really part of the body and that the body is its protector, the mind is also told that the body cannot protect it. 
+<sup>7</sup>Therefore, the mind asks, “Where can I go for protection?”, to which the ego replies, “Turn to me”. 
+<sup>8</sup>The mind, and not without cause, reminds the ego that it has itself insisted that it is identified with the body, so there is no point in turning to <em>it</em> for protection. 
+<sup>9</sup>The ego has no real answer to this because there is none, but it does have a typical solution. 
+<sup>10</sup>It obliterates the question from the mind’s awareness. 
+<sup>11</sup>Once out of awareness the question can and does produce uneasiness, but it cannot be answered because it cannot be asked.
 </p>
 
 #### expanded
@@ -157,8 +155,16 @@ The body is the ego’s chosen home. The ego hates the body because the body is 
 
 #### commentary
 
+:::tip
+(5–11) …this clever description of the final stage in the ego’s strategy of not having the Son remember what it is really up to. …[referring] to the body as a defence against fear  …[an] example of the ego’s ability to bring abou tthe Son’s amnesia …the ego attempts to convince the Son to trust it. And when the Son recognises the clearly paradoxical and contradictory advice the ego gives him, *and complains about it*, the ego responds by simply not responding. (Wapnick, AAC, p.50)
+:::
 
-## T-5.V.5
+:::tip
+(9–11) Once the thought that God created this world is accorded truth, the ego can safely rest. Whatever inconsistencies may from time to time appear within the consciousness of individuals are quickly disposed of, either by the ego’s “appeal to ‘mysteries’, insisting that you must accept the meaningless to save yourself” ([T-9.IV.4:7](/text/9-the-acceptance-of-the-atonement/iv-the-holy-spirits-plan-of-forgiveness#p4)), or by repression. Once pushed out of awareness, these inconsistent thoughts are no longer accessible to question and revision. (Wapnick, LDNC, p.571–572)
+::: 
+
+
+## T-4.V.5
 
 <p class=fip id=p5>
 5. This is the question that *must* be asked: “Where can I go for protection?”. 
@@ -200,7 +206,7 @@ Do not seek blindly for protection, because you might not recognise protection. 
 #### commentary
 
 
-## T-5.V.6
+## T-4.V.6
 
 <p class=fip id=p6>
 6. The ego thinks it is an advantage not to commit itself to anything that is eternal, because the eternal must come from God. 
@@ -251,5 +257,9 @@ The ego loves to stay busy with non-essential tangential issues. The ego does no
 #### commentary
 
 :::tip
-(3) The real question could be “Where can I go for protection?” as per 5:1, or “What is the purpose?” as per 7, 9. Either way the essence of the question is probably the same (–Ed.). 
+(2–3) Another form of the … error of asceticism … is the notion that the body can be immortal. The underlying premise, of course, is that the body’s death is somehow bad, and is a fate that can and should be overcome. By placing a value on eternal *physical* life, the body thus has been made real, for if the body can live forever it *must* be real. This error also results from the ego’s effective use of denial, so that we forget that the body was made to keep the immortal hidden, immortality being a characteristic totally byeyond the ego. (Wapnick, FCTL, p. 158)
+:::
+
+:::tip
+(3) The “real question” might refer to “Where can I go for protection?” as per 5:1, or to “What is the purpose?” as per 7, 9. Either way the essence of the question is probably the same (–Ed.). 
 :::

@@ -261,7 +261,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 #### commentary
 
 :::tip
-(4–5) …spirit has absolutely nothing whatsoever to do with anything outside Heaven, any more than any part of the dream can relate to spirit (Wapnick, AAC, p.144.) 
+(4–5) …spirit has absolutely nothing whatsoever to do with anything outside Heaven, any more than any part of the dream can relate to spirit. c/f [T-4.II.8:5–8](/text/4-the-illusions-of-the-ego/ii-the-ego-and-false-autonomy#p8), [T-4.VI.4:1](/text/4-the-illusions-of-the-ego/vi-the-rewards-of-god#p4), [T-5.III.6:1–2](/text/5-healing-and-wholeness/iii-the-guide-to-salvation#p6). (Wapnick, AAC, p.144.) 
 :::
 
 ## T-3.IV.7

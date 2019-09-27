@@ -30,6 +30,11 @@
 
 Ask not how the ego was made in the past. Ask how the error of the ego is happening in the present.
 
+#### commentary
+:::tip
+(1, 3) In other words, why should we persist in wondering how the ego occurred in the past, when we are still choosing it in the presnt? c/f [C-in.4](/clarification/introduction#p4), [C-2.2:5–3:1](/clarification/2-the-ego-the-miracle#p2). (Wapnick, LDNC, p.456)
+:::
+
 ## T-4.II.2
 
 <p class=fip id=p2>
@@ -189,6 +194,16 @@ You love what you create. You consider what you create part of your self. What d
 
 It is not painful to undermine the ego’s thought system. You might scream at having the ego’s thought system taken from you, but it’s so that you don’t hurt yourself. Your are co-operating in an effort to become harmless and helpful. You have conflicted outcuomes. God assures the outcome.
 
+#### commentary
+
+:::tip
+(8) That statement clearly implies a future event… In reality, though, all that will be brought about is our awakening from the dream of the past, into the eternal present of God. (Wapnick, AVI, p.110–111) 
+:::
+
+:::tip
+(8) Learning to love as he [Jesus] did involves a massive thought reversal. When this task begins to appear overwhelming to us, it is always helpful to remember Jesus’ assurance (Wapnick, AVI, p.179)
+ :::
+
 ## T-4.II.6
 
 <p class=fip id=p6>
@@ -330,6 +345,16 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 
 The ego believes it is on its own. The ego tries to unite with other egos, or attack other egos. The ego tries to be recognised by spirit. The ego can’t be recognised by spirit, so the ego has a sense of being rejected.
 
+#### commentary
+
+:::tip
+(1,4) *A Course in Miracles* states that God is First Cause and all of us, as Christ, are the Effects of this First Cause. Moreover … there is nowhere where God ends and we begin. However, the intent of that tiny, mad idea of separation was to deny that God was First Cause, and that we ourselves were His Effects. Thus the Son of God has become the self split off from its Source, his own origin as it were, with cause and effect now the same. (Wapnick, AVI, p.92–93)
+:::
+
+:::tip
+(6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) (In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. Wapnick’s approach to interpretation is not universally shared amongst course scholars. —Ed.)
+:::
+
 ## T-4.II.9
 
 <p class=fip id=p9>
@@ -450,3 +475,12 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 
 Correct perception to be free of misperception. The use accurate perception to gain knowledge. All perception is unnecessary. You are spirit, spirit is immortal, immortality does not change. Knowledge does not compare because there is no opposite to immortality. 
 
+#### commentary
+
+:::tip
+(8) The ‘you’ who are the observer is outside of time and space, and therefore is outside of Crompond, New York, 1985. In other words, the ‘you’ who are the observer in the mind is not identical with the ‘you’ who are sitting here at this table. (Wapnick, AVI, p.37)
+:::
+
+:::tip
+(8) He is teaching us that this ‘you’ is not our real Self at all, and that we have to be vigilant in recognising how the ego masks our true Identity that is held for us by the Holy Spirit. (Wapnick, AVI, p.205)
+:::

@@ -36,6 +36,16 @@
 
 Do not associate yourself with the ego. It is not easy to dismiss the ego. The ego is not a separate thing. The ego is part of your belief about yourself. 
 
+#### commentary
+
+:::tip
+(3–4, 6) …although we speak of the ego as if it functioned autonomously, having an existence independent from the Son, in reality of course the ego is ourselves, or at least what we experience to be ourselves. (Wapnick, LDNC, p. 465)
+:::
+
+:::tip
+(3–6) …the two halves of the split mind — the ego and the Holy Spirit — represent two different and mutually exclusive reactions to, or interpretations and experiences of the “tiny, mad idea”. They are anthropomorphised in *A Course in Miracles* for pedagogical reasons. [Here] Jesus explains his anthropomorphising the ego. (Wapnick, AAC, p.30) 
+:::
+
 
 ## T-4.VI.2
 
@@ -105,6 +115,12 @@ When you learn to escape from illusions, you will owe a debt to me and to all yo
 #### simplified
 
 The more you trust in me, the more you learn it is insane not to trust me. Trusting in me brings peace and joy. Trusting anywhere else brings chaos and disaster. The rewards of God are recognised by your true self. You do not escape from the ego by controlling the ego.
+
+#### commentary
+
+:::tip
+(4) Jesus sounds like a learning theorist — as he describes his method of helping us to choose him as our teacher instead of the ego. (Wapnick, AAC, p.196)
+:::
 
 ## T-4.VI.4
 
