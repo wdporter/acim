@@ -51,6 +51,7 @@
 
 You are God’s Son. You are creative. You misuse creativity by projecting. You project because you believe you lack something. You believe you can create yourself.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -76,6 +77,7 @@ You are God’s Son. You are creative. You misuse creativity by projecting. You 
 :::tip
 (9–2:1) …the entire ego thought system of betrayal and murder that begins with the insane thought that the reality of Christ must be sacrificed for the survival of the separated self. …this entire thought system is fabricated by the ego, wherein it substitutes its made-up version of the separated relationship between God and His Son for the truth of Their unity. Thus it achieves the goal of preserving its own existence. (Wapnick, AAC, p. 35.)
 :::
+ -->
 
 ## T-2.I.2
 
@@ -203,6 +205,7 @@ You are dreaming you need something. We are all still dreaming. You can wake up 
 
 You have a misperception that you can usurp the power of God. Undoing this misperception will release you from fear. Wake up and see the light. You are free.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -212,6 +215,7 @@ You have a misperception that you can usurp the power of God. Undoing this mispe
 :::tip
 (6–9) The world was comfortably asleep, dreaming its dream of separation, individuality and specialness. Suddenly, like a telephone ringing outside the dream, Jesus appeared. His very presence stated the following: this world of time and space is a dream that in truth is already over; it is possible to awaken from this dream by listening to my words and following my example; and the many gods you believe in are not true because the real God is One of total Oneness and Love. (Wapnick, AAC, p. 209.)
 :::
+ -->
 
 ## T-2.I.5
 

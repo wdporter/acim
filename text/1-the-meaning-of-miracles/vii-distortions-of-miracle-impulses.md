@@ -1,5 +1,8 @@
+
 # T-1.VII Distortions of Miracle Impulses
+
 ## T-1.VII.1 
+
 <p class=fip id=p1>
 1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them to reach your own awareness. 
 <sup>2</sup>The confusion of miracle impulses with physical impulses is a major perceptual distortion. 
@@ -11,6 +14,7 @@
 </p>
 
 #### expanded
+
 1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them [miracle impulses] to reach your own awareness. 
 <sup>2</sup>The confusion of miracle impulses with physical impulses is a major perceptual distortion. 
 <sup>3</sup>Physical impulses are misdirected miracle impulses. 
@@ -20,6 +24,7 @@
 <sup>7</sup>Do not deceive yourself into believing that you can relate in peace to God or to your brothers with anything external.
 
 #### substituted
+
 1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for miracle impulses to reach your own awareness. 
 <sup>2</sup>The confusion of miracle impulses with physical impulses is a major perceptual distortion. 
 <sup>3</sup>Physical impulses are misdirected miracle impulses. 
@@ -29,9 +34,12 @@
 <sup>7</sup>Do not deceive yourself into believing that you can relate in peace to God or to your brothers with anything external.
 
 #### simplifed 
+
 Peace can only be found in doing God’s Will.
 
+<!-- 
 #### commentary
+
 :::tip
 (4) By using the world as a substitute for the role God alone would have in our lives, our belief in the spearation from God is re-inforced, and it is this that gave rise to the world of suffering and pain in the first place. (Wapnick, FAJ, p.17.)
 :::
@@ -41,8 +49,10 @@ Peace can only be found in doing God’s Will.
 :::tip
 (4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which <em>is</em> the problem. (c/f <a href="/text/19-the-attainment-of-peace/iv-a-the-first-obstacle#p17">T-19.IV-A.17:10–11</a>, <a href="/text/19-the-attainment-of-peace/iv-b-the-second-obstacle#p12">T-19.IV-B.12</a>. (Wapnick, AAC, p. 105.)
 :::
+ -->
 
 ## T-1.VII.2 
+
 <p class=fip id=p2>
 2.&emsp;Child of God, you were created to create the good, the beautiful and the holy. 
 <sup>2</sup>Do not forget this. 
@@ -119,6 +129,7 @@ Learn to use the body to enlarge your perception.
 <sup>14</sup>Complete restoration of the Sonship is the only goal of the miracle-minded.
 
 #### substituted
+
 3.&emsp;Fantasy is a distorted form of vision. 
 <sup>2</sup>Fantasies of any kind are distortions, because fantasies always involve twisting perception into unreality. 
 <sup>3</sup>Actions that stem from distortions are literally the reactions of those who know not what they do. 
@@ -135,14 +146,18 @@ Learn to use the body to enlarge your perception.
 <sup>14</sup>Complete restoration of the Sonship is the only goal of the miracle-minded.
 
 #### simplifed 
+
 Fantasies are false associations. Fantasies are an attempt to obtain pleasure. Fantasies are not real. Fantasies are not satisfying. Miracles are wholly satisfying. Release yourself and the whole Sonship from fantasies.
 
+
 #### commentary
+
 :::tip
 Restoration of the Sonship, not the disappearance of. (Ed.)
 :::
 
 ## T-1.VII.4
+
 <p class=fip id=p4>
 4.&emsp;This is a course in mind training. 
 <sup>2</sup>All learning involves attention and study at some level. 
@@ -153,6 +168,7 @@ Restoration of the Sonship, not the disappearance of. (Ed.)
 </p>
 
 #### expanded 
+
 4.&emsp;This is a course in mind training. 
 <sup>2</sup>All learning involves attention and study at some level. 
 <sup>3</sup>Some of the later parts of the course rest too heavily on these earlier sections not to require their [earlier sections’] careful study. 
@@ -161,6 +177,7 @@ Restoration of the Sonship, not the disappearance of. (Ed.)
 <sup>6</sup>However, as you study these earlier sections, you will begin to see some of the implications that will be amplified later on.
 
 #### substituted
+
 4.&emsp;This is a course in mind training. 
 <sup>2</sup>All learning involves attention and study at some level. 
 <sup>3</sup>Some of the later parts of the course rest too heavily on these earlier sections not to require earlier sections’ careful study. 
@@ -169,8 +186,10 @@ Restoration of the Sonship, not the disappearance of. (Ed.)
 <sup>6</sup>However, as you study these earlier sections, you will begin to see some of the implications that will be amplified later on.
 	
 #### simplifed 
+
 This is a course in mind training. Learning involves attention and study. Study these early sections carefully. Without preparation now you may be fearful later on.
 
+<!-- 
 #### commentary
 :::tip 
 (1) The miracle changes the misperceptions in our wrong mind, which reflects the purpose of <em>A Course in Miracles</em>. (Wapnick, AVI, p.119.)
@@ -191,8 +210,10 @@ This is a course in mind training. Learning involves attention and study. Study 
 :::tip
 (4) …many students emphasise the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, FCTL, p.171.)
 :::
+ -->
 
 ## T-1.VII.5
+
 <p class=fip id=p5>
 5.&emsp;A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which is often made. 
 <sup>2</sup>I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
@@ -235,7 +256,10 @@ This is a course in mind training. Learning involves attention and study. Study 
 #### simplifed 
 We have an equal role in the Atonement. Awe and fear should not be confused. Fear is to be healed. Awe is proper towards God. Later steps in the course involve a direct approach to God. 
 
+<!-- 
 #### commentary
+
 :::tip
 (para 4–5) In the last two paragraphs of the first chapter of the text, we read of the need to go very slowly and carefully through all of the material, including the first four chapters. If we do not, we will not be prepared for what will come later, and we will become afraid of it. (Wapnick, ATG, p.107.)
 :::
+ -->

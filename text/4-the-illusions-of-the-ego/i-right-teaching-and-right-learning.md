@@ -225,11 +225,13 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 
 Perceiving larger egos creates extra anxiety. When an ego perceive other egos, then ego preservation becomes the goal. 
 
+<!-- 
 #### commentary
 
 :::tip
 (3) …once the Holy Spirit’s corrections have been accepted, the ego’s mistakes have disappeared, making corrections unnecessary … once the guilt we made is replaced by its opposite — forgiveness — both disappear. c/f [C-4.6:1,7–10](/clarification/4-true-perception-knowledge.html#p6) (Wapnick, AVI, p.216)
 :::
+ -->
 
 ## T-4.I.7
 
@@ -312,11 +314,13 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 
 You made the ego. The ego is not real. Accept reality. Reality is: God is Real, you are God’s Son, God is pleased with His Son.
 
+<!-- 
 #### commentary
 
 :::tip
 (6) Regardless of what we might do or not do to deserve God’s Love, His Love is constant, merciful, and compassionate to the children He loves, who still dream of His punishing anger. All of us share equally in God’s Kingdom, because we are His beloved children. (Wapnick, FAJ, p.216)
 :::
+ -->
 
 ## T-4.I.9
 
@@ -366,11 +370,13 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 
 You create fear by choosing to create unlike God. It is unbelievable that you could create unlike God. 
 
+<!-- 
 #### commentary
 
 :::tip
 (1–3) Inherent in the thought of separation is the wish to be God, to be self-created instead of God-created; the wish to create on one’s own. (Wapnick, LDNC, p.454)
 :::
+ -->
 
 ## T-4.I.10
 
@@ -444,11 +450,13 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 
 The ego’s house is shabby, unsheltering and impoverished. Only the home God made is worthy of God’s creations. You have chosen to leave to God’s home. God’s home is always ready for you. You can choose to enter God’s home any time. 
 
+<!-- 
 #### commentary
 
 :::tip
 (2–5) God is the only foundation that can withstand the turbelences of our world. (Wapnick, FAJ, p. 223)
 :::
+ -->
 
 ## T-4.I.12
 

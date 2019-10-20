@@ -39,6 +39,7 @@
 
 Thoughts about the body cause fear. Let me control thoughts about the body. Let me guide your mind. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -56,6 +57,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 :::tip
 (4–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, LDNC, p.507 and paraphrased AAC, p.173.) (see [para. 4:1–5](#p4))
 :::
+ -->
 
 ## T-2.VI.2
 
@@ -138,6 +140,7 @@ Behaviour is not a choice. You choose what to think. What you do comes from what
 
 Behaviour and fear are the outcomes of misthought. Correction and healing can only occur at the level of mind. Be willing to change your mind. Your mind needs guidance.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -146,6 +149,7 @@ Behaviour and fear are the outcomes of misthought. Correction and healing can on
 
 :::tip(4, 6) Our basic problem is the decision to see ourselves separated from God and thus unloved by Him, not what the world would identify as problems. It is this decision that must be changed. The correction for this error must occur in the place where it was made: in our minds, not in the world. (Wapnick, FAJ, p.238.)
 :::
+ -->
 
 ## T-2.VI.4
 
@@ -192,6 +196,7 @@ Behaviour and fear are the outcomes of misthought. Correction and healing can on
 
 You are willing to be separate. Your mind miscreates. You are fearful. Correct the error by making choices in accord with my choices.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -213,6 +218,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 :::tip
 (6) …the curriculum of *A Course in Miracles* is a lifelong one, helping its students to embark on a journey that requires great diligence and consistent application. … One of the important messages to be learned from the text is the respect we should accord our ego thought system, not because it is true, but because we believe in it. Thus we can also state that the process of learning the Course involves growing in the discernment of knowing to which voice we are listening. (Wapnick, LDNC, p.604.)
 :::
+ -->
 
 ## T-2.VI.5
 
@@ -439,6 +445,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 
 Fear occurs because you do not respect the mind. The mind is very powerful. The mind is always creating. There are no idle thoughts. All thinking produces form.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -447,4 +454,5 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 
 :::tip
 (14) …it means that the thoughts of [for example] shooting your wife, of putting the revolver down, or of doing something else entirely, have already happened. Thus you are not really having a new thought, but merely accessing different thoughts in your mind. Therefore, you are re-experiencing a thought that you once had. This is a mind-boggling idea, but it is the key to understanding what *A Course in Miracles* says about time. (Wapnick, AVI, p.19.)
-:::
+::: 
+-->

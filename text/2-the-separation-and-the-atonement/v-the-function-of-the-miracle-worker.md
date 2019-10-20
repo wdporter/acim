@@ -48,6 +48,7 @@
 
 Fear of release comes from believing the mind can hurt itself. The mind cannot hurt itself. The mind’s miscreations do not exist. The body is a learning device for the mind. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -57,6 +58,7 @@ Fear of release comes from believing the mind can hurt itself. The mind cannot h
 :::tip
 (3–11) Therefore the miracle would undo the heart of the ego’s strategy by undoing the Son’s level confusion of believing his problem was in the body, rather than in his mind’s decision to turn away from the truth of his Identity as spirit. (Wapnick, AAC, 233.) (c/f [5](#p5), [15:1–2](#p15)).
 :::
+ -->
 
 ## T-2.V.2
 
@@ -91,11 +93,13 @@ Fear of release comes from believing the mind can hurt itself. The mind cannot h
 
 Do not use the mind to heal if there is fear or egocentricity.
 
+<!-- 
 #### commentary
 
 :::tip
 (2) see [T-2.IV.4:6](/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear#p4).
 :::
+ -->
 
 ## T-2.V.3
 
@@ -190,6 +194,7 @@ Trust in my readiness. Miracles come from right-mindedness. Fear turns right-min
 
 Accept the Atonement for yourself. Accepting the Atonement will heal your mind. Healing your mind will heal other minds. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -219,6 +224,7 @@ Accept the Atonement for yourself. Accepting the Atonement will heal your mind. 
 :::tip
 (1) Our one responsibility then is to change our minds and accept the truth about who we are: the sinless Son of God. It is this shift that Jesus refers to in *A Course in Miracles* when he re-iterates our “sole responsibility”… (Wapnick, AAC, p. 205.)
 :::
+ -->
 
 ## T-2.V.6
 

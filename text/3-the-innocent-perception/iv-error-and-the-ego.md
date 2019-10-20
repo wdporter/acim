@@ -71,12 +71,14 @@ The separation introduced levels. Perception and conflict arise from levels.
 #### simplified
 
 Before the separation, the mind was a creator. After the separation, the mind split. The split mind became conscious, and began to perceive. Consciousness is the ego. The ego is wrong-minded. The ego sees you as you wish to be. What you are is all you can really know.
-	
+
+<!-- 	
 #### commentary
 
 :::tip
 When the “tiny mad idea” seemed to occur and the dream of separation began, it appeared as if the Son of God were able to accomplish, and had indeed accomplished the impossible: splitting off from his true Self, leaving him with a separated mind that had itself split in two parts: the wrong mind, ruled by the  ego; and the right mind, the home of the Holy Spirit. This split mind is goverened by the self-concept of a *decision maker* that represents the power of the Son of God to choose between the ego and the Holy Spirit. (Wapnick, AAC, p.86.)
 :::
+ -->
 
 ## T-3.IV.3
 
@@ -126,11 +128,13 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 
 The ego asks questions but can’t perceive meaningful answers. A separated mind’s has confused aspects. The aspects are strangers, which creates attack and fear. You did not and can not create yourself. You must heal the separation.
 
+<!-- 
 #### commentary
 
 :::tip
 (7) There are several places in the course which speak of the separated parts of the Sonship as “aspects” ([T-13.VI.6:4](/text/13-the-guiltless-world/vi-finding-the-present#p6); [T-15.V.2:3](/text/15-the-holy-instant/v-the-holy-instant-and-special-relationships#p2). At other times Jesus refers to them as “parts” (e.g., [T-2.VII.6:2–7](/text/2-the-separation-and-the-atonement/vii-cause-and-effect#p6); [T-12.IV.6:8](/text/12-the-holy-spirits-curriculum/iv-seeking-and-finding#p6); [T-15.V.2:2](/text/15-the-holy-instant/v-the-holy-instant-and-special-relationships#p2); [T-15.V.3:1](/text/15-the-holy-instant/v-the-holy-instant-and-special-relationships#p3). Both are objective or neutral words to describe the seemingly personal individuality of God’s Sonship. The aspects of reality that we can still see here are the face of Christ that we see in each other, the sparks of the light of Christ that reflect our inherrent innocence (Wapnick, AVI, p. 259.)
 :::
+-->
 
 ## T-3.IV.4
 
@@ -207,11 +211,13 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 
 The mind wills to know. When the mind chooses to be separate, then the mind chooses to perceive. The mind returns to unity by a willingness to know. The mind can never be entirely separate. Creation is the mind’s nature. The separated mind miscreates, which is an attempt to create.
 
+<!-- 
 #### commentary
 
 :::tip
 (1) …perception is a relative phenomenon. It does not reflect a constant or absolute picture of the world around us — the seeming facts of the material universe — but rather perception is an *interpretation* of the world in which we live, which becomes, in effect, an unreal world. (Wapnick, FAJ, p. 38. c/f [T-3.V.7:7](/text/3-the-innocent-perception/v-beyond-perception#p7))
 :::
+ -->
 
 ## T-3.IV.6
 
@@ -258,11 +264,13 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 
 The body is the result of the ability to perceive. Perception involves interpretation. Perception is distorted creation. Perception allow you to identify yourself with the body. Spirit abolishes perception, as light abolishes darkness, as truth abolishes error. Knowledge can never disappear. Perception disappears in knowledge.		
 
+<!-- 
 #### commentary
 
 :::tip
 (4–5) …spirit has absolutely nothing whatsoever to do with anything outside Heaven, any more than any part of the dream can relate to spirit. c/f [T-4.II.8:5–8](/text/4-the-illusions-of-the-ego/ii-the-ego-and-false-autonomy#p8), [T-4.VI.4:1](/text/4-the-illusions-of-the-ego/vi-the-rewards-of-god#p4), [T-5.III.6:1–2](/text/5-healing-and-wholeness/iii-the-guide-to-salvation#p6). (Wapnick, AAC, p.144.) 
 :::
+ -->
 
 ## T-3.IV.7
 
@@ -327,6 +335,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 
 No miscreation exists. I corrected error by demonstrating the powerlessness of the body. My will was united with God’s and I remembered spirit. Misperceptions stand in your way. Bring your mind under my guidance. I will help you choose correctly. Right minds have rest and peace.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -347,4 +356,5 @@ No miscreation exists. I corrected error by demonstrating the powerlessness of t
 
 :::tip
 (12) The biblical text … a clear statement of specialness on the part of God who chooses only certain of His children, is corrected in the Course to place the responsibility onto us (Wapnick, LDNC, p. 592.)
-:::
+::: 
+-->

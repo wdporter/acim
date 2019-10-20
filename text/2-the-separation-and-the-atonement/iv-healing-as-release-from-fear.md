@@ -42,11 +42,13 @@
 
 Healing is the release from fear. Healing is the result of miracles. The Atonement makes miracles possible. 
 	
+<!-- 
 #### commentary
 
 :::tip
 (3–4) And yet Chapter 27 speaks of “a miracle of healing” ([T-27.II.5:2](/text/27-the-healing-of-the-dream/ii-the-fear-of-healing#p5)). The apparent inconsistency is resloved by recognising that in the first reference [ie this paragraph] Jesus is emphasising that the miracle is a means, while healing is the result. This teaching purpose was not present later in the text, and so the more poetic expression, “a miracle of healing” could be used. (Wapnick, LDNC, p.609.)
 :::
+ -->
 
 ## T-2.IV.2
 
@@ -93,15 +95,17 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 
 Only the mind can make an error. The body responds to errors in the mind.
 
+<!-- 
 #### commentary
 
+:::tip
 Sickness is no different from any other form in the world that reflects the ego’s purpose. … The physical world is nothing but the projection of the underlying thought of separation. Thus, the body merely carries out the wishes of the mind, having no power within itself. (Wapnick, FAJ, p.76.)
-
-#### commentary
+:::
 
 :::tip
 …the Son’s mistake of confusing the levels of the mind and body, and his believing that the body can cause pain, indeed, that the body can do anything at all. It is the belief that it can that Jesus equates with magic, the ego’s tactic to confuse the Son as to where the problem and solution truly are. … it is not only the body that does nothing, but the separated mind as well; it has not really created “beyond itself”, as the ego has claimed. (Wapnick, AAC, p. 231, 232.)
 :::
+-->
 
 ## T-2.IV.3
 
@@ -163,6 +167,7 @@ The ability to miscreate is part of the ability to create. The mind’s miscreat
 A sentence in the ur-text has been deleted from between 12 and 13. The sentence is essential to understanding 13. “There is little doubt that the mind can miscreate”. I.e. the body has been (mis)-created by the mind, but the ability to miscreate is an unfortunate side-effect of the mind having the ability to create. So don’t deny the body, but use the body as a learning device. —Ed.
 :::
 
+<!-- 
 :::tip
 (8–12) When we fall into this ego trap of denial we are forgetting that one cannot leave this world of illusion without *first* correcting these illuusions on the level where our belief is placed. The goal of *A Course in Miracles* is to transform the world not to transcend it, which is the step belonging to God when He lifts us back to Himself after all our misperceptions have been corrected by the Holy Spirit. While the Course places great emphasis on saving time, time is *not* saved through denial , but through  undoing our guilt in our relationships where it is the most pwerfully projected. (Wapnick, FAJ, p. 111.)
 :::
@@ -194,6 +199,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 :::tip
 (12)The more ascetically successful aspirants are, the more they are deluded into believing that they have actually accomplished something (by “denying the unmindful”), while all the time their unconscious guilt remains safe and secure in their minds, behind the body’ armour and therefore requiring still greater effort to undo. (Wapnick, AAC, p. 293.)
 :::
+-->
 
 ## T-2.IV.4
 <p class=fip id=p4>
@@ -240,6 +246,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 
 The belief in illness can take hold of the mind. In this state, a miracle can cause fear or panic. If so, it might be better to use material means. Using material means in this case is not a bad thing.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -256,6 +263,7 @@ The belief in illness can take hold of the mind. In this state, a miracle can ca
 
 :::tip(6) As we all have experienced, magic *does* work at its own level. … Although it is not a mistake to use such agents [ie medicine or surgery], it *is* a mistake to ascribe healing properties to them, for they do not remove the causes that brought on the symptom. To believe that magic heals closes off the power of the miracle to undo the guilt that *is* the cause of sickness, “protecting” the guilt from healing by refusing to recognise its existence. (Wapnick, FAJ, p.78–79.) see [T-2.V.2:2](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker#p2). 
 :::
+ -->
 
 ## T-2.IV.5
 <p class=fip id=p5>
@@ -288,6 +296,7 @@ The belief in illness can take hold of the mind. In this state, a miracle can ca
 
 Miracles express the Atonement in whatever way is most helpful to the receiver. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -304,4 +313,5 @@ The importance of the form of help lies in the *purpose* for which it is used. �
 
 :::tip
 Jesus’ own Course [is] the perfect example of the principles he was teaching his students; his words not being “the highest level of communication” of which his students are capable of understanding, but certainly the highest level that they can tolerate in their fearful state. (Wapnick, FCTL, p. 94.)
-:::
+::: 
+-->

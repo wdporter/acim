@@ -66,11 +66,13 @@ Recap: perception was introduced after the separation. Perception is judgemental
 
 “Make” means something made out of a specific sense of lack or need. Making things is believing in separation. The ego makes thought systems. God’s creations have abstract creativity.
 
+<!-- 
 #### commentary
 
 :::tip
 In *A Course in Miracles*, “make” is reserved for the world of separation or its correction, while “create” refers only to the activity of spirit in Heaven (see, for example, [T-2.VIII.1](/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement#p1); [T-4.I.9:3](/text/4-the-illusions-of-the-ego/i-right-teaching-and-right-learning#p9)). (Wapnick, AVI, p.229.)
 :::
+-->
 
 ## T-3.V.3
 
@@ -219,6 +221,7 @@ Let go of ingenious thinking. Ingenious thinking is an effort of the ego to inte
 
 Your only meaningful prayer is forgiveness. Praying for forgiveness is asking to recognise what you already have. You chose perception. In perception you lose knowledge of who you really are. You need a miracle to get out of perception. Creation is your source and your function.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -236,6 +239,7 @@ Your only meaningful prayer is forgiveness. Praying for forgiveness is asking to
 :::tip
 (5) Our prayer, the, should be only for help in accepting the truth that is *already* there, …prayer is no different from forgiveness or the miracle, for they all reflect the process of undoing the ego thought system that never was, leaving to be itself the Love of God that has alway been. (Wapnick, AAC, p.259.)	
 :::
+ -->
 
 ## T-3.V.7
 
@@ -276,6 +280,7 @@ Your only meaningful prayer is forgiveness. Praying for forgiveness is asking to
 
 There is only spirit. Spirit is created in God’s Thought, and in like quality to God. Perception requires belief in ‘more’ and ‘less’. Perception involves: accepting/rejecting, organising/re-organising, shifting and changing, evaluation, selectivity, and judgement.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -283,11 +288,12 @@ There is only spirit. Spirit is created in God’s Thought, and in like quality 
 :::
 
 :::tip
-(7–8) Crucial to *A Course in Miracles* understanding of salvation is that it is not the world or sin from which one needs to be saved, for …the external is *not* the problem. (Wapnic, AAC, p.153.)
+(7–8) Crucial to *A Course in Miracles* understanding of salvation is that it is not the world or sin from which one needs to be saved, for …the external is *not* the problem. (Wapnick, AAC, p.153.)
 :::
 
 :::tip
 (7) …perception is a relative phenomenon. It does not reflect a constant or absolute picture of the world around us — the seeming facts of the material universe — but rather perception is an *interpretation* of the world in which we live, which becomes, in effect, an unreal world. (Wapnick, FAJ, p.38. c/f [T-3.IV.5:1](/text/3-the-innocent-perception/iv-error-and-the-ego#p5)
+ -->
 
 ## T-3.V.8
 
@@ -367,11 +373,13 @@ In Knowledge there is perfect equality and no judgement. Perception becomes impo
 
 Forgiveness is the healing of the perception of separation. You need to correct your perception of your brother. Your minds are not separate. You can know God completely. Each brother is a spirit, and can know God completely.
 
+<!-- 
 #### commentary
 
 :::tip
 (1) …the Course repeatedly emphasises: as we teach so shall we learn. Jesus is there to teach his lesson to us in all the opportunities that our egos have provided. Joining us in them, he teaches us how to look at all things as instruments of forgiveness. (Wapnick, FAJ, p.301.)
 :::
+ -->
 
 ## T-3.V.10
 

@@ -111,7 +111,8 @@ Stop trying to hide holiness in darkness. A miracle brings corrects error. A mir
 #### simplified
 
 You have everything. The Atonement makes you aware you always have had everthing. You don’t need anything else.
-	
+
+<!-- 	
 #### commentary
 
 :::tip
@@ -121,6 +122,7 @@ You have everything. The Atonement makes you aware you always have had everthing
 :::tip 
 (4) Until the moment of birth, the fetus has little or no awareness of itself as a separate being. It does not desire, since its basic physiological needs are met by and through the mother. In this respect, and this respect only, life in the womb is similar to the state of paradise described in the second chapter of Genesis where Adam wanted for nothing, all having been given by God, reflecting what *A Course in Miracles* refers to as the principle of abundance. In a state without lack there can be no sense of separation or “otherness”. (Wapnick, AAC, p.100.) 
 :::
+ -->
 
 ## T-1.IV.4
 

@@ -64,15 +64,17 @@ The miracle and the body are learning aids. You can choose to express miracles. 
 <sup>4</sup>The miracle worker recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
 <sup>5</sup>Equality does not imply equality <em>now</em>. 
 <sup>6</sup>When everyone recognises that one has everything, individual contributions to the Sonship will no longer be necessary.
-#### simplified
 
+#### simplified
 Collapse time by recognising you have everything. Every collapse brings everyone closer to knowledge of oneness.
 
+<!-- 
 #### commentary
 
 :::tip
 (1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, AVI, p.129.)
 :::
+ -->
 
 ## T-1.V.3
 
@@ -113,6 +115,7 @@ Collapse time by recognising you have everything. Every collapse brings everyone
 
 All are children of God. All are dependent on God. All share God’s gifts equally. All are special. Do not believe you are deprived of anything. Believing in deprivation distorts perceptions. Distorted perceptions create distorted relationships.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -134,6 +137,7 @@ All are children of God. All are dependent on God. All share God’s gifts equal
 :::tip
 (6) The true teacher of God … is not one with a <em>special</em> mission, nor a <em>special</em> gift to give others <em>special</em> messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in re-inforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
 :::
+ -->
 
 ## T-1.V.4
 
@@ -168,11 +172,13 @@ All are children of God. All are dependent on God. All share God’s gifts equal
 
 All of God’s creations are holy. The miracles calls every member of the family of God to return to a state of completion and abundance.
 
+<!-- 
 #### commentary
 
 :::tip
 (3–4) God is not mocked because His creation of you will have the last word — no matter how sinful you appear to become, you cannot change the holiness He created in you. (C of A, p. 31.)
 :::
+ -->
 
 ## T-1.V.5
 

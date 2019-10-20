@@ -27,11 +27,13 @@
 
 In perception we judge others and judge ourselves. After the Last Judgement there will be no more judgement.
 
+<!-- 
 #### commentary
 
 :::tip
 (4) The decision to attack another is really the decision to hold onto our guilt through the dynamic of projection. Thus, it is not so much the judgement we shall receive from the outside that is the warning here, but the judgement we would make against ourselves by attacking another, re-inforcing our own guilt. This is always the ego’s hidden motive: to retain our guilt by projecting it onto others. Jesus’ words, as elsewhere, should not be taken as a threat of God’s punishment or vengeance, but rather as a caution on the threat of punishment and vengeance we incur upon ourselves, which re-inforces the belief in our own sinfulness. Of such is <em>not</em> the Kingdom of Heaven. (Wapnick, FAJ, p. 175. c/f [T-25.VIII.13:3](/text/25-the-justice-of-god/viii-justice-returned-to-love#p13))
 :::
+-->
 
 ## T-3.VI.2
 
@@ -84,11 +86,13 @@ In perception we judge others and judge ourselves. After the Last Judgement ther
 
 Judging is selecting and rejecting. What is perceived is judged. What is perceived does not exist. Perceiving anything or judging anything affects your mind.
 
+<!-- 
 #### commentary
 
 :::tip
 (6) …this world has not left its source in the mind, does not exist outside this mind, and is, …*nothing but* this ego thought system of victimisation and attack. Again, *ideas leave not their source*. (Wapnick, AAC, p.56.)
 :::
+ -->
 
 ## T-3.VI.3
 
@@ -123,6 +127,7 @@ Judging is selecting and rejecting. What is perceived is judged. What is perceiv
 
 Not judging brings peace. You do not need to judge. Giving up judgement enables perception to be given up.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -132,6 +137,7 @@ Not judging brings peace. You do not need to judge. Giving up judgement enables 
 :::tip
 (1) …the benefits of the Holy Spirit, meaning the benefits of letting go of our guilt and experiencing the peace that comes from truly trusting in each other. (Wapnick, AVI, p. 159.)
 :::
+ -->
 
 ## T-3.VI.4
 
@@ -265,11 +271,13 @@ Give mercy because mercy was given to you by God.
 
 Everything the ego makes is a symptom of the authority problem. The mind is split between the Holy Spirit and the ego. The ego is the authority problem. 
 
+<!-- 
 #### commentary
 
 :::tip
 (2) The Course states that the basis of our difficulties is the authority problem, a psychological concept which is redefined in religious terms. In the Course’s view this problem rests on the belief that we, rather than God, created ourselves. This strange belief is illustrated by the current emphasis in psychology on the ‘self-concept’, which implies that it is up to us to define and change our own reality as we see fit. This might be regarded as a modern versio of the situation found in the book of Genesis, in which Adam and Eve decided that they would be ‘other’ than God and have a will that was separated from His. … And indeed, most of us continually re-affirm the belief that we are separate from our Creator every second of our lives. (Wapnick, CP, p.5.)
 :::
+ -->
 
 ## T-3.VI.8
 
@@ -316,11 +324,13 @@ Everything the ego makes is a symptom of the authority problem. The mind is spli
 
 The authority problem is when you believe you are the author of yourself. That is, that you created yourself. This belief creates conflict and make you unhappy. God wants to undo this belief.
 
+<!-- 
 #### commentary
 
 :::tip
 (1–4) …everyone in this world struggles with authority figures, the projected images of our belief that God is seeking to dominate and control us, and to suffocate our very existence by His Will. “Who is the author of my existence?” is the fundamental question everyone’s life attempts to answer, and as a result all believe that others are competitors for the position as well. [We sometimes we think we have an authority problem with Wapnick –Ed.] It should be mentioned that although the need to assert one’s authority in defiance of God and all substitute authority figures is shared by everyone, it certainly does not mean that behaviourally people should meekly allow tyrants — political, religious, or supervisory: physicall or psychologically — to subject them to abuse. [Ok, we feel better now, –Ed.] However, it does mean that one should be aware of the *unconscious* need to feel victimised by abusive authorities — real or imagined — so as to feel justified in perceiving themselves unfairly treated. (Wapnick, FCTL, p.19)
 :::
+ -->
 
 ## T-3.VI.9
 
@@ -389,11 +399,13 @@ Give over the desire to reject, and then you will know you can’t be rejected. 
 
 You must decide your authorship. Denying God’s Authorship results in fear. Your inheritance from God is peace.
 
+<!-- 
 #### commentary
 
 :::tip
 (2) The world of separation, therefore, shares with the thought of separation its basic attribute of attack, the product of the Son’s refusal “to accept his inheritance”. (Wapnick, AAC, p.64.)
 :::
+ -->
 
 ## T-3.VI.11
 

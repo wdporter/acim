@@ -44,6 +44,7 @@
 
 You make yourself fearfully by not guarding your thoughts carefully enough. Fear does not exist. The purpose of A Course in Miracles is to train you to think in a miracle-minded way.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -57,6 +58,7 @@ You make yourself fearfully by not guarding your thoughts carefully enough. Fear
 :::tip
 (4–6) Jesus is exhorting his students to pay careful attention to their mind’s decision to be unhappy, and to correct that *cause*, rather than continually seeking his help in remedying the *effect*, which ultimately makes no sense at all. (Wapnick, FCTL, p. 6.) 
 :::
+ -->
 
 ## T-2.VII.2
 
@@ -232,6 +234,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 
 There is no fear. There is only love. You must first recognise that you believe in separation. Recognising the belief in separation is temporary. Then the belief in separation can be corrected. Separation is corrected by accepting the Atonement. Time is a learning device. Time is the gap that enables you to recognise the belief in separation before you accept the Atonement. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -241,6 +244,7 @@ There is no fear. There is only love. You must first recognise that you believe 
 :::tip
 (14) … [the Course’s] central teaching is to forgive the world, being grateful for its capacity of being a classroom in which we can accept Jesus’s gift of forgiveness. (Wapnick, AAC, p. 300.)
 :::
+ -->
 
 ## T-2.VII.6
 <p class=fip id=p6>
@@ -283,6 +287,7 @@ There is no fear. There is only love. You must first recognise that you believe 
 
 God has one Son. The Son has many parts. The Son is not whole without all the parts. A part of the Son can believe in error or incompleteness. Believing in error or incompleteness is believing in the existence of nothingness. The Atonement is the correction of the error of believing in the existence of nothing.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -296,6 +301,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 :::tip
 (3) …one cannot appreciate the pure wholeness and oneness of Christ by simply adding up the billions and billions of fragments that the world thinks is the Son of God, as if the Sonship were like a huge pie, a quantifiable entity consisting of a certain amount of separated fragments. (Wapnick, FCTL, p. 67.)
 :::
+ -->
 
 ## T-2.VII.7
 
@@ -339,6 +345,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 
 Be ready to accomplish. Being ready to accomplish means having potential for a change of mind. The desire for accomplishment can be misguided because of fear. Fear is resolved by love in time. I control time and space. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -351,4 +358,5 @@ Be ready to accomplish. Being ready to accomplish means having potential for a c
 
 :::tip
 (9) …time is not linear, space is not real, and that if we let him teach us his lesson we could learn very quickly. (Wapnick, AVI, p.152.)
-:::
+::: 
+-->

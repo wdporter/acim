@@ -45,6 +45,7 @@
 
 I begin the process of Atonement. I help you to cancel out errors. Atonement is being restored to your natural state. Correct error by listening to me. Learn to undo error and act to correct error. Be ready and willing to do miracles. Doing more miracles brings more conviction. Miracles are for Atonement.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -70,6 +71,7 @@ In the Course, the Atonement as an event refers to the resurrection, not the cru
 :::tip
 (1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, FAJ, p.293.)
 :::
+ -->
 
 ## T.1.III.2
 
@@ -98,6 +100,7 @@ In the Course, the Atonement as an event refers to the resurrection, not the cru
 
 Heaven and earth will not continue to exist as separate states. My word is the resurrection and the life. My word shall not pass away because life is eternal. God’s work is wholly lovable and wholly loving. You are the work of God. You are wholly lovable and loving.
   
+<!-- 
 #### commentary
 
 :::tip
@@ -107,6 +110,7 @@ Heaven and earth will not continue to exist as separate states. My word is the r
 :::tip
 (4) The Course reverses cause and effect. Instead of how you think of yourself dictating what you are, what you are needs to dictate how you think of yourself. (C of A, p.20.)
 :::
+ -->
 
 ## T-1.III.3
 
@@ -227,11 +231,13 @@ I am the Atonement. I can do any miracle I like. Ask me what miracle to do. Foll
 
 Error is vulnerable. Remember you are in a state of grace forever. Undoing errors uproots fear. Do not be loyal to error. Do not re-inforce or defend error. Bless others so they may undo their distortions.
 
+<!-- 
 #### commentary
 
 :::tip
 (4–6) We live always in the grace of God’s freely given love. What Jesus taught during his earthly life is what he teaches now in the Course. (Wapnick, FAJ, p.216.)
 :::
+ -->
 
 ## T-1.III.6
 

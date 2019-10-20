@@ -27,6 +27,7 @@
 
 Miracles are all equal to do. Love always expresses as much as it can.
 
+<!--
 #### commentary
 
 :::tip
@@ -44,6 +45,7 @@ Miracles are all equal to do. Love always expresses as much as it can.
 :::tip
 The very first principle of miracles that begins the text proper contains the whole thought system of the Course. In that sense the rest of the text is a commentary on this first principle which is the cornerstone of the teaching. (Wapnick, FCTL, p.15.)
 :::
+-->
 
 ## T-1.I.2
 
@@ -66,11 +68,13 @@ The very first principle of miracles that begins the text proper contains the wh
 
 The Source of a miracle matters more than the miracle. The Source of miracles is beyond evaluation.</p>
 
+<!-- 
 #### commentary
 
 :::tip
 …likely… ‘source’ here refers to both God and love, or to God <em>as</em> love. (C of A, p.7)</p>
 :::
+--> 
 
 ## T-1.I.3
 
@@ -162,6 +166,7 @@ Let miracles become a habit. Do not choose what miracle to do. Choosing can be m
 #### simplified
 Something is wrong if a miracle does not happen.Miracles are natural.
 
+<!--
 #### commentary
 
 :::tip
@@ -171,6 +176,7 @@ Something is wrong if a miracle does not happen.Miracles are natural.
 :::tip
 This statement reflects the very practical nature of the Course. It is not teaching us simply the intellectual concept that time is an illusion; it is teaching us to recognise that all of our problems are the same. (Wapnick, AVI, p.51.)
 :::
+-->
 
 ## T-1.I.7
 
@@ -190,11 +196,13 @@ This statement reflects the very practical nature of the Course. It is not teach
 
 Purification is necessary for your right to a miracle.
 
+<!-- 
 #### commentary
 
 :::tip
 Purification is … of our thoughts (C of A, p.8.)
-:::
+::: 
+-->
 
 ## T-1.I.8
 <p class=fip id=p8>
@@ -255,11 +263,13 @@ The use of miracles as spectacles to induce belief is a misunderstanding of thei
 
 It is not the purpose of Miracles to induce belief.
 
+<!-- 
 #### commentary
 
 :::tip
 …they must first <em>decide</em> to accept God’s word. Demanding an external sign as proof of God is really believing in magic, since we must instead choose the miracle that reflects ourinternal shift. … Thus Jesus taught elsewhere, “Why does this generation demand a sign? I tell you solemnly, no sign shall be given to this generation” (Mk 8:12). No sign will be given because it would not be the loving or helpful thing to do, re-inforcing, as it where, the belief in magic which ultimately re-inforces the belief in separation. (Wapnick, FAJ, p. 236–237.)
 :::
+ -->
 
 ## T-1.I.11
 
@@ -311,11 +321,14 @@ Communication with God is through prayer. Love is received from prayer. Love is 
 
 Miracles are thoughts. Thoughts can represent a bodily level of experience and make the physical. Thoughts can represent a spiritual level of experience and make the spiritual.
 
+<!-- 
 #### commentary
 
 :::tip
 Jesus clearly delineates the mutually exclusive nature of the levels of the mind and the body, and cautions his students against confusing them. Such confusion… is what is responsible for sickness. And it is the miracle that heals by redirecting the Son’s attention to the proper level — the mind instead of the body — wherein is found both the problem and the answser. Here are the relevant level-confusion passages (also principles 17, 23, 30) that highlights the dimension of the miracle or healing (the mind) and sickness (the body) (Wapnick AAC p.230–231)
-:::
+::: 
+-->
+
 
 ## T-1.I.13
 
@@ -341,11 +354,15 @@ Jesus clearly delineates the mutually exclusive nature of the levels of the mind
 
 Miracles change time by changing beginnings and endings. Miracles allow rebirth. A rebirth does not change the past. A rebirth brings past and future into the present.
 
+
+<!-- 
 #### commentary
 
 :::tip
 …the miracle reflects the change of mind that enables us to let go of our guilt, the belief in our past sinfulness. This then frees the Holy Spritit to work through us in the sense that we are now allowing the extension of His Love to occur. In the words of <a href=/w/p1/194>Lesson 194</a>: “I place the future in the hands of God”. This is not possible as long as we hold on to the ego’s guilt. It <em>is</em> possible, of course, when we let go of the guilt, and that is what releases the future. The “beginning and the ending” that is referred to can be understood [sic] as the beginning and the ending of a relationship. The “beginning” would be the special relationnship that the ego has made real, while the “ending” is the forgiveness of that relationship — making it holy. (Wapnick, AVI, p. 123.)
 :::
+ -->
+
 
 ## T-1.I.14
 
@@ -399,6 +416,8 @@ Miracles are a convincing witness to truth. Without conviction miracles are only
 
 Each day should be devoted to miracles. Use time to teach and learn miracles. Time will end when learning ends.
 
+
+<!-- 
 #### commentary
 
 :::tip
@@ -412,6 +431,7 @@ The point here is that the ego made time as a way of trapping us, re-inforcing o
 :::tip
 Time is used by the Holy Spirit as a “teaching device” not because it is real, but because it is a means whereby we can learn. When we have learned our lessons time will disappear. As time was not made by God, it is not eternal, lasting only as long as the dream that gave rise to it is accorded reality.  (Wapnick, AVI, p. 125.)
 :::
+ -->
 
 ## T-1.I.16
 
@@ -434,11 +454,14 @@ Time is used by the Holy Spirit as a “teaching device” not because it is rea
 
 Miracles increase the strength of the giver. Miracles give strength to the receiver.
 
+
+<!-- 
 #### commentary
 
 :::tip
 (1) What we give <em>is</em> what we receive; what we ask for <em>is</em> our return. … As the beatitude says: “Happy the merciful, they shall have mercy shown them” (Mt. 5:7). (Wapnick, FAJ, p. 176.)
 :::
+ -->
 
 ## T-1.I.17
 
@@ -466,12 +489,13 @@ Miracles increase the strength of the giver. Miracles give strength to the recei
 
 Miracles transcend the body. Miracles shift to the invisible.
 
+<!-- 
 #### commentary
 
 :::tip
 c/f [principle 12](#p12), Wapnick AAC, p.230,231
 :::
-
+ -->
 
 ## T-1.I.18
 
@@ -500,11 +524,13 @@ c/f [principle 12](#p12), Wapnick AAC, p.230,231
 
 A miracle is the most service you can do for another. Love your neighbour as yourself. Recognise your worth and your neighbour’s worth.
 
+<!-- 
 #### commentary
 
 :::tip
 You love your neighbour as yourself by recognising the ‘inestimable’ value in both. (C of A, p.10.)
 :::
+ -->
 
 ## T-1.I.19
 
@@ -552,11 +578,13 @@ Minds co-operate by miracles. The Sonship is the all the minds God created joine
 
 The body is not the altar of truth. Miracles heal by making you aware that the spirit is the altar of truth.
 
+<!-- 
 #### commentary
 
 :::tip
 It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” (W-p1.76) that the effects of the ego’s laws disappear. (Wapnick, FAJ, p.77.)
 :::
+ -->
 
 ## T-1.I.21
 
@@ -602,11 +630,13 @@ Miracles allow you to accept God’s forgiveness by extending God’s forgivenes
 
 Believing darkness can hide is a denial of spiritual sight and brings fear.
 
+<!-- 
 #### commentary
 
 :::tip
 …‘spiritual eye’ … ‘true vision’ … ‘eyes of Christ’ … a spiritual faculty in us that is able to directly ‘see’ the holiness in ourselves and others. (C of A, p.13l.)
 :::
+ -->
 
 ## T-1.I.23
 
@@ -629,6 +659,7 @@ Believing darkness can hide is a denial of spiritual sight and brings fear.
 
 Sickness comes from confusing levels. Miracles rearrange perception. Miracles place all levels in true perspective.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -638,6 +669,7 @@ Sickness comes from confusing levels. Miracles rearrange perception. Miracles pl
 :::tip
 c/f [principle 12](#p12) (Wapnick, AAC, p.230,231)
 :::
+ -->
 
 ## T-1.I.24
 
@@ -801,11 +833,13 @@ Miracles honour your perfection. Miracles praise God. Miracles heal by denying b
 
 Miracles place spirit at the centre of perception. Spirit communicates directly from the centre.
 
+<!-- 
 #### commentary
 
 :::tip
 c/f [principle 12](#12), Wapnick AAC, p.230,231.
 :::
+ -->
 
 ## T-1.I.31
 
@@ -1053,11 +1087,13 @@ Everyone is a brother to you and to me. In everyone we can perceive the universa
 
 Our faulty perception sees lack. Miracles bring wholeness.
 
+ 
 #### commentary
 
 :::tip
-NB: Atonement is defined here as a correction (–Ed.)
+Atonement is defined here as a correction (–Ed.)
 :::
+
 
 ## T-1.I.42
 
@@ -1173,11 +1209,13 @@ Miracles involve communication from Holy Spirit (high level) to you (low level).
 
 The miracle is a learning device. The miracle is timeless so it lessens time.
 
+<!-- 
 #### commentary
 
 :::tip
 Because the Holy Spirit’s purpose for time is to undo guilt, by His having us undo guilt more quickly, our need for time lessens (Wapnick, AVI, p.126.)
 :::
+ -->
 
 ## T-1.I.48
 
@@ -1200,11 +1238,13 @@ Because the Holy Spirit’s purpose for time is to undo guilt, by His having us 
 
 You can control time with miracles. Revelation transcends time.
 
+<!-- 
 #### commentary
 
 :::tip
 …revelation entails a sudden shift to One-mindedness, being a direct communication from God to us, transcending time entirely. The miracle entails a shift from wrong- to right-mindedness; thus it saves us time but does not abolish it. The miracle <em>corrects</em> our mistakes; revelation transcends them. (Wapnick, AVI, p.125.)
 :::
+ -->
 
 ## T-1.I.49
 

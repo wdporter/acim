@@ -30,10 +30,13 @@
 
 Ego illusions are specific. The ego depends on the concrete. The mind is split between ego/concrete and mind/abstract. The ego believes your existence is defined by separation.
 
+<!-- 
 #### commentary
+
 :::tip
 The separated self not only has forgotten its *decision* to be on its own, but has forgotten too what it had chosen *against*: the Holy Spirit’s thought system of the Atonement. All that remains within the Son of God’s awareness is his autonomous and individual self, which of course remains an illusion … Nonetheless, within his own deluded mind at least, the Son of God has now made his fantasy into reality, and within this delusion he exists as a separated entity. c/f [T-11.V.4:4–6](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego#p4), [C-in.1:4](/clarification/introduction#p1) (Wapnick, AAC, p.87)
 :::
+-->
 
 ## T-4.VII.2
 
@@ -161,11 +164,13 @@ Spirit communicates with all aspects of creation. God creates by communication a
 
 Existence is specific in how it communicates. Being is in communication with everything that is real. Do not limit your state of communication. You know your own reality when you communicate with all of reality. 
 
+
 #### commentary
 
 :::tip
-(1–4, 6–8) …when the mind appeared to separate from its Source, thereby becoming split, the ego was born. Consequently we now speak of two minds: Mind — one with God; and mind — split off from Him. This split-off mind is what eventually emerges as the full-blown ego, the separated, illusory and ‘sinful’ illusory self. *A Course in Miracles* in fact distinguishes between *being*, which refers only to spirit, the abstract Mind of God or Christ which is the only reality, and *existence*, wihch is the realm of the separated or specific mind, the illusory state of non-being. c/f [5:1,7](#p5), [T-6.IV.7:4](/text/6-the-lessons-of-love/iv-the-only-answer#p7) (Wapnick, LDNC, p.494; AAC, p.145) (but note there are numerous parts of the text that speak of God as Creator and we, with our brothers, are his creations –Ed.)
+(1–4, 6–8) …when the mind appeared to separate from its Source, thereby becoming split, the ego was born. Consequently we now speak of two minds: Mind — one with God; and mind — split off from Him. This split-off mind is what eventually emerges as the full-blown ego, the separated, illusory and ‘sinful’ illusory self. *A Course in Miracles* in fact distinguishes between *being*, which refers only to spirit, the abstract Mind of God or Christ which is the only reality, and *existence*, wihch is the realm of the separated or specific mind, the illusory state of non-being. c/f [5:1,7](#p5), [T-6.IV.7:4](/text/6-the-lessons-of-love/iv-the-only-answer#p7) (Wapnick, LDNC, p.494; AAC, p.145) (But note there are numerous parts of the text that speak of God as Creator and we, with our brothers, are his creations –Ed.)
 :::
+
 
 ## T-4.VII.5
 
@@ -242,11 +247,13 @@ God creates being who have everything. God’s created beings want to share. Sha
 
 Praising God means to take your part in the creation. Taking your part in creation gives you joy. God knows if you do not take your part because God feels your lack of joy. 
 
+<!-- 
 #### commentary
 
 :::tip
 (1–3) Prayer … is content, not form — the content of love, our only purpose … Prayer is for *our* benefit, not God’s. (Wapnick, LDNC, p.540; AAC, p.262)
 :::
+ -->
 
 ## T-4.VII.7
 
@@ -277,12 +284,6 @@ Praising God means to take your part in the creation. Taking your part in creati
 #### simplified
 
 Your kingdom is kept by God for you until you know God’s joy. God will reveal himself to you. Use the knowledge you gain by that to have the right attitude to others.
-
-#### commentary
-
-:::tip
-(4) We presume this means only the Apostle John can understand the Book of Revelation! (—Ed.)
-:::
 
 ## T-4.VII.8
 

@@ -33,6 +33,7 @@
 
 You did not create yourself. If you believe you did create yourself you will believe in magic. Creating is an effect of the will. God gave you the will to create, just as God as the will to create. Magic is miscreation. Whatever you make alone is real to you but is not real to God.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -42,6 +43,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 :::tip
 (6) …the true meaning of the Last Judgement is that God is not vengeful. His Final Judgement … is that He simply loves us as He always did. (Wapnick, AVI, p. 240.)
 :::
+ -->
 
 ## T-2.VIII.2
 
@@ -82,6 +84,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 
 God does not judge. Judgement is a learning device. The Last Judgement extends over time. You can shorten the process by miracles. Free yourself from fear and conflict to bring peace to other minds.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -103,6 +106,7 @@ God does not judge. Judgement is a learning device. The Last Judgement extends o
 :::tip
 (6–8) The more quickly we can make this choice [between miracles or grievances], the more quickly our minds can be healed; thus the more quickly Jesus can heal other minds through our own. (Wapnick, AVI, p. 241.)
 :::
+ -->
 
 ## T-2.VIII.3
 
@@ -143,6 +147,7 @@ God does not judge. Judgement is a learning device. The Last Judgement extends o
 
 The Last Judgement is the restoration of right-mindedness to all the Sonship. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -156,6 +161,7 @@ The Last Judgement is the restoration of right-mindedness to all the Sonship.
 :::tip
 (7–8) The individual process of learning right-minded judgements is what is referred to here. As this is learned and we accept the Atonemnt for ourselves, the vacillations between the ego and the Holy Spirit cease, so that our judgements are only those of the Holy Spirit. (Wapnick, AVI, p.242.) 
 :::
+ -->
 
 ## T-2.VIII.4
 
@@ -187,6 +193,7 @@ The Last Judgement is the restoration of right-mindedness to all the Sonship.
 
 First sort out the false from the true. Sorting out the false from the true is constructive separation. Keep what is good. You can love what you made. Withdraw belief from your miscreations. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -196,6 +203,7 @@ First sort out the false from the true. Sorting out the false from the true is c
 :::tip
 (3–5) We are … asked once again to judge between the truth of God’s and Christ’s reality as spirit, and the ego’s illusory world of materiality. (Wapnick, AVI, p.244.)
 :::
+ -->
 
 ## T-2.VIII.5
 
@@ -245,6 +253,7 @@ First sort out the false from the true. Sorting out the false from the true is c
 
 Your own last judgement is to retain only what is creative and good and perfect and loveable. Judgement ends when the is no fear left over.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -262,4 +271,4 @@ Your own last judgement is to retain only what is creative and good and perfect 
 :::tip
 (7–11) When we forgive everything in this world, thereby forgiving ourselves, there will be no fear. The guilt that demands fear of God’s punishment would be gone: without its *cause* (guilt), the *effect* (fear) must disappear. And this undoing of our guilt and fear through forgiveness constitutes our role in the Atonement. (Wapnick, AVI, p. 247.)
 :::
-
+ -->

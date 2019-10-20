@@ -1,6 +1,3 @@
----
----
-
 # T-1.VI The Illusion of Needs
 
 ## T-1.VI.1
@@ -29,11 +26,13 @@
 
 God’s creations have no lack. You deprived yourself by separating from God. Forgive yourself and see yourself truly. 
 	
+<!-- 	
 #### commentary 
 
 :::tip
 (3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, LDNC, p.488.; c/f AAC, p.123.) (c/f T-1.VI.2:2)
 :::
+ -->
 
 ## T-1.VI.2
 
@@ -103,11 +102,13 @@ You only need God, but the moment you see yourself as lacking something, <em>any
 
 Correct the belief that you need something in the world of space and time. Then you an correct the error of separation.
 
+<!-- 
 #### commentary
 
 :::tip
 (5–4:1) The purpose of the world is to correct our belief about the reality of space and time. (Wapnick, AVI, p. 247.)
 :::
+ -->
 
 ## T-1.VI.4
 
@@ -142,10 +143,12 @@ Correct the belief that you need something in the world of space and time. Then 
 
 God believes in God’s creations. You believe in what you made.  You made this world of fear. You can correct the world you made. 
 
+<!-- 
 #### commentary 
 :::tip
 The course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely. (Wapnick, LDNC, p.575–576.)
 :::	
+ -->
 
 ## T-1.VI.5
 
@@ -214,8 +217,10 @@ Fear produces a state that does not exist.
 
 There never could be any fear. God only creates love.
 
+<!-- 
 #### commentary
 
 :::tip
 (4) In the presence of God’s Love all fear automatically disappears. (Wapnick, AVI, p.96.)
-:::
+::: 
+-->

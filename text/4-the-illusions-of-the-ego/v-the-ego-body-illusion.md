@@ -34,8 +34,6 @@
 
 The ego thinks some things can be bad. The ego is vigilant about what it allows to be aware of. The ego is not a balanced mind. The ego needs to keep its thought system out of awareness. 
 
-#### commentary
-
 ## T-4.V.2
 
 <p class=fip id=p2>
@@ -72,9 +70,6 @@ The ego thinks some things can be bad. The ego is vigilant about what it allows 
 
 Thoughts of God point to the non-existence of the ego. The ego tries to change the thoughts of God. 
 
-#### commentary
-
-
 ## T-4.V.3
 
 <p class=fip id=p3>
@@ -101,9 +96,6 @@ Thoughts of God point to the non-existence of the ego. The ego tries to change t
 #### simplified
 
 The ego is afraid of God and the body. It makes sense for the ego to fear God. It makes no sense for the ego to fear the body.
-
-#### commentary
-
 
 ## T-4.V.4
 
@@ -153,6 +145,7 @@ The ego is afraid of God and the body. It makes sense for the ego to fear God. I
 
 The body is the ego’s chosen home. The ego hates the body because the body is vulnerable. The ego wants to hide your identity as being of God. The ego tells the mind that the mind is part of the body, but the body can’t protect the mind. The ego offers to protect the mind instead. The mind does not feel protected by the ego because the ego told the mind that the mind was part of the body in the first place. The ego pushes the uneasiness of feeling unprotected out of awareness. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -162,7 +155,7 @@ The body is the ego’s chosen home. The ego hates the body because the body is 
 :::tip
 (9–11) Once the thought that God created this world is accorded truth, the ego can safely rest. Whatever inconsistencies may from time to time appear within the consciousness of individuals are quickly disposed of, either by the ego’s “appeal to ‘mysteries’, insisting that you must accept the meaningless to save yourself” ([T-9.IV.4:7](/text/9-the-acceptance-of-the-atonement/iv-the-holy-spirits-plan-of-forgiveness#p4)), or by repression. Once pushed out of awareness, these inconsistent thoughts are no longer accessible to question and revision. (Wapnick, LDNC, p.571–572)
 ::: 
-
+ -->
 
 ## T-4.V.5
 
@@ -202,8 +195,6 @@ The body is the ego’s chosen home. The ego hates the body because the body is 
 #### simplified
 
 Do not seek blindly for protection, because you might not recognise protection. Formulate a clear goal for your seeking. Learning works best when ou want to learn it. Many things you want to learn have no lasting value.
-
-#### commentary
 
 
 ## T-4.V.6
@@ -254,11 +245,8 @@ Do not seek blindly for protection, because you might not recognise protection. 
 
 The ego loves to stay busy with non-essential tangential issues. The ego does not wants to hide the real question. Always ask yourself what everything is for. Make sure each thing is not for diverting the ego. 
 
-#### commentary
 
-:::tip
-(2–3) Another form of the … error of asceticism … is the notion that the body can be immortal. The underlying premise, of course, is that the body’s death is somehow bad, and is a fate that can and should be overcome. By placing a value on eternal *physical* life, the body thus has been made real, for if the body can live forever it *must* be real. This error also results from the ego’s effective use of denial, so that we forget that the body was made to keep the immortal hidden, immortality being a characteristic totally byeyond the ego. (Wapnick, FCTL, p. 158)
-:::
+#### commentary
 
 :::tip
 (3) The “real question” might refer to “Where can I go for protection?” as per 5:1, or to “What is the purpose?” as per 7, 9. Either way the essence of the question is probably the same (–Ed.). 

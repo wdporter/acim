@@ -38,7 +38,7 @@
 
 A thought system can be based on creating (active willing) or making (doing). A thought system based on lies has power because it is made by you. 
 
-#### commentary
+
 
 ## T-3.VII.2
 
@@ -127,11 +127,13 @@ You can’t solve the authority problem by pretending the mind is weak.
 
 Believing in separation makes separation real to the believer. God created knowledge and gives knowledge to His children. 
 
+<!-- 
 #### commentary
 
 ::tip
 (2–3) …the ego is nothing more than [the] belief system of separation, having no reality outside of the decision-making mind that thought it. It is not anything real, but simply a *belief* of what is *thought* to be real. (Wapnick, AAC, p.44–45. c/f [C-2.1:4–8,10](/manual/clarification-of-terms/2-the-ego-the-miracle#p1))
 :::
+ -->
 
 ## T-3.VII.4
 
@@ -184,11 +186,13 @@ Believing in separation makes separation real to the believer. God created knowl
 
 You did not create yourself. But you believe you did create yourself. You perceive an image of yourself as self-created. Your defences are used to attack anything that exposes this error. The Holy Spirit reminds you that you did not create yourself.  
 
+<!-- 
 #### commentary
 
 :::tip:
 (1–2) …though God and Christ share in spirit’s function of creating and are totally one, there is one essential difference: God created Christ; Christ did not create God. Though we are *like* God, creating as He does, we are *not* God. (Wapnick, AAC, p.14. c/f [T-7.I.1–2](/text/7-the-gifts-of-the-kingdom/i-the-last-step#p1)).
 :::
+ -->
 
 ## T-3.VII.5
 
@@ -238,19 +242,22 @@ You did not create yourself. But you believe you did create yourself. You percei
 
 The foundation of your thought system is a false belief in separation. Your thought system is your life. Your true foundation is that God created you. This is your real beginning. Go back to your beginning. At the beginning your Self is in peace. Nothing has truly happened since the beginning. Do not be afraid about the destruction of your thought system, that is, your life. 
 
+
 #### commentary
 
 :::tip
-(1–4) For ‘the devil’, read ‘the belief in separation’ (—Ed.) 
+(1–4) For ‘the devil’, we could read ‘the belief in separation’ (—Ed.) 
 :::
 
+<!-- 
 :::tip
 (1) Crucial to the Course’s understanding of salvation is that it is not “the world, the flesh and the devil” from which one needs to be saved, for that is not the problem. Rather, the problem is the underlying thought system of separation — the way we think — that brought about the world, the flesh and the devil. It is this “way of thinking” that we may more properly call the devil, it being nothing more than our belief that it is possible to have a force that opposes God, and that can succeed. (Wapnick, LDNC, p. 499–500.)
 :::
 
 :::tip
 (1) Therefore, if the problem is belief in separation, the solution can *only* be union. Forgiveness thus refers to the process of joining with another person (in a holy relationship) who heretofore had been experienced as separate from us (in a special relationship). (Wapnick, AAC, p.153.) 
-:::
+::: 
+-->
 
 ## T-3.VII.6
 
@@ -300,10 +307,11 @@ The foundation of your thought system is a false belief in separation. Your thou
 
 Your thought system must be corrected. The Kindgom of life/light/knowledge is waiting for you. You leave the world of perception/separation by way of truth.
 
+<!-- 
 #### commentary
 
 :::tip
 (sections [VI](/text/3-the-innocent-perception/vi-judgement-and-the-authority-problem) and VII) Once we see through the filter of the past, we cannot see the light of Christ that shines in others. Rather, we shall see around them only a shoadow of the guilt which *we* have put there. We put it there because we have projected it from our minds as a magical atttempt to escape from the guilt of *our* past. An example of this is people who have unresolved problems with their fathers, and with authority figures in general, who then see any authority figure as if that person were their father. The ultimate origin of the authority problem of course is our belief in the separation from God, the only Authrority. (Wapnick, AVI, p. 170.)
 :::tip
-
+ -->
 

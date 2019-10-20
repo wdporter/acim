@@ -144,10 +144,11 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 
 God created your mind in the likeness of God’s mind. You have used your mind to miscreate. You are afraid of God’s Will. You miscreate because you believe you are not free. Your mind has imprisoned itself. An imprisoned mind means the will can’t assert itself in accord with God’s will. Heaven is the Son’s mind in perfect accord with the God.
 
+
 #### commentary
 
 :::tip
-(5–6)That is, oneness does not mean a numerical oneness of identity, but means being of one mind and will. (–Ed.)
+(5–6) That is, oneness does not mean a numerical oneness of identity, but means being of one mind and will. (–Ed.)
 :::
 
 ## T-3.II.5

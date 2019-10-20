@@ -36,6 +36,7 @@
 
 Do not associate yourself with the ego. It is not easy to dismiss the ego. The ego is not a separate thing. The ego is part of your belief about yourself. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -45,7 +46,7 @@ Do not associate yourself with the ego. It is not easy to dismiss the ego. The e
 :::tip
 (3–6) …the two halves of the split mind — the ego and the Holy Spirit — represent two different and mutually exclusive reactions to, or interpretations and experiences of the “tiny, mad idea”. They are anthropomorphised in *A Course in Miracles* for pedagogical reasons. [Here] Jesus explains his anthropomorphising the ego. (Wapnick, AAC, p.30) 
 :::
-
+ -->
 
 ## T-4.VI.2
 
@@ -116,11 +117,13 @@ When you learn to escape from illusions, you will owe a debt to me and to all yo
 
 The more you trust in me, the more you learn it is insane not to trust me. Trusting in me brings peace and joy. Trusting anywhere else brings chaos and disaster. The rewards of God are recognised by your true self. You do not escape from the ego by controlling the ego.
 
+<!-- 
 #### commentary
 
 :::tip
 (4) Jesus sounds like a learning theorist — as he describes his method of helping us to choose him as our teacher instead of the ego. (Wapnick, AAC, p.196)
 :::
+ -->
 
 ## T-4.VI.4
 
@@ -296,8 +299,10 @@ God created your brothers. Be grateful to God for what God created.
 
 Engaging yourself with the Sonship in engaging yourself with me. God comes to you as you give God to your brothers. Learn first of your brothers.
 
+<!-- 
 #### commentary
 
 :::tip
 (2) …the basic principle of the Course itself, expressed over and over again in many different ways: “Salvation is a collaborative venture”, “The ark is entered two by two” [T-20.IV.6:5](/text/20-the-vision-of-holiness/iv-entering-the-ark#p6), “No one can enter Heaven by himself” [W-p1.134.17:7](/workbook/part-1/134-let-me-perceive-forgiveness-as-it-is#p17), and “together, or not at all” [T-19.IV-D.12:8](/text/19-the-attainment-of-peace/iv-d-the-fourth-obstacle-the-fear-of-god#p12). (Wapnick, ATG, p.4)
-:::
+::: 
+-->

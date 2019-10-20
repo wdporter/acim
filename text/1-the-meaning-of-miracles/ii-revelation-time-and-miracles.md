@@ -131,6 +131,7 @@ Revelation is an experience of love and freedom from fear. Revelation cannot be 
 #### simplified
 Awe is for revelation. Miracles are for others. Love, respect, obedience and devotion are due an elder brother. I have only what is from God. You have the potential to be like me. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -150,7 +151,7 @@ Awe is for revelation. Miracles are for others. Love, respect, obedience and dev
 :::
 
 :::tip
-(7–4:7) Jesus consistently teaches in the course that he is no different from us in reality, but in the illusory and symbolic world of time he can be our teacher and guide if we allow him to be that for us. (Wapnick, AAC, p. 214.)</p>
+(7–4:7) Jesus consistently teaches in the course that he is no different from us in reality, but in the illusory and symbolic world of time he can be our teacher and guide if we allow him to be that for us. (Wapnick, AAC, p. 214.)
 :::
 
 :::tip
@@ -160,6 +161,7 @@ Awe is for revelation. Miracles are for others. Love, respect, obedience and dev
 :::tip
 (13) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he <em>is</em> the Christ, for he is no longer his ego… Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, FAJ, p.286.)
 :::
+ -->
 
 ## T-1.II.4
 
@@ -197,6 +199,7 @@ p>
 
 I stand between you and God. I bridge the distance between you and God. I am your elder brother and Son of God. The Father is greater than the Son.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -212,7 +215,7 @@ I stand between you and God. I bridge the distance between you and God. I am you
 :::
 
 :::tip
-(6) This statement may mean that he can only bring the Sonship back to completion if he himself shares the quality of “Sonship” with everyone (C of A, p.42).</p>
+(6) This statement may mean that he can only bring the Sonship back to completion if he himself shares the quality of “Sonship” with everyone (C of A, p.42).
 :::
 
 :::tip
@@ -222,6 +225,7 @@ I stand between you and God. I bridge the distance between you and God. I am you
 :::tip
 (7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, excep tthat God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, AVI, p.99).
 :::
+ -->
 
 ## T-1.II.5
 
@@ -298,6 +302,7 @@ I am close to the Holy Spirit. I know when you are ready for revelation. I bring
 
 The miracle minimises the need for time. In the horizontal plane the equality of the members of the Sonship involves endless time. Mircacles shifts perception to vertical. Time is saved. Giver and receiver are equal.
 
+<!-- 
 #### commentary>
 
 :::tip
@@ -306,4 +311,5 @@ The miracle minimises the need for time. In the horizontal plane the equality of
 
 :::tip
 (7) *A Course in Miracles* talks a great deal about saving time. In fact, many times it talks about saving thousands of years. We are still talking about, in the world’s illusion of time, a considerable amount of time. The reason I am emphasising this is that I do not want you to feel guilty if you still have problems as you keep working with the Course. The real goal on the practical level of the Course is not to be free of problems, but to recognise what they are, and then to recognise within ourselves the means of undoing them. (Wapnick, ATG, p. 81.)
-:::
+::: 
+-->

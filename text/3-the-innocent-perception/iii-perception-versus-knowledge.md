@@ -153,11 +153,13 @@ Fear is believing the future will be worse than the present. Believing present a
 
 True vision is the correction of perception. But True vision, or spiritual sight, is not knowledge. 
 
+<!-- 
 #### commentary
 
 :::tip
 (2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice#p8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-the-teaching-for-truth/x-the-equality-of-miracles#p1). Wapnick, FCTL, p.60.) (re Wapnick, at times we reserve some skepticism –Ed.)
 :::
+ -->
 
 ## T-3.III.5
 
@@ -249,6 +251,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 
 Knowledge existed before perception and time. Right perception is necessary before knowledge of God can replace perception and time. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -262,6 +265,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 :::tip
 (3) The words “alien”, “stranger” and “homeless”, for example, recur frequently. (Wapnick, LDNC, p. 481; AAC, p.105.)
 :::	 
+ -->
 
 ## T-3.III.7
 

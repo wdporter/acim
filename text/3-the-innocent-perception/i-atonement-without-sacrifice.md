@@ -42,6 +42,7 @@
 
 The resurrection established the Atonement. God did not permit his Son to suffer for being good.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -51,6 +52,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 :::tip
 (5–9) Given the Jewish people’s understanding of God’s plan for salvation, it is not difficult to see how the Jewish followers of Jesus would have viewed his crucifixion and death. He became God’s Suffering Servant, and in his “suffering, victimised and dying body” the people saw their own salvation. The Jesus who truly lived in God’s guiltless present was perceived through the  guilt-ridden eyes of the past, and these eyes saw in him the fulfillment of Isaiah’s guilt-reinforcing plan of salvation. Thus were sacrifice, guilt and punishment enthroned upon God’s altar, and true forgiveness and atonement was wrapped within the blood-stained body they saw on the cross and then placed in a sepulchre, symbol of hatred and death. (Wapnick, FAJ, p. 205. c/f [2:9–11](#p2), [3:4–7](#p3)
 :::
+ -->
 
 ## T-3.I.2
 
@@ -100,6 +102,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 
 Attack can not be justified. God could not think this way. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -113,6 +116,7 @@ Attack can not be justified. God could not think this way.
 :::tip
 (3)	…we can also recognise love’s distortions in the contradictions foun din teh Bible itself, not to mention in the centuries of bloodshed committed in the name of God, venerated through His “Holy Word” which had to be affirmed lest He or His self-appointed (sic) leaders would wreak punishment on all non-believers. …these tragic errors (Wapnick, AAC, p. 250–251.)
 :::
+ -->
 
 ## T-3.I.3
 
@@ -162,6 +166,7 @@ Attack can not be justified. God could not think this way.
 
 Retribution is not an attribute of God. God does not hold evil deeds against anyone. 
 	
+<!-- 
 #### commentary
 
 :::tip
@@ -171,6 +176,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 :::tip
 (11) …in light of … all students’ proclivity for projection of guilt onto God and him, Jesus made this very clear statement (Wapnick, FCTL, p. 179) (Wapnick includes himself in that, we assume. –Ed.)
 :::
+ -->
 
 ## T-3.I.4
 
@@ -208,6 +214,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 
 Be merciful as God is merciful. Do not attack. Attack does not teach. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -225,6 +232,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 :::tip
 (2) Following the Course’s principle that fear must lead to viciousness, the ego must quickly and viciously conterattack to ensure that the Son does not realise he made a mistake, change his mind, and choose the Holy Spirit. (Wapnick, AAC, p.34.)
 :::
+ -->
 
 ## T-3.I.5
 
@@ -259,11 +267,13 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 
 An innocent lamb is a symbol of the sins of the world being taken away. A pure mind is innocent. A pure mind knows the truth. Knowing the truth is strength.  
 
+<!-- 
 #### commentary
 
 :::tip
 c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 :::
+ -->
 
 ## T-3.I.6
 
@@ -379,6 +389,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 
 God’s Son’s true state is innocence. In innocence you know God. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -392,4 +403,4 @@ God’s Son’s true state is innocence. In innocence you know God.
 :::tip
 (3) …the *content* of hate and guilt is concealed behind the *form* of love. (Wapnick, AAC, p. 235.)
 :::
-
+ -->

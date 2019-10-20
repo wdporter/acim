@@ -50,12 +50,14 @@
 #### simplified
 
 You believe you need the body to attain Atonement. In separation, you defend the body against Atonement. You protect the body by making it into a temple. You must realise a temple is holy because of the altar inside. Spiritual sight will show you the true altar. 
-  
+
+<!--   
 #### commentary
 
 :::tip
 (5–10, 2:1) …referring to this famous teaching … St. Paul’s reference to the body as the temple of the Holy Spirit (1 Corinthians 6:19) … cited by Christians to substantiate this deification of the ego’s world (… worshipping a <em>form</em> of truth at the expense of <em>content)</em> (Wapnick, AAC, p. 251.).
 :::
+ -->
 
 ## T-2.III.2
 
@@ -126,8 +128,10 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 <sup>10</sup>But the outcome is as certain as God.
 
 #### simplified
+
 Everyone has a pain limit. Everyone eventually recognises there must be a better way. Then spiritual vision can be re-awakened.
 
+<!-- 
 #### commentary>
 
 :::tip
@@ -141,6 +145,7 @@ Everyone has a pain limit. Everyone eventually recognises there must be a better
 :::tip
 (4–8) And what allows the Presence of God in our minds — the Holy Spirit or Jesus — to undo the ego’s seemingly invincible plot is the pain that we feel from our original and ongoing decision to remain separate from the Love of God, a decision that enables us to exist as an individual. It is this discomfort over our unhappy situation (referred to as having “an imporsioned will”) that impels us finally to ask for “a better way”. … Realising that our way has not worked… we call upon the “better way”, which means calling upon the better Teacher. (Wapnick, AAC, p. 176.)
 :::
+ -->
 
 ## T-2.III.4
 
@@ -179,6 +184,7 @@ Everyone has a pain limit. Everyone eventually recognises there must be a better
 
 Spiritual vision looks past error and sees truth. Spiritual vision awakens the mind. The mind becomes more sensitive to error and pain.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -188,6 +194,7 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 :::tip
 (7) This sensitivity [to our deepest self], however, can become a two-edged sword. On the one hand, it allows us to turn over to Jesus our ego temptations, but on the other, it causes us to react even to the slightest ego stirrings. What really happens is that things we would have never noticed before now stick out like sore thumbs, a situation where “the mind becomes increasingly sensitive to what the mind would once have regarded as very minor intrusions of discomfort”. (Wapnick, FAJ, p.260.)
 :::
+ -->
 
 ## T-2.III.5 
 
@@ -244,6 +251,7 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 
 The children of God are entitled to perfect comfort *[i.e. in peace and free of pain —Ed.].* God gives what is needed for our comfort. Being afraid is being lonely. The separation will be healed. The world is a means of healing the separation. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -252,4 +260,5 @@ The children of God are entitled to perfect comfort *[i.e. in peace and free of 
 
 :::tip
 (11) Clearly, since God is abstract and does not have a body, He does not get lonely, nor weep; as He is the All, He cannot be incomplete. Further, the very idea that He could be any of these things clearly implies that the separation of His Son from Himself has actually happened, and this of course is directly antithetical to the Course’s teachings. The point that is being made, therefore, has to be understood on the level of the *content* of God’s love for His children (itself of course an anthropocentric metaphor), expressd through the *form* of an earthly father’s love for his child. Since we are still very much children in the spiritual life —  “You are very new in the ways of salvation” ([T-17.V.9:1](/text/17-forgiveness-and-the-holy-relationship/v-the-healed-relationship#p9)), *A Course in Miracles* tells us — the Course’s use of language at this level is more than appropriate. (Wapnick, LDNC, p. 608.) (see also [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4), [T-7.VII.10:7](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p10), [T-9.VII.8:2](/text/9-the-acceptance-of-the-atonement/vii-the-two-evaluations#p8), [T-19.II.2:7](/text/19-the-attainment-of-peace-/ii-sin-versus-error#p2))
-:::
+::: 
+-->

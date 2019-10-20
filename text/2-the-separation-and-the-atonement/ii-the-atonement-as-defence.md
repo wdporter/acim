@@ -55,11 +55,13 @@
 
 Do not be afraid. Do not allow anything not of God to affect you. 
 
+<!-- 
 #### commentary
 
 :::tip
 (11–2:5)… the two uses of denial: the ego’s need to deny the guilt it has first made real, as opposed to the Holy Spirit’s denial of the ego’s denial of truth. The Holy Spirit denies the reality of the ego’s story of sin, guilt and fear, and denies that the ego has indeed changed our reality as God’s Son. (Wapnick, AVI, p.84.) 
 :::
+ -->
 
 ## T-2.II.2
 
@@ -181,11 +183,13 @@ Decide on truth as your goal. Defend only truth. The means will follow. By this 
 
 The principle of the Atonement is love. The Atonement is a defence against separation. You are healed by the Atonement.
 
+<!-- 
 #### commentary>
 
 :::tip
 (2–5) …the separated world needed a concrete manifestation of this [Atonement] principle, for while the Atonement came into existence with the creation of the Holy Spirit ([T-5.I.5:2](/text/5-healing-and-wholeness/i-the-invitation-to-the-holy-spirit#p5)), some figure within the Son’s dream had to represent it for us. The life of Jesus was this “act of love”, for he was the “thought” within the separated mind that first remembered its relationship with God and Identity as Christ (along with the rest of the Sonship). (Wapnick, LDNC, p.514.) 
 :::
+ -->
 
 ## T-2.II.5
 
@@ -226,6 +230,7 @@ The principle of the Atonement is love. The Atonement is a defence against separ
 
 Keep learning to improve your perceptions until the Atonement is fully learnt. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -235,6 +240,7 @@ Keep learning to improve your perceptions until the Atonement is fully learnt.
 :::tip
 (4–8) Learning cannot exist in Heaven, where there is only perfection. Learning is required only in this world. … Once we have totally learned our lessons, all that remains in our minds is the pure experience of our oneness with Christ and with God. Until that time, however, learning is necessary to help us unlearn the ego’s thought system of differences. (Wapnick, AVI, p.131.)
 :::
+ -->
 
 ## T-2.II.6
 
@@ -281,6 +287,7 @@ Keep learning to improve your perceptions until the Atonement is fully learnt.
 
 The Atonement undoes your past errors. Phases of the Atonement exist in time. The whole Atonement is at the end of time.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -302,6 +309,7 @@ When the separation occurred … ever since we have walked … away from God. Th
 :::tip
 (6–10) If we think of the Atonement as the Holy Spirit, we can see Him standing outside of time with us (the observer), awaiting our decision to awaken from the dream. (Wapnick, AVI, p.133.) 
 :::
+ -->
 
 ## T-2.II.7
 

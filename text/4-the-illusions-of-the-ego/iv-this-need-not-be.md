@@ -83,6 +83,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 
 You can change your mind. When you are not joyous you have chosen wrongly. Choose to align your mind with God’s mind. Your mind is one with God’s mind. But denying your mind’s oneness with God, creates a split mind and identifies with the ego. See in yourself and in your brother that you are all glorious creations of God.
 
+<!-- 
 #### commentary
 
 :::tip
@@ -92,6 +93,7 @@ You can change your mind. When you are not joyous you have chosen wrongly. Choos
 :::tip
 (1–2) …specifically address how Jesus sees his (or the Holy Spirit’s) role of looking with us at the ego’s darkness… Passages like these make no real sense, and  cannot truly be understood by students *unless* they first recognise the total unreality of all they perceive and experience. c/f [T-11.V.1:1–2:3,8–9](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego.html#p1), [T-4.III.8:1–2](/text/4-the-illusions-of-the-ego/iii-love-without-conflict.html#p2) (Wapnick, FCTL, p.130–131)
 :::
+ -->
 
 ## T-4.IV.3
 
@@ -277,14 +279,17 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 
 You have refused to gladden yourself. You have limited your power by your own choosing. You mind and my mind can unite, and have the strength the God. Make the strength of God your only goal. Watch your mind carefully for beliefs that hinder you. You can judge against the ego. Withdraw allegiance, protection and love from the ego. 
 
+
 #### commentary
 
+<!-- 
 :::tip
 (3–5) Jesus’ role in the process of undoing. c/f [T-11.V.1:1–2:2](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego#p1). (Wapnick, AAC, p.189)
 :::
+ -->
 
 :::tip
-(9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what I have termed the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p6) (Wapnick, AAC, p.33–34) (Note that ‘decision maker’ does not appear in the text (except once in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
+(9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what I have termed the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p6) (Wapnick, AAC, p.33–34) (Note that ‘decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
 :::
 
 ## T-4.IV.9
@@ -363,6 +368,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 
 The First Coming of Christ was when the Son of God was created. The Second Coming of Christ is when the ego ends and your mind is healed. I choose you to join with me. You might think I make a mistake in calling you. The ego wants you to think I am not real. 
 
+<!-- 
 #### commentary
 
 :::tip
@@ -372,6 +378,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 :::tip
 (4) Jesus says he is in charge of the Atonement [T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles), and the teacher’s manual states that the Holy Spirit established Jesus as the leader of the plan of the Atonement ([C-6.2:2](/clarification/6-the-holy-spirit.html#p2)). The meaning here is the same. Moreover, again, his judgement clearly lacks the implication of punishment or attack that is central to the traditional view. Jesus’ judgement is simply that the separation never happened, and so our pain and suffering not only is not warranted, but is inherently nonexistent, its cause of sin having been undone. Thus we are ‘protected’ from the ego’s thought system by the truth of the Atonement. (Wapnick, AVI, p.228–229)
 :::
+-->
 
 ## T-4.IV.11
 
