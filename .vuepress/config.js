@@ -108,7 +108,8 @@ module.exports = {
 						children: [
 							"/text/5-healing-and-wholeness/introduction",
 							"/text/5-healing-and-wholeness/i-the-invitation-to-the-holy-spirit",
-							"/text/5-healing-and-wholeness/ii-the-voice-for-god"
+							"/text/5-healing-and-wholeness/ii-the-voice-for-god",
+							"/text/5-healing-and-wholeness/iii-the-guide-to-salvation"
 						]
 					}
 				]
