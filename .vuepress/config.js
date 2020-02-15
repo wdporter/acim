@@ -6,6 +6,13 @@ module.exports = {
   	["link", { rel: "icon", href: "/favicon.ico" }]
   ],
 	serviceWorker: true,
+
+markdown: {
+	extendMarkdown: md => {
+		md.use(require("markdown-it-sup"))
+	}
+},
+
 	themeConfig: {
 		serviceWorker: {
 			updatePopup: true
@@ -13,10 +20,8 @@ module.exports = {
     nav: [
       {
         text: "Text",
-				link: "/text/",
 				items: [
-					{ text: "Text", link: "/text/" },
-					{ text: "T-in. Introduction", link: "/text/introduction/" },
+					{ text: "Intoduction", link: "/text/" },
 					{ text: "T-1. The Meaning of Miracles",  link: "/text/1-the-meaning-of-miracles/"}, 
 					{ text: "T-2. The Separation and the Atonement", link: "/text/2-the-separation-and-the-atonement/" },
 					{ text: "T-3. The Innocent Perception", link: "/text/3-the-innocent-perception/" },
@@ -46,17 +51,16 @@ module.exports = {
 		sidebar: [
 			{
 				title: "Text",
+				path: "/text/",
 				children: [
-					{
-						title: "Introduction",
-						children: [
-							"/text/introduction/"
-						]
-					},
-					{
-						title: "1. The Meaning of Miracles",
-						children: [
-							"/text/1-the-meaning-of-miracles/i-principles-of-miracles",
+					["/text/", "Introduction"],
+					"/text/1-the-meaning-of-miracles/"
+				]
+			}
+			/*{
+				title: "Text",
+				children: [
+						"/text/1-the-meaning-of-miracles/i-principles-of-miracles",
 							"/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles",
 							"/text/1-the-meaning-of-miracles/iii-atonement-and-miracles",
 							"/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness",
@@ -123,12 +127,14 @@ module.exports = {
 					"/other/course-thought-system",
 					"/other/course-teacher-comparison"
 				]
-			}
+			}*/
 		],
 		repo: "w-david-porter/acim",
 		repoLabel: "Help",
-    editLinks: true,
+    editLinks: true, 
     editLinkText: "Help us improve this page",
 		evergreen: true
-  }
+	},
+	
+	plugins: ['@vuepress/back-to-top',  'vuepress-plugin-element-tabs']
 }

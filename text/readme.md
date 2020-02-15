@@ -1,39 +1,65 @@
----
+# INTRODUCTION
 
----
-# Text
+<a name=t-in-1></a>1.&ensp;This is a course in miracles. ^2^It is a required course. ^3^Only the time you take it is voluntary. ^4^Free will does not mean that you can establish the curriculum. ^5^It means only that you can elect what you want to take at a given time. ^6^The course does not aim at teaching the meaning of love, for that is beyond what can be taught. ^7^It does aim, however, at removing the blocks to the awareness of love’s presence, which is your natural inheritance. ^8^The opposite of love is fear, but what is all-encompassing can have no opposite.
 
-- [Introduction](/text/introduction/)
-- [1. The Meaning of Miracles](/text/1-the-meaning-of-miracles/)
-- [2. The Separation and the Atonement](/text/2-the-separation-and-the-atonement/)
-- [3. The Innocent Perception](/text/3-the-innocent-perception/)
-- [4. The Illusions of the Ego](/text/4-the-illusions-of-the-ego/)
-- [5. Healing and Wholeness](/text/5-healing-and-wholeness/)
-- [6. The Lessons of Love](/text/6/)
-- [7. The Gifts of the Kingdom](/text/7/)
-- [8. The Journey Back](/text/8/)
-- [9. The Acceptance of the Atonement](/text/9/)
-- [10. The Idols of Sickness](/text/10/)
-- [11. God or the Ego](/text/11/)
-- [12. The Holy Spirit’s Curriculum](/text/12/)
-- [13. The Guiltless World](/text/13/)
-- [14. Teaching for Truth](/text/14/)
-- [15. The Holy Instant](/text/15/)
-- [16. The Forgiveness of Illusions](/text/16/)
-- [17. Forgiveness and the Holy Relationship](/text/17/)
-- [18. The Passing of the Dream](/text/18/)
-- [19. The Attainment of Peace](/text/19/)
-- [20. The Vision of Holiness](/text/20/)
-- [21. Reason and Perception](/text/21/)
-- [22. Salvation and the Holy Relationship](/text/22/)
-- [23. The War against Yourself](/text/23/)
-- [24. The Goal of Specialness](/text/24/)
-- [25. The Justice of God](/text/25/)
-- [26. The Transition](/text/26/)
-- [27. The Healing of the Dream](/text/27/)
-- [28. The Undoing of Fear](/text/28/)
-- [29. The Awakening](/text/29/)
-- [30. The New Beginning](/text/30/)
-- [31. The Final Vision](/text/31/)
+::: details Expanded
+1.&emsp;This is a course in miracles. 
+^2^It [the course] is a required course. 
+^3^ Only the time you take it [the course] is voluntary. 
+^4^Free will does not mean that you can establish the curriculum. 
+^5^It [free will] means only that you can elect what you want to take at a given time. 
+^6^The course does not aim at teaching the meaning of love, for that [the meaning of love] is beyond what can be taught. 
+^7^It [the course] does aim, however, at removing the blocks to the awareness of love’s presence, which [love] is your natural inheritance. 
+^8^The opposite of love is fear, but what is all-encompassing can have no opposite.
+:::
 
+:::details Substituted
+1.&emsp;This is a course in miracles. ^2^The course is a required course. ^3^Only the time you take the course is voluntary. ^4^Free will does not mean that you can establish the curriculum. ^5^Free will means only that you can elect what you want to take at a given time. ^6^The course does not aim at teaching the meaning of love, for the meaning of love is beyond what can be taught. ^7^The course does aim, however, at removing the blocks to the awareness of love’s presence; love is your natural inheritance. ^8^The opposite of love is fear, but what is all-encompassing can have no opposite.
+:::
+
+:::details Simplified
+This is a course in miracles. The lessons are required. You choose when to take the lessons. The course does not teach the meaning of love. The course teaches how to remove the blocks to the awareness of love’s presence. The opposite of love is fear. But love love is all-encompassing. Love has no opposite.
+:::
+
+:::details Commentary
+“This is a manual for a special curriculum, intended for teachers of a special form of the universal course. There are many thousands of other forms, all with the same outcome” [M-1.4:1–2](/manual/1-who-are-gods-teachers#p4).
+
+“As the course emphasises, you are not free to choose the curriculum or even the form in which you will learn it. You are free, however, to decide when you want to learn it” [M-2.3:6–7](/manual/2-who-are-their-pupils#p3).
+:::
+
+<a name=t-in-2></a>2.&ensp;This course can therefore be summed up very simply in this way:
+
+>^2^Nothing real can be threatened.  
+^3^Nothing unreal exists.
+
+^4^Herein lies the peace of God.
+
+
+:::details Expanded
+2.&emsp;This course can therefore be summed up very simply in this way:
+
+>^2^Nothing real can be threatened.  
+^3^Nothing unreal exists.
+
+^4^Herein lies the peace of God.
+:::
+
+:::details Substituted
+2.&emsp;This course can therefore be summed up very simply in this way:
+
+>^2^Nothing real can be threatened.  
+^3^Nothing unreal exists.
+
+^4^Herein lies the peace of God.
+:::
+
+:::details Simplified
+The real never changes, so the real can’t be threatened. Anything that can change doesn’t actually exist. True peace is knowing this.
+:::
+
+:::details Editor’s note
+(6) The ‘real’ is that which never changes, or that which has ‘necessary’ as opposed to ‘contingent’ existence. Or in Buddhist philosopy, that which has ‘inherent’ existence.
+
+If it never changes, it can’t be threatened.
+:::
 

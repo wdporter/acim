@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-  	"docs:build": "vuepress build"
+    "docs:build": "vuepress build"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,12 @@
     "url": "https://github.com/W-David-Porter/acim/issues"
   },
   "homepage": "https://github.com/W-David-Porter/acim#readme",
-	"dependencies": {
+  "dependencies": {
     "vuepress": "^1.0.3"
- }
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.3.0",
+    "markdown-it-sup": "^1.0.0",
+    "vuepress-plugin-element-tabs": "git+https://github.com/superbiger/vuepress-plugin-tabs.git"
+  }
 }
