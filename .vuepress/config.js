@@ -42,8 +42,11 @@ module.exports = {
 				text: "More",
 				ariaLabel: "More Items Menu",
 				items: [
-					{ text: "Bibliography", link: "/more/bibliography" },
-					{ text: "Random Section", link: "/more/random" }
+					{ text: "Bibliography", link: "/more/bibliography/" },
+					{ text: "Course Teacher Comparison", link: "/more/course-teacher-comparison/" },
+					{ text: "Course Thought System", link: "/more/course-thought-system/" },
+					{ text: "Prayers from the Course", link: "/more/prayers-from-the-course/" },
+					{ text: "Random Section", link: "/more/random-section/" },
 				]
 			}
 		],
@@ -68,11 +71,11 @@ module.exports = {
 				title: "More",
 				path: "/more/",
 				children: [
-					"/more/bibliography",
-					"/more/random",
-					"/more/prayers-from-the-course",
-					"/more/course-thought-system",
-					"/more/course-teacher-comparison"
+					"/more/bibliography/",
+					"/more/random-section/",
+					"/more/prayers-from-the-course/",
+					"/more/course-thought-system/",
+					"/more/course-teacher-comparison/"
 				]
 			}
 		],

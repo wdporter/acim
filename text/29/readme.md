@@ -1,4 +1,17 @@
 ---
+layout: chapter
+reference: T-29
+title: The Awakening
+prev-chapter: /text/28
+next-chapter: /text/30
+---
+
+
+<ul>
+    <li><h3><a href=/text/28/VIII>VIII. The Anti-Christ</a></h3>
+</ul>    
+
+---
 layout: content
 reference: T-29.VIII
 title: The Anti-Christ
