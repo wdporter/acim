@@ -1,6 +1,5 @@
 # 1. THE MEANING OF MIRACLES
 
-<a name="T-1.I"></a>
 ## I. Principles of Miracles
 
 <a name="T-1.I.1"></a>1.&emsp;There is no order of difficulty in miracles. ^2^One is not ‘harder’ or ‘bigger’ than another. ^3^They are all the same. ^4^All expressions of love are maximal.
@@ -16,9 +15,9 @@ There is no order of difficulty in miracles. ^2^One miracle is not ‘harder’ 
 Miracles are all the same to do. Love always expresses as much as it can.
 :::
 ::: tab Commentary  
-(1) In the vision of Heaven, there can be no gradations of illusions or mistakes. Something either is or it is not. … Truth is true; all else is only a mistake which, when brought to truth, is gently corrected, not judged against and punished. (Wapnick, FAJ, p. 186).  
+(1) In the vision of Heaven, there can be no gradations of illusions or mistakes. Something either is or it is not. … Truth is true; all else is only a mistake which, when brought to truth, is gently corrected, not judged against and punished. (Wapnick, F.A.J., p. 186).  
 
-(1) [It’s] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, LDNC, p. 562)  
+(1) [It’s] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, L.D.N.C., p. 562)  
 
 (1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T–23.II.2:3](/text/23-the-war-against-yourself/#T-23.II.2)). (Wapnick, A.A.C., p. 58.)  
 
@@ -156,32 +155,32 @@ The use of miracles as spectacles to induce belief is a misunderstanding of mira
 It is not the purpose of Miracles to induce belief.
 :::
 ::: tab Commentary
-…they must first *decide* to accept God’s word. Demanding an external sign as proof of God is really believing in magic, since we must instead choose the miracle that reflects ourinternal shift. … Thus Jesus taught elsewhere, “Why does this generation demand a sign? I tell you solemnly, no sign shall be given to this generation” (*Mark* 8:12). No sign will be given because it would not be the loving or helpful thing to do, reïnforcing, as it where, the belief in magic which ultimately reïnforces the belief in separation. (Wapnick, FAJ, p. 236–237.)
+…they must first *decide* to accept God’s word. Demanding an external sign as proof of God is really believing in magic, since we must instead choose the miracle that reflects ourinternal shift. … Thus Jesus taught elsewhere, “Why does this generation demand a sign? I tell you solemnly, no sign shall be given to this generation” (*Mark* 8:12). No sign will be given because it would not be the loving or helpful thing to do, reïnforcing, as it where, the belief in magic which ultimately reïnforces the belief in separation. (Wapnick, F.A.J., p. 236–237.)
 :::
 ::::
 
-<a name="T-1.I.11"></a>11.&emsp;Prayer is the medium of miracles. ^2^It is a means of communication of the creäted with the Creätor. ^3^Through prayer love is received, and through miracles love is expressed.
+<a name="T-1.I.11"></a>11.&emsp;Prayer is the medium of miracles. ^2^It is a means of communication of the created with the Creator. ^3^Through prayer love is received, and through miracles love is expressed.
 
 ::::tabs
 ::: tab Expanded
-Prayer is the medium of miracles. ^2^It [prayer] is a means of communication of the creäted with the Creätor. ^3^Through prayer love is received, and through miracles love is expressed.
+Prayer is the medium of miracles. ^2^It [prayer] is a means of communication of the created with the Creator. ^3^Through prayer love is received, and through miracles love is expressed.
 :::
 ::: tab Substituted
-Prayer is the medium of miracles. ^2^Prayer is a means of communication of the creäted with the Creätor. ^3^Through prayer love is received, and through miracles love is expressed.
+Prayer is the medium of miracles. ^2^Prayer is a means of communication of the created with the Creator. ^3^Through prayer love is received, and through miracles love is expressed.
 :::
 ::: tab Simplified
 Communication with God is through prayer. Love is received from prayer. Love is expressed by miracles.
 :::
 ::::
 
-<a name="T-1.I.12"></a>12.&emsp;Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^One makes the physical, and the other creätes the spiritual.
+<a name="T-1.I.12"></a>12.&emsp;Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^One makes the physical, and the other creates the spiritual.
 
 ::::tabs
 ::: tab Expanded
-Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^One [the lower level of experience] makes the physical, and the other [spiritual level of experience] creätes the spiritual.
+Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^One [the lower level of experience] makes the physical, and the other [spiritual level of experience] creates the spiritual.
 :::
 ::: tab Substituted
-Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^The lower level of experience makes the physical, and the the higher level of experience creätes the spiritual.
+Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^The lower level of experience makes the physical, and the the higher level of experience creates the spiritual.
 :::
 ::: tab Simplified
 Miracles are thoughts. Thoughts can represent a bodily level of experience and make the physical. Thoughts can represent a spiritual level of experience and make the spiritual.
@@ -208,18 +207,18 @@ Miracles change time by changing beginnings and endings. Miracles allow rebirth.
 :::
 ::::
 
-<a name="T-1.I.14"></a>14.&emsp;Miracles bear witness to truth. ^2^They are convincing because they arise from conviction. ^3^Without conviction they deteriorate into magic, which is mindless and therefore destructive; or rather, the uncreätive use of mind.
+<a name="T-1.I.14"></a>14.&emsp;Miracles bear witness to truth. ^2^They are convincing because they arise from conviction. ^3^Without conviction they deteriorate into magic, which is mindless and therefore destructive; or rather, the uncreative use of mind.
 
 ::::tabs
 ::: tab Expanded
-Miracles bear witness to truth. ^2^They [miracles] are convincing because they [miracles] arise from conviction. ^3^Without conviction they [miracles] deteriorate into magic, which [magic] is mindless and therefore destructive; or rather, the uncreätive use of mind.
+Miracles bear witness to truth. ^2^They [miracles] are convincing because they [miracles] arise from conviction. ^3^Without conviction they [miracles] deteriorate into magic, which [magic] is mindless and therefore destructive; or rather, the uncreative use of mind.
 :::
 ::: tab Substituted
 Miracles bear witness to truth. ^2^Miracles are convincing because miracles arise from conviction. 
-^3^Without conviction miracles deteriorate into magic; magic is mindless and therefore destructive; or rather, the uncreätive use of mind.
+^3^Without conviction miracles deteriorate into magic; magic is mindless and therefore destructive; or rather, the uncreative use of mind.
 :::
 ::: tab Simplified
-Miracles are a convincing witness to truth. Without conviction miracles are only magic. Magic is mindless. Magic is uncreätive use of mind.
+Miracles are a convincing witness to truth. Without conviction miracles are only magic. Magic is mindless. Magic is uncreative use of mind.
 :::
 ::::
 
@@ -237,7 +236,7 @@ Each day should be devoted to miracles. ^2^The purpose of time is to enable you 
 Each day should be devoted to miracles. Use time to teach and learn miracles. Time will end when learning ends.
 :::
 ::: tab Commentary
-(2–4) …the course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us iteself as a classroom in which we learn the lessons that will lead us beyond the world entirely … These lines echo the spirit of Origen, for whom the world was also a classroom. (Wapnick, LDNC p. 575–6.)
+(2–4) …the course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us iteself as a classroom in which we learn the lessons that will lead us beyond the world entirely … These lines echo the spirit of Origen, for whom the world was also a classroom. (Wapnick, L.D.N.C. p. 575–6.)
 
 The point here is that the ego made time as a way of trapping us, reïnforcing our belief that separation and guilt are real, and so our fear of punishment is justified. The Holy Spirit, though, uses time in His own way within the illusion, so that He teaches us something else. (Wapnick, A.V.I., p. 123–124.)
 
@@ -260,7 +259,7 @@ Miracles are teaching devices for demonstrating it is as blessed to give as to r
 Miracles increase the strength of the giver. Miracles give strength to the receiver.
 :::
 ::: tab Commentary
-(1) What we give *is* what we receive; what we ask for *is* our return. … As the beatitude says: “Happy the merciful, they shall have mercy shown them” (*Matthew* 5:7). (Wapnick, FAJ, p. 176.)
+(1) What we give *is* what we receive; what we ask for *is* our return. … As the beatitude says: “Happy the merciful, they shall have mercy shown them” (*Matthew* 5:7). (Wapnick, F.A.J., p. 176.)
 :::
 ::::
 
@@ -298,17 +297,17 @@ You love your neighbour as yourself by recognising the ‘inestimable’ value i
 :::
 ::::
 
-<a name="T-1.I.19"></a>19.&emsp;Miracles make minds one in God. ^2^They depend on coöperation because the Sonship is the sum of all that God creäted. ^3^Miracles therefore reflect the laws of eternity, not of time.
+<a name="T-1.I.19"></a>19.&emsp;Miracles make minds one in God. ^2^They depend on coöperation because the Sonship is the sum of all that God created. ^3^Miracles therefore reflect the laws of eternity, not of time.
 
 ::::tabs
 ::: tab Expanded
-Miracles make minds one in God. ^2^They [miracles] depend on coöperation because the Sonship is the sum of all that God creäted. ^3^Miracles therefore reflect the laws of eternity, not [the laws] of time.
+Miracles make minds one in God. ^2^They [miracles] depend on coöperation because the Sonship is the sum of all that God created. ^3^Miracles therefore reflect the laws of eternity, not [the laws] of time.
 :::
 ::: tab Substituted
-Miracles make minds one in God. ^2^Miracles depend on coöperation because the Sonship is the sum of all that God creäted. ^3^Miracles therefore reflect the laws of eternity, not the laws of time.
+Miracles make minds one in God. ^2^Miracles depend on coöperation because the Sonship is the sum of all that God created. ^3^Miracles therefore reflect the laws of eternity, not the laws of time.
 :::
 ::: tab Simplified
-Minds coöperate by miracles. The Sonship is the all the minds God creäted joined as one.
+Minds coöperate by miracles. The Sonship is the all the minds God created joined as one.
 :::
 ::::
 
@@ -325,7 +324,7 @@ Miracles reäwaken the awareness that the spirit, not the body, is the altar of 
 The body is not the altar of truth. Miracles heal by making you aware that the spirit is the altar of truth.
 :::
 ::: tab Commentary
-It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([W-p1.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, FAJ, p.77.)
+It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([W-p1.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, F.A.J., p.77.)
 :::
 ::::
 
@@ -372,16 +371,16 @@ c/f [principle 12](#T-1.I.12) (Wapnick, A.A.C., p.230, 231)
 :::
 ::::
 
-<a name="T-1.I.24"></a>24.&emsp;Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both. ^2^*You* are a miracle, capable of creäting in the likeness of your Creätor. ^3^Everything else is your own nightmare, and does not exist. ^4^Only the creätions of light are real.
+<a name="T-1.I.24"></a>24.&emsp;Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both. ^2^*You* are a miracle, capable of creating in the likeness of your Creator. ^3^Everything else is your own nightmare, and does not exist. ^4^Only the creations of light are real.
 ::::tabs
 ::: tab Expanded
-Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both [sickness and death]. ^2^*You* are a miracle, capable of creäting in the likeness of your Creätor. ^3^Everything else [not in the likeness of your Creätor] is your own nightmare, and does not exist. ^4^Only the creätions of light are real.
+Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both [sickness and death]. ^2^*You* are a miracle, capable of creating in the likeness of your Creator. ^3^Everything else [not in the likeness of your Creator] is your own nightmare, and does not exist. ^4^Only the creations of light are real.
 :::
 ::: tab Substituted
-Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish sickness and death. ^2^*You* are a miracle, capable of creäting in the likeness of your Creätor. ^3^Everything not in the likeness of your Creätor is your own nightmare, and does not exist. ^4^Only the creätions of light are real.
+Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish sickness and death. ^2^*You* are a miracle, capable of creating in the likeness of your Creator. ^3^Everything not in the likeness of your Creator is your own nightmare, and does not exist. ^4^Only the creations of light are real.
 :::
 ::: tab Simplified
-You can abolish sickness and death because you made sickness and death. You can creäte as God creätes. Your miscreätions are a nightmare that does not exist.
+You can abolish sickness and death because you made sickness and death. You can create as God creates. Your miscreations are a nightmare that does not exist.
 :::
 ::::
 
@@ -441,14 +440,14 @@ Revelation comes through release from fear.
 :::
 :::: 
 
-<a name="T-1.I.29"></a>29.&emsp;Miracles praise God through you. ^2^They praise Him by honouring His creätions, affirming their perfection. ^3^They heal because they deny body-identification and affirm spirit-identification.
+<a name="T-1.I.29"></a>29.&emsp;Miracles praise God through you. ^2^They praise Him by honouring His creations, affirming their perfection. ^3^They heal because they deny body-identification and affirm spirit-identification.
 
 ::::tabs
 ::: tab Expanded
-29.&emsp;Miracles praise God through you. ^2^They [miracles] praise Him [God] by honouring His [God’s] creätions, affirming their [God’s-creätions’] perfection. ^3^They [miracles] heal because they [miracles] deny body-identification and affirm spirit-identification.
+29.&emsp;Miracles praise God through you. ^2^They [miracles] praise Him [God] by honouring His [God’s] creations, affirming their [God’s-creations’] perfection. ^3^They [miracles] heal because they [miracles] deny body-identification and affirm spirit-identification.
 :::
 ::: tab Substituted
-29.&emsp;Miracles praise God through you. ^2^Miracles praise God by honouring God’s creätions, affirming God’s-creätions’ perfection. ^3^Miracles heal because miracles deny body-identification and affirm spirit-identification.
+29.&emsp;Miracles praise God through you. ^2^Miracles praise God by honouring God’s creations, affirming God’s-creations’ perfection. ^3^Miracles heal because miracles deny body-identification and affirm spirit-identification.
 :::
 ::: tab Simplified
 Miracles honour your perfection. Miracles praise God. Miracles deny body-identification and affirm spirit-identification. Miracles heal.
@@ -541,14 +540,14 @@ Miracles always express love even if you can’t see the effects.
 :::
 :::: 
 
-<a name="T-1.I.36"></a>36.&emsp;Miracles are examples of right thinking, aligning your perceptions with truth as God creäted it.
+<a name="T-1.I.36"></a>36.&emsp;Miracles are examples of right thinking, aligning your perceptions with truth as God created it.
 
 ::::tabs
 ::: tab Expanded
-Miracles are examples of right thinking, aligning your perceptions with truth as God creäted it [truth].
+Miracles are examples of right thinking, aligning your perceptions with truth as God created it [truth].
 :::
 ::: tab Substituted
-Miracles are examples of right thinking, aligning your perceptions with truth as God creäted truth.
+Miracles are examples of right thinking, aligning your perceptions with truth as God created truth.
 :::
 ::: tab Simplified
 Miracles align your thinking with God’s truth.
@@ -569,17 +568,17 @@ I correct false thinking with miracles. To know the Divine Order you need miracl
 :::
 :::: 
 
-<a name="T-1.I.38"></a>38.&emsp;The Holy Spirit is the mechanism of miracles. ^2^He recognises both God’s creätions and your illusions. ^3^He separates the true from the false by His ability to perceive totally rather than selectively.
+<a name="T-1.I.38"></a>38.&emsp;The Holy Spirit is the mechanism of miracles. ^2^He recognises both God’s creations and your illusions. ^3^He separates the true from the false by His ability to perceive totally rather than selectively.
 
 ::::tabs
 ::: tab Expanded
-The Holy Spirit is the mechanism of miracles. ^2^He [Holy Spirit] recognises both God’s creätions and your illusions. ^3^He [Holy Spirit] separates the true from the false by His [the-Holy-Spirit’s] ability to perceive totally rather than selectively.
+The Holy Spirit is the mechanism of miracles. ^2^He [Holy Spirit] recognises both God’s creations and your illusions. ^3^He [Holy Spirit] separates the true from the false by His [the-Holy-Spirit’s] ability to perceive totally rather than selectively.
 :::
 ::: tab Substituted
-The Holy Spirit is the mechanism of miracles. ^2^Holy Spirit recognises both God’s creätions and your illusions. ^3^Holy Spirit separates the true from the false by the-Holy-Spirit’s ability to perceive totally rather than selectively.
+The Holy Spirit is the mechanism of miracles. ^2^Holy Spirit recognises both God’s creations and your illusions. ^3^Holy Spirit separates the true from the false by the-Holy-Spirit’s ability to perceive totally rather than selectively.
 :::
 ::: tab Simplified
-The Holy Spirit makes miracles. The Holy Spirit can see God’s true creätions. The Holy Spirit also sees your false illusions.
+The Holy Spirit makes miracles. The Holy Spirit can see God’s true creations. The Holy Spirit also sees your false illusions.
 :::
 ::::
 
@@ -744,34 +743,34 @@ Miracles correct misperceptions. Miracles do not discriminate between degrees or
 :::
 :::: 
 
-<a name="T-1.I.50"></a>50.&emsp;The miracle compares what you have made with creätion, accepting what is in accord with it as true, and rejecting what is out of accord as false.
+<a name="T-1.I.50"></a>50.&emsp;The miracle compares what you have made with creation, accepting what is in accord with it as true, and rejecting what is out of accord as false.
 
 ::::tabs
 ::: tab Expanded
-The miracle compares what you have made with creätion, accepting what is in accord with it [creätion] as true, and rejecting what is out of accord [with creätion] as false.
+The miracle compares what you have made with creation, accepting what is in accord with it [creation] as true, and rejecting what is out of accord [with creation] as false.
 :::
 ::: tab Substituted
-The miracle compares what you have made with creätion, accepting what is in accord with creätion as true, and rejecting what is out of accord with creätion as false.
+The miracle compares what you have made with creation, accepting what is in accord with creation as true, and rejecting what is out of accord with creation as false.
 :::
 ::: tab Simplified
-Miracles compare what you make with creätion. Miracles accept what is in accord with creätion.
+Miracles compare what you make with creation. Miracles accept what is in accord with creation.
 :::
 ::::
 
 
 ## II. Revelation, Time and Miracles
 
-<a name="T-1.II.1"></a>1.&emsp;Revelation induces complete but temporary suspension of doubt and fear. ^2^It reflects the original form of communication between God and His creätions, involving the extremely personal sense of creätion sometimes sought in physical relationships. ^3^Physical closeness cannot achieve it. ^4^Miracles, however, are genuinely interpersonal, and result in true closeness to others. ^5^Revelation unites you directly with God. ^6^Miracles unite you directly with your brother. ^7^Neither emanates from consciousness, but both are experienced there. ^8^Consciousness is the state that induces action, though it does not inspire it. ^9^You are free to believe what you choose, and what you do attests to what you believe.
+<a name="T-1.II.1"></a>1.&emsp;Revelation induces complete but temporary suspension of doubt and fear. ^2^It reflects the original form of communication between God and His creations, involving the extremely personal sense of creation sometimes sought in physical relationships. ^3^Physical closeness cannot achieve it. ^4^Miracles, however, are genuinely interpersonal, and result in true closeness to others. ^5^Revelation unites you directly with God. ^6^Miracles unite you directly with your brother. ^7^Neither emanates from consciousness, but both are experienced there. ^8^Consciousness is the state that induces action, though it does not inspire it. ^9^You are free to believe what you choose, and what you do attests to what you believe.
 
 ::::tabs
 ::: tab Expanded
-Revelation induces complete but temporary suspension of doubt and fear. ^2^It [revelation] reflects the original form of communication between God and His [God’s] creätions, involving the extremely personal sense of creätion sometimes sought in physical relationships. ^3^Physical closeness cannot achieve it [a personal sense of creation]. ^4^Miracles, however, are genuinely interpersonal, and result in true closeness to others. ^5^Revelation unites you directly with God. ^6^Miracles unite you directly with your brother. ^7^Neither [revelation nor miracles] emanates from consciousness, but both [revelation and miracles] are experienced there [in consciousness]. ^8^Consciousness is the state that induces action, though it [consciousness] does not inspire it [action]. ^9^You are free to believe what you choose, and what you do attests to what you believe.
+Revelation induces complete but temporary suspension of doubt and fear. ^2^It [revelation] reflects the original form of communication between God and His [God’s] creations, involving the extremely personal sense of creation sometimes sought in physical relationships. ^3^Physical closeness cannot achieve it [a personal sense of creation]. ^4^Miracles, however, are genuinely interpersonal, and result in true closeness to others. ^5^Revelation unites you directly with God. ^6^Miracles unite you directly with your brother. ^7^Neither [revelation nor miracles] emanates from consciousness, but both [revelation and miracles] are experienced there [in consciousness]. ^8^Consciousness is the state that induces action, though it [consciousness] does not inspire it [action]. ^9^You are free to believe what you choose, and what you do attests to what you believe.
 :::
 ::: tab Substituted
-Revelation induces complete but temporary suspension of doubt and fear. ^2^Revelation reflects the original form of communication between God and God’s creätions, involving the extremely personal sense of creätion sometimes sought in physical relationships. ^3^Physical closeness cannot achieve a personal sense of creation. ^4^Miracles, however, are genuinely interpersonal, and result in true closeness to others. ^5^Revelation unites you directly with God. ^6^Miracles unite you directly with your brother. ^7^Neither revelation nor miracles emanates from consciousness, but revelation and miracles are experienced in consciousness. ^8^Consciousness is the state that induces action, though consciousness does not inspire action. ^9^You are free to believe what you choose, and what you do attests to what you believe.
+Revelation induces complete but temporary suspension of doubt and fear. ^2^Revelation reflects the original form of communication between God and God’s creations, involving the extremely personal sense of creation sometimes sought in physical relationships. ^3^Physical closeness cannot achieve a personal sense of creation. ^4^Miracles, however, are genuinely interpersonal, and result in true closeness to others. ^5^Revelation unites you directly with God. ^6^Miracles unite you directly with your brother. ^7^Neither revelation nor miracles emanates from consciousness, but revelation and miracles are experienced in consciousness. ^8^Consciousness is the state that induces action, though consciousness does not inspire action. ^9^You are free to believe what you choose, and what you do attests to what you believe.
 :::
 ::: tab Simplified
-Miracles unite you with your brother. Revelation unites you with God. Revelation is the original communication with God. There is no doubt or fear in revelation. In revelation you understand creätion. You act according to your beliefs.
+Miracles unite you with your brother. Revelation unites you with God. Revelation is the original communication with God. There is no doubt or fear in revelation. In revelation you understand creation. You act according to your beliefs.
 :::
 ::::
 
@@ -789,622 +788,284 @@ Revelation is an experience of love. Revelation is also an experience of freedom
 :::
 ::::
 
-## T-1.II.3
+<a name="T-1.II.3"></a>3.&emsp;Awe should be reserved for revelation, to which it is perfectly and correctly applicable. ^2^It is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before his Creator. ^3^You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. ^4^The miracle is therefore a sign of love among equals. ^5^Equals should not be in awe of one another because awe implies inequality. ^6^It is therefore an inappropriate reaction to me. ^7^An elder brother is entitled to respect for his greater experience, and obedience for his greater wisdom. ^8^He is also entitled to love because he is a brother, and to devotion if he is devoted. ^9^It is only my devotion that entitles me to yours. ^10^There is nothing about me that you cannot attain. ^11^I have nothing that does not come from God. ^12^The difference between us now is that I have nothing else. ^13^This leaves me in a state which is only potential in you.
 
-<p class=fip id=p3>
-3.&emsp;Awe should be reserved for revelation, to which it is perfectly and correctly applicable. 
-^2^It is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before his Creator. 
-^3^You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
-^4^The miracle is therefore a sign of love among equals. 
-^5^Equals should not be in awe of one another because awe implies inequality. 
-^6^It is therefore an inappropriate reaction to me. 
-^7^An elder brother is entitled to respect for his greater experience, and obedience for his greater wisdom. 
-^8^He is also entitled to love because he is a brother, and to devotion if he is devoted. 
-^9^It is only my devotion that entitles me to yours. 
-^10^There is nothing about me that you cannot attain. 
-^11^I have nothing that does not come from God. 
-^12^The difference between us now is that I have nothing else. 
-^13^This leaves me in a state which is only potential in you.
-</p>
-
-#### expanded
-
-3.&emsp;Awe should be reserved for revelation, to which [revelation] it [awe] is perfectly and correctly applicable. 
-^2^It [awe] is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before his [one of a lesser order’s] Creator. 
-^3^You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
-^4^The miracle is therefore a sign of love among equals. 
-^5^Equals should not be in awe of one another [other equals] because awe implies inequality. 
-^6^It [awe] is therefore an inappropriate reaction to me. 
-^7^An elder brother is entitled to respect for his [the elder brother’s] greater experience, and obedience for his [the elder brother’s] greater wisdom. 
-^8^He [an elder brother] is also entitled to love because he [an elder brother] is a brother, and [entitled] to devotion if he [the elder brother] is devoted. 
-^9^It is only my devotion that entitles me to yours [devotion]. 
-^10^There is nothing about me that you cannot attain. 
-^11^I have nothing that does not come from God. 
-^12^The difference between us now is that I have nothing else [not coming from God]. 
-^13^This [not having anything not of God] leaves me in a state which [state] is only potential in you.
-
-#### substituted
-
-3.&emsp;Awe should be reserved for revelation; to revelation awe is perfectly and correctly applicable. 
-^2^Awe is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before one-of-a-lesser-order’s Creator. 
-^3^You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
-^4^The miracle is therefore a sign of love among equals. 
-^5^Equals should not be in awe of other equals because awe implies inequality. 
-^6^Awe is therefore an inappropriate reaction to me. 
-^7^An elder brother is entitled to respect for the elder brother’s greater experience, and obedience for the elder brother’s greater wisdom. 
-^8^An elder brother is also entitled to love because an elder brother is a brother, and entitled to devotion if the elder brother is devoted. 
-^9^It is only my devotion that entitles me to your devotion. 
-^10^There is nothing about me that you cannot attain. 
-^11^I have nothing that does not come from God. 
-^12^The difference between us now is that I have nothing not coming from God. 
-^13^Not having anything not of God leaves me in a state; a state that is only potential in you.
-
-#### simplified
+::::tabs
+::: tab Expanded
+Awe should be reserved for revelation, to which [revelation] it [awe] is perfectly and correctly applicable. ^2^It [awe] is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before his [one of a lesser order’s] Creator. ^3^You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. ^4^The miracle is therefore a sign of love among equals. ^5^Equals should not be in awe of one another [other equals] because awe implies inequality. ^6^It [awe] is therefore an inappropriate reaction to me. ^7^An elder brother is entitled to respect for his [the elder brother’s] greater experience, and obedience for his [the elder brother’s] greater wisdom. ^8^He [an elder brother] is also entitled to love because he [an elder brother] is a brother, and [entitled] to devotion if he [the elder brother] is devoted. ^9^It is only my devotion that entitles me to yours [devotion]. ^10^There is nothing about me that you cannot attain. ^11^I have nothing that does not come from God. ^12^The difference between us now is that I have nothing else [not coming from God]. ^13^This [not having anything not of God] leaves me in a state which [state] is only potential in you.
+:::
+::: tab Substituted
+Awe should be reserved for revelation; to revelation awe is perfectly and correctly applicable. ^2^Awe is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before one-of-a-lesser-order’s Creator. 
+^3^You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. ^4^The miracle is therefore a sign of love among equals. ^5^Equals should not be in awe of other equals because awe implies inequality. ^6^Awe is therefore an inappropriate reaction to me. ^7^An elder brother is entitled to respect for the elder brother’s greater experience, and obedience for the elder brother’s greater wisdom. ^8^An elder brother is also entitled to love because an elder brother is a brother, and entitled to devotion if the elder brother is devoted. ^9^It is only my devotion that entitles me to your devotion. 
+^10^There is nothing about me that you cannot attain. ^11^I have nothing that does not come from God. ^12^The difference between us now is that I have nothing not coming from God. ^13^Not having anything not of God leaves me in a state; a state that is only potential in you.
+:::
+::: tab Simplified
 Awe is for revelation. Miracles are for others. Love, respect, obedience and devotion are due an elder brother. I have only what is from God. You have the potential to be like me. 
-
-
-#### commentary
-
-:::tip
-(5–6) Jesus, thus, is the one who first completed his Atonement path. He began with us, believing in the reality of the separated world of the ego. Now, having learned his lessons perfectly and completely, he reaches back to help us walk forgiveness’ path, as he did. In the Course, he asks that we think of him as an elder brother. But he does not ask for awe … emphasising his equality with us. (Wapnick, FAJ, p.286.)
 :::
+::: tab Commentary
+(5–6) Jesus, thus, is the one who first completed his Atonement path. He began with us, believing in the reality of the separated world of the ego. Now, having learned his lessons perfectly and completely, he reaches back to help us walk forgiveness’ path, as he did. In the Course, he asks that we think of him as an elder brother. But he does not ask for awe … emphasising his equality with us. (Wapnick, F.A.J., p.286.)
 
-:::tip
-(7–8) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego. … Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, FAJ, p.286.)
-:::
+(7–8) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego. … Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, F.A.J., p.286.)
 
-:::tip
 (7–8) [Jesus], our loving elder brother. (Wapnick, A.A.C., p. 197.)
+
+(7–12) Jesus is unlike us in having no ego thoughts of separation — guilt, fear or attack — to cloud his mind of the clear light of Christ. (Wapnick, L.D.N.C., p. 517, 518.) (see T.1.II.4:5)
+
+(7–4:7) Jesus consistently teaches in the course that he is no different from us in reality, but in the illusory and symbolic world of time he can be our teacher and guide if we allow him to be that for us. (Wapnick, A.A.C., p.214.)
+
+(10–4:1) Within the illusion of time, some people will seem to be closer to returning home … than others. The … category [Teacher of teachers] of course includes Jesus, who within the world of time is more advanced than any of us. But that is only within the illusion of time (c/f [T-1.IV.1](#T-1.IV.1) (Wapnick, A.V.I., p.130).
+
+(13) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego… Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, F.A.J., p.286.)
 :::
+::::
 
-:::tip
-(7–12) Jesus is unlike us in having no ego thoughts of separation — guilt, fear or attack — to cloud his mind of the clear light of Christ. (Wapnick, LDNC, p. 517, 518.) (see T.1.II.4:5)
+<a name="T-1.II.4"></a>4.&emsp;“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. ^2^The statement is more meaningful in terms of a vertical rather than a horizontal axis. ^3^You stand below me and I stand below God. ^4^In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. ^5^I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other. ^6^My devotion to my brothers has placed me in charge of the Sonship, which I render complete because I share it. ^7^This may appear to contradict the statement “I and my Father are one”, but there are two parts to the statement in recognition that the Father is greater.
+
+::::tabs
+::: tab Expanded
+“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. ^2^The statement [“no man comes unto the Father but by me”] is more meaningful in terms of a vertical [axis] rather than a horizontal axis. ^3^You stand below me and I stand below God. ^4^In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. ^5^I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other [hand]. ^6^My devotion to my brothers has placed me in charge of the Sonship, which [Sonship] I render complete because I share it [the Sonship]. ^7^This [sharing the Sonship] may appear to contradict the statement “I and my Father are one”, but there are two parts to the statement [“I and my Father are one”] in recognition that the Father is greater.
 :::
-
-:::tip
-(7–4:7) Jesus consistently teaches in the course that he is no different from us in reality, but in the illusory and symbolic world of time he can be our teacher and guide if we allow him to be that for us. (Wapnick, A.A.C., p. 214.)
+::: tab Substituted
+“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. ^2^The statement, “No man comes unto the Father but by me”, is more meaningful in terms of a vertical axis rather than a horizontal axis. ^3^You stand below me and I stand below God. ^4^In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. ^5^I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other hand. ^6^My devotion to my brothers has placed me in charge of the Sonship; I render the Sonship complete because I share the Sonship. ^7^Sharing the Sonship may appear to contradict the statement “I and my Father are one”, but there are two parts to “I and my Father are one” in recognition that the Father is greater.
 :::
-
-:::tip
-(10–4:1) Within the illusion of time, some people will seem to be closer to returning home … than others. The … category [Teacher of teachers] of course includes Jesus, who within the world of time is more advanced than any of us. But that is only within the illusion of time [c/f <a href="/text/1/iv#p1">T-1.IV.1</a>] (Wapnick, A.V.I., p.130.)
+::: tab Simplified
+I stand between you and God. I bridge the distance between you and God. I am your elder brother and the Son of God. The Father is greater than the Son.
 :::
+::: tab Commentary
+(1) [Jesus] is not “in any way separate or different” from us except in the world of time (Wapnick, L.D.N.C., p.449).
 
-:::tip
-(13) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego… Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, FAJ, p.286.)
-:::
- -->
+(3–5) …our role in this world, like Jesus’, is to manifest the Holy Spirit’s function of bridging time and eternity, remaining in the real world as He directs, our feet on the earth, while our hands reach to heaven. We are thus to become like Jesus, or those ascended masters who have completed their particular lessons. These teachers remain just a sliver away from Heaven, though they have its awreness, so that they help everyone else attain what they have learned. (Wapnick, A.V.I., p. 261.)
 
-## T-1.II.4
+(3–6) Jesus became the Son of God, or Christ, by virtue of his having first completed his personal Atonement plan and helping us to do the same, but inherent in his nature is the Christ inherent in all of us. (Wapnick, F.A.J., p.286.)
 
-<p class=fip id=p4>
-4.&emsp;“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
-^2^The statement is more meaningful in terms of a vertical rather than a horizontal axis. 
-^3^You stand below me and I stand below God. 
-^4^In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
-^5^I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other. 
-^6^My devotion to my brothers has placed me in charge of the Sonship, which I render complete because I share it. 
-^7^This may appear to contradict the statement “I and my Father are one”, but there are two parts to the statement in recognition that the Father is greater.
-p>
+(7) In one form or another, all of us fall prey  to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7-the-gifts-of-the-kingdom#T-7.I.1). (Wapnick, F.A.J., p.263.)
 
-#### expanded
-
-4.&emsp;“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
-^2^The statement [“no man comes unto the Father but by me”] is more meaningful in terms of a vertical [axis] rather than a horizontal axis. 
-^3^You stand below me and I stand below God. 
-^4^In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
-^5^I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other [hand]. 
-^6^My devotion to my brothers has placed me in charge of the Sonship, which [Sonship] I render complete because I share it [the Sonship]. 
-^7^This [sharing the Sonship] may appear to contradict the statement “I and my Father are one”, but there are two parts to the statement [“I and my Father are one”] in recognition that the Father is greater.
-
-#### substituted
-
-4.&emsp;“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
-^2^The statement, “No man comes unto the Father but by me”, is more meaningful in terms of a vertical axis rather than a horizontal axis. 
-^3^You stand below me and I stand below God. 
-^4^In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
-^5^I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other hand. 
-^6^My devotion to my brothers has placed me in charge of the Sonship; I render the Sonship complete because I share the Sonship. 
-^7^Sharing the Sonship may appear to contradict the statement “I and my Father are one”, but there are two parts to “I and my Father are one” in recognition that the Father is greater.
-
-#### simplified
-
-I stand between you and God. I bridge the distance between you and God. I am your elder brother and Son of God. The Father is greater than the Son.
-
-<!-- 
-#### commentary
-
-:::tip
-(1) [Jesus] is not “in any way separate or different” from us except in the world of time (Wapnick, LDNC, p.449).
-:::
-
-:::tip
-(3–5) …our role in this world, like Jesus’, is to manifest the Holy Spirit’s function of bridging time and eternity, remaining in the real world as He directs, our feet on the earth, while our hands reach to heaven. We are thus to become like Jesus, or those ascendecd masters who have completed their particular lessons. These teachers remain just a sliver away from Heaven, though they have its awreness, so that they help everyone else attain what they have learned. (Wapnick, A.V.I., p. 261.)
-:::
-
-:::tip
-(3–6) Jesus became the Son of God, or Christ, by virtue of his having first completed his personal Atonement plan and helping us to do the same, but inherent in his nature is the Christ inherent in all of us. (Wapnick, FAJ, p.286.)
-:::
-
-:::tip
-(6) This statement may mean that he can only bring the Sonship back to completion if he himself shares the quality of “Sonship” with everyone (C of A, p.42).
-:::
-
-:::tip
-(7) In one form or another, all of us fall prey  to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7/i#p1). (Wapnick, FAJ, p.263.)
-:::
-
-:::tip
 (7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, excep tthat God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, A.V.I., p.99).
 :::
- -->
+::::
 
-## T-1.II.5
+<a name="T-1.II.5"></a>5.&emsp;Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. ^2^I can thus bring down to them more than they can draw down to themselves. ^3^The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. ^4^Revelation is not reciprocal. ^5^It proceeds from God to you, but not from you to God.
 
-<p class=fip id=p5>
-5.&emsp;Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
-^2^I can thus bring down to them more than they can draw down to themselves. 
-^3^The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. 
-^4^Revelation is not reciprocal. 
-^5^It proceeds from God to you, but not from you to God.
-</p>
-
-#### expanded
-
-5.&emsp;Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
-^2^I can thus bring down to them [my brothers] more than they [my brothers] can draw down to themselves [my brother’s selves]. 
-^3^The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. 
-^4^Revelation is not reciprocal. 
-^5^It [revelation] proceeds from God to you, but not from you to God.
-
-#### substituted
-
-5.&emsp;Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
-^2^I can thus bring down to my brothers more than my brothers can draw down to my brothers’ selves. 
-^3^The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. 
-^4^Revelation is not reciprocal. 
-^5^Revelation proceeds from God to you, but not from you to God.
-
-#### simplified
-
+::::tabs
+::: tab Expanded
+Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. ^2^I can thus bring down to them [my brothers] more than they [my brothers] can draw down to themselves [my-brother’s-selves]. ^3^The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. ^4^Revelation is not reciprocal. ^5^It [revelation] proceeds from God to you, but not from you to God.
+:::
+::: tab Substituted
+Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. ^2^I can thus bring down to my brothers more than my brothers can draw down to my-brothers’-selves. ^3^The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. ^4^Revelation is not reciprocal. ^5^Revelation proceeds from God to you, but not from you to God.
+:::
+::: tab Simplified
 I am close to the Holy Spirit. I know when you are ready for revelation. I bring revelation to you through the Holy Spirit.
+:::
+::::
 
-## T-1.II.6
+<a name="T-1.II.6"></a>6.&emsp;The miracle minimises the need for time. ^2^In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. ^3^However, the miracle entails a sudden shift from horizontal to vertical perception. ^4^This introduces an interval from which the giver and receiver both emerge farther along in time than they would otherwise have been. ^5^The miracle thus has the unique property of abolishing time to the extent that it renders the interval of time it spans unnecessary. ^6^There is no relationship between the time a miracle takes and the time it covers. ^7^The miracle substitutes for learning that might have taken thousands of years. ^8^It does so by the underlying recognition of perfect equality of giver and receiver on which the miracle rests. ^9^The miracle shortens time by collapsing it, thus eliminating certain intervals within it. ^10^It does this, however, within the larger temporal sequence.
 
-<p class=fip id=p6>
-6.&emsp;The miracle minimises the need for time. 
-^2^In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. 
-^3^However, the miracle entails a sudden shift from horizontal to vertical perception. 
-^4^This introduces an interval from which the giver and receiver both emerge farther along in time than they would otherwise have been. 
-^5^The miracle thus has the unique property of abolishing time to the extent that it renders the interval of time it spans unnecessary. 
-^6^There is no relationship between the time a miracle takes and the time it covers. 
-^7^The miracle substitutes for learning that might have taken thousands of years. 
-^8^It does so by the underlying recognition of perfect equality of giver and receiver on which the miracle rests. 
-^9^The miracle shortens time by collapsing it, thus eliminating certain intervals within it. 
-^10^It does this, however, within the larger temporal sequence.
-</p>
-
-#### expanded
-
-6.&emsp;The miracle minimises the need for time. 
-^2^In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. 
-^3^However, the miracle entails a sudden shift from horizontal [perception] to vertical perception. 
-^4^This [a shift from horizontal to vertical perception] introduces an interval from which [interval] the giver and receiver both emerge farther along in time than they [giver and receiver] would otherwise have been. 
-^5^The miracle thus has the unique property of abolishing time to the extent that it [the miracle] renders the interval of time it [the miracle] spans unnecessary. 
-^6^There is no relationship between the time a miracle takes and the time it [a miracle] covers. 
-^7^The miracle substitutes for learning that might have taken thousands of years. 
-^8^It [the miracle] does so [substitutes for learning] by the underlying recognition of perfect equality of giver and receiver on which the miracle rests. 
-^9^The miracle shortens time by collapsing it [time], thus eliminating certain intervals within it [time]. 
-^10^It [the miracle] does this [shortens time], however, within the larger temporal sequence.
-
-#### substituted
-
-6.&emsp;The miracle minimises the need for time. 
-^2^In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. 
-^3^However, the miracle entails a sudden shift from horizontal to vertical perception. 
-^4^A shift from horizontal to vertical perception introduces an interval; from the interval the giver and receiver both emerge farther along in time than giver and receiver would otherwise have been. 
-^5^The miracle thus has the unique property of abolishing time to the extent that the miracle renders the interval of time the miracle spans unnecessary. 
-^6^There is no relationship between the time a miracle takes and the time a miracle covers. 
-^7^The miracle substitutes for learning that might have taken thousands of years. 
-^8^The miracle subsititutes for learning by the underlying recognition of perfect equality of giver and receiver on which the miracle rests. 
-^9^The miracle shortens time by collapsing time, thus eliminating certain intervals within time. 
-^10^The miracle shortens time, however, within the larger temporal sequence.
-
-#### simplified
-
+::::tabs
+::: tab Expanded
+The miracle minimises the need for time. ^2^In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. ^3^However, the miracle entails a sudden shift from horizontal [perception] to vertical perception. ^4^This [a shift from horizontal to vertical perception] introduces an interval from which [interval] the giver and receiver both emerge farther along in time than they [giver and receiver] would otherwise have been. ^5^The miracle thus has the unique property of abolishing time to the extent that it [the miracle] renders the interval of time it [the miracle] spans unnecessary. ^6^There is no relationship between the time a miracle takes and the time it [a miracle] covers. ^7^The miracle substitutes for learning that might have taken thousands of years. ^8^It [the miracle] does so [substitutes for learning] by the underlying recognition of perfect equality of giver and receiver on which the miracle rests. ^9^The miracle shortens time by collapsing it [time], thus eliminating certain intervals within it [time]. ^10^It [the miracle] does this [shortens time], however, within the larger temporal sequence.
+:::
+::: tab Substituted
+The miracle minimises the need for time. ^2^In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. ^3^However, the miracle entails a sudden shift from horizontal to vertical perception. ^4^A shift from horizontal to vertical perception introduces an interval; from the interval the giver and receiver both emerge farther along in time than giver and receiver would otherwise have been. ^5^The miracle thus has the unique property of abolishing time to the extent that the miracle renders the interval of time the miracle spans unnecessary. ^6^There is no relationship between the time a miracle takes and the time a miracle covers. ^7^The miracle substitutes for learning that might have taken thousands of years. ^8^The miracle subsititutes for learning by the underlying recognition of perfect equality of giver and receiver on which the miracle rests. ^9^The miracle shortens time by collapsing time, thus eliminating certain intervals within time. ^10^The miracle shortens time, however, within the larger temporal sequence.
+:::
+::: tab Simplified
 The miracle minimises the need for time. In the horizontal plane the equality of the members of the Sonship involves endless time. Mircacles shifts perception to vertical. Time is saved. Giver and receiver are equal.
-
-
-#### commentary>
-
-:::tip
+:::
+::: tab Commentary
 (1–3) … within the framework of the ego system… reflects a linear process; namely that we moved away from God in the beginning, and now we have to return. That is why, though it talks about a journey *A Course in Miracles* very often reminds us that the journey is already over and that we *are* perfect in God. …this “return” [is discussed] in terms of the horizontal framework which is rooted in time, and the vertical one which transcends time and exists only in the present (the holy instant). (Wapnick, A.V.I., p.182.)
+
+(7) *A Course in Miracles* talks a great deal about saving time. In fact, many times it talks about saving thousands of years. We are still talking about, in the world’s illusion of time, a considerable amount of time. The reason I am emphasising this is that I do not want you to feel guilty if you still have problems as you keep working with the Course. The real goal on the practical level of the Course is not to be free of problems, but to recognise what they are, and then to recognise within ourselves the means of undoing them. (Wapnick, A.T.G., p. 81.)
 :::
+::::
 
-:::tip
-(7) *A Course in Miracles* talks a great deal about saving time. In fact, many times it talks about saving thousands of years. We are still talking about, in the world’s illusion of time, a considerable amount of time. The reason I am emphasising this is that I do not want you to feel guilty if you still have problems as you keep working with the Course. The real goal on the practical level of the Course is not to be free of problems, but to recognise what they are, and then to recognise within ourselves the means of undoing them. (Wapnick, ATG, p. 81.)
-::: 
--->
 
-# T-1.III Atonement and Miracles
+## III. Atonement and Miracles
 
-## T-1.III.1
+<a name="T-1.III.1"></a>1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. ^2^When you offer a miracle to any of my brothers, you do it to *yourself* and me. ^3^The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. ^4^My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. ^5^When you have been restored to the recognition of your original state, you naturally become part of the Atonement yourself. ^6^As you share my unwillingness to accept error in yourself and others, you must join the great crusade to correct it: listen to my voice, learn to undo error and act to correct it. ^7^The power to work miracles belongs to you. ^8^I will provide the opportunities to do them, but you must be ready and willing. ^9^Doing them will bring conviction in the ability, because conviction comes through accomplishment. ^10^The ability is the potential, the achievement is its expression, and the Atonement, which is the natural profession of the children of God, is the purpose.
 
-<p class=fip id=p1>
-1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. 
-^2^When you offer a miracle to any of my brothers, you do it to *yourself* and me. 
-^3^The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. 
-^4^My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. 
-^5^When you have been restored to the recognition of your original state, you naturally become part of the Atonement yourself. 
-^6^As you share my unwillingness to accept error in yourself and others, you must join the great crusade to correct it: listen to my voice, learn to undo error and act to correct it. 
-^7^The power to work miracles belongs to you. 
-^8^I will provide the opportunities to do them, but you must be ready and willing. 
-^9^Doing them will bring conviction in the ability, because conviction comes through accomplishment. 
-^10^The ability is the potential, the achievement is its expression, and the Atonement, which is the natural profession of the children of God, is the purpose.
-</p>
-
-#### expanded
-
-1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. 
-^2^When you offer a miracle to any of my brothers, you do it [offer a miracle] to *yourself* and me. 
-^3^The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. 
-^4^My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. 
-^5^When you have been restored to the recognition of your original state, you naturally become part of the Atonement yourself. 
-^6^As you share my unwillingness to accept error in yourself and others, you must join the great crusade to correct it [error]: listen to my voice, learn to undo error and act to correct it [error]. 
-^7^The power to work miracles belongs to you. 
-^8^I will provide the opportunities to do them [miracles], but you must be ready and willing. 
-^9^Doing them [miracles] will bring conviction in the ability [to do miracles], because conviction comes through accomplishment. 
-^10^The ability [to do miracles] is the potential, the achievement [of miracles] is its [the potential’s] expression, and the Atonement, which is the natural profession of the children of God, is the purpose.
-
-#### substituted
-
-1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. 
-^2^When you offer a miracle to any of my brothers, you offer a miracle to *yourself* and me. 
-^3^The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. 
-^4^My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. 
-^5^When you have been restored to the recognition of your original state, you naturally become part of the Atonement yourself. 
-^6^As you share my unwillingness to accept error in yourself and others, you must join the great crusade to correct error: listen to my voice, learn to undo error and act to correct error. 
-^7^The power to work miracles belongs to you. 
-^8^I will provide the opportunities to do miracles, but you must be ready and willing. 
-^9^Doing miracles will bring conviction in the ability to do miracles, because conviction comes through accomplishment. 
+::::tabs
+::: tab Expanded
+I am in charge of the process of Atonement, which I undertook to begin. ^2^When you offer a miracle to any of my brothers, you do it [offer a miracle] to *yourself* and me. ^3^The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. ^4^My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. ^5^When you have been restored to the recognition of your original state, you naturally become part of the Atonement yourself. ^6^As you share my unwillingness to accept error in yourself and others, you must join the great crusade to correct it [error]: listen to my voice, learn to undo error and act to correct it [error]. ^7^The power to work miracles belongs to you. ^8^I will provide the opportunities to do them [miracles], but you must be ready and willing. ^9^Doing them [miracles] will bring conviction in the ability [to do miracles], because conviction comes through accomplishment. ^10^The ability [to do miracles] is the potential, the achievement [of miracles] is its [the potential’s] expression, and the Atonement, which is the natural profession of the children of God, is the purpose.
+:::
+::: tab Substituted
+1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. ^2^When you offer a miracle to any of my brothers, you offer a miracle to *yourself* and me. ^3^The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. ^4^My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. ^5^When you have been restored to the recognition of your original state, you naturally become part of the Atonement yourself. ^6^As you share my unwillingness to accept error in yourself and others, you must join the great crusade to correct error: listen to my voice, learn to undo error and act to correct error. ^7^The power to work miracles belongs to you. ^8^I will provide the opportunities to do miracles, but you must be ready and willing. ^9^Doing miracles will bring conviction in the ability to do miracles, because conviction comes through accomplishment. 
 ^10^The ability to do miracles is the potential, the achievement of miracles is the potential’s expression, and the Atonement, which is the natural profession of the children of God, is the purpose.
-
-#### simplified
-
+:::
+::: tab Simplified
 I begin the process of Atonement. I help you to cancel out errors. Atonement is being restored to your natural state. Correct error by listening to me. Learn to undo error and act to correct error. Be ready and willing to do miracles. Doing more miracles brings more conviction. Miracles are for Atonement.
-
-
-#### commentary
-
-:::tip
-In the Course, the Atonement as an event refers to the resurrection, not the crucifixion (C of A, p. 15.)
 :::
+::: tab Commentary
+(1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who them became the victim of his Father’s justified vengeance. (Wapnick, F.A.J., p.189.)
 
-:::tip
-(1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who them became the victim of his Father’s justified vengeance. (Wapnick, FAJ, p.189.)
-:::
+(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [T-1.III.4:1](#T-1.III.4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement#T-2.II.4).
 
-:::tip
-(1) The life of Jesus was [an] “act of love”, for he was the “thought” within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been “placed” by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, LDNC, p.514.) c/f [T-1.III.4:1](#p4), [T-2.II.4:2–5](/text/2/ii#p4).
-:::
-
-:::tip
 (1) When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin”. (Wapnick, A.V.I., p.228)
+
+(1) This ‘appointment’ of Jesus occurred on quite a different level since there is no time, and all of what we know as time is happening in this one instant, *now*, which we merely reëxperience within our minds. (Wapnick, A.A.C., p.206.)
+
+(1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, F.A.J., p.293.)
 :::
+::::
 
-:::tip
-(1) This “appointment” of Jesus occurred on quite a different level since there is no time, and all of what we know as time is happening in this one instant, *now*, which we merely re-experience within our minds. (Wapnick, A.A.C., p.206.)
+<a name="T.1.III.2"></a>2.&emsp;“Heaven and earth shall pass away” means that they will not continue to exist as separate states. ^2^My word, which is the resurrection and the life, shall not pass away because life is eternal. ^3^You are the work of God, and His work is wholly lovable and wholly loving. ^4^This is how a man must think of himself in his heart, because this is what he is.
+
+::::tabs
+::: tab Expanded
+“Heaven and earth shall pass away” means that they [Heaven and earth] will not continue to exist as separate states. ^2^My word, which is the resurrection and the life, shall not pass away because life is eternal. ^3^You are the work of God, and His [God’s] work is wholly lovable and wholly loving. ^4^This [wholly lovable and wholly loving] is how a man must think of himself [the man’s self] in his [the man’s] heart, because this [wholly lovable and wholly loving] is what he [the man] is.
 :::
-
-:::tip
-(1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, FAJ, p.293.)
+::: tab Substituted
+“Heaven and earth shall pass away” means that Heaven and earth will not continue to exist as separate states. ^2^My word, which is the resurrection and the life, shall not pass away because life is eternal. ^3^You are the work of God, and God’s work is wholly lovable and wholly loving. ^4^Wholly lovable and wholly loving is how a man must think of the man’s self in the man’s heart, because wholly lovable and wholly loving is what the man is.
 :::
- -->
-
-## T.1.III.2
-
-<p class=fip id=p2>
-2.&emsp;“Heaven and earth shall pass away” means that they will not continue to exist as separate states. 
-^2^My word, which is the resurrection and the life, shall not pass away because life is eternal. 
-^3^You are the work of God, and His work is wholly lovable and wholly loving. 
-^4^This is how a man must think of himself in his heart, because this is what he is.
-</p>
-
-#### expanded
-
-2.&emsp;“Heaven and earth shall pass away” means that they [Heaven and earth] will not continue to exist as separate states. 
-^2^My word, which is the resurrection and the life, shall not pass away because life is eternal. 
-^3^You are the work of God, and His [God’s] work is wholly lovable and wholly loving. 
-^4^This [wholly lovable and wholly loving] is how a man must think of himself [a man’s self] in his [a man’s] heart, because this [wholly lovable and wholly loving] is what he [a man] is.
-
-#### substituted
-
-2.&emsp;“Heaven and earth shall pass away” means that Heaven and earth will not continue to exist as separate states. 
-^2^My word, which is the resurrection and the life, shall not pass away because life is eternal. 
-^3^You are the work of God, and God’s work is wholly lovable and wholly loving. 
-^4^Wholly lovable and wholly loving is how a man must think of man’s self in a man’s heart, because wholly lovable and wholly loving is what a man is.
-
-#### simplified
-
+::: tab Simplified
 Heaven and earth will not continue to exist as separate states. My word is the resurrection and the life. My word shall not pass away because life is eternal. God’s work is wholly lovable and wholly loving. You are the work of God. You are wholly lovable and loving.
-  
-
-#### commentary
-
-:::tip
-(2) Rather than *Jesus* being the resurrection and the life, his *word*— his * teaching* — is. (C of A, p.20.)
 :::
+::::
 
-:::tip
-(4) The Course reverses cause and effect. Instead of how you think of yourself dictating what you are, what you are needs to dictate how you think of yourself. (C of A, p.20.)
+<a name="T-1.III.3"></a>3.&emsp;The forgiven are the means of the Atonement. ^2^Being filled with spirit, they forgive in return. ^3^Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ^4^Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
+
+::::tabs
+::: tab Expanded
+The forgiven are the means of the Atonement. ^2^Being filled with spirit, they [the forgiven] forgive in return. ^3^Those who are released must join in releasing their [the-released-ones’] brothers, for this [releasing brothers] is the plan of the Atonement. ^4^Miracles are the way in which [way] minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
 :::
- -->
-
-## T-1.III.3
-
-<p class=fip id=p3>3.&emsp;The forgiven are the means of the Atonement. 
-^2^Being filled with spirit, they forgive in return. 
-^3^Those who are released must join in releasing their brothers, for this is the plan of the Atonement. 
-^4^Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
-</p>
-
-#### expanded
-
-3.&emsp;The forgiven are the means of the Atonement. 
-^2^Being filled with spirit, they [the forgiven] forgive in return. 
-^3^Those who are released must join in releasing their [the released ones’] brothers, for this [releasing brothers] is the plan of the Atonement. 
-^4^Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
-
-#### substituted
-
-3.&emsp;The forgiven are the means of the Atonement. 
-^2^Being filled with spirit, the forgiven forgive in return. 
-^3^Those who are released must join in releasing the released ones’ brothers, for releasing brothers is the plan of the Atonement. 
-^4^Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
-
-#### simplified
-
+::: tab Substituted
+The forgiven are the means of the Atonement. ^2^Being filled with spirit, the forgiven forgive in return. ^3^Those who are released must join in releasing the-released-ones’ brothers, for releasing brothers is the plan of the Atonement. ^4^Miracles are the way; the way minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
+:::
+::: tab Simplified
 The forgiven are able to forgive. Release your brothers by forgiving them.
-
-## T-1.III.4
-
-<p class=fip id=p4>
-4.&emsp;I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
-^2^You have a role in the Atonement which I will dictate to you. 
-^3^Ask me which miracles you should perform. 
-^4^This spares you needless effort, because you will be acting under direct communication. 
-^5^The impersonal nature of the miracle is an essential ingredient, because it enables me to direct its application, and under my guidance miracles lead to the highly personal experience of revelation. 
-^6^A guide does not control but he does direct, leaving it up to you to follow. 
-^7^“Lead us not into temptation” means “Recognise your errors and choose to abandon them by following my guidance”.
-
-#### expanded
-
-4.&emsp;I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
-^2^You have a role in the Atonement which I will dictate to you. 
-^3^Ask me which miracles you should perform. 
-^4^This [asking which miracles you should perform] spares you needless effort, because you will be acting under direct communication. 
-^5^The impersonal nature of the miracle is an essential ingredient, because it [the impersonal nature of the  miracle] enables me to direct its [the miracle’s] application, and under my guidance miracles lead to the highly personal experience of revelation. 
-^6^A guide does not control but he [a guide] does direct, leaving it up to you to follow. 
-^7^“Lead us not into temptation” means “Recognise your errors and choose to abandon them [your errors] by following my guidance”.
-
-#### substituted
-
-4.&emsp;I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
-^2^You have a role in the Atonement which I will dictate to you. 
-^3^Ask me which miracles you should perform. 
-^4^Asking which miracles your should perform perform spares you needless effort, because you will be acting under direct communication. 
-^5^The impersonal nature of the miracle is an essential ingredient, because the impersonal nature of the miracle enables me to direct the miracle’s application, and under my guidance miracles lead to the highly personal experience of revelation. 
-^6^A guide does not control but a guide does direct, leaving it up to you to follow. 
-^7^“Lead us not into temptation” means “Recognise your errors and choose to abandon your errors by following my guidance”.
-
-#### simplified
-
-I am the Atonement. I can do any miracle I like. Ask me what miracle to do. Follow my guidance.
-
-## T-1.III.5
-
-<p class=fip id=p5>
-5.&emsp;Error cannot really threaten truth, which can always withstand it. 
-^2^Only the error is actually vulnerable. 
-^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
-<span class=course-quote>
-^4^Spirit is in a state of grace forever.<br>
-^5^Your reality is only spirit.<br>
-^6^Therefore you are in a state of grace forever.
-</span>
-^7^Atonement undoes all errors in this respect, and thus uproots the source of fear. 
-^8^Whenever you experience God’s re-assurances as threat, it is always because you are defending misplaced or misdirected loyalty. 
-^9^When you project this to others you imprison them, but only to the extent to which you re-inforce errors they have already made. 
-^10^This makes them vulnerable to the distortions of others, since their own perception of themselves is distorted. 
-^11^The miracle worker can only bless them, and this undoes their distortions and frees them from prison.
-</p>
-  
-#### expanded
-
-<p>
-5.&emsp;Error cannot really threaten truth, which [truth] can always withstand it [error]. 
-^2^Only the error is actually vulnerable. 
-^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
-<span class=course-quote>
-^4^Spirit is in a state of grace forever.<br>
-^5^Your reality is only spirit.<br>
-^6^Therefore you are in a state of grace forever.
-</span>
-^7^Atonement undoes all errors in this respect [as being in a state of grace], and thus uproots the source of fear. 
-^8^Whenever you experience God’s re-assurances as threat, it [experiencing God’s re-assurances as threat] is always because you are defending misplaced or misdirected loyalty. 
-^9^When you project this [defence of misplaced or misdirected loyalty] to others you imprison them [the other], but only to the extent to which you re-inforce errors they [the other] have already made. 
-^10^This [imprisoning the other] makes them [the other] vulnerable to the distortions of others, since their [the other’s] own perception of themselves [other’s self] is distorted. 
-^11^The miracle worker can only bless them [the other], and this [blessing the other] undoes their [the other’s] distortions and frees them [the other] from prison.
-</p>
-
-#### substituted
-
-<p>
-5.&emsp;Error cannot really threaten truth; truth can always withstand error. 
-^2^Only the error is actually vulnerable. 
-^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
-<span class=course-quote>
-^4^Spirit is in a state of grace forever.<br>
-^5^Your reality is only spirit.<br>
-^6^Therefore you are in a state of grace forever.
-</span>
-^7^Atonement undoes all errors as being in a state of grace, and thus uproots the source of fear. 
-^8^Whenever you experience God’s re-assurances as threat, experiencing God’s re-assurances as threat is always because you are defending misplaced or misdirected loyalty. 
-^9^When you project this defence of misplaced or misdirected loyalty to others you imprison the other, but only to the extent to which you re-inforce errors the other has already made. 
-^10^Imprisoning the other makes the other vulnerable to the distortions of others, since the other’s own perception of the other’s self is distorted. 
-^11^The miracle worker can only bless the other, and blessing the other undoes the other’s distortions and frees the other from prison.
-</p>
-
-#### simplified
-
-Error is vulnerable. Remember you are in a state of grace forever. Undoing errors uproots fear. Do not be loyal to error. Do not re-inforce or defend error. Bless others so they may undo their distortions.
-
-
-#### commentary
-
-:::tip
-(4–6) We live always in the grace of God’s freely given love. What Jesus taught during his earthly life is what he teaches now in the Course. (Wapnick, FAJ, p.216.)
 :::
- -->
+::::
 
-## T-1.III.6
+<a name="T-1.III.4"></a>4.&emsp;I am the only one who can perform miracles indiscriminately, because I am the Atonement. ^2^You have a role in the Atonement which I will dictate to you. ^3^Ask me which miracles you should perform. ^4^This spares you needless effort, because you will be acting under direct communication. ^5^The impersonal nature of the miracle is an essential ingredient, because it enables me to direct its application, and under my guidance miracles lead to the highly personal experience of revelation. ^6^A guide does not control but he does direct, leaving it up to you to follow. ^7^“Lead us not into temptation” means “Recognise your errors and choose to abandon them by following my guidance”.
 
-<p class=fip id=p6>
-6.&emsp;You respond to what you perceive, and as you perceive so shall you behave. 
-^2^The Golden Rule asks you to do unto others as you would have them do unto you. 
-^3^This means that the perception of both must be accurate. 
-^4^The Golden Rule is the rule for appropriate behaviour. 
-^5^You cannot behave appropriately unless you perceive correctly. 
-^6^Since you and your neighbour are equal members of one family, as you perceive both so you will do to both. 
-^7^You should look out from the perception of your own holiness to the holiness of others.
-</p>
+::::tabs
+::: tab Expanded
+I am the only one who can perform miracles indiscriminately, because I am the Atonement. ^2^You have a role in the Atonement which I will dictate to you. ^3^Ask me which miracles you should perform. ^4^This [asking which miracles you should perform] spares you needless effort, because you will be acting under direct communication. ^5^The impersonal nature of the miracle is an essential ingredient, because it [the impersonal nature of the  miracle] enables me to direct its [the miracle’s] application, and under my guidance miracles lead to the highly personal experience of revelation. ^6^A guide does not control but he [a guide] does direct, leaving it up to you to follow. ^7^“Lead us not into temptation” means “Recognise your errors and choose to abandon them [your errors] by following my guidance”.
+:::
+::: tab Substituted
+I am the only one who can perform miracles indiscriminately, because I am the Atonement. ^2^You have a role in the Atonement which I will dictate to you. ^3^Ask me which miracles you should perform. ^4^Asking which miracles your should perform perform spares you needless effort, because you will be acting under direct communication. ^5^The impersonal nature of the miracle is an essential ingredient, because the impersonal nature of the miracle enables me to direct the miracle’s application, and under my guidance miracles lead to the highly personal experience of revelation. ^6^A guide does not control but a guide does direct, leaving it up to you to follow. ^7^“Lead us not into temptation” means “Recognise your errors and choose to abandon your errors by following my guidance”.
+:::
+::: tab Simplified
+I am the Atonement. I can do any miracle I like. Ask me what miracle to do. Follow my guidance.
+:::
+::::
 
-#### expanded
+<a name="T-1.III.5"></a>5.&emsp;Error cannot really threaten truth, which can always withstand it. ^2^Only the error is actually vulnerable. ^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
 
-6.&emsp;You respond to what you perceive, and as you perceive so shall you behave. 
-^2^The Golden Rule asks you to do unto others as you would have them [others] do unto you. 
-^3^This [doing unto others as you would have others do unto you] means that the perception of both [you and others] must be accurate. 
-^4^The Golden Rule is the rule for appropriate behaviour. 
-^5^You cannot behave appropriately unless you perceive correctly. 
-^6^Since you and your neighbour are equal members of one family, as you perceive both [you and your neighbour] so you will do to both [you and your neighbour]. 
-^7^You should look out from the perception of your own holiness to the holiness of others.
+<div class="indented italic">
 
-#### substituted
+^4^Spirit is in a state of grace forever.  
+^5^Your reality is only spirit.  
+^6^Therefore you are in a state of grace forever.
 
-6.&emsp;You respond to what you perceive, and as you perceive so shall you behave. 
-^2^The Golden Rule asks you to do unto others as you would have others do unto you. 
-^3^Doing unto others as you would have others do unto you means that the perception of you and others must be accurate. 
-^4^The Golden Rule is the rule for appropriate behaviour. 
-^5^You cannot behave appropriately unless you perceive correctly. 
-^6^Since you and your neighbour are equal members of one family, as you perceive you and your neighbour so you will do to you and your neighbour. 
-^7^You should look out from the perception of your own holiness to the holiness of others.
+</div>
 
-#### simplified
+^7^Atonement undoes all errors in this respect, and thus uproots the source of fear. ^8^Whenever you experience God’s reässurances as threat, it is always because you are defending misplaced or misdirected loyalty. ^9^When you project this to others you imprison them, but only to the extent to which you reïnforce errors they have already made. ^10^This makes them vulnerable to the distortions of others, since their own perception of themselves is distorted. ^11^The miracle worker can only bless them, and this undoes their distortions and frees them from prison.
 
+::::tabs
+::: tab Expanded
+Error cannot really threaten truth, which [truth] can always withstand it [error]. ^2^Only the error is actually vulnerable. ^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
+
+<div class="indent italic">
+
+^4^Spirit is in a state of grace forever.  
+^5^Your reality is only spirit.  
+^6^Therefore you are in a state of grace forever.
+
+</div>
+
+^7^Atonement undoes all errors in this respect [as being in a state of grace], and thus uproots the source of fear. ^8^Whenever you experience God’s reässurances as threat, it [experiencing God’s reässurances as threat] is always because you are defending misplaced or misdirected loyalty. ^9^When you project this [defence of misplaced or misdirected loyalty] to others you imprison them [the other], but only to the extent to which you reïnforce errors they [the other] have already made. ^10^This [imprisoning the other] makes them [the other] vulnerable to the distortions of others, since their [the other’s] own perception of themselves [other’s self] is distorted. ^11^The miracle worker can only bless them [the other], and this [blessing the other] undoes their [the other’s] distortions and frees them [the other] from prison.
+:::
+::: tab Substituted
+Error cannot really threaten truth; truth can always withstand error. ^2^Only the error is actually vulnerable. ^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
+
+<div class="indent italic">
+
+^4^Spirit is in a state of grace forever.  
+^5^Your reality is only spirit.  
+^6^Therefore you are in a state of grace forever.
+
+</div>
+
+^7^Atonement undoes all errors as being in a state of grace, and thus uproots the source of fear. ^8^Whenever you experience God’s reässurances as threat, experiencing God’s reässurances as threat is always because you are defending misplaced or misdirected loyalty. ^9^When you project this defence of misplaced or misdirected loyalty to others you imprison the other, but only to the extent to which you reïnforce errors the other has already made. ^10^Imprisoning the other makes the other vulnerable to the distortions of others, since the other’s own perception of the other’s self is distorted. ^11^The miracle worker can only bless the other, and blessing the other undoes the other’s distortions and frees the other from prison.
+:::
+::: tab Simplified
+Error is vulnerable. Remember you are in a state of grace forever. Undoing errors uproots fear. Do not be loyal to error. Do not reïnforce or defend error. Bless others so they may undo their distortions.
+:::
+::: tab Commentary
+(4–6) We live always in the grace of God’s freely given love. What Jesus taught during his earthly life is what he teaches now in the Course. (Wapnick, F.A.J., p.216.)
+:::
+::::
+
+<a name="T-1.III.6"></a>6.&emsp;You respond to what you perceive, and as you perceive so shall you behave. ^2^The Golden Rule asks you to do unto others as you would have them do unto you. ^3^This means that the perception of both must be accurate. ^4^The Golden Rule is the rule for appropriate behaviour. ^5^You cannot behave appropriately unless you perceive correctly. ^6^Since you and your neighbour are equal members of one family, as you perceive both so you will do to both. ^7^You should look out from the perception of your own holiness to the holiness of others.
+
+::::tabs
+::: tab Expanded
+You respond to what you perceive, and as you perceive so shall you behave. ^2^The Golden Rule asks you to do unto others as you would have them [others] do unto you. ^3^This [doing unto others as you would have others do unto you] means that the perception of both [you and others] must be accurate. 
+^4^The Golden Rule is the rule for appropriate behaviour. ^5^You cannot behave appropriately unless you perceive correctly. ^6^Since you and your neighbour are equal members of one family, as you perceive both [you and your neighbour] so you will do to both [you and your neighbour]. ^7^You should look out from the perception of your own holiness to the holiness of others.
+:::
+::: tab Substituted
+You respond to what you perceive, and as you perceive so shall you behave. ^2^The Golden Rule asks you to do unto others as you would have others do unto you. ^3^Doing unto others as you would have others do unto you means that the perception of you and others must be accurate. ^4^The Golden Rule is the rule for appropriate behaviour. ^5^You cannot behave appropriately unless you perceive correctly. ^6^Since you and your neighbour are equal members of one family, as you perceive you and your neighbour so you will do to you and your neighbour. ^7^You should look out from the perception of your own holiness to the holiness of others.
+:::
+::: tab Simplified
 Behaviour follows perception. Perceive others as holy and you will behave appropriately.
+:::
+::: tab Note
+“Do unto others as you would have others do unto you”, but what if you hate yourself? The Golden rule is descriptive, not prescriptive. Perceive yourself and others correctly and the right behaviour will naturally follow. (–Ed.)
+:::
+::::
 
-## T-1.III.7
+<a name="T-1.III.7"></a>7.&emsp;Miracles arise from a mind that is ready for them. ^2^By being united this mind goes out to everyone, even without the awareness of the miracle worker himself. ^3^The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their Creator. ^4^As an expression of what you truly are, the miracle places the mind in a state of grace. ^5^The mind then naturally welcomes the Host within and the stranger without. ^6^When you bring in the stranger, he becomes your brother.
 
-<p class=fip id=p7>
-7.&emsp;Miracles arise from a mind that is ready for them. 
-^2^By being united this mind goes out to everyone, even without the awareness of the miracle worker himself. 
-^3^The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their Creator. 
-^4^As an expression of what you truly are, the miracle places the mind in a state of grace. 
-^5^The mind then naturally welcomes the Host within and the stranger without. 
-^6^When you bring in the stranger, he becomes your brother.
-</p>
-
-#### expanded
-
-7.&emsp;Miracles arise from a mind that is ready for them [miracles]. 
-^2^By being united this mind [the miracle-ready mind] goes out to everyone, even without the awareness of the miracle worker himself [miracle worker’s self]. 
-^3^The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their [all creations’] Creator. 
-^4^As an expression of what you truly are, the miracle places the mind in a state of grace. 
-^5^The mind then naturally welcomes the Host within and the stranger without. 
-^6^When you bring in the stranger, he [the stranger] becomes your brother.
-
-#### substituted
-
-7.&emsp;Miracles arise from a mind that is ready for miracles. 
-^2^By being united the miracle-ready mind goes out to everyone, even without the awareness of the miracle worker miracle worker’s self. 
-^3^The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with all creations’ Creator. 
-^4^As an expression of what you truly are, the miracle places the mind in a state of grace. 
-^5^The mind then naturally welcomes the Host within and the stranger without. 
-^6^When you bring in the stranger, the stranger becomes your brother.
-
-#### simplified
-
+::::tabs
+::: tab Expanded
+Miracles arise from a mind that is ready for them [miracles]. ^2^By being united this mind [the miracle-ready mind] goes out to everyone, even without the awareness of the miracle worker himself [miracle-worker’s self]. ^3^The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their [all-creations’] Creator. ^4^As an expression of what you truly are, the miracle places the mind in a state of grace. ^5^The mind then naturally welcomes the Host within and the stranger without. ^6^When you bring in the stranger, he [the stranger] becomes your brother.
+:::
+::: tab Substituted
+Miracles arise from a mind that is ready for miracles. ^2^By being united the miracle-ready mind goes out to everyone, even without the awareness of the miracle-worker’s self. ^3^The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with all-creations’ Creator. ^4^As an expression of what you truly are, the miracle places the mind in a state of grace. ^5^The mind then naturally welcomes the Host within and the stranger without. ^6^When you bring in the stranger, the stranger becomes your brother.
+:::
+::: tab Simplified
 A miracle-ready mind unites all minds with God.
+:::
+::::
 
-## T-1.III.8
+<a name="T-1.III.8"></a>8.&emsp;That the miracle may have effects on your brothers that you may not recognise is not your concern. ^2^The miracle will always bless *you*. ^3^Miracles you are not asked to perform have not lost their value. ^4^They are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. ^5^The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where they can be bestowed.
 
-<p class=fip id=p8>
-8.&emsp;That the miracle may have effects on your brothers that you may not recognise is not your concern. 
-^2^The miracle will always bless *you*. 
-^3^Miracles you are not asked to perform have not lost their value. 
-^4^They are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
-^5^The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where they can be bestowed.
-</p>
-
-#### expanded
-
-8.&emsp;That the miracle may have effects on your brothers that you may not recognise is not your concern. 
-^2^The miracle will always bless *you*. 
-^3^Miracles you are not asked to perform have not lost their [miracles’] value. 
-^4^They [miracles] are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
-^5^The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where they [miracles] can be bestowed.
-
-#### substituted
-
-8.&emsp;That the miracle may have effects on your brothers that you may not recognise is not your concern. 
-^2^The miracle will always bless *you*. 
-^3^Miracles you are not asked to perform have not lost miracles’ value. 
-^4^Miracles are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
-^5^The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where miracles can be bestowed.
-
-#### simplified
-
+::::tabs
+::: tab Expanded
+That the miracle may have effects on your brothers that you may not recognise is not your concern. ^2^The miracle will always bless *you*. ^3^Miracles you are not asked to perform have not lost their [miracles’] value. ^4^They [miracles] are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. ^5^The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where they [miracles] can be bestowed.
+:::
+::: tab Substituted
+That the miracle may have effects on your brothers that you may not recognise is not your concern. ^2^The miracle will always bless *you*. ^3^Miracles you are not asked to perform have not lost miracles’ value. ^4^Miracles are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. ^5^The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where miracles can be bestowed.
+:::
+::: tab Simplified
 You do not always the effect of a miracle. You are blessed by miracles. I control how miracles are used.
+:::
+::::
 
-## T-1.III.9
+<a name="T-1.III.9"></a>9.&emsp;Miracles are selective only in the sense that they are directed towards those who can use them for themselves. ^2^Since this makes it inevitable that they will extend them to others, a strong chain of Atonement is welded. ^3^However, this selectivity takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. ^4^Since the miracle aims at restoring the awareness of reality, it would not be useful if it were bound by laws that govern the error it aims to correct.
 
-<p class=fip id=p9>
-9.&emsp;Miracles are selective only in the sense that they are directed towards those who can use them for themselves. 
-^2^Since this makes it inevitable that they will extend them to others, a strong chain of Atonement is welded. 
-^3^However, this selectivity takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. 
-^4^Since the miracle aims at restoring the awareness of reality, it would not be useful if it were bound by laws that govern the error it aims to correct.
-</p>
+::::tabs
+::: tab Expanded
+Miracles are selective only in the sense that they [miracles] are directed towards those who can use them [miracles] for themselves [miracle-users’-selves]. ^2^Since this [directing miracles to miracle-user’s self] makes it inevitable that they [miracle-users] will extend them [miracles] to others, a strong chain of Atonement is welded. ^3^However, this selectivity [towards those who can use miracles for miracle-users’-selves] takes no account of the magnitude of the miracle ~~itself~~, because the concept of size exists on a plane that is ~~itself~~ unreal. ^4^Since the miracle aims at restoring the awareness of reality, it [the miracle] would not be useful if it [the miracle] were bound by laws that govern the error it [the miracle] aims to correct.
+:::
+::: tab Substituted
+Miracles are selective only in the sense that miracles are directed towards those who can use miracles for themselves. ^2^Since directing miracles to miracle-users’-selves makes it inevitable miracle-users will extend miracles to others, a strong chain of Atonement is welded. ^3^However, selectivity towards those who can use miracles for miracles-users’-selves takes no account of the magnitude of the miracle, because the concept of size exists on a plane that is unreal. ^4^Since the miracle aims at restoring the awareness of reality, the miracle would not be useful if the miracle were bound by laws that govern the error the miracle aims to correct.
+:::
+::: tab Simplified
+Miracles are given to those who can use miracles. Those who can use miracles will extend miracles to others.
+:::
+::::
 
-#### expanded
 
-9.&emsp;Miracles are selective only in the sense that they [miracles] are directed towards those who can use them [miracles] for themselves. 
-^2^Since this [directing miracles to those who can use miracles for themselves] makes it inevitable that they [those who can use miracles for themselves] will extend them [miracles] to others, a strong chain of Atonement is welded. 
-^3^However, this selectivity [towards those who can use miracles for themselves] takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. 
-^4^Since the miracle aims at restoring the awareness of reality, it [the miracle] would not be useful if it [the miracle] were bound by laws that govern the error it [the miracle] aims to correct.
+## IV. The Escape from Darkness
 
-#### substituted
-
-9.&emsp;Miracles are selective only in the sense that miracles are directed towards those who can use miracles for themselves. 
-^2^Since directing miracles to those who can use miracles for themselves makes it inevitable that those who can use miracles for themselves will extend miracles to others, a strong chain of Atonement is welded. 
-^3^However, selectivity towards those who can use miracles for themselves takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. 
-^4^Since the miracle aims at restoring the awareness of reality, the miracle would not be useful if the miracle were bound by laws that govern the error the miracle aims to correct.
-
-#### simplified
-
-Miracles are given to those who can use miracles. Those who can use miracles will extend miracles to others.</p>
-
-# T-1.IV The Escape from Darkness
-
-## T-1.IV.1
-
-<p class=fip id=p1>
-1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
+<a name="T-1.IV.1"></a>1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
 ^2^This step usually entails fear. 
 ^3^Second, the recognition that there is nothing you want to hide even if you could. 
 ^4^This step brings escape from fear. 
 ^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
-</p>
 
-#### expanded
+
+::: tab Expanded
 
 1.&emsp;The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. 
 ^2^This step [recognising that darkness cannot hide] usually entails fear. 
@@ -1412,7 +1073,7 @@ Miracles are given to those who can use miracles. Those who can use miracles wil
 ^4^This step [recognising there is nothing you want to hide] brings escape from fear. 
 ^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 
-#### substituted
+::: tab Substituted
 
 1.&emsp;The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. 
 ^2^Recognising that darkness cannot hide usually entails fear. 
@@ -1420,11 +1081,11 @@ Miracles are given to those who can use miracles. Those who can use miracles wil
 ^4^Recognising there is nothing you want to hide brings escape from fear. 
 ^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
   
-#### simplified
+::: tab Simplified
 
 First recognise darkness cannot hide. Second recognise there is nothing you want to hide. This is escape from fear. You will understand peace and joy.
 
-## T-1.IV.2
+<a name="T-1.IV.2"></a>
 
 <p class=fip id=p2>
 2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
@@ -1440,7 +1101,7 @@ First recognise darkness cannot hide. Second recognise there is nothing you want
 ^11^The mind that serves spirit *is* invulnerable.
 </p>
 
-#### expanded
+::: tab Expanded
 
 2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. 
 ^2^This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] *is* a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
@@ -1454,7 +1115,7 @@ First recognise darkness cannot hide. Second recognise there is nothing you want
 ^10^But the Atonement restores spirit to its [spirit’s] proper place. 
 ^11^The mind that serves spirit *is* invulnerable.
 
-#### substituted
+::: tab Substituted
 
 2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. 
 ^2^The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness *is* a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. 
@@ -1468,11 +1129,11 @@ First recognise darkness cannot hide. Second recognise there is nothing you want
 ^10^But the Atonement restores spirit to spirit’s proper place. 
 ^11^The mind that serves spirit *is* invulnerable.
 
-#### simplified
+::: tab Simplified
 
 Stop trying to hide holiness in darkness. A miracle brings corrects error. A miracle brings reality, truth and love to the mind. The mind becomes invulnerable.
 
-## T-1.IV.3
+<a name="T-1.IV.3"></a>
 
 <p class=fip id="p3">
 3.&emsp;Darkness is lack of light as sin is lack of love. 
@@ -1484,7 +1145,7 @@ Stop trying to hide holiness in darkness. A miracle brings corrects error. A mir
 ^7^You were given everything when you were created, just as everyone was.
 </p>
 
-#### expanded
+::: tab Expanded
 
 3.&emsp;Darkness is lack of light as sin is lack of love. 
 ^2^It [darkness] has no unique properties of its [darkness’s] own. 
@@ -1492,7 +1153,7 @@ Stop trying to hide holiness in darkness. A miracle brings corrects error. A mir
 ^4^Truth is always abundant. 
 ^5^Those who perceive and acknowledge that they [perceivers and acknowledgers] have everything have no needs of any kind. ^6^The purpose of the Atonement is to restore everything to you; or rather, to restore it [everything] to your awareness. ^7^You were given everything when you were created, just as everyone was [given everything when they were created].
 
-#### substituted
+::: tab Substituted
 
 3.&emsp;Darkness is lack of light as sin is lack of love. 
 ^2^Darkness has no unique properties of darkness’s own. 
@@ -1502,15 +1163,15 @@ Stop trying to hide holiness in darkness. A miracle brings corrects error. A mir
 ^6^The purpose of the Atonement is to restore everything to you; or rather, to restore everything to your awareness. 
 ^7^You were given everything when you were created, just as everyone was given everything when they were created.
 	
-#### simplified
+::: tab Simplified
 
 You have everything. The Atonement makes you aware you always have had everthing. You don’t need anything else.
 
  	
-#### commentary
+::: tab Commentary
 
 :::tip
-(1) Guilt arises from sin, which the Couse defines at one point as lack of love, the post-separation condition. (Wapnick, FAJ, p. 16.)
+(1) Guilt arises from sin, which the Couse defines at one point as lack of love, the post-separation condition. (Wapnick, F.A.J., p. 16.)
 :::
 
 :::tip 
@@ -1518,7 +1179,7 @@ You have everything. The Atonement makes you aware you always have had everthing
 :::
  -->
 
-## T-1.IV.4
+<a name="T-1.IV.4"></a>
 
 <p class=fip id=p4>
 4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
@@ -1531,7 +1192,7 @@ You have everything. The Atonement makes you aware you always have had everthing
 ^8^Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favour of the abundance they have learned belongs to them.
 </p>
 
-#### expanded
+::: tab Expanded
 4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
 ^2^That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
 ^3^I came to fulfill the law by re-interpreting it [the law]. 
@@ -1541,7 +1202,7 @@ You have everything. The Atonement makes you aware you always have had everthing
 ^7^Your witnessing demonstrates your belief, and thus strengthens it [your belief]. 
 ^8^Those who witness for me are expressing, through their [witnessers’] miracles, that they [witnessers] have abandoned the belief in deprivation in favour of the abundance they [witnessers] have learned belongs to them [witnessers].
 
-#### substituted>
+::: tab Substituted>
 
 4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
 ^2^Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
@@ -1551,14 +1212,14 @@ You have everything. The Atonement makes you aware you always have had everthing
 ^6^I assure you that I will witness for anyone who lets me, and to whatever extent the one being witnessed for permits me to witness. ^7^Your witnessing demonstrates your belief, and thus strengthens your belief. 
 ^8^Those who witness for me are expressing, through witnessers’ miracles, that witnessers have abandoned the belief in deprivation in favour of the abundance witnessers have learned belongs to witnessers for me.
 	
-#### simplified
+::: tab Simplified
 
 Forgiveness replaces fear. There is no death. The law was for protection. There was no hell-fire in the law. Allow me to witness for you. Abandon belief in deprivation. Witnessing for me strengthens your belief. Witnesses for me have abundance.
 
 
 # T-1.V Wholeness and Spirit
 
-## T-1.V.1
+<a name="T-1.V.1"></a>
 
 <p class=fip id=p1>
 1.&emsp;The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. 
@@ -1571,7 +1232,7 @@ Forgiveness replaces fear. There is no death. The law was for protection. There 
 ^8^You did not create yourself.
 </p>
 
-#### expanded
+::: tab Expanded
 1.&emsp;The miracle is much like the body in that both [miracle and body] are learning aids for facilitating a state in which they [miracle and body] become unnecessary. 
 ^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
 ^3^While you believe you are in a body, however, you can choose between loveless [channels of expression] and miraculous channels of expression. 
@@ -1581,7 +1242,7 @@ Forgiveness replaces fear. There is no death. The law was for protection. There 
 ^7^You can destroy your medium of communication, but [you can] not [destroy] your potential. 
 ^8^You did not create yourself.
 
-#### substituted
+::: tab Substituted
 1.&emsp;The miracle is much like the body in that miracle and body are learning aids for facilitating a state in which miracle and body become unnecessary. 
 ^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
 ^3^While you believe you are in a body, however, you can choose between loveless channels of expression and miraculous channels of expression. 
@@ -1591,10 +1252,10 @@ Forgiveness replaces fear. There is no death. The law was for protection. There 
 ^7^You can destroy your medium of communication, but you can not destroy your potential. 
 ^8^You did not create yourself.
 	
-#### simplified
+::: tab Simplified
 The miracle and the body are learning aids. You can choose to express miracles. You did not create yourself.
 
-## T-1.V.2
+<a name="T-1.V.2"></a>
 
 <p class=fip id=p2>
 2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
@@ -1605,7 +1266,7 @@ The miracle and the body are learning aids. You can choose to express miracles. 
 ^6^When everyone recognises that he has everything, individual contributions to the Sonship will no longer be necessary.
 </p>
 
-#### expanded
+::: tab Expanded
 
 2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ^2^Time can waste as well as be wasted. 
@@ -1614,7 +1275,7 @@ The miracle and the body are learning aids. You can choose to express miracles. 
 ^5^Equality does not imply equality *now*. 
 ^6^When everyone recognises that he [one] has everything, individual contributions to the Sonship will no longer be necessary.
 
-#### substituted
+::: tab Substituted
 
 2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ^2^Time can waste as well as be wasted. 
@@ -1623,18 +1284,18 @@ The miracle and the body are learning aids. You can choose to express miracles. 
 ^5^Equality does not imply equality *now*. 
 ^6^When everyone recognises that one has everything, individual contributions to the Sonship will no longer be necessary.
 
-#### simplified
+::: tab Simplified
 Collapse time by recognising you have everything. Every collapse brings everyone closer to knowledge of oneness.
 
 
-#### commentary
+::: tab Commentary
 
 :::tip
 (1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, A.V.I., p.129.)
 :::
  -->
 
-## T-1.V.3
+<a name="T-1.V.3"></a>
 
 <p class=fip id=p3>
 3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
@@ -1647,7 +1308,7 @@ Collapse time by recognising you have everything. Every collapse brings everyone
 ^8^When this occurs the whole family of God, or the Sonship, is impaired in its relationships.
 </p>
 
-#### expanded
+::: tab Expanded
 
 3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ^2^God is not partial. 
@@ -1658,7 +1319,7 @@ Collapse time by recognising you have everything. Every collapse brings everyone
 ^7^If they [my brothers] believe they [my brothers] are deprived of anything, their [my brothers’] perception becomes distorted. 
 ^8^When this occurs [perception becomes distorted] the whole family of God, or the Sonship, is impaired in its [the family of God’s] relationships.
 
-#### substituted
+::: tab Substituted
 
 3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ^2^God is not partial. 
@@ -1669,27 +1330,27 @@ Collapse time by recognising you have everything. Every collapse brings everyone
 ^7^If my brothers believe my brothers are deprived of anything, my brothers’ perception becomes distorted. 
 ^8^When perception becomes distorted the whole family of God, or the Sonship, is impaired in the family of God’s relationships.
   
-#### simplified
+::: tab Simplified
 
 All are children of God. All are dependent on God. All share God’s gifts equally. All are special. Do not believe you are deprived of anything. Believing in deprivation distorts perceptions. Distorted perceptions create distorted relationships.
 
 
-#### commentary
+::: tab Commentary
 
 :::tip
-(4) Since guilt makes God into an ememy, recognising our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, FAJ, p. 171.)
+(4) Since guilt makes God into an ememy, recognising our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, F.A.J., p. 171.)
 :::
 
 :::tip
-(6) Without guilt’s demand to see others as separate from us, we are free to affirm our inherent unity in the Sonship of God …  Jesus’ lack of ego enabled him to have no special relationships. In his perception, none of his brothers or sisters was special. (Wapnick, FAJ, p.184.)
+(6) Without guilt’s demand to see others as separate from us, we are free to affirm our inherent unity in the Sonship of God …  Jesus’ lack of ego enabled him to have no special relationships. In his perception, none of his brothers or sisters was special. (Wapnick, F.A.J., p.184.)
 :::
 
 :::tip
-(6) The we–they battlefield … hating and attacking the other group … Thus its [the Course’s] students often confuse form with content, and forget Jesus’ statement in the text that “All my brothers are special” (Wapnick, LDNC, p.590.)
+(6) The we–they battlefield … hating and attacking the other group … Thus its [the Course’s] students often confuse form with content, and forget Jesus’ statement in the text that “All my brothers are special” (Wapnick, L.D.N.C., p.590.)
 :::tip
 
 :::tip 
-(6) The “special” person of the Course is Jesus or the Holy Spirit; that is, the internal presence of God’s love that, again, leads Jesus to state that all his “brothers are special”.  (Wapnick, LDNC, p.593.)
+(6) The “special” person of the Course is Jesus or the Holy Spirit; that is, the internal presence of God’s love that, again, leads Jesus to state that all his “brothers are special”.  (Wapnick, L.D.N.C., p.593.)
 :::
 
 :::tip
@@ -1697,7 +1358,7 @@ All are children of God. All are dependent on God. All share God’s gifts equal
 :::
  -->
 
-## T-1.V.4
+<a name="T-1.V.4"></a>
 
 <p class=fip id=p4>
 4.&emsp;Ultimately, every member of the family of God must return. 
@@ -1708,7 +1369,7 @@ All are children of God. All are dependent on God. All share God’s gifts equal
 ^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
 </p>
 
-#### expanded
+::: tab Expanded
 
 4.&emsp;Ultimately, every member of the family of God must return. 
 ^2^The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honours him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. 
@@ -1726,18 +1387,18 @@ All are children of God. All are dependent on God. All share God’s gifts equal
 ^5^The creation is whole, and the mark of wholeness is holiness. 
 ^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
 
-#### simplified
+::: tab Simplified
 
 All of God’s creations are holy. The miracles calls every member of the family of God to return to a state of completion and abundance.
 
-#### commentary
+::: tab Commentary
 
 :::tip
 (3–4) God is not mocked because His creation of you will have the last word — no matter how sinful you appear to become, you cannot change the holiness He created in you. (C of A, p. 31.)
 :::
  -->
 
-## T-1.V.5
+<a name="T-1.V.5"></a>
 
 <p class=fip id=p5>
 5.&emsp;Whatever is true is eternal, and cannot change or be changed. 
@@ -1749,40 +1410,40 @@ All of God’s creations are holy. The miracles calls every member of the family
 ^7^To change your mind means to place it at the disposal of *true* Authority.
 </p>
 
-#### expanded
+::: tab Expanded
 
 5.&emsp;Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because it [spirit] is already perfect, but the mind can elect what it [the mind] chooses to serve. ^3^The only limit put on its [the mind’s] choice is that it [the mind] cannot serve two masters. ^4^If it [the mind] elects to do so [become the medium by which spirit creates], the mind can become the medium by which spirit creates along the line of its [spirit’s] own creation. ^5^If it [the mind] does not freely elect to do so [become the medium by which spirit creates], it [the mind] retains its [the mind’s] creative potential but places itself [the mind’s self] under tyrannous rather than Authoritative control. ^6^As a result it [the mind] imprisons, because such [to imprison] are the dictates of tyrants. ^7^To change your mind means to place it [your mind] at the disposal of *true* Authority.
 
-#### substituted
+::: tab Substituted
 
 5.&emsp;Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because spirit is already perfect, but the mind can elect what the mind chooses to serve. ^3^The only limit put on the mind’s choice is that the mind cannot serve two masters. ^4^If the mind elects to become the medium by which spirit creates, the mind can become the medium by which spirit creates along the line of spirit’s own creation. ^5^If it the mind does not freely elect to become the medium by which spirit creates, the mind retains the mind’s creative potential but places the mind under tyrannous rather than Authoritative control. ^6^As a result the mind imprisons, because to imprison is the dictate of tyrants. ^7^To change your mind means to place it [your mind] at the disposal of *true* Authority.
 
-#### simplified
+::: tab Simplified
 
 The mind can choose to create the same way the spirit creates. Or the mind can become a tyrant and imprison you. 
 
-## T-1.V.6
+<a name="T-1.V.6"></a>
 
 <p class=fip id="p6">
 6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Him. ^3^All shallow roots must be uprooted, because they are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As these false underpinnings are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds it upside down be conducive to increased stability.
 </p>
 
-#### expanded
+::: tab Expanded
 
 6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Him [Christ]. ^3^All shallow roots must be uprooted, because they [shallow roots] are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As these false underpinnings [shallow roots] are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds it [orientation] upside down be conducive to increased stability.
 
-#### substituted
+::: tab Substituted
 
 6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Christ. ^3^All shallow roots must be uprooted, because shallow roots are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As the false underpinnings of shallow roots are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds orientation upside down be conducive to increased stability.
 
-#### simplified
+::: tab Simplified
 
 Following Christ gives the abundance of Christ. The abundance of Christ will keep you stable.
 
 
 # T-1.VI The Illusion of Needs
 
-## T-1.VI.1
+<a name="T-1.VI.1"></a>
 
 <p class=fip id="p1">
 1.&emsp;You who want peace can find it only by complete forgiveness. 
@@ -1797,26 +1458,26 @@ Following Christ gives the abundance of Christ. The abundance of Christ will kee
 ^10^This, in turn, depends on your perception of what you are.
 </p>
 
-#### expanded
+::: tab Expanded
 
 1.&emsp;You who want peace can find it [peace] only by complete forgiveness. ^2^No learning is acquired by anyone unless he [anyone] wants to learn it [learning] and believes in some way that he [anyone] needs it [learning]. ^3^While lack does not exist in the creation of God, it [lack] is very apparent in what you have made. ^4^It [lack] is, in fact, the essential difference between them [the creation of God and what you have made]. ^5^Lack implies that you would be better off in a state somehow different from the one [state] you are in. ^6^Until the “separation”, which is the meaning of the “fall”, nothing was lacking. ^7^There were no needs at all. ^8^Needs arise only when you deprive yourself. ^9^You act according to the particular order of needs you establish. ^10^This [the order of needs you establish], in turn, depends on your perception of what you are.
 
-#### substituted 
+::: tab Substituted 
 1.&emsp;You who want peace can find peace only by complete forgiveness. ^2^No learning is acquired by anyone unless anyone wants learning and believes in some way that anyone needs  learning. ^3^While lack does not exist in the creation of God, lack is very apparent in what you have made. ^4^Lack is, in fact, the essential difference between the creation of God and what you have made. ^5^Lack implies that you would be better off in a state somehow different from the state you are in. ^6^Until the “separation”, which is the meaning of the “fall”, nothing was lacking. ^7^There were no needs at all. ^8^Needs arise only when you deprive yourself. ^9^You act according to the particular order of needs you establish. ^10^The order of needs you establish, in turn, depends on your perception of what you are.
 
-#### simplified 
+::: tab Simplified 
 
 God’s creations have no lack. You deprived yourself by separating from God. Forgive yourself and see yourself truly. 
 	
 	
-#### commentary 
+::: tab Commentary 
 
 :::tip
-(3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, LDNC, p.488.; c/f A.A.C., p.123.) (c/f T-1.VI.2:2)
+(3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, L.D.N.C., p.488.; c/f A.A.C., p.123.) (c/f T-1.VI.2:2)
 :::
  -->
 
-## T-1.VI.2
+<a name="T-1.VI.2"></a>
 
 <p class=fip id="p2">
 2.&emsp;A sense of separation from God is the only lack you really need correct. 
@@ -1826,7 +1487,7 @@ God’s creations have no lack. You deprived yourself by separating from God. Fo
 ^5^Unified needs lead to unified action, because this produces a lack of conflict.
 </p>
 
-#### expanded
+::: tab Expanded
 
 2.&emsp;A sense of separation from God is the only lack you really need correct. 
 ^2^This sense of separation [from God] would never have arisen if you had not distorted your perception of truth, and had thus perceived yourself as lacking. 
@@ -1834,7 +1495,7 @@ God’s creations have no lack. You deprived yourself by separating from God. Fo
 ^4^As you integrate you become one, and your needs become one accordingly. 
 ^5^Unified needs lead to unified action, because this [unified needs] produces a lack of conflict.
 
-#### substituted 
+::: tab Substituted 
 
 2.&emsp;A sense of separation from God is the only lack you really need correct. 
 ^2^A sense of separation from God would never have arisen if you had not distorted your perception of truth, and had thus perceived yourself as lacking. 
@@ -1842,17 +1503,17 @@ God’s creations have no lack. You deprived yourself by separating from God. Fo
 ^4^As you integrate you become one, and your needs become one accordingly. 
 ^5^Unified needs lead to unified action, because unified needs produces a lack of conflict.
 
-#### simplified 
+::: tab Simplified 
 
 You perceived yourself as lacking. You felt separated from God. You became fragmented by believing in different needs. Act only to restore oneness with God. God is all you need. 
 	
-#### commentary
+::: tab Commentary
 
 :::tip
 You only need God, but the moment you see yourself as lacking something, *anything*, a sense of separation from God is introduced. This is the error to be undone (Ed.).
 :::
 
-## T-1.VI.3
+<a name="T-1.VI.3"></a>
 
 <p class=fip id=p3>
 3.&emsp;The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its own level before the error of perceiving levels at all can be corrected. 
@@ -1863,7 +1524,7 @@ You only need God, but the moment you see yourself as lacking something, *anythi
 ^6^Both are merely beliefs.
 </p>
 
-#### expanded
+::: tab Expanded
 3.&emsp;The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its [the idea-of-orders-of-need’s] own level before the error of perceiving levels at all can be corrected. 
 ^2^You cannot behave effectively while you function on different levels. 
 ^3^However, while you do [function on different levels], correction must be introduced vertically from the bottom up. 
@@ -1871,7 +1532,7 @@ You only need God, but the moment you see yourself as lacking something, *anythi
 ^5^Ultimately, space is as meaningless as time. 
 ^6^Both [space and time] are merely beliefs.
 
-#### substituted 
+::: tab Substituted 
 
 3.&emsp;The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at the idea-of-orders-of-need’s own level before the error of perceiving levels at all can be corrected. 
 ^2^You cannot behave effectively while you function on different levels. 
@@ -1880,19 +1541,19 @@ You only need God, but the moment you see yourself as lacking something, *anythi
 ^5^Ultimately, space is as meaningless as time. 
 ^6^Both space and time are merely beliefs.
 
-#### simplified 
+::: tab Simplified 
 
 Correct the belief that you need something in the world of space and time. Then you an correct the error of separation.
 
 
-#### commentary
+::: tab Commentary
 
 :::tip
 (5–4:1) The purpose of the world is to correct our belief about the reality of space and time. (Wapnick, A.V.I., p. 247.)
 :::
  -->
 
-## T-1.VI.4
+<a name="T-1.VI.4"></a>
 
 <p class=fip id="p4">
 4.&emsp;The real purpose of this world is to use it to correct your unbelief. 
@@ -1903,7 +1564,7 @@ Correct the belief that you need something in the world of space and time. Then 
 ^6^It is true for you because it was made by you.
 </p>
 
-#### expanded
+::: tab Expanded
 
 4.&emsp;The real purpose of this world is to use it [this world] to correct your unbelief. 
 ^2^You can never control the effects of fear yourself, because you made fear, and you believe in what you made. 
@@ -1912,7 +1573,7 @@ Correct the belief that you need something in the world of space and time. Then 
 ^5^That is why you can believe what no one else thinks is true. 
 ^6^It [what you believe] is true for you because it [what you believe] was made by you.
 
-#### substituted 
+::: tab Substituted 
 
 4.&emsp;The real purpose of this world is to use this world to correct your unbelief. 
 ^2^You can never control the effects of fear yourself, because you made fear, and you believe in what you made. 
@@ -1921,18 +1582,18 @@ Correct the belief that you need something in the world of space and time. Then 
 ^5^That is why you can believe what no one else thinks is true. 
 ^6^What you believe is true for you because what you believe was made by you.
 
-#### simplified 
+::: tab Simplified 
 
 God believes in God’s creations. You believe in what you made.  You made this world of fear. You can correct the world you made. 
 
 
-#### commentary 
+::: tab Commentary 
 :::tip
-The course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely. (Wapnick, LDNC, p.575–576.)
+The course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely. (Wapnick, L.D.N.C., p.575–576.)
 :::	
  -->
 
-## T-1.VI.5
+<a name="T-1.VI.5"></a>
 
 <p class=fip id=p5>
 5.&emsp;All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. 
@@ -1953,7 +1614,7 @@ It produces a state that does not exist.
 ^10^Only God can establish this solution, and this faith *is* His gift.
 </p>
 
-#### expanded
+::: tab Expanded
 
 <p>
 5.&emsp;All aspects of fear are untrue because they [all aspects of fear] do not exist at the creative level, and therefore do not exist at all. 
@@ -1974,7 +1635,7 @@ It [fear] produces a state that does not exist.
 ^10^Only God can establish this solution [perfect love], and this faith [in perfect love] *is* His [God’s] gift.
 </p>
 
-#### substituted 
+::: tab Substituted 
 
 <p>
 5.&emsp;All aspects of fear are untrue because all aspects of fear do not exist at the creative level, and therefore do not exist at all. 
@@ -1995,12 +1656,12 @@ Fear produces a state that does not exist.
 ^10^Only God can establish the solution of perfect love, and faith in prefect love *is* God’s gift.
 </p>
 
-#### simplified 
+::: tab Simplified 
 
 There never could be any fear. God only creates love.
 
  
-#### commentary
+::: tab Commentary
 
 :::tip
 (4) In the presence of God’s Love all fear automatically disappears. (Wapnick, A.V.I., p.96.)
@@ -2010,7 +1671,7 @@ There never could be any fear. God only creates love.
 
 # T-1.VII Distortions of Miracle Impulses
 
-## T-1.VII.1 
+<a name="T-1.VII.1"></a>
 
 <p class=fip id=p1>
 1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them to reach your own awareness. 
@@ -2022,7 +1683,7 @@ There never could be any fear. God only creates love.
 ^7^Do not deceive yourself into believing that you can relate in peace to God or to your brothers with anything external.
 </p>
 
-#### expanded
+::: tab Expanded
 
 1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them [miracle impulses] to reach your own awareness. 
 ^2^The confusion of miracle impulses with physical impulses is a major perceptual distortion. 
@@ -2032,7 +1693,7 @@ There never could be any fear. God only creates love.
 ^6^Denial of Self results in illusions, while correction of the error brings release from it [illusions]. 
 ^7^Do not deceive yourself into believing that you can relate in peace to God or to your brothers with anything external.
 
-#### substituted
+::: tab Substituted
 
 1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for miracle impulses to reach your own awareness. 
 ^2^The confusion of miracle impulses with physical impulses is a major perceptual distortion. 
@@ -2047,10 +1708,10 @@ There never could be any fear. God only creates love.
 Peace can only be found in doing God’s Will.
 
 
-#### commentary
+::: tab Commentary
 
 :::tip
-(4) By using the world as a substitute for the role God alone would have in our lives, our belief in the spearation from God is re-inforced, and it is this that gave rise to the world of suffering and pain in the first place. (Wapnick, FAJ, p.17.)
+(4) By using the world as a substitute for the role God alone would have in our lives, our belief in the spearation from God is reïnforced, and it is this that gave rise to the world of suffering and pain in the first place. (Wapnick, F.A.J., p.17.)
 :::
 :::tip
 (4–5) If we truly looked at anything in this world, we would realise that what we thought had given us happiness and joy was really filled with pain. (Wapnick, A.V.I., p.265.)
@@ -2060,7 +1721,7 @@ Peace can only be found in doing God’s Will.
 :::
  -->
 
-## T-1.VII.2 
+<a name="T-1.VII.2"></a>
 
 <p class=fip id=p2>
 2.&emsp;Child of God, you were created to create the good, the beautiful and the holy. 
@@ -2070,14 +1731,14 @@ Peace can only be found in doing God’s Will.
 ^5^Learning to do this is the body’s only true usefulness.
 </p>
 
-#### expanded 
+::: tab Expanded 
 2.&emsp;Child of God, you were created to create the good, the beautiful and the holy. 
 ^2^Do not forget this [you were created to create the good, the beautiful and the holy]. 
 ^3^The Love of God, for a little while, must still be expressed through one body to another, because vision is still so dim. 
 ^4^You can use your body best to help you enlarge your perception so you can achieve real vision, of which the physical eye is incapable. 
 ^5^Learning to do this [enlarge your perception] is the body’s only true usefulness.
 
-#### substituted
+::: tab Substituted
 2.&emsp;Child of God, you were created to create the good, the beautiful and the holy. 
 ^2^Do not forget you were created to create the good, the beautiful and the holy. 
 ^3^The Love of God, for a little while, must still be expressed through one body to another, because vision is still so dim. 
@@ -2087,7 +1748,7 @@ Peace can only be found in doing God’s Will.
 #### simplifed 
 Learn to use the body to enlarge your perception.
 
-## T-1.VII.3
+<a name="T-1.VII.3"></a>
 <p class=fip id=p3>
 3.&emsp;Fantasy is a distorted form of vision. 
 ^2^Fantasies of any kind are distortions, because they always involve twisting perception into unreality. 
@@ -2105,7 +1766,7 @@ Learn to use the body to enlarge your perception.
 ^14^Complete restoration of the Sonship is the only goal of the miracle-minded.
 </p>
 
-#### expanded 
+::: tab Expanded 
 3.&emsp;Fantasy is a distorted form of vision. 
 ^2^Fantasies of any kind are distortions, because they [fantasies] always involve twisting perception into unreality. 
 ^3^Actions that stem from distortions are literally the reactions of those who know not what they do. 
@@ -2121,7 +1782,7 @@ Learn to use the body to enlarge your perception.
 ^13^As long as a single ‘slave’ remains to walk the earth, your release is not complete. 
 ^14^Complete restoration of the Sonship is the only goal of the miracle-minded.
 
-#### expanded 
+::: tab Expanded 
 3.&emsp;Fantasy is a distorted form of vision. 
 ^2^Fantasies of any kind are distortions, because they [fantasies] always involve twisting perception into unreality. 
 ^3^Actions that stem from distortions are literally the reactions of those who know not what they do. 
@@ -2137,7 +1798,7 @@ Learn to use the body to enlarge your perception.
 ^13^As long as a single ‘slave’ remains to walk the earth, your release is not complete. 
 ^14^Complete restoration of the Sonship is the only goal of the miracle-minded.
 
-#### substituted
+::: tab Substituted
 
 3.&emsp;Fantasy is a distorted form of vision. 
 ^2^Fantasies of any kind are distortions, because fantasies always involve twisting perception into unreality. 
@@ -2159,13 +1820,13 @@ Learn to use the body to enlarge your perception.
 Fantasies are false associations. Fantasies are an attempt to obtain pleasure. Fantasies are not real. Fantasies are not satisfying. Miracles are wholly satisfying. Release yourself and the whole Sonship from fantasies.
 
 
-#### commentary
+::: tab Commentary
 
 :::tip
 Restoration of the Sonship, not the disappearance of. (Ed.)
 :::
 
-## T-1.VII.4
+<a name="T-1.VII.4"></a>
 
 <p class=fip id=p4>
 4.&emsp;This is a course in mind training. 
@@ -2176,7 +1837,7 @@ Restoration of the Sonship, not the disappearance of. (Ed.)
 ^6^However, as you study these earlier sections, you will begin to see some of the implications that will be amplified later on.
 </p>
 
-#### expanded 
+::: tab Expanded 
 
 4.&emsp;This is a course in mind training. 
 ^2^All learning involves attention and study at some level. 
@@ -2185,7 +1846,7 @@ Restoration of the Sonship, not the disappearance of. (Ed.)
 ^5^Without this [preparation], you may become much too fearful of what is to come to make constructive use of it [the course]. 
 ^6^However, as you study these earlier sections, you will begin to see some of the implications that will be amplified later on.
 
-#### substituted
+::: tab Substituted
 
 4.&emsp;This is a course in mind training. 
 ^2^All learning involves attention and study at some level. 
@@ -2199,7 +1860,7 @@ Restoration of the Sonship, not the disappearance of. (Ed.)
 This is a course in mind training. Learning involves attention and study. Study these early sections carefully. Without preparation now you may be fearful later on.
 
 
-#### commentary
+::: tab Commentary
 :::tip 
 (1) The miracle changes the misperceptions in our wrong mind, which reflects the purpose of *A Course in Miracles*. (Wapnick, A.V.I., p.119.)
 :::
@@ -2213,7 +1874,7 @@ This is a course in mind training. Learning involves attention and study. Study 
 :::
 
 :::tip
-(4) Students of *A Course in Miracles* may … argue that understanding its theory is irrelevant, and that study of the text is a waste of time, clearly ignoring this warning. (Wapnick, LDNC, p.610).
+(4) Students of *A Course in Miracles* may … argue that understanding its theory is irrelevant, and that study of the text is a waste of time, clearly ignoring this warning. (Wapnick, L.D.N.C., p.610).
 :::
 
 :::tip
@@ -2221,7 +1882,7 @@ This is a course in mind training. Learning involves attention and study. Study 
 :::
  -->
 
-## T-1.VII.5
+<a name="T-1.VII.5"></a>
 
 <p class=fip id=p5>
 5.&emsp;A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which is often made. 
@@ -2236,7 +1897,7 @@ This is a course in mind training. Learning involves attention and study. Study 
 ^10^The means are being carefully explained to you. 
 ^11^Revelation may occasionally reveal the end to you, but to reach it the means are needed.
 
-#### expanded 
+::: tab Expanded 
 5.&emsp;A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which [confusion between fear and awe] is often made. 
 ^2^I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
 ^3^However, it was also emphasised that awe is proper in the Presence of your Creator. 
@@ -2249,7 +1910,7 @@ This is a course in mind training. Learning involves attention and study. Study 
 ^10^The means are being carefully explained to you. 
 ^11^Revelation may occasionally reveal the end to you, but to reach it [the end] the means are needed.
 
-#### substituted
+::: tab Substituted
 5.&emsp;A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and confusion between fear and awe is often made. 
 ^2^I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
 ^3^However, it was also emphasised that awe is proper in the Presence of your Creator. 
@@ -2266,7 +1927,7 @@ This is a course in mind training. Learning involves attention and study. Study 
 We have an equal role in the Atonement. Awe and fear should not be confused. Fear is to be healed. Awe is proper towards God. Later steps in the course involve a direct approach to God. 
 
  
-#### commentary
+::: tab Commentary
 
 :::tip
 (para 4–5) In the last two paragraphs of the first chapter of the text, we read of the need to go very slowly and carefully through all of the material, including the first four chapters. If we do not, we will not be prepared for what will come later, and we will become afraid of it. (Wapnick, ATG, p.107.)

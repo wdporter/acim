@@ -15,7 +15,7 @@
 <sup>10</sup>If you share a physical possession, you do divide its ownership. 
 <sup>11</sup>If you share an idea, however, you do not lessen it. 
 <sup>12</sup>All of it is still yours although all of it has been given away. 
-<sup>13</sup>Further, if the one to whom you give it accepts it as his, he re-inforces it in your mind and thus increases it. 
+<sup>13</sup>Further, if the one to whom you give it accepts it as his, he reïnforces it in your mind and thus increases it. 
 <sup>14</sup>If you can accept the concept that the world is one of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 </p>
 
@@ -33,7 +33,7 @@
 <sup>10</sup>If you share a physical possession, you do divide its [a-physical-possession’s] ownership. 
 <sup>11</sup>If you share an idea, however, you do not lessen it [the idea]. 
 <sup>12</sup>All of it [the idea] is still yours although all of it [the idea] has been given away. 
-<sup>13</sup>Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] re-inforces it [the idea] in your mind and thus increases it [the idea]. 
+<sup>13</sup>Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reïnforces it [the idea] in your mind and thus increases it [the idea]. 
 <sup>14</sup>If you can accept the concept that the world is one [a world] of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 #### substituted
@@ -50,7 +50,7 @@
 <sup>10</sup>If you share a physical possession, you do divide a-physical-possession’s ownership. 
 <sup>11</sup>If you share an idea, however, you do not lessen the idea. 
 <sup>12</sup>All of the idea is still yours although all of the idea has been given away. 
-<sup>13</sup>Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver re-inforces the idea in your mind and thus increases the idea. 
+<sup>13</sup>Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reïnforces the idea in your mind and thus increases the idea. 
 <sup>14</sup>If you can accept the concept that the world is a world of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 #### simplified

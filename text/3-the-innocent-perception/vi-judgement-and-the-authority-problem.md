@@ -31,7 +31,7 @@ In perception we judge others and judge ourselves. After the Last Judgement ther
 #### commentary
 
 :::tip
-(4) The decision to attack another is really the decision to hold onto our guilt through the dynamic of projection. Thus, it is not so much the judgement we shall receive from the outside that is the warning here, but the judgement we would make against ourselves by attacking another, re-inforcing our own guilt. This is always the ego’s hidden motive: to retain our guilt by projecting it onto others. Jesus’ words, as elsewhere, should not be taken as a threat of God’s punishment or vengeance, but rather as a caution on the threat of punishment and vengeance we incur upon ourselves, which re-inforces the belief in our own sinfulness. Of such is <em>not</em> the Kingdom of Heaven. (Wapnick, FAJ, p. 175. c/f [T-25.VIII.13:3](/text/25-the-justice-of-god/viii-justice-returned-to-love#p13))
+(4) The decision to attack another is really the decision to hold onto our guilt through the dynamic of projection. Thus, it is not so much the judgement we shall receive from the outside that is the warning here, but the judgement we would make against ourselves by attacking another, re-inforcing our own guilt. This is always the ego’s hidden motive: to retain our guilt by projecting it onto others. Jesus’ words, as elsewhere, should not be taken as a threat of God’s punishment or vengeance, but rather as a caution on the threat of punishment and vengeance we incur upon ourselves, which reïnforces the belief in our own sinfulness. Of such is <em>not</em> the Kingdom of Heaven. (Wapnick, FAJ, p. 175. c/f [T-25.VIII.13:3](/text/25-the-justice-of-god/viii-justice-returned-to-love#p13))
 :::
 -->
 

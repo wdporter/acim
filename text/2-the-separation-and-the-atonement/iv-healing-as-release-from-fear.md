@@ -193,7 +193,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 :::
 
 :::tip
-(12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely re-inforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, LDNC, p. 563.)
+(12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reïnforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, LDNC, p. 563.)
 :::
 
 :::tip
