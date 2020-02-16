@@ -1,8 +1,9 @@
 # 1. THE MEANING OF MIRACLES
 
-## <a name=t-1-i></a>I. Principles of Miracles
+<a name="T-1.I"></a>
+## I. Principles of Miracles
 
-<a name=t-1-i-1></a>1.&ensp;There is no order of difficulty in miracles. ^2^One is not ‘harder’ or ‘bigger’ than another. ^3^They are all the same. ^4^All expressions of love are maximal.
+<a name="T-1.I.1"></a>1.&emsp;There is no order of difficulty in miracles. ^2^One is not ‘harder’ or ‘bigger’ than another. ^3^They are all the same. ^4^All expressions of love are maximal.
 
 ::::tabs 
 ::: tab Expanded  
@@ -19,13 +20,14 @@ Miracles are all the same to do. Love always expresses as much as it can.
 
 (1) [It’s] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, LDNC, p. 562)  
 
-(1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T–23.II.2:3](/text/23-the-war-against-yourself/#t-23-ii-2)). (Wapnick, AAC, p. 58.)  
+(1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T–23.II.2:3](/text/23-the-war-against-yourself/#T-23.II.2)). (Wapnick, AAC, p. 58.)  
 
 The very first principle of miracles that begins the text proper contains the whole thought system of the Course. In that sense the rest of the text is a commentary on this first principle which is the cornerstone of the teaching. (Wapnick, FCTL, p.15.)  
 :::
 ::::
 
-<a name=t-1-i-2></a>2.&ensp;Miracles as such do not matter. ^2^The only thing that matters is their Source, which is far beyond evaluation.
+<a name="T-1.I.2"></a>2.&emsp;Miracles as such do not matter. ^2^The only thing that matters is their Source, which is far beyond evaluation.
+
 ::::tabs
 ::: tab Expanded
 Miracles as such do not matter. ^2^The only thing that matters is their [miracles’] Source; which [miracles’ Source] is far beyond evaluation.
@@ -38,7 +40,7 @@ The Source of a miracle matters more than the miracle. The Source of miracles is
 :::
 ::::
 
-<a name=t-1-i-3></a>3.&ensp;Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires them. ^3^In this sense everything that comes from love is a miracle.
+<a name="T-1.I.3"></a>3.&emsp;Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires them. ^3^In this sense everything that comes from love is a miracle.
 
 ::::tabs
 ::: tab Expanded
@@ -52,7 +54,7 @@ Miracles are natural expressions of love. Love inspires miracles. Everything tha
 :::
 ::::
 
-<a name=t-1-i-4></a>4.&ensp;All miracles mean life, and God is the Giver of life. ^2^His Voice will direct you very specifically. ^3^You will be told all you need to know.
+<a name="T-1.I.4"></a>4.&emsp;All miracles mean life, and God is the Giver of life. ^2^His Voice will direct you very specifically. ^3^You will be told all you need to know.
 
 ::::tabs
 ::: tab Expanded
@@ -66,7 +68,7 @@ All miracles mean life. God is the Giver of life. God’s Voice will direct you.
 :::
 ::::
 
-<a name=t-1-i-5></a>5.&ensp;Miracles are habits, and should be involuntary. ^2^They should not be under conscious control. ^3^Consciously selected miracles can be misguided.
+<a name="T-1.I.5"></a>5.&emsp;Miracles are habits, and should be involuntary. ^2^They should not be under conscious control. ^3^Consciously selected miracles can be misguided.
 
 ::::tabs
 ::: tab Expanded
@@ -80,7 +82,7 @@ Let miracles become a habit. Do not choose what miracle to do. Choices may be mi
 :::
 ::::
 
-<a name=t-1-i-6></a>6.&ensp;Miracles are natural. ^2^When they do not occur something has gone wrong.
+<a name="T-1.I.6"></a>6.&emsp;Miracles are natural. ^2^When they do not occur something has gone wrong.
 
 ::::tabs
 ::: tab Expanded
@@ -99,7 +101,7 @@ This statement reflects the very practical nature of the Course. It is not teach
 :::
 ::::
 
-<a name=t-1-i-7></a>7.&ensp;Miracles are everyone’s right, but purification is necessary first.
+<a name="T-1.I.7"></a>7.&emsp;Miracles are everyone’s right, but purification is necessary first.
 
 ::::tabs
 ::: tab Expanded
@@ -113,7 +115,7 @@ Purification is necessary for your right to a miracle.
 :::
 ::::
 
-<a name=t-1-i-8></a>8.&ensp;Miracles are healing because they supply a lack; they are performed by those who temporarily have more for those who temporarily have less.
+<a name="T-1.I.8"></a>8.&emsp;Miracles are healing because they supply a lack; they are performed by those who temporarily have more for those who temporarily have less.
 
 ::::tabs
 ::: tab Expanded
@@ -127,7 +129,7 @@ Miracles supply a lack. Miracles are healing. Miracles come from those who have 
 :::
 ::::
 
-<a name=t-1-i-9></a>9.&ensp;Miracles are a kind of exchange. ^2^Like all expressions of love, which are always miraculous in the true sense, the exchange reverses the physical laws. ^3^They bring more love both to the giver and the receiver.
+<a name="T-1.I.9"></a>9.&emsp;Miracles are a kind of exchange. ^2^Like all expressions of love, which are always miraculous in the true sense, the exchange reverses the physical laws. ^3^They bring more love both to the giver and the receiver.
 
 ::::tabs
 ::: tab Expanded
@@ -141,7 +143,7 @@ Giving love ends up with more love for the giver. Increasing by giving is the tr
 :::
 ::::
 
-<a name=t-1-i-10></a>10.&ensp;The use of miracles as spectacles to induce belief is a misunderstanding of their purpose.
+<a name="T-1.I.10"></a>10.&emsp;The use of miracles as spectacles to induce belief is a misunderstanding of their purpose.
 
 ::::tabs
 ::: tab Expanded
@@ -158,7 +160,7 @@ It is not the purpose of Miracles to induce belief.
 :::
 ::::
 
-<a name=t-1-i-11></a>11.&ensp;Prayer is the medium of miracles. ^2^It is a means of communication of the created with the Creator. ^3^Through prayer love is received, and through miracles love is expressed.
+<a name="T-1.I.11"></a>11.&emsp;Prayer is the medium of miracles. ^2^It is a means of communication of the created with the Creator. ^3^Through prayer love is received, and through miracles love is expressed.
 
 ::::tabs
 ::: tab Expanded
@@ -172,7 +174,7 @@ Communication with God is through prayer. Love is received from prayer. Love is 
 :::
 ::::
 
-<a name=t-1-i-12></a>12.&ensp;Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^One makes the physical, and the other creates the spiritual.
+<a name="T-1.I.12"></a>12.&emsp;Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. ^3^One makes the physical, and the other creates the spiritual.
 
 ::::tabs
 ::: tab Expanded
@@ -185,11 +187,11 @@ Miracles are thoughts. ^2^Thoughts can represent the lower or bodily level of ex
 Miracles are thoughts. Thoughts can represent a bodily level of experience and make the physical. Thoughts can represent a spiritual level of experience and make the spiritual.
 :::
 ::: tab Commentary
-Jesus clearly delineates the mutually exclusive nature of the levels of the mind and the body, and cautions his students against confusing them. Such confusion… is what is responsible for sickness. And it is the miracle that heals by redirecting the Son’s attention to the proper level — the mind instead of the body — wherein is found both the problem and the answer. Here are the relevant level-confusion passages (also principles [17](#t-1-i-17), [23](#t-1-i-23), [30](#t-1-i-30)) that highlights the dimension of the miracle or healing (the mind) and sickness (the body) (Wapnick AAC p.230–231)
+Jesus clearly delineates the mutually exclusive nature of the levels of the mind and the body, and cautions his students against confusing them. Such confusion… is what is responsible for sickness. And it is the miracle that heals by redirecting the Son’s attention to the proper level — the mind instead of the body — wherein is found both the problem and the answer. Here are the relevant level-confusion passages (also principles [17](#T-1.I.17), [23](#T-1.I.23), [30](#T-1.I.30)) that highlights the dimension of the miracle or healing (the mind) and sickness (the body) (Wapnick AAC p.230–231)
 ::: 
 ::::
 
-<a name=t-1-i-13></a>13.&ensp;Miracles are both beginnings and endings, and so they alter the temporal order. ^2^They are always affirmations of rebirth, which seem to go back but really go forward. ^3^They undo the past in the present, and thus release the future.
+<a name="T-1.I.13"></a>13.&emsp;Miracles are both beginnings and endings, and so they alter the temporal order. ^2^They are always affirmations of rebirth, which seem to go back but really go forward. ^3^They undo the past in the present, and thus release the future.
 
 ::::tabs
 ::: tab Expanded
@@ -202,11 +204,11 @@ Miracles are both beginnings and endings, and so miracles alter the temporal ord
 Miracles change time by changing beginnings and endings. Miracles allow rebirth. A rebirth does not change the past. A rebirth brings past and future into the present.
 :::
 ::: tab Commentary
-…the miracle reflects the change of mind that enables us to let go of our guilt, the belief in our past sinfulness. This then frees the Holy Spritit to work through us in the sense that we are now allowing the extension of His Love to occur. In the words of [Lesson 194](/workbook/194-i-place-the-future-in-the-hands-of-god): “I place the future in the hands of God”. This is not possible as long as we hold on to the ego’s guilt. It *is* possible, of course, when we let go of the guilt, and that is what releases the future. The “beginning and the ending” that is referred to can be understood as the beginning and the ending of a relationship. The “beginning” would be the special relationship that the ego has made real, while the “ending” is the forgiveness of that relationship — making it holy. (Wapnick, AVI, p. 123.)
+…the miracle reflects the change of mind that enables us to let go of our guilt, the belief in our past sinfulness. This then frees the Holy Spritit to work through us in the sense that we are now allowing the extension of His Love to occur. In the words of [Lesson 194](/workbook/part-1/194-i-place-the-future-in-the-hands-of-god): “I place the future in the hands of God”. This is not possible as long as we hold on to the ego’s guilt. It *is* possible, of course, when we let go of the guilt, and that is what releases the future. The “beginning and the ending” that is referred to can be understood as the beginning and the ending of a relationship. The “beginning” would be the special relationship that the ego has made real, while the “ending” is the forgiveness of that relationship — making it holy. (Wapnick, AVI, p. 123.)
 :::
 ::::
 
-<a name=t-1-i-14></a>14.&ensp;Miracles bear witness to truth. ^2^They are convincing because they arise from conviction. ^3^Without conviction they deteriorate into magic, which is mindless and therefore destructive; or rather, the uncreative use of mind.
+<a name="T-1.I.14"></a>14.&emsp;Miracles bear witness to truth. ^2^They are convincing because they arise from conviction. ^3^Without conviction they deteriorate into magic, which is mindless and therefore destructive; or rather, the uncreative use of mind.
 
 ::::tabs
 ::: tab Expanded
@@ -221,8 +223,8 @@ Miracles are a convincing witness to truth. Without conviction miracles are only
 :::
 ::::
 
-<a name=t-1-i-15></a>
-15.&ensp;Each day should be devoted to miracles. ^2^The purpose of time is to enable you to learn how to use time constructively. ^3^It is thus a teaching device and a means to an end. ^4^Time will cease when it is no longer useful in facilitating learning.
+<a name="T-1.I.15"></a>
+15.&emsp;Each day should be devoted to miracles. ^2^The purpose of time is to enable you to learn how to use time constructively. ^3^It is thus a teaching device and a means to an end. ^4^Time will cease when it is no longer useful in facilitating learning.
 
 ::::tabs
 ::: tab Expanded
@@ -243,7 +245,7 @@ Time is used by the Holy Spirit as a ‘teaching device’ not because it is rea
 :::
 ::::
 
-<a name=t-1-i-16></a>16.&ensp;Miracles are teaching devices for demonstrating it is as blessed to give as to receive. ^2^They simultaneously increase the strength of the giver and supply strength to the receiver.
+<a name="T-1.I.16"></a>16.&emsp;Miracles are teaching devices for demonstrating it is as blessed to give as to receive. ^2^They simultaneously increase the strength of the giver and supply strength to the receiver.
 
 ::::tabs
 ::: tab Expanded
@@ -262,7 +264,7 @@ Miracles increase the strength of the giver. Miracles give strength to the recei
 :::
 ::::
 
-<a name=t-1-i-17></a>17.&ensp;Miracles transcend the body. ^2^They are sudden shifts into invisibility, away from the bodily level. ^3^That is why they heal.
+<a name="T-1.I.17"></a>17.&emsp;Miracles transcend the body. ^2^They are sudden shifts into invisibility, away from the bodily level. ^3^That is why they heal.
 
 ::::tabs
 ::: tab Expanded
@@ -275,11 +277,11 @@ Miracles transcend the body. ^2^Miracles are sudden shifts into invisibility, aw
 Miracles transcend the body. Miracles shift to the invisible.
 :::
 ::: tab Commentary
-c/f [principle 12](#t-1-i-12), Wapnick AAC, p.230, 231
+c/f [principle 12](#T-1.I.12), Wapnick AAC, p.230, 231
 :::
 ::::
 
-<a name=t-1-i-18></a>18.&ensp;A miracle is a service. ^2^It is the maximal service you can render to another. ^3^It is a way of loving your neighbour as yourself. ^4^You recognise your own and your neighbour’s worth simultaneously.
+<a name="T-1.I.18"></a>18.&emsp;A miracle is a service. ^2^It is the maximal service you can render to another. ^3^It is a way of loving your neighbour as yourself. ^4^You recognise your own and your neighbour’s worth simultaneously.
 
 ::::tabs
 ::: tab Expanded
@@ -296,7 +298,7 @@ You love your neighbour as yourself by recognising the ‘inestimable’ value i
 :::
 ::::
 
-<a name=t-1-i-19></a>19.&ensp;Miracles make minds one in God. ^2^They depend on coöperation because the Sonship is the sum of all that God created. ^3^Miracles therefore reflect the laws of eternity, not of time.
+<a name="T-1.I.19"></a>19.&emsp;Miracles make minds one in God. ^2^They depend on coöperation because the Sonship is the sum of all that God created. ^3^Miracles therefore reflect the laws of eternity, not of time.
 
 ::::tabs
 ::: tab Expanded
@@ -310,7 +312,7 @@ Minds coöperate by miracles. The Sonship is the all the minds God created joine
 :::
 ::::
 
-<a name=t-1-i-20></a>20.&ensp;Miracles reäwaken the awareness that the spirit, not the body, is the altar of truth. ^2^This is the recognition that leads to the healing power of the miracle.
+<a name="T-1.I.20"></a>20.&emsp;Miracles reäwaken the awareness that the spirit, not the body, is the altar of truth. ^2^This is the recognition that leads to the healing power of the miracle.
 
 ::::tabs
 ::: tab Expanded
@@ -323,11 +325,11 @@ Miracles reäwaken the awareness that the spirit, not the body, is the altar of 
 The body is not the altar of truth. Miracles heal by making you aware that the spirit is the altar of truth.
 :::
 ::: tab Commentary
-It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([W-p1.76](/workbook/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, FAJ, p.77.)
+It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([W-p1.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, FAJ, p.77.)
 :::
 ::::
 
-<a name=t-1-i-21></a>21.&ensp;Miracles are natural signs of forgiveness. ^2^Through miracles you accept God’s forgiveness by extending it to others.
+<a name="T-1.I.21"></a>21.&emsp;Miracles are natural signs of forgiveness. ^2^Through miracles you accept God’s forgiveness by extending it to others.
 ::::tabs
 ::: tab Expanded
 Miracles are natural signs of forgiveness. ^2^Through miracles you accept God’s forgiveness by extending it [God’s-forgiveness] to others.
@@ -340,7 +342,7 @@ Miracles allow you to accept God’s forgiveness by extending God’s forgivenes
 :::
 ::::
 
-<a name=t-1-i-22></a>22.&ensp;Miracles are associated with fear only because of the belief that darkness can hide. ^2^You believe that what your physical eyes cannot see does not exist. ^3^This leads to a denial of spiritual sight.
+<a name="T-1.I.22"></a>22.&emsp;Miracles are associated with fear only because of the belief that darkness can hide. ^2^You believe that what your physical eyes cannot see does not exist. ^3^This leads to a denial of spiritual sight.
 
 ::::tabs
 ::: tab Expanded
@@ -354,7 +356,7 @@ Believing darkness can hide is a denial of spiritual sight and brings fear.
 :::
 ::::
 
-<a name=t-1-i-23></a>23.&ensp;Miracles reärrange perception and place all levels in true perspective. ^2^This is healing because sickness comes from confusing the levels.
+<a name="T-1.I.23"></a>23.&emsp;Miracles reärrange perception and place all levels in true perspective. ^2^This is healing because sickness comes from confusing the levels.
 ::::tabs
 ::: tab Expanded
 Miracles reärrange perception and place all levels in true perspective. ^2^This [placing all levels in true perspective] is healing because sickness comes from confusing the levels.
@@ -366,11 +368,11 @@ Miracles reärrange perception and place all levels in true perspective. ^2^Plac
 Sickness comes from confusing levels. Miracles rearrange perception. Miracles place all levels in true perspective.
 :::
 ::: tab Commentary
-c/f [principle 12](#t-1-i-12) (Wapnick, AAC, p.230, 231)
+c/f [principle 12](#T-1.I.12) (Wapnick, AAC, p.230, 231)
 :::
 ::::
 
-<a name=t-1-i-24></a>24.&ensp;Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both. ^2^*You* are a miracle, capable of creating in the likeness of your Creator. ^3^Everything else is your own nightmare, and does not exist. ^4^Only the creations of light are real.
+<a name="T-1.I.24"></a>24.&emsp;Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both. ^2^*You* are a miracle, capable of creating in the likeness of your Creator. ^3^Everything else is your own nightmare, and does not exist. ^4^Only the creations of light are real.
 ::::tabs
 ::: tab Expanded
 Miracles enable you to heal the sick and raise the dead because you made sickness and death yourself, and can therefore abolish both [sickness and death]. ^2^*You* are a miracle, capable of creating in the likeness of your Creator. ^3^Everything else [not in the likeness of your Creator] is your own nightmare, and does not exist. ^4^Only the creations of light are real.
@@ -383,7 +385,7 @@ You can abolish sickness and death because you made sickness and death. You can 
 :::
 ::::
 
-<a name=t-1-i-25></a>25.&ensp;Miracles are part of an interlocking chain of forgiveness which, when completed, is the Atonement. ^2^Atonement works all the time and in all the dimensions of time.
+<a name="T-1.I.25"></a>25.&emsp;Miracles are part of an interlocking chain of forgiveness which, when completed, is the Atonement. ^2^Atonement works all the time and in all the dimensions of time.
 ::::tabs
 ::: tab Expanded
 Miracles are part of an interlocking chain of forgiveness, which [chain of forgiveness], when completed, is the Atonement. ^2^Atonement works all the time and in all the dimensions of time.
@@ -396,7 +398,7 @@ Miracles are part of an interlocking chain of forgiveness. The completed chain o
 :::
 ::::
 
-<a name=t-1-i-26></a>26.&ensp;Miracles represent freedom from fear. ^2^‘Atoning’ means ‘undoing’. 
+<a name="T-1.I.26"></a>26.&emsp;Miracles represent freedom from fear. ^2^‘Atoning’ means ‘undoing’. 
 ^3^The undoing of fear is an essential part of the Atonement value of miracles.
 
 ::::tabs
@@ -411,7 +413,7 @@ Miracles undo fear. Undoing fear is the Atonement.
 :::
 ::::
 
-<a name=t-1-i-27></a>27.&ensp;A miracle is a universal blessing from God through me to all my brothers. ^2^It is the privilege of the forgiven to forgive.
+<a name="T-1.I.27"></a>27.&emsp;A miracle is a universal blessing from God through me to all my brothers. ^2^It is the privilege of the forgiven to forgive.
 
 ::::tabs
 ::: tab Expanded
@@ -426,21 +428,21 @@ A miracle is a blessing from God through Jesus to all of you. The forgiven have 
 :::: 
 <!--T-1.I.28
 
-<a name=t-1-i-28>
-28.&ensp;Miracles are a way of earning release from fear. 
+<a name="T-1.I.28>
+28.&emsp;Miracles are a way of earning release from fear. 
 ^2^Revelation induces a state in which fear has already been abolished. 
 ^3^Miracles are thus a means and revelation is an end.
 ::::tabs
 
 ::: tab Expanded
 
-28.&ensp;Miracles are a way of earning release from fear. 
+28.&emsp;Miracles are a way of earning release from fear. 
 ^2^Revelation induces a state in which fear has already been abolished. 
 ^3^Miracles are thus a means and revelation is an end.
 
 ::: tab Substituted
 
-28.&ensp;Miracles are a way of earning release from fear. 
+28.&emsp;Miracles are a way of earning release from fear. 
 ^2^Revelation induces a state in which fear has already been abolished. 
 ^3^Miracles are thus a means and revelation is an end.
 
@@ -450,21 +452,21 @@ Revelation comes through release from fear.
 
 :::: T-1.I.29
 
-<a name=t-1-i-29>
-29.&ensp;Miracles praise God through you. 
+<a name="T-1.I.29>
+29.&emsp;Miracles praise God through you. 
 ^2^They praise Him by honouring His creations, affirming their perfection. 
 ^3^They heal because they deny body-identification and affirm spirit-identification.
 ::::tabs
 
 ::: tab Expanded
 
-29.&ensp;Miracles praise God through you. 
+29.&emsp;Miracles praise God through you. 
 ^2^They [miracles] praise Him [God] by honouring His [God’s] creations, affirming their [God’s-creations’] perfection. 
 ^3^They [miracles] heal because they [miracles] deny body-identification and affirm spirit-identification.
 
 ::: tab Substituted
 
-29.&ensp;Miracles praise God through you. ^2^Miracles praise God by honouring God’s creations, affirming God’s-creations’ perfection. ^3^Miracles heal because miracles deny body-identification and affirm spirit-identification.
+29.&emsp;Miracles praise God through you. ^2^Miracles praise God by honouring God’s creations, affirming God’s-creations’ perfection. ^3^Miracles heal because miracles deny body-identification and affirm spirit-identification.
 
 ::: tab Simplified
 
@@ -472,19 +474,19 @@ Miracles honour your perfection. Miracles praise God. Miracles heal by denying b
 
 :::: T-1.I.30
 
-<a name=t-1-i-30>
-30.&ensp;By recognising spirit, miracles adjust the levels of perception and show them in proper alignment. 
+<a name="T-1.I.30>
+30.&emsp;By recognising spirit, miracles adjust the levels of perception and show them in proper alignment. 
 ^2^This places spirit at the centre, where it can communicate directly.
 ::::tabs
 
 ::: tab Expanded
 
-30.&ensp;By recognising spirit, miracles adjust the levels of perception and show them [the levels of perception] in proper alignment. 
+30.&emsp;By recognising spirit, miracles adjust the levels of perception and show them [the levels of perception] in proper alignment. 
 ^2^This [proper alignment of levels of perception] places spirit at the centre, where it [spirit] can communicate directly.
 
 ::: tab Substituted
 
-30.&ensp;By recognising spirit, miracles adjust the levels of perception and show the levels of perception in proper alignment. 
+30.&emsp;By recognising spirit, miracles adjust the levels of perception and show the levels of perception in proper alignment. 
 ^2^Proper alignment of levels of perception places spirit at the centre, where spirit can communicate directly.
 
 ::: tab Simplified
@@ -502,21 +504,21 @@ c/f [principle 12](#12), Wapnick AAC, p.230,231.
 <!--
 :::: T-1.I.31
 
-<a name=t-1-i-31>
-31.&ensp;Miracles should inspire gratitude, not awe. 
+<a name="T-1.I.31>
+31.&emsp;Miracles should inspire gratitude, not awe. 
 ^2^You should thank God for what you really are. 
 ^3^The children of God are holy and the miracle honours their holiness, which can be hidden but never lost.
 ::::tabs
 
 ::: tab Expanded
 
-31.&ensp;Miracles should inspire gratitude, not awe. 
+31.&emsp;Miracles should inspire gratitude, not awe. 
 ^2^You should thank God for what you really are. 
 ^3^The children of God are holy and the miracle honours their [the-children-of-God’s] holiness, which can be hidden but never lost.
 
 ::: tab Substituted
 
-31.&ensp;Miracles should inspire gratitude, not awe. 
+31.&emsp;Miracles should inspire gratitude, not awe. 
 ^2^You should thank God for what you really are. 
 ^3^The children of God are holy and the miracle honours the-children-of-God’s holiness, which can be hidden but never lost.
 
@@ -526,8 +528,8 @@ You are holy. You can never lose your holiness. Give thanks to God for your holi
 
 :::: T-1.I.32
 
-<a name=t-1-i-32>
-32.&ensp;I inspire all miracles, which are really intercessions. 
+<a name="T-1.I.32>
+32.&emsp;I inspire all miracles, which are really intercessions. 
 ^2^They intercede for your holiness and make your perceptions holy. 
 ^3^By placing you beyond the physical laws they raise you into the sphere of celestial order. 
 ^4^In this order you <em>are</em> perfect.
@@ -535,14 +537,14 @@ You are holy. You can never lose your holiness. Give thanks to God for your holi
 
 ::: tab Expanded
 
-32.&ensp;I inspire all miracles, which [miracles] are really intercessions. 
+32.&emsp;I inspire all miracles, which [miracles] are really intercessions. 
 ^2^They [miracles] intercede for your holiness and [miracles] make your perceptions holy. 
 ^3^By placing you beyond the physical laws they [miracles] raise you into the sphere of celestial order. 
 ^4^In this [the celestial] order you <em>are</em> perfect.
 
 ::: tab Substituted
 
-32.&ensp;I inspire all miracles; miracles are really intercessions. 
+32.&emsp;I inspire all miracles; miracles are really intercessions. 
 ^2^Miracles intercede for your holiness and miracles make your perceptions holy. 
 ^3^By placing you beyond the physical laws miracles raise you into the sphere of celestial order. 
 ^4^In the celestial order you <em>are</em> perfect.
@@ -553,8 +555,8 @@ I inspire miracles. Miracles make your perceptions holy. Miracles make you reali
 
 :::: T-1.I.33
 
-<a name=t-1-i-33>
-33.&ensp;Miracles honour you because you are loveable. 
+<a name="T-1.I.33>
+33.&emsp;Miracles honour you because you are loveable. 
 ^2^They dispel illusions about yourself and perceive the light in you. 
 ^3^They thus atone for your errors by freeing you from your nightmares. 
 ^4^By releasing your mind from the imprisonment of your illusions, they restore your sanity.
@@ -562,14 +564,14 @@ I inspire miracles. Miracles make your perceptions holy. Miracles make you reali
 
 ::: tab Expanded
 
-33.&ensp;Miracles honour you because you are loveable. 
+33.&emsp;Miracles honour you because you are loveable. 
 ^2^They [miracles] dispel illusions about yourself and perceive the light in you. 
 ^3^They [miracles] thus atone for your errors by freeing you from your nightmares. 
 ^4^By releasing your mind from the imprisonment of your illusions, they [miracles] restore your sanity.
 
 ::: tab Substituted
 
-33.&ensp;Miracles honour you because you are loveable. 
+33.&emsp;Miracles honour you because you are loveable. 
 ^2^Miracles dispel illusions about yourself and perceive the light in you. 
 ^3^Miracles thus atone for your errors by freeing you from your nightmares. 
 ^4^By releasing your mind from the imprisonment of your illusions, miracles restore your sanity.
@@ -580,19 +582,19 @@ Illusions imprison you in nightmares. Illusions are errors. Miracles free you fr
 
 :::: T-1.I.34
 
-<a name=t-1-i-34>
-34.&ensp;Miracles restore the mind to its fullness. 
+<a name="T-1.I.34>
+34.&emsp;Miracles restore the mind to its fullness. 
 ^2^By atoning for lack they establish perfect protection. 
 ^3^The spirit’s strength leaves no room for intrusions.
 ::::tabs
 
 ::: tab Expanded
 
-34.&ensp;Miracles restore the mind to its [the-mind’s] fullness. ^2^By atoning for lack they [miracles] establish perfect protection. ^3^The spirit’s strength leaves no room for intrusions.
+34.&emsp;Miracles restore the mind to its [the-mind’s] fullness. ^2^By atoning for lack they [miracles] establish perfect protection. ^3^The spirit’s strength leaves no room for intrusions.
 
 ::: tab Substituted
 
-34.&ensp;Miracles restore the mind to the-mind’s fullness. ^2^By atoning for lack miracles establish perfect protection. ^3^The spirit’s strength leaves no room for intrusions.
+34.&emsp;Miracles restore the mind to the-mind’s fullness. ^2^By atoning for lack miracles establish perfect protection. ^3^The spirit’s strength leaves no room for intrusions.
 
 ::: tab Simplified
 
@@ -600,17 +602,17 @@ Miracles restore the mind to fullness. Miracles protect you from the intrusion o
 
 :::: T-1.I.35
 
-<a name=t-1-i-35>
-35.&ensp;Miracles are expressions of love, but they may not always have observable effects.
+<a name="T-1.I.35>
+35.&emsp;Miracles are expressions of love, but they may not always have observable effects.
 ::::tabs
 
 ::: tab Expanded
 
-35.&ensp;Miracles are expressions of love, but they [miracles] may not always have observable effects.
+35.&emsp;Miracles are expressions of love, but they [miracles] may not always have observable effects.
 
 ::: tab Substituted
 
-35.&ensp;Miracles are expressions of love, but miracles may not always have observable effects.
+35.&emsp;Miracles are expressions of love, but miracles may not always have observable effects.
 
 ::: tab Simplified
 
@@ -618,17 +620,17 @@ Miracles always express love even if you can’t see them.
 
 :::: T-1.I.36
 
-<a name=t-1-i-36>
-36.&ensp;Miracles are examples of right thinking, aligning your perceptions with truth as God created it.
+<a name="T-1.I.36>
+36.&emsp;Miracles are examples of right thinking, aligning your perceptions with truth as God created it.
 ::::tabs
 
 ::: tab Expanded
 
-36.&ensp;Miracles are examples of right thinking, aligning your perceptions with truth as God created it [truth].
+36.&emsp;Miracles are examples of right thinking, aligning your perceptions with truth as God created it [truth].
 
 ::: tab Substituted
 
-36.&ensp;Miracles are examples of right thinking, aligning your perceptions with truth as God created truth.
+36.&emsp;Miracles are examples of right thinking, aligning your perceptions with truth as God created truth.
 
 ::: tab Simplified
 
@@ -636,8 +638,8 @@ Miracles align your thinking with God’s truth.
 
 :::: T-1.I.37
 
-<a name=t-1-i-37>
-37.&ensp;A miracle is a correction introduced into false thinking by me. 
+<a name="T-1.I.37>
+37.&emsp;A miracle is a correction introduced into false thinking by me. 
 ^2^It acts as a catalyst, breaking up erroneous perception and re-organising it properly. 
 ^3^This places you under the Atonement principle, where perception is healed. 
 ^4^Until this has occurred, knowledge of the Divine Order is impossible.
@@ -645,14 +647,14 @@ Miracles align your thinking with God’s truth.
 
 ::: tab Expanded
 
-37.&ensp;A miracle is a correction introduced into false thinking by me. 
+37.&emsp;A miracle is a correction introduced into false thinking by me. 
 ^2^It [a miracle] acts as a catalyst, breaking up erroneous perception and re-organising it [perception] properly. 
 ^3^This [re-organising perception] places you under the Atonement principle, where perception is healed. 
 ^4^Until this [being placed under the Atonement principle] has occurred, knowledge of the Divine Order is impossible.
 
 ::: tab Substituted
 
-37.&ensp;A miracle is a correction introduced into false thinking by me. 
+37.&emsp;A miracle is a correction introduced into false thinking by me. 
 ^2^A miracle acts as a catalyst, breaking up erroneous perception and re-organising perception properly. 
 ^3^Re-organising perception places you under the Atonement principle, where perception is healed. 
 ^4^Until being placed under the Atonement principle has occurred, knowledge of the Divine Order is impossible.
@@ -663,21 +665,21 @@ I correct false thinking with miracles. To know the Divine Order you need miracl
 
 :::: T-1.I.38
 
-<a name=t-1-i-38>
-38.&ensp;The Holy Spirit is the mechanism of miracles. 
+<a name="T-1.I.38>
+38.&emsp;The Holy Spirit is the mechanism of miracles. 
 ^2^He recognises both God’s creations and your illusions. 
 ^3^He separates the true from the false by His ability to perceive totally rather than selectively.
 ::::tabs
 
 ::: tab Expanded
 
-38.&ensp;The Holy Spirit is the mechanism of miracles. 
+38.&emsp;The Holy Spirit is the mechanism of miracles. 
 ^2^He [Holy Spirit] recognises both God’s creations and your illusions. 
 ^3^He [Holy Spirit] separates the true from the false by His [the-Holy-Spirit’s] ability to perceive totally rather than selectively.
 
 ::: tab Substituted
 
-38.&ensp;The Holy Spirit is the mechanism of miracles. 
+38.&emsp;The Holy Spirit is the mechanism of miracles. 
 ^2^Holy Spirit recognises both God’s creations and your illusions. 
 ^3^Holy Spirit separates the true from the false by the-Holy-Spirit’s ability to perceive totally rather than selectively.
 
@@ -687,19 +689,19 @@ The Holy Spirit makes miracles. The Holy Spirit can see God’s true creations a
 
 :::: T-1.I.39
 
-<a name=t-1-i-39>
-39.&ensp;The miracle dissolves error because the Holy Spirit identifies error as false or unreal. 
+<a name="T-1.I.39>
+39.&emsp;The miracle dissolves error because the Holy Spirit identifies error as false or unreal. 
 ^2^This is the same as saying that by perceiving light, darkness automatically disappears.
 ::::tabs
 
 ::: tab Expanded
 
-39.&ensp;The miracle dissolves error because the Holy Spirit identifies error as false or unreal. 
+39.&emsp;The miracle dissolves error because the Holy Spirit identifies error as false or unreal. 
 ^2^This [dissolving error by identifying error as false] is the same as saying that by perceiving light, darkness automatically disappears.
 
 ::: tab Substituted
 
-39.&ensp;The miracle dissolves error because the Holy Spirit identifies error as false or unreal. 
+39.&emsp;The miracle dissolves error because the Holy Spirit identifies error as false or unreal. 
 ^2^Dissolving error by identifying error as false is the same as saying that by perceiving light, darkness automatically disappears.
 
 ::: tab Simplified
@@ -708,19 +710,19 @@ Darkness disappears when light is seen; errors disappear in a miracle.
 
 :::: T-1.I.40
 
-<a name=t-1-i-40>
-40.&ensp;The miracle acknowledges everyone as your brother and mine. 
+<a name="T-1.I.40>
+40.&emsp;The miracle acknowledges everyone as your brother and mine. 
 ^2^It is a way of perceiving the universal mark of God.
 ::::tabs
 
 ::: tab Expanded
 
-40.&ensp;The miracle acknowledges everyone as your brother and mine. 
+40.&emsp;The miracle acknowledges everyone as your brother and mine. 
 ^2^It [the miracle] is a way of perceiving the universal mark of God.
 
 ::: tab Substituted
 
-40.&ensp;The miracle acknowledges everyone as your brother and mine. ^2^The miracle is a way of perceiving the universal mark of God.
+40.&emsp;The miracle acknowledges everyone as your brother and mine. ^2^The miracle is a way of perceiving the universal mark of God.
 
 ::: tab Simplified
 
@@ -728,19 +730,19 @@ Everyone is a brother to you and to me. In everyone we can perceive the universa
 
 :::: T-1.I.41
 
-<a name=t-1-i-41>
-41.&ensp;Wholeness is the perceptual content of miracles. 
+<a name="T-1.I.41>
+41.&emsp;Wholeness is the perceptual content of miracles. 
 ^2^They thus correct, or atone for, the faulty perception of lack.
 ::::tabs
 
 ::: tab Expanded
 
-41.&ensp;Wholeness is the perceptual content of miracles. 
+41.&emsp;Wholeness is the perceptual content of miracles. 
 ^2^They [miracles] thus correct, or atone for, the faulty perception of lack.
 
 ::: tab Substituted
 
-41.&ensp;Wholeness is the perceptual content of miracles. ^2^Miracles thus correct, or atone for, the faulty perception of lack.
+41.&emsp;Wholeness is the perceptual content of miracles. ^2^Miracles thus correct, or atone for, the faulty perception of lack.
 
 ::: tab Simplified
 
@@ -756,17 +758,17 @@ Atonement is defined here as a correction (–Ed.)
 
 :::: T-1.I.42
 
-<a name=t-1-i-42>
-42.&ensp;A major contribution of miracles is their strength in releasing you from your false sense of isolation, deprivation and lack.
+<a name="T-1.I.42>
+42.&emsp;A major contribution of miracles is their strength in releasing you from your false sense of isolation, deprivation and lack.
 ::::tabs
 
 ::: tab Expanded
 
-42.&ensp;A major contribution of miracles is their [miracles’] strength in releasing you from your false sense of isolation, deprivation and lack.
+42.&emsp;A major contribution of miracles is their [miracles’] strength in releasing you from your false sense of isolation, deprivation and lack.
 
 ::: tab Substituted
 
-42.&ensp;A major contribution of miracles is miracles’ strength in releasing you from your false sense of isolation, deprivation and lack.
+42.&emsp;A major contribution of miracles is miracles’ strength in releasing you from your false sense of isolation, deprivation and lack.
 
 ::: tab Simplified
 
@@ -774,8 +776,8 @@ Miracles bring release from isolation, deprivation and lack.
 
 :::: T-1.I.43
 
-<a name=t-1-i-43>
-43.&ensp;Miracles arise from a miraculous state of mind, or a state of miracle-readiness.
+<a name="T-1.I.43>
+43.&emsp;Miracles arise from a miraculous state of mind, or a state of miracle-readiness.
 ::::tabs
 
 ::: tab Simplified
@@ -784,17 +786,17 @@ Miracles arise from the mind’s state of miracle-readiness.
 
 :::: T-1.I.44
 
-<a name=t-1-i-44>
-44.&ensp;The miracle is an expression of an inner awareness of Christ and the acceptance of His Atonement.
+<a name="T-1.I.44>
+44.&emsp;The miracle is an expression of an inner awareness of Christ and the acceptance of His Atonement.
 ::::tabs
 
 ::: tab Expanded
 
-44.&ensp;The miracle is an expression of an inner awareness of Christ and the acceptance of His [Christ’s] Atonement.
+44.&emsp;The miracle is an expression of an inner awareness of Christ and the acceptance of His [Christ’s] Atonement.
 
 ::: tab Substituted
 
-44.&ensp;The miracle is an expression of an inner awareness of Christ and the acceptance of Christ’s Atonement.
+44.&emsp;The miracle is an expression of an inner awareness of Christ and the acceptance of Christ’s Atonement.
 
 ::: tab Simplified
 
@@ -802,19 +804,19 @@ A miracle comes from an awareness of Christ and acceptance of Christ’s Atoneme
 
 :::: T-1.I.45
 
-<a name=t-1-i-45>
-45.&ensp;A miracle is never lost. 
+<a name="T-1.I.45>
+45.&emsp;A miracle is never lost. 
 ^2^It may touch many people you have not even met, and produce undreamed of changes in situations of which you are not even aware.
 ::::tabs
 
 ::: tab Expanded
 
-45.&ensp;A miracle is never lost. 
+45.&emsp;A miracle is never lost. 
 ^2^It [a miracle] may touch many people you have not even met, and produce undreamed of changes in situations of which you are not even aware.
 
 ::: tab Substituted
 
-45.&ensp;A miracle is never lost. ^2^A miracle may touch many people you have not even met, and produce undreamed of changes in situations of which you are not even aware.
+45.&emsp;A miracle is never lost. ^2^A miracle may touch many people you have not even met, and produce undreamed of changes in situations of which you are not even aware.
 
 ::: tab Simplified
 
@@ -822,21 +824,21 @@ A miracle can touch anyone. A miracle can produce unknown changes. A miracle is 
 
 :::: T-1.I.46
 
-<a name=t-1-i-46>
-46.&ensp;The Holy Spirit is the highest communication medium. 
+<a name="T-1.I.46>
+46.&emsp;The Holy Spirit is the highest communication medium. 
 ^2^Miracles do not involve this type of communication, because they are temporary communication devices. 
 ^3^When you return to your original form of communication with God by direct revelation, the need for miracles is over.
 ::::tabs
 
 ::: tab Expanded
 
-46.&ensp;The Holy Spirit is the highest communication medium. 
+46.&emsp;The Holy Spirit is the highest communication medium. 
 ^2^Miracles do not involve this type [the highest level] of communication, because they [miracles] are temporary communication devices. 
 ^3^When you return to your original form of communication with God by direct revelation, the need for miracles is over.
 
 ::: tab Substituted
 
-46.&ensp;The Holy Spirit is the highest communication medium. 
+46.&emsp;The Holy Spirit is the highest communication medium. 
 ^2^Miracles do not involve the highest level of communication, because miracles are temporary communication devices. 
 ^3^When you return to your original form of communication with God by direct revelation, the need for miracles is over.
 
@@ -846,21 +848,21 @@ Miracles involve communication from Holy Spirit (high level) to you (low level).
 
 :::: T-1.I.47
 
-<a name=t-1-i-47>
-47.&ensp;The miracle is a learning device that lessens the need for time. 
+<a name="T-1.I.47>
+47.&emsp;The miracle is a learning device that lessens the need for time. 
 ^2^It establishes an out-of-pattern time interval not under the usual laws of time. 
 ^3^In this sense it is timeless.
 ::::tabs
 
 ::: tab Expanded
 
-47.&ensp;The miracle is a learning device that lessens the need for time. 
+47.&emsp;The miracle is a learning device that lessens the need for time. 
 ^2^It [the miracle] establishes an out-of-pattern time interval not under the usual laws of time. 
 ^3^In this sense [not being under the laws of time] it [the miracle] is timeless.::::tabs  
 
 ::: tab Substituted
 
-47.&ensp;The miracle is a learning device that lessens the need for time. 
+47.&emsp;The miracle is a learning device that lessens the need for time. 
 ^2^The miracle establishes an out-of-pattern time interval not under the usual laws of time. 
 ^3^Not being under the laws of time, the miracle is timeless.::::tabs  
 
@@ -878,19 +880,19 @@ Because the Holy Spirit’s purpose for time is to undo guilt, by His having us 
 <!--
 :::: T-1.I.48
 
-<a name=t-1-i-48>
-48.&ensp;The miracle is the only device at your immediate disposal for controlling time. 
+<a name="T-1.I.48>
+48.&emsp;The miracle is the only device at your immediate disposal for controlling time. 
 ^2^Only revelation transcends it, having nothing to do with time at all.
 ::::tabs
 
 ::: tab Expanded
 
-48.&ensp;The miracle is the only device at your immediate disposal for controlling time. 
+48.&emsp;The miracle is the only device at your immediate disposal for controlling time. 
 ^2^Only revelation transcends it [time], having nothing to do with time at all.
 
 ::: tab Substituted
 
-48.&ensp;The miracle is the only device at your immediate disposal for controlling time. 
+48.&emsp;The miracle is the only device at your immediate disposal for controlling time. 
 ^2^Only revelation transcends time, having nothing to do with time at all.
 
 ::: tab Simplified
@@ -907,21 +909,21 @@ You can control time with miracles. Revelation transcends time.
 <!--
 :::: T-1.I.49
 
-<a name=t-1-i-49>
-49.&ensp;The miracle makes no distinction among degrees of misperception. 
+<a name="T-1.I.49>
+49.&emsp;The miracle makes no distinction among degrees of misperception. 
 ^2^It is a device for perception correction, effective quite apart from either the degree or the direction of the error. 
 ^3^This is its true indiscriminateness.
 ::::tabs
 
 ::: tab Expanded
 
-49.&ensp;The miracle makes no distinction among degrees of misperception. 
+49.&emsp;The miracle makes no distinction among degrees of misperception. 
 ^2^It [the miracle] is a device for perception correction, effective quite apart from either the degree or the direction of the error. 
 ^3^This is its [the-miracle’s] true indiscriminateness.
 
 ::: tab Substituted
 
-49.&ensp;The miracle makes no distinction among degrees of misperception. 
+49.&emsp;The miracle makes no distinction among degrees of misperception. 
 ^2^The miracle is a device for perception correction, effective quite apart from either the degree or the direction of the error. 
 ^3^This is the-miracle’s true indiscriminateness.
 
@@ -931,13 +933,13 @@ Miracles correct misperceptions. Miracles do nott discriminate between degrees o
 
 :::: T-1.I.50
 
-<a name=t-1-i-50>
-50.&ensp;The miracle compares what you have made with creation, accepting what is in accord with it as true, and rejecting what is out of accord as false.
+<a name="T-1.I.50>
+50.&emsp;The miracle compares what you have made with creation, accepting what is in accord with it as true, and rejecting what is out of accord as false.
 ::::tabs
 
 ::: tab Expanded
 
-50.&ensp;The miracle compares what you have made with creation, accepting what is in accord with it [creation] as true, and rejecting what is out of accord as false.
+50.&emsp;The miracle compares what you have made with creation, accepting what is in accord with it [creation] as true, and rejecting what is out of accord as false.
 
 ::: tab Substituted
 
@@ -949,9 +951,9 @@ Miracles compare what you make with creation. Miracles accept what is in accord 
 
 -->
 
-# T-1.II Revelation, Time and Miracles
+## II. Revelation, Time and Miracles
 
-## T-1.II.1
+
 
 <p class=fip id=p1>
 1.&emsp;Revelation induces complete but temporary suspension of doubt and fear. 
