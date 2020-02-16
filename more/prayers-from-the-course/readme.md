@@ -12,15 +12,17 @@ I accept the divinity of the messages we have received, and affirm my will in bo
 
 Here I am.
 
+
+
 ## I am Here to be Truly Helpful [(T-2.V.18:2–6)](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker.html#t-2-v-18)
 
-I am here only to be truly helpful.<br>
-I am here to represent Him Who sent me.<br>
-I do not have to worry about what to say or what to do, <br>
-&emsp;&emsp;because He Who sent me will direct me.<br>
-I am content to be wherever He wishes, <br>
-&emsp;&emsp;knowing He goes there with me.<br>
-I will be healed as I let Him teach me to heal. <br>
+I am here only to be truly helpful.  
+I am here to represent Him Who sent me.  
+I do not have to worry about what to say or what to do,  
+&emsp;&emsp;because He Who sent me will direct me.  
+I am content to be wherever He wishes,  
+&emsp;&emsp;knowing He goes there with me.  
+I will be healed as I let Him teach me to heal.  
 
 ## The Kingdom is Perfectly United [(T-4.III.1:12–13)](/text/4-the-illusions-of-the-ego/iii-love-without-conflict.html#t-4-iii-1)
 

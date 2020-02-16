@@ -1,5 +1,7 @@
 # 1. THE MEANING OF MIRACLES
 
+[[toc]]
+
 ## I. Principles of Miracles
 
 <a name="T-1.I.1"></a>1.&emsp;There is no order of difficulty in miracles. ^2^One is not ‘harder’ or ‘bigger’ than another. ^3^They are all the same. ^4^All expressions of love are maximal.
