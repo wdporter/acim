@@ -950,7 +950,7 @@ I am the Atonement. I can do any miracle I like. Ask me what miracle to do. Foll
 :::
 ::::
 
-<a name="T-1.III.5"></a>5.&emsp;Error cannot really threaten truth, which can always withstand it. ^2^Only the error is actually vulnerable. ^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
+<a id="T-1.III.5"></a>5.&emsp;Error cannot really threaten truth, which can always withstand it. ^2^Only the error is actually vulnerable. ^3^You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
 
 <div class="indented italic">
 
@@ -1060,390 +1060,167 @@ Miracles are given to those who can use miracles. Those who can use miracles wil
 
 ## IV. The Escape from Darkness
 
-<a name="T-1.IV.1"></a>1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
-^2^This step usually entails fear. 
-^3^Second, the recognition that there is nothing you want to hide even if you could. 
-^4^This step brings escape from fear. 
-^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+<a name="T-1.IV.1"></a>1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. ^2^This step usually entails fear. ^3^Second, the recognition that there is nothing you want to hide even if you could. ^4^This step brings escape from fear. ^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 
-
+::::tabs
 ::: tab Expanded
-
-1.&emsp;The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. 
-^2^This step [recognising that darkness cannot hide] usually entails fear. 
-^3^Second [stage], the recognition that there is nothing you want to hide even if you could [hide something]. 
-^4^This step [recognising there is nothing you want to hide] brings escape from fear. 
-^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
-
-::: tab Substituted
-
-1.&emsp;The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. 
-^2^Recognising that darkness cannot hide usually entails fear. 
-^3^Second stage, the recognition that there is nothing you want to hide even if you could hide something. 
-^4^Recognising there is nothing you want to hide brings escape from fear. 
-^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
-  
-::: tab Simplified
-
-First recognise darkness cannot hide. Second recognise there is nothing you want to hide. This is escape from fear. You will understand peace and joy.
-
-<a name="T-1.IV.2"></a>
-
-<p class=fip id=p2>
-2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
-^2^This deception makes you fearful because you realise in your heart it *is* a deception, and you exert enormous efforts to establish its reality. 
-^3^The miracle sets reality where it belongs. 
-^4^Reality belongs only to spirit, and the miracle acknowledges only truth. 
-^5^It thus dispels illusions about yourself, and puts you in communion with yourself and God. 
-^6^The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
-^7^This establishes the proper function of the mind and corrects its errors, which are merely lacks of love. 
-^8^Your mind can be possessed by illusions, but spirit is eternally free. 
-^9^If a mind perceives without love, it perceives an empty shell and is unaware of the spirit within. 
-^10^But the Atonement restores spirit to its proper place. 
-^11^The mind that serves spirit *is* invulnerable.
-</p>
-
-::: tab Expanded
-
-2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. 
-^2^This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] *is* a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
-^3^The miracle sets reality where it [the reality] belongs. 
-^4^Reality belongs only to spirit, and the miracle acknowledges only truth. 
-^5^It [the miracle] thus dispels illusions about yourself, and puts you in communion with yourself and God. 
-^6^The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
-^7^This [placing the mind in the service of the Holy Spirit] establishes the proper function of the mind and corrects its [the mind’s] errors, which are merely lacks of love. 
-^8^Your mind can be possessed by illusions, but spirit is eternally free. 
-^9^If a mind perceives without love, it [the mind] perceives an empty shell and [the mind] is unaware of the spirit within. 
-^10^But the Atonement restores spirit to its [spirit’s] proper place. 
-^11^The mind that serves spirit *is* invulnerable.
-
-::: tab Substituted
-
-2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. 
-^2^The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness *is* a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. 
-^3^The miracle sets reality where reality belongs. 
-^4^Reality belongs only to spirit, and the miracle acknowledges only truth. 
-^5^The miracle thus dispels illusions about yourself, and puts you in communion with yourself and God. 
-^6^The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. 
-^7^Placing the mind in the service of the Holy Spirit establishes the proper function of the mind and corrects the mind’s errors, which are merely lacks of love. 
-^8^Your mind can be possessed by illusions, but spirit is eternally free. 
-^9^If a mind perceives without love, the mind perceives an empty shell and the mind is unaware of the spirit within. 
-^10^But the Atonement restores spirit to spirit’s proper place. 
-^11^The mind that serves spirit *is* invulnerable.
-
-::: tab Simplified
-
-Stop trying to hide holiness in darkness. A miracle brings corrects error. A miracle brings reality, truth and love to the mind. The mind becomes invulnerable.
-
-<a name="T-1.IV.3"></a>
-
-<p class=fip id="p3">
-3.&emsp;Darkness is lack of light as sin is lack of love. 
-^2^It has no unique properties of its own. 
-^3^It is an example of the ‘scarcity’ belief, from which only error can proceed. 
-^4^Truth is always abundant. 
-^5^Those who perceive and acknowledge that they have everything have no needs of any kind. 
-^6^The purpose of the Atonement is to restore everything to you; or rather, to restore it to your awareness. 
-^7^You were given everything when you were created, just as everyone was.
-</p>
-
-::: tab Expanded
-
-3.&emsp;Darkness is lack of light as sin is lack of love. 
-^2^It [darkness] has no unique properties of its [darkness’s] own. 
-^3^It [darkness] is an example of the ‘scarcity’ belief, from which only error can proceed. 
-^4^Truth is always abundant. 
-^5^Those who perceive and acknowledge that they [perceivers and acknowledgers] have everything have no needs of any kind. ^6^The purpose of the Atonement is to restore everything to you; or rather, to restore it [everything] to your awareness. ^7^You were given everything when you were created, just as everyone was [given everything when they were created].
-
-::: tab Substituted
-
-3.&emsp;Darkness is lack of light as sin is lack of love. 
-^2^Darkness has no unique properties of darkness’s own. 
-^3^Darkness is an example of the ‘scarcity’ belief, from which only error can proceed. 
-^4^Truth is always abundant. 
-^5^Those who perceive and acknowledge that perceivers and acknowledgers have everything have no needs of any kind. 
-^6^The purpose of the Atonement is to restore everything to you; or rather, to restore everything to your awareness. 
-^7^You were given everything when you were created, just as everyone was given everything when they were created.
-	
-::: tab Simplified
-
-You have everything. The Atonement makes you aware you always have had everthing. You don’t need anything else.
-
- 	
-::: tab Commentary
-
-:::tip
-(1) Guilt arises from sin, which the Couse defines at one point as lack of love, the post-separation condition. (Wapnick, F.A.J., p. 16.)
+The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. ^2^This step [recognising that darkness cannot hide] usually entails fear. ^3^Second [stage], the recognition that there is nothing you want to hide even if you could [hide something]. ^4^This step [recognising there is nothing you want to hide] brings escape from fear. ^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 :::
+::: tab Substituted
+The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. ^2^Recognising that darkness cannot hide usually entails fear. ^3^Second stage, the recognition that there is nothing you want to hide even if you could hide something. ^4^Recognising there is nothing you want to hide brings escape from fear. ^5^When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
+:::
+::: tab Simplified
+First recognise darkness cannot hide. Second recognise there is nothing you want to hide. This is escape from fear. You will understand peace and joy.
+:::
+::::
 
-:::tip 
+<a name="T-1.IV.2"></a>2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it. ^2^This deception makes you fearful because you realise in your heart it *is* a deception, and you exert enormous efforts to establish its reality. ^3^The miracle sets reality where it belongs. ^4^Reality belongs only to spirit, and the miracle acknowledges only truth. ^5^It thus dispels illusions about yourself, and puts you in communion with yourself and God. ^6^The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. ^7^This establishes the proper function of the mind and corrects its errors, which are merely lacks of love. ^8^Your mind can be possessed by illusions, but spirit is eternally free. ^9^If a mind perceives without love, it perceives an empty shell and is unaware of the spirit within. ^10^But the Atonement restores spirit to its proper place. ^11^The mind that serves spirit *is* invulnerable.
+
+::::tabs
+::: tab Expanded
+Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. ^2^This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] *is* a deception, and you exert enormous efforts to establish its [holiness’s] reality. ^3^The miracle sets reality where it [the reality] belongs. ^4^Reality belongs only to spirit, and the miracle acknowledges only truth. ^5^It [the miracle] thus dispels illusions about yourself, and puts you in communion with yourself and God. ^6^The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. ^7^This [placing the mind in the service of the Holy Spirit] establishes the proper function of the mind and corrects its [the mind’s] errors, which are merely lacks of love. ^8^Your mind can be possessed by illusions, but spirit is eternally free. ^9^If a mind perceives without love, it [the mind] perceives an empty shell and [the mind] is unaware of the spirit within. ^10^But the Atonement restores spirit to its [spirit’s] proper place. ^11^The mind that serves spirit *is* invulnerable.
+:::
+::: tab Substituted
+Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. ^2^The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness *is* a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. ^3^The miracle sets reality where reality belongs. ^4^Reality belongs only to spirit, and the miracle acknowledges only truth. ^5^The miracle thus dispels illusions about yourself, and puts you in communion with yourself and God. ^6^The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. ^7^Placing the mind in the service of the Holy Spirit establishes the proper function of the mind and corrects the mind’s errors, which are merely lacks of love. ^8^Your mind can be possessed by illusions, but spirit is eternally free. ^9^If a mind perceives without love, the mind perceives an empty shell and the mind is unaware of the spirit within. ^10^But the Atonement restores spirit to spirit’s proper place. ^11^The mind that serves spirit *is* invulnerable.
+:::
+::: tab Simplified
+Stop trying to hide holiness in darkness. A miracle brings correction to errors. A miracle brings reality, truth and love to the mind. The mind becomes invulnerable.
+::::
+
+<a name="T-1.IV.3"></a>3.&emsp;Darkness is lack of light as sin is lack of love. ^2^It has no unique properties of its own. ^3^It is an example of the ‘scarcity’ belief, from which only error can proceed. ^4^Truth is always abundant. ^5^Those who perceive and acknowledge that they have everything have no needs of any kind. ^6^The purpose of the Atonement is to restore everything to you; or rather, to restore it to your awareness. ^7^You were given everything when you were created, just as everyone was.
+
+::::tabs
+::: tab Expanded
+Darkness is lack of light as sin is lack of love. ^2^It [darkness] has no unique properties of its [darkness’s] own. ^3^It [darkness] is an example of the ‘scarcity’ belief, from which only error can proceed. ^4^Truth is always abundant. ^5^Those who perceive and acknowledge that they [perceivers and acknowledgers] have everything have no needs of any kind. ^6^The purpose of the Atonement is to restore everything to you; or rather, to restore it [everything] to your awareness. ^7^You were given everything when you were created, just as everyone was [given everything when they were created].
+:::
+::: tab Substituted
+Darkness is lack of light as sin is lack of love. ^2^Darkness has no unique properties of darkness’s own. ^3^Darkness is an example of the ‘scarcity’ belief, from which only error can proceed. ^4^Truth is always abundant. ^5^Those who perceive and acknowledge that perceivers and acknowledgers have everything have no needs of any kind. ^6^The purpose of the Atonement is to restore everything to you; or rather, to restore everything to your awareness. ^7^You were given everything when you were created, just as everyone was given everything when they were created.
+:::
+::: tab Simplified
+You have everything. The Atonement makes you aware you always have had everthing. You don’t need anything else.
+:::
+::: tab Commentary
+(1) Guilt arises from sin, which the Couse defines at one point as lack of love, the post-separation condition. (Wapnick, F.A.J., p. 16.)
+
 (4) Until the moment of birth, the fetus has little or no awareness of itself as a separate being. It does not desire, since its basic physiological needs are met by and through the mother. In this respect, and this respect only, life in the womb is similar to the state of paradise described in the second chapter of Genesis where Adam wanted for nothing, all having been given by God, reflecting what *A Course in Miracles* refers to as the principle of abundance. In a state without lack there can be no sense of separation or “otherness”. (Wapnick, A.A.C., p.100.) 
 :::
- -->
+::::
 
-<a name="T-1.IV.4"></a>
+<a name="T-1.IV.4"></a>4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. ^2^That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. ^3^I came to fulfill the law by reïnterpreting it. ^4^The law itself, if properly understood, offers only protection. ^5^It is those who have not yet changed their minds who brought the ‘hell-fire’ concept into it. ^6^I assure you that I will witness for anyone who lets me, and to whatever extent he permits it. ^7^Your witnessing demonstrates your belief, and thus strengthens it. ^8^Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favour of the abundance they have learned belongs to them.
 
-<p class=fip id=p4>
-4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
-^2^That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-^3^I came to fulfill the law by re-interpreting it. 
-^4^The law itself, if properly understood, offers only protection. 
-^5^It is those who have not yet changed their minds who brought the “hell-fire” concept into it. 
-^6^I assure you that I will witness for anyone who lets me, and to whatever extent he permits it. 
-^7^Your witnessing demonstrates your belief, and thus strengthens it. 
-^8^Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favour of the abundance they have learned belongs to them.
-</p>
-
+::::tabs
 ::: tab Expanded
-4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
-^2^That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-^3^I came to fulfill the law by re-interpreting it [the law]. 
-^4^The law itself [law’s self], if properly understood, offers only protection. 
-^5^It is those [yet-unchanged-minds] who have not yet changed their [yet-unchanged] minds who brought the “hell-fire” concept into it [the law]. 
-^6^I assure you that I will witness for anyone who lets me, and to whatever extent he [the one being witnessed for] permits it [me to witness]. 
-^7^Your witnessing demonstrates your belief, and thus strengthens it [your belief]. 
-^8^Those who witness for me are expressing, through their [witnessers’] miracles, that they [witnessers] have abandoned the belief in deprivation in favour of the abundance they [witnessers] have learned belongs to them [witnessers].
-
-::: tab Substituted>
-
-4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
-^2^Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-^3^I came to fulfill the law by re-interpreting the law. 
-^4^The law law’s self, if properly understood, offers only protection. 
-^5^It yet-unchanged-minds who have not yet changed yet-unchanged-minds who brought the “hell-fire” concept into the law. 
-^6^I assure you that I will witness for anyone who lets me, and to whatever extent the one being witnessed for permits me to witness. ^7^Your witnessing demonstrates your belief, and thus strengthens your belief. 
-^8^Those who witness for me are expressing, through witnessers’ miracles, that witnessers have abandoned the belief in deprivation in favour of the abundance witnessers have learned belongs to witnessers for me.
-	
-::: tab Simplified
-
-Forgiveness replaces fear. There is no death. The law was for protection. There was no hell-fire in the law. Allow me to witness for you. Abandon belief in deprivation. Witnessing for me strengthens your belief. Witnesses for me have abundance.
-
-
-# T-1.V Wholeness and Spirit
-
-<a name="T-1.V.1"></a>
-
-<p class=fip id=p1>
-1.&emsp;The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. 
-^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
-^3^While you believe you are in a body, however, you can choose between loveless and miraculous channels of expression. 
-^4^You can make an empty shell, but you cannot express nothing at all. 
-^5^You can wait, delay, paralyse yourself, or reduce your creativity almost to nothing. 
-^6^But you cannot abolish it. 
-^7^You can destroy your medium of communication, but not your potential. 
-^8^You did not create yourself.
-</p>
-
-::: tab Expanded
-1.&emsp;The miracle is much like the body in that both [miracle and body] are learning aids for facilitating a state in which they [miracle and body] become unnecessary. 
-^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
-^3^While you believe you are in a body, however, you can choose between loveless [channels of expression] and miraculous channels of expression. 
-^4^You can make an empty shell, but you cannot express nothing at all. 
-^5^You can wait, delay, paralyse yourself, or reduce your creativity almost to nothing. 
-^6^But you cannot abolish it [the body]. 
-^7^You can destroy your medium of communication, but [you can] not [destroy] your potential. 
-^8^You did not create yourself.
-
+The emptiness engendered by fear must be replaced by forgiveness. ^2^That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. ^3^I came to fulfill the law by reïnterpreting it [the law]. ^4^The law itself [law’s self], if properly understood, offers only protection. ^5^It is those [yet-unchanged-minds] who have not yet changed their [yet-unchanged] minds who brought the ‘hell-fire’ concept into it [the law]. ^6^I assure you that I will witness for anyone who lets me, and to whatever extent he [the one being witnessed for] permits it [me to witness]. ^7^Your witnessing demonstrates your belief, and thus strengthens it [your belief]. ^8^Those who witness for me are expressing, through their [witnessers’] miracles, that they [witnessers] have abandoned the belief in deprivation in favour of the abundance they [witnessers] have learned belongs to them [witnessers].
+:::
 ::: tab Substituted
-1.&emsp;The miracle is much like the body in that miracle and body are learning aids for facilitating a state in which miracle and body become unnecessary. 
-^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
-^3^While you believe you are in a body, however, you can choose between loveless channels of expression and miraculous channels of expression. 
-^4^You can make an empty shell, but you cannot express nothing at all. 
-^5^You can wait, delay, paralyse yourself, or reduce your creativity almost to nothing. 
-^6^But you cannot abolish the body. 
-^7^You can destroy your medium of communication, but you can not destroy your potential. 
-^8^You did not create yourself.
-	
+The emptiness engendered by fear must be replaced by forgiveness. ^2^Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. ^3^I came to fulfill the law by reïnterpreting the law. ^4^The law law’s self, if properly understood, offers only protection. ^5^It yet-unchanged-minds who have not yet changed yet-unchanged-minds who brought the ‘hell-fire’ concept into the law. ^6^I assure you that I will witness for anyone who lets me, and to whatever extent the one being witnessed for permits me to witness. ^7^Your witnessing demonstrates your belief, and thus strengthens your belief. ^8^Those who witness for me are expressing, through witnessers’ miracles, that witnessers have abandoned the belief in deprivation in favour of the abundance witnessers have learned belongs to witnessers for me.
+:::
+::: tab Simplified
+Forgiveness replaces fear. There is no death. The law was for protection. There was no hell-fire in the law. Allow me to witness for you. Abandon belief in deprivation. Witnessing for me strengthens your belief. Witnesses for me have abundance.
+:::
+::::
+
+## T-1.V Wholeness and Spirit
+
+<a name="T-1.V.1"></a>1.&emsp;The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. ^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. ^3^While you believe you are in a body, however, you can choose between loveless and miraculous channels of expression. ^4^You can make an empty shell, but you cannot express nothing at all. ^5^You can wait, delay, paralyse yourself or reduce your creativity almost to nothing. ^6^But you cannot abolish it. ^7^You can destroy your medium of communication, but not your potential. ^8^You did not create yourself.
+
+::::tabs
+::: tab Expanded
+The miracle is much like the body in that both [miracle and body] are learning aids for facilitating a state in which they [miracle and body] become unnecessary. ^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. ^3^While you believe you are in a body, however, you can choose between loveless [channels of expression] and miraculous channels of expression. ^4^You can make an empty shell, but you cannot express nothing at all. ^5^You can wait, delay, paralyse yourself or reduce your creativity almost to nothing. ^6^But you cannot abolish it [the body]. ^7^You can destroy your medium of communication, but [you can] not [destroy] your potential. ^8^You did not create yourself.
+:::
+::: tab Substituted
+The miracle is much like the body in that miracle and body are learning aids for facilitating a state in which miracle and body become unnecessary. ^2^When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. ^3^While you believe you are in a body, however, you can choose between loveless channels of expression and miraculous channels of expression. ^4^You can make an empty shell, but you cannot express nothing at all. ^5^You can wait, delay, paralyse yourself or reduce your creativity almost to nothing. ^6^But you cannot abolish the body. ^7^You can destroy your medium of communication, but you can not destroy your potential. ^8^You did not create yourself.
+:::
 ::: tab Simplified
 The miracle and the body are learning aids. You can choose to express miracles. You did not create yourself.
+:::
+::::
 
-<a name="T-1.V.2"></a>
+<a name="T-1.V.2"></a>2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. ^2^Time can waste as well as be wasted. ^3^The miracle worker, therefore, accepts the time-control factor gladly. ^4^He recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. ^5^Equality does not imply equality *now*. ^6^When everyone recognises that he has everything, individual contributions to the Sonship will no longer be necessary.
 
-<p class=fip id=p2>
-2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
-^2^Time can waste as well as be wasted. 
-^3^The miracle worker, therefore, accepts the time-control factor gladly. 
-^4^He recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
-^5^Equality does not imply equality *now*. 
-^6^When everyone recognises that he has everything, individual contributions to the Sonship will no longer be necessary.
-</p>
-
+::::tabs
 ::: tab Expanded
-
-2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
-^2^Time can waste as well as be wasted. 
-^3^The miracle worker, therefore, accepts the time-control factor gladly. 
-^4^He [the miracle worker] recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
-^5^Equality does not imply equality *now*. 
-^6^When everyone recognises that he [one] has everything, individual contributions to the Sonship will no longer be necessary.
-
+The basic decision of the miracle-minded is not to wait on time any longer than is necessary. ^2^Time can waste as well as be wasted. ^3^The miracle worker, therefore, accepts the time-control factor gladly. ^4^He [the miracle worker] recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. ^5^Equality does not imply equality *now*. ^6^When everyone recognises that he [one] has everything, individual contributions to the Sonship will no longer be necessary.
+:::
 ::: tab Substituted
-
-2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
-^2^Time can waste as well as be wasted. 
-^3^The miracle worker, therefore, accepts the time-control factor gladly. 
-^4^The miracle worker recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
-^5^Equality does not imply equality *now*. 
-^6^When everyone recognises that one has everything, individual contributions to the Sonship will no longer be necessary.
-
+The basic decision of the miracle-minded is not to wait on time any longer than is necessary. ^2^Time can waste as well as be wasted. ^3^The miracle worker, therefore, accepts the time-control factor gladly. ^4^The miracle worker recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. ^5^Equality does not imply equality *now*. ^6^When everyone recognises that one has everything, individual contributions to the Sonship will no longer be necessary.
+:::
 ::: tab Simplified
 Collapse time by recognising you have everything. Every collapse brings everyone closer to knowledge of oneness.
-
-
+:::
 ::: tab Commentary
-
-:::tip
 (1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, A.V.I., p.129.)
 :::
- -->
+::::
 
-<a name="T-1.V.3"></a>
+<a name="T-1.V.3"></a>3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. ^2^God is not partial. ^3^All His children have His total Love, and all His gifts are freely given to everyone alike. ^4^“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his true relationship with the Father. ^5^The specialness of God’s Sons does not stem from exclusion but from inclusion. ^6^All my brothers are special. ^7^If they believe they are deprived of anything, their perception becomes distorted. ^8^When this occurs the whole family of God, or the Sonship, is impaired in its relationships.
 
-<p class=fip id=p3>
-3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
-^2^God is not partial. 
-^3^All His children have His total Love, and all His gifts are freely given to everyone alike. 
-^4^“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his true relationship with the Father. 
-^5^The specialness of God’s Sons does not stem from exclusion but from inclusion. 
-^6^All my brothers are special. 
-^7^If they believe they are deprived of anything, their perception becomes distorted. 
-^8^When this occurs the whole family of God, or the Sonship, is impaired in its relationships.
-</p>
-
+::::tabs
 ::: tab Expanded
-
-3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
-^2^God is not partial. 
-^3^All His [God’s] children have His [God’s] total Love, and all His [God’s] gifts are freely given to everyone alike. 
-^4^“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his [the Son’s] true relationship with the Father. 
-^5^The specialness of God’s Sons does not stem from exclusion but from inclusion. 
-^6^All my brothers are special. 
-^7^If they [my brothers] believe they [my brothers] are deprived of anything, their [my brothers’] perception becomes distorted. 
-^8^When this occurs [perception becomes distorted] the whole family of God, or the Sonship, is impaired in its [the family of God’s] relationships.
-
+When the Atonement has been completed, all talents will be shared by all the Sons of God. ^2^God is not partial. ^3^All His [God’s] children have His [God’s] total Love, and all His [God’s] gifts are freely given to everyone alike. ^4^“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his [the Son’s] true relationship with the Father. ^5^The specialness of God’s Sons does not stem from exclusion but from inclusion. ^6^All my brothers are special. ^7^If they [my brothers] believe they [my brothers] are deprived of anything, their [my brothers’] perception becomes distorted. ^8^When this occurs [perception becomes distorted] the whole family of God, or the Sonship, is impaired in its [the family of God’s] relationships.
+:::
 ::: tab Substituted
-
-3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
-^2^God is not partial. 
-^3^All God’s children have God’s total Love, and all God’s gifts are freely given to everyone alike. 
-^4^“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in the Son’s true relationship with the Father. 
-^5^The specialness of God’s Sons does not stem from exclusion but from inclusion. 
-^6^All my brothers are special. 
-^7^If my brothers believe my brothers are deprived of anything, my brothers’ perception becomes distorted. 
-^8^When perception becomes distorted the whole family of God, or the Sonship, is impaired in the family of God’s relationships.
-  
+When the Atonement has been completed, all talents will be shared by all the Sons of God. ^2^God is not partial. ^3^All God’s children have God’s total Love, and all God’s gifts are freely given to everyone alike. ^4^“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in the Son’s true relationship with the Father. ^5^The specialness of God’s Sons does not stem from exclusion but from inclusion. ^6^All my brothers are special. ^7^If my brothers believe my brothers are deprived of anything, my brothers’ perception becomes distorted. ^8^When perception becomes distorted the whole family of God, or the Sonship, is impaired in the family of God’s relationships.
+:::
 ::: tab Simplified
-
 All are children of God. All are dependent on God. All share God’s gifts equally. All are special. Do not believe you are deprived of anything. Believing in deprivation distorts perceptions. Distorted perceptions create distorted relationships.
-
-
+:::
 ::: tab Commentary
-
-:::tip
 (4) Since guilt makes God into an ememy, recognising our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, F.A.J., p. 171.)
-:::
 
-:::tip
 (6) Without guilt’s demand to see others as separate from us, we are free to affirm our inherent unity in the Sonship of God …  Jesus’ lack of ego enabled him to have no special relationships. In his perception, none of his brothers or sisters was special. (Wapnick, F.A.J., p.184.)
-:::
 
-:::tip
 (6) The we–they battlefield … hating and attacking the other group … Thus its [the Course’s] students often confuse form with content, and forget Jesus’ statement in the text that “All my brothers are special” (Wapnick, L.D.N.C., p.590.)
-:::tip
 
-:::tip 
 (6) The “special” person of the Course is Jesus or the Holy Spirit; that is, the internal presence of God’s love that, again, leads Jesus to state that all his “brothers are special”.  (Wapnick, L.D.N.C., p.593.)
+
+(6) The true teacher of God … is not one with a *special* mission, nor a *special* gift to give others *special* messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in reïnforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
 :::
+::::
 
-:::tip
-(6) The true teacher of God … is not one with a *special* mission, nor a *special* gift to give others *special* messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in re-inforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
-:::
- -->
+<a name="T-1.V.4"></a>4.&emsp;Ultimately, every member of the family of God must return. ^2^The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. ^3^“God is not mocked” is not a warning but a reässurance. ^4^God *would* be mocked if any of His creations lacked holiness. ^5^The creation is whole, and the mark of wholeness is holiness. ^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
 
-<a name="T-1.V.4"></a>
-
-<p class=fip id=p4>
-4.&emsp;Ultimately, every member of the family of God must return. 
-^2^The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. 
-^3^“God is not mocked” is not a warning but a reassurance. 
-^4^God *would* be mocked if any of His creations lacked holiness. 
-^5^The creation is whole, and the mark of wholeness is holiness. 
-^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
-</p>
-
+::::tabs
 ::: tab Expanded
-
-4.&emsp;Ultimately, every member of the family of God must return. 
-^2^The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honours him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. 
-^3^“God is not mocked” is not a warning but a reassurance. 
-^4^God *would* be mocked if any of His [God’s] creations lacked holiness. 
-^5^The creation is whole, and the mark of wholeness is holiness. 
-^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
-
-### substituted
-
-4.&emsp;Ultimately, every member of the family of God must return. 
-^2^The miracle calls a member of the family of God to return because the miracle blesses and honours a member of the family of God, even though a member of the family of God may be absent in spirit. 
-^3^“God is not mocked” is not a warning but a reassurance. 
-^4^God *would* be mocked if any of God’s creations lacked holiness. 
-^5^The creation is whole, and the mark of wholeness is holiness. 
-^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
-
+Ultimately, every member of the family of God must return. ^2^The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honours him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. ^3^“God is not mocked” is not a warning but a reässurance. ^4^God *would* be mocked if any of His [God’s] creations lacked holiness. ^5^The creation is whole, and the mark of wholeness is holiness. ^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
+:::
+::: tab Substituted
+Ultimately, every member of the family of God must return. ^2^The miracle calls a member of the family of God to return because the miracle blesses and honours a member of the family of God, even though a member of the family of God may be absent in spirit. ^3^“God is not mocked” is not a warning but a reässurance. ^4^God *would* be mocked if any of God’s creations lacked holiness. ^5^The creation is whole, and the mark of wholeness is holiness. ^6^Miracles are affirmations of Sonship, which is a state of completion and abundance.
+:::
 ::: tab Simplified
-
 All of God’s creations are holy. The miracles calls every member of the family of God to return to a state of completion and abundance.
-
-::: tab Commentary
-
-:::tip
-(3–4) God is not mocked because His creation of you will have the last word — no matter how sinful you appear to become, you cannot change the holiness He created in you. (C of A, p. 31.)
 :::
- -->
+::::
 
-<a name="T-1.V.5"></a>
+<a name="T-1.V.5"></a>5.&emsp;Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because it is already perfect, but the mind can elect what it chooses to serve. ^3^The only limit put on its choice is that it cannot serve two masters. ^4^If it elects to do so, the mind can become the medium by which spirit creates along the line of its own creation. ^5^If it does not freely elect to do so, it retains its creative potential but places itself under tyrannous rather than Authoritative control. ^6^As a result it imprisons, because such are the dictates of tyrants. ^7^To change your mind means to place it at the disposal of *true* Authority.
 
-<p class=fip id=p5>
-5.&emsp;Whatever is true is eternal, and cannot change or be changed. 
-^2^Spirit is therefore unalterable because it is already perfect, but the mind can elect what it chooses to serve. 
-^3^The only limit put on its choice is that it cannot serve two masters. 
-^4^If it elects to do so, the mind can become the medium by which spirit creates along the line of its own creation. 
-^5^If it does not freely elect to do so, it retains its creative potential but places itself under tyrannous rather than Authoritative control. 
-^6^As a result it imprisons, because such are the dictates of tyrants. 
-^7^To change your mind means to place it at the disposal of *true* Authority.
-</p>
-
+::::tabs
 ::: tab Expanded
-
-5.&emsp;Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because it [spirit] is already perfect, but the mind can elect what it [the mind] chooses to serve. ^3^The only limit put on its [the mind’s] choice is that it [the mind] cannot serve two masters. ^4^If it [the mind] elects to do so [become the medium by which spirit creates], the mind can become the medium by which spirit creates along the line of its [spirit’s] own creation. ^5^If it [the mind] does not freely elect to do so [become the medium by which spirit creates], it [the mind] retains its [the mind’s] creative potential but places itself [the mind’s self] under tyrannous rather than Authoritative control. ^6^As a result it [the mind] imprisons, because such [to imprison] are the dictates of tyrants. ^7^To change your mind means to place it [your mind] at the disposal of *true* Authority.
-
+Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because it [spirit] is already perfect, but the mind can elect what it [the mind] chooses to serve. ^3^The only limit put on its [the mind’s] choice is that it [the mind] cannot serve two masters. ^4^If it [the mind] elects to do so [become the medium by which spirit creates], the mind can become the medium by which spirit creates along the line of its [spirit’s] own creation. ^5^If it [the mind] does not freely elect to do so [become the medium by which spirit creates], it [the mind] retains its [the mind’s] creative potential but places itself [the mind’s self] under tyrannous rather than Authoritative control. ^6^As a result it [the mind] imprisons, because such [to imprison] are the dictates of tyrants. ^7^To change your mind means to place it [your mind] at the disposal of *true* Authority.
+:::
 ::: tab Substituted
-
-5.&emsp;Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because spirit is already perfect, but the mind can elect what the mind chooses to serve. ^3^The only limit put on the mind’s choice is that the mind cannot serve two masters. ^4^If the mind elects to become the medium by which spirit creates, the mind can become the medium by which spirit creates along the line of spirit’s own creation. ^5^If it the mind does not freely elect to become the medium by which spirit creates, the mind retains the mind’s creative potential but places the mind under tyrannous rather than Authoritative control. ^6^As a result the mind imprisons, because to imprison is the dictate of tyrants. ^7^To change your mind means to place it [your mind] at the disposal of *true* Authority.
-
+Whatever is true is eternal, and cannot change or be changed. ^2^Spirit is therefore unalterable because spirit is already perfect, but the mind can elect what the mind chooses to serve. ^3^The only limit put on the mind’s choice is that the mind cannot serve two masters. ^4^If the mind elects to become the medium by which spirit creates, the mind can become the medium by which spirit creates along the line of spirit’s own creation. ^5^If it the mind does not freely elect to become the medium by which spirit creates, the mind retains the mind’s creative potential but places the mind under tyrannous rather than Authoritative control. ^6^As a result the mind imprisons, because to imprison is the dictate of tyrants. ^7^To change your mind means to place it [your mind] at the disposal of *true* Authority.
+:::
 ::: tab Simplified
-
 The mind can choose to create the same way the spirit creates. Or the mind can become a tyrant and imprison you. 
+:::
+::::
 
-<a name="T-1.V.6"></a>
+<a name="T-1.V.6"></a>6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Him. ^3^All shallow roots must be uprooted, because they are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As these false underpinnings are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds it upside down be conducive to increased stability.
 
-<p class=fip id="p6">
-6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Him. ^3^All shallow roots must be uprooted, because they are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As these false underpinnings are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds it upside down be conducive to increased stability.
-</p>
-
+::::tabs
 ::: tab Expanded
-
-6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Him [Christ]. ^3^All shallow roots must be uprooted, because they [shallow roots] are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As these false underpinnings [shallow roots] are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds it [orientation] upside down be conducive to increased stability.
-
+The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Him [Christ]. ^3^All shallow roots must be uprooted, because they [shallow roots] are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As these false underpinnings [shallow roots] are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds it [orientation] upside down be conducive to increased stability.
+:::
 ::: tab Substituted
-
-6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Christ. ^3^All shallow roots must be uprooted, because shallow roots are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As the false underpinnings of shallow roots are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds orientation upside down be conducive to increased stability.
-
+The miracle is a sign that the mind has chosen to be led by me in Christ’s service. ^2^The abundance of Christ is the natural result of choosing to follow Christ. ^3^All shallow roots must be uprooted, because shallow roots are not deep enough to sustain you. ^4^The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. ^5^As the false underpinnings of shallow roots are given up, the equilibrium is temporarily experienced as unstable. ^6^However, nothing is less stable than an upside-down orientation. ^7^Nor can anything that holds orientation upside down be conducive to increased stability.
+:::
 ::: tab Simplified
-
 Following Christ gives the abundance of Christ. The abundance of Christ will keep you stable.
+:::
+::::
 
-
-# T-1.VI The Illusion of Needs
+## VI. The Illusion of Needs
 
 <a name="T-1.VI.1"></a>
 

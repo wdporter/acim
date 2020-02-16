@@ -79,7 +79,7 @@ module.exports = {
 				]
 			}
 		],
-		repo: "wdporter/acim",
+		repo: "wdporter/a-course-in-miracles",
 		repoLabel: "Help",
 		editLinks: true,
 		editLinkText: "Help us improve this page",
