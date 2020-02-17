@@ -106,14 +106,14 @@ You might not believe the ideas. You might be startled by the ideas. We ask you 
 :::
 ::::
 
-<a name="w-in-9"></a>9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. ^2^Some of them you may actively resist. ^3^None of this will matter, or decrease their efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. ^5^Nothing more than that is required.
+<a name="w-in-9"></a>9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. ^2^Some of them you may actively resist. ^3^None of this will matter, or decrease their efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. ^5^Nothing more than that is required.
 
 ::::tabs
 ::: tab Expanded
-Remember only this: you need not believe the ideas, you need not accept them [the ideas], and you need not even welcome them [the ideas]. ^2^Some of them [the ideas] you may actively resist. ^3^None of this [neither believing, accepting noR welcoming] will matter, or decrease their [the ideas’] efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them [the ideas]. ^5^Nothing more than that [using the ideas] is required.
+Remember only this: you need not believe the ideas, you need not accept them [the ideas], and you need not even welcome them [the ideas]. ^2^Some of them [the ideas] you may actively resist. ^3^None of this [neither believing, accepting noR welcoming] will matter, or decrease their [the ideas’] efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them [the ideas]. ^5^Nothing more than that [using the ideas] is required.
 :::
 ::: tab Substituted
-Remember only this: you need not believe the ideas, you need not accept the ideas, and you need not even welcome the ideas. ^2^Some of the ideas you may actively resist. ^3^Neither believing, accepting nor welcoming will matter, or decrease the ideas’ efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use the ideas. ^5^Nothing more than using the ideas is required.
+Remember only this: you need not believe the ideas, you need not accept the ideas, and you need not even welcome the ideas. ^2^Some of the ideas you may actively resist. ^3^Neither believing, accepting nor welcoming will matter, or decrease the ideas’ efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use the ideas. ^5^Nothing more than using the ideas is required.
 :::
 ::: tab Simplified
 How you feel about the ideas is not important. You only need to use the ideas. 

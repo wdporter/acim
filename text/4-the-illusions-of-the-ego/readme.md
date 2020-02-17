@@ -681,7 +681,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 <sup>2</sup>That is because they regard them as part of themselves. 
 <sup>3</sup>No one dismisses something he considers part of himself. 
 <sup>4</sup>You react to your ego much as God does to His creations: with love, protection and charity. 
-<sup>5</sup>Your reactions to the self you made are not surprising. 
+<sup>5</sup>Your reäctions to the self you made are not surprising. 
 <sup>6</sup>In fact, they resemble in many ways how you will one day react to your real creations, which are as timeless as you are. 
 <sup>7</sup>The question is not how you respond to the ego, but what you believe you are. 
 <sup>8</sup>Belief is an ego function, and as long as your origin is open to belief you are regarding it from an ego viewpoint. 
@@ -696,8 +696,8 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 <sup>2</sup>That [animals feel a need to protect animals’ offspring] is because they [animals] regard them [animals’ offspring] as part of themselves [animals’-selves]. 
 <sup>3</sup>No one dismisses something he [one] considers part of himself [one’s-self]. 
 <sup>4</sup>You react to your ego much as God does to His [God’s] creations: with love, protection and charity. 
-<sup>5</sup>Your reactions to the self you made are not surprising. 
-<sup>6</sup>In fact, they [your reactions to the self you made] resemble in many ways how you will one day react to your real creations, which [your real creations] are as timeless as you are [timeless]. 
+<sup>5</sup>Your reäctions to the self you made are not surprising. 
+<sup>6</sup>In fact, they [your reäctions to the self you made] resemble in many ways how you will one day react to your real creations, which [your real creations] are as timeless as you are [timeless]. 
 <sup>7</sup>The question is not how you respond to the ego, but [the question is] what you believe you are. 
 <sup>8</sup>Belief is an ego function, and as long as your origin is open to belief you are regarding it [your origin] from an ego viewpoint. 
 <sup>9</sup>When teaching is no longer necessary you will merely know God. 
@@ -710,8 +710,8 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 <sup>2</sup>Animals feel a need to protect animals’ offspring because animals regard animals’ offspring as part of animals’-selves. 
 <sup>3</sup>No one dismisses something one considers part of one’s-self. 
 <sup>4</sup>You react to your ego much as God does to God’s creations: with love, protection and charity. 
-<sup>5</sup>Your reactions to the self you made are not surprising. 
-<sup>6</sup>In fact, your reactions to the self you made resemble in many ways how you will one day react to your real creations; your real creations are as timeless as you are timeless. 
+<sup>5</sup>Your reäctions to the self you made are not surprising. 
+<sup>6</sup>In fact, your reäctions to the self you made resemble in many ways how you will one day react to your real creations; your real creations are as timeless as you are timeless. 
 <sup>7</sup>The question is not how you respond to the ego, but the question is what you believe you are. 
 <sup>8</sup>Belief is an ego function, and as long as your origin is open to belief you are regarding your origin from an ego viewpoint. 
 <sup>9</sup>When teaching is no longer necessary you will merely know God. 
@@ -2697,7 +2697,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 <sup>2</sup>That is because they regard them as part of themselves. 
 <sup>3</sup>No one dismisses something he considers part of himself. 
 <sup>4</sup>You react to your ego much as God does to His creations: with love, protection and charity. 
-<sup>5</sup>Your reactions to the self you made are not surprising. 
+<sup>5</sup>Your reäctions to the self you made are not surprising. 
 <sup>6</sup>In fact, they resemble in many ways how you will one day react to your real creations, which are as timeless as you are. 
 <sup>7</sup>The question is not how you respond to the ego, but what you believe you are. 
 <sup>8</sup>Belief is an ego function, and as long as your origin is open to belief you are regarding it from an ego viewpoint. 
@@ -2712,8 +2712,8 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 <sup>2</sup>That [animals feel a need to protect animals’ offspring] is because they [animals] regard them [animals’ offspring] as part of themselves [animals’-selves]. 
 <sup>3</sup>No one dismisses something he [one] considers part of himself [one’s-self]. 
 <sup>4</sup>You react to your ego much as God does to His [God’s] creations: with love, protection and charity. 
-<sup>5</sup>Your reactions to the self you made are not surprising. 
-<sup>6</sup>In fact, they [your reactions to the self you made] resemble in many ways how you will one day react to your real creations, which [your real creations] are as timeless as you are [timeless]. 
+<sup>5</sup>Your reäctions to the self you made are not surprising. 
+<sup>6</sup>In fact, they [your reäctions to the self you made] resemble in many ways how you will one day react to your real creations, which [your real creations] are as timeless as you are [timeless]. 
 <sup>7</sup>The question is not how you respond to the ego, but [the question is] what you believe you are. 
 <sup>8</sup>Belief is an ego function, and as long as your origin is open to belief you are regarding it [your origin] from an ego viewpoint. 
 <sup>9</sup>When teaching is no longer necessary you will merely know God. 
@@ -2726,8 +2726,8 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 <sup>2</sup>Animals feel a need to protect animals’ offspring because animals regard animals’ offspring as part of animals’-selves. 
 <sup>3</sup>No one dismisses something one considers part of one’s-self. 
 <sup>4</sup>You react to your ego much as God does to God’s creations: with love, protection and charity. 
-<sup>5</sup>Your reactions to the self you made are not surprising. 
-<sup>6</sup>In fact, your reactions to the self you made resemble in many ways how you will one day react to your real creations; your real creations are as timeless as you are timeless. 
+<sup>5</sup>Your reäctions to the self you made are not surprising. 
+<sup>6</sup>In fact, your reäctions to the self you made resemble in many ways how you will one day react to your real creations; your real creations are as timeless as you are timeless. 
 <sup>7</sup>The question is not how you respond to the ego, but the question is what you believe you are. 
 <sup>8</sup>Belief is an ego function, and as long as your origin is open to belief you are regarding your origin from an ego viewpoint. 
 <sup>9</sup>When teaching is no longer necessary you will merely know God. 
@@ -4331,7 +4331,7 @@ Do not associate yourself with the ego. It is not easy to dismiss the ego. The e
 :::
 
 :::tip
-(3–6) …the two halves of the split mind — the ego and the Holy Spirit — represent two different and mutually exclusive reactions to, or interpretations and experiences of the “tiny, mad idea”. They are anthropomorphised in *A Course in Miracles* for pedagogical reasons. [Here] Jesus explains his anthropomorphising the ego. (Wapnick, AAC, p.30) 
+(3–6) …the two halves of the split mind — the ego and the Holy Spirit — represent two different and mutually exclusive reäctions to, or interpretations and experiences of the “tiny, mad idea”. They are anthropomorphised in *A Course in Miracles* for pedagogical reasons. [Here] Jesus explains his anthropomorphising the ego. (Wapnick, AAC, p.30) 
 :::
  -->
 
