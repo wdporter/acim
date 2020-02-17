@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-<a name="W-in.1"></a>1.&emsp;A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. ^2^Yet it is doing the exercises that will make the goal of the course possible. ^3^An untrained mind can accomplish nothing. ^4^It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
+<a name="w-in-1"></a>1.&emsp;A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. ^2^Yet it is doing the exercises that will make the goal of the course possible. ^3^An untrained mind can accomplish nothing. ^4^It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
 
 ::::tabs
 ::: tab Simplified
@@ -8,7 +8,7 @@ The text is theory. Theory is necessary. You also need training. This workbook t
 :::
 ::::
 
-<a name="W-in.2"></a>2.&emsp;The exercises are very simple. ^2^They do not require a great deal of time, and it does not matter where you do them. ^3^They need no preparation. ^4^The training period is one year. ^5^The exercises are numbered from 1 to 365. ^6^Do not undertake to do more than one set of exercises a day.
+<a name="w-in-2"></a>2.&emsp;The exercises are very simple. ^2^They do not require a great deal of time, and it does not matter where you do them. ^3^They need no preparation. ^4^The training period is one year. ^5^The exercises are numbered from 1 to 365. ^6^Do not undertake to do more than one set of exercises a day.
 
 ::::tabs
 ::: tab Expanded
@@ -22,7 +22,7 @@ The exercises are quick. The exercises can be done anywhere. There is an exercis
 :::
 ::::
 
-<a name="W-in.3"></a>3.&emsp;The workbook is divided into two main sections, the first dealing with the undoïng of the way you see now, and the second with the acquisition of true perception. ^2^With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. ^3^This is followed by a description of the specific procedures by which the idea for the day is to be applied.
+<a name="w-in-3"></a>3.&emsp;The workbook is divided into two main sections, the first dealing with the undoïng of the way you see now, and the second with the acquisition of true perception. ^2^With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. ^3^This is followed by a description of the specific procedures by which the idea for the day is to be applied.
 
 ::::tabs
 ::: tab Expanded
@@ -36,7 +36,7 @@ The first section deals with undoing the way you see now. The second section dea
 :::
 ::::
 
-<a name="W-in.4"></a>4.&emsp;The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. ^2^The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
+<a name="w-in-4"></a>4.&emsp;The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. ^2^The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
 
 ::::tabs
 ::: tab Expanded
@@ -50,7 +50,7 @@ Your mind will be trained to see everything differently.
 :::
 ::::
 
-<a name="W-in.5"></a>5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
+<a name="w-in-5"></a>5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
 
 ::::tabs
 ::: tab Expanded
@@ -64,7 +64,7 @@ True perception in one thing transfers to true perception in all things. But not
 :::
 ::::
 
-<a name="W-in.6"></a>6.&emsp;The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. ^2^This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. ^3^Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. ^4^This will interfere with transfer of training. ^5^The very nature of true perception is that it has no limits. ^6^It is the opposite of the way you see now.
+<a name="w-in-6"></a>6.&emsp;The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. ^2^This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. ^3^Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. ^4^This will interfere with transfer of training. ^5^The very nature of true perception is that it has no limits. ^6^It is the opposite of the way you see now.
 
 ::::tabs
 ::: tab Expanded
@@ -78,7 +78,7 @@ Follow the exercises very specifically. True perception has no limits. Making ex
 :::
 ::::
 
-<a name="W-in.7"></a>7.&emsp;The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. ^2^This will require no effort on your part. ^3^The exercises themselves meet the conditions necessary for this kind of transfer.
+<a name="w-in-7"></a>7.&emsp;The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. ^2^This will require no effort on your part. ^3^The exercises themselves meet the conditions necessary for this kind of transfer.
 
 ::::tabs
 ::: tab Expanded
@@ -92,7 +92,7 @@ The exercises will teach you to include everything and everyone.
 :::
 ::::
 
-<a name="W-in.8"></a>8.&emsp;Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. ^2^This does not matter. ^3^You are merely asked to apply the ideas as you are directed to do. ^4^You are not asked to judge them at all. ^5^You are asked only to use them. ^6^It is their use that will give them meaning to you, and will show you that they are true.
+<a name="w-in-8"></a>8.&emsp;Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. ^2^This does not matter. ^3^You are merely asked to apply the ideas as you are directed to do. ^4^You are not asked to judge them at all. ^5^You are asked only to use them. ^6^It is their use that will give them meaning to you, and will show you that they are true.
 
 ::::tabs
 ::: tab Expanded
@@ -106,7 +106,7 @@ You might not believe the ideas. You might be startled by the ideas. We ask you 
 :::
 ::::
 
-<a name="W-in.9"></a>9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. ^2^Some of them you may actively resist. ^3^None of this will matter, or decrease their efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. ^5^Nothing more than that is required.
+<a name="w-in-9"></a>9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. ^2^Some of them you may actively resist. ^3^None of this will matter, or decrease their efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. ^5^Nothing more than that is required.
 
 ::::tabs
 ::: tab Expanded

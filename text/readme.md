@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-<a name="T-in.1"></a>1.&ensp;This is a course in miracles. ^2^It is a required course. ^3^Only the time you take it is voluntary. ^4^Free will does not mean that you can establish the curriculum. ^5^It means only that you can elect what you want to take at a given time. ^6^The course does not aim at teaching the meaning of love, for that is beyond what can be taught. ^7^It does aim, however, at removing the blocks to the awareness of love’s presence, which is your natural inheritance. ^8^The opposite of love is fear, but what is all-encompassing can have no opposite.
+<a name="t-in-1"></a>1.&ensp;This is a course in miracles. ^2^It is a required course. ^3^Only the time you take it is voluntary. ^4^Free will does not mean that you can establish the curriculum. ^5^It means only that you can elect what you want to take at a given time. ^6^The course does not aim at teaching the meaning of love, for that is beyond what can be taught. ^7^It does aim, however, at removing the blocks to the awareness of love’s presence, which is your natural inheritance. ^8^The opposite of love is fear, but what is all-encompassing can have no opposite.
 
 ::::tabs
 ::: tab Expanded
@@ -19,7 +19,7 @@ This is a course in miracles. The lessons are required. You choose when to take 
 :::
 ::::
 
-<a name="T-in.2"></a>2.&ensp;This course can therefore be summed up very simply in this way:
+<a name="t-in.2"></a>2.&ensp;This course can therefore be summed up very simply in this way:
 
 <div class="indented italic">
 

@@ -19,7 +19,7 @@ Here I am.
 Spirit is in a state of grace forever.  
 Your reality is only spirit.  
 Therefore you are in a state of grace forever.  
-([T-1.III.5:4–6](/text/1-the-meaning-of-miracles/#T-1.III.5))
+([T-1.III.5:4–6](/text/1-the-meaning-of-miracles/#t-1-iii-5))
 
 ## Perfect Love Casts out Fear
 
@@ -30,7 +30,7 @@ Then there is not perfect love.
 Only perfect love exists.  
 If there is fear,  
 It produces a state that does not exist.  
-([T-1.VI.5:4–8](/text/1-the-meaning-of-miracles/#T-1.VI.5))
+([T-1.VI.5:4–8](/text/1-the-meaning-of-miracles/#t-1-vi-5))
 
 ## I am Here Only to be Truly Helpful 
 
@@ -39,10 +39,10 @@ I am here to represent Him Who sent me.
 I do not have to worry about what to say or what to do, because He Who sent me will direct me.  
 I am content to be wherever He wishes, knowing He goes there with me.  
 I will be healed as I let Him teach me to heal.  
-([T-2.V.18:2–6](/text/2-the-separation-and-the-atonement/#T-2.V.18))
+([T-2.V.18:2–6](/text/2-the-separation-and-the-atonement/#t-2-v-18))
 
 ## The Kingdom is Perfectly United 
 
 The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. Amen.  
-([T-4.III.1:12–13](/text/4-the-illusions-of-the-ego/#T-4.III.1))
+([T-4.III.1:12–13](/text/4-the-illusions-of-the-ego/#t-4-iii-1))
 

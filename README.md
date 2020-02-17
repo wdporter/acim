@@ -24,7 +24,7 @@ sidebar: false
 - [Text](/text/)
 - [Workbook](/workbook/)
 - [Manual](/manual/)
-- [and More…](/other/)
+- [and More…](/more/)
 
 
 The course text is supplied in alternative renderings which substitute pronouns.
