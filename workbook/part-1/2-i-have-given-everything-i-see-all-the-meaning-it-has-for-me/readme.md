@@ -1,6 +1,6 @@
 # LESSON 2
 
-# 2. I have given given everything I see in this room [on this street, from this window, in this place] all the meaning that it has for me.
+# I have given given everything I see in this room [on this street, from this window, in this place] all the meaning that it has for me.
 
 <a name="w-pi-2-1"></a>1.&emsp;The exercises with this idea are the same as those for the first one. ^2^Begin with the things that are near you, and apply the idea to whatever your glance rests on. ^3^Then increase the range outward. ^4^Turn your head so that you include whatever is on either side. ^5^If possible, turn around and apply the idea to what was behind you. ^6^Remain as indiscriminate as possible in selecting subjects for its application, do not concentrate on anything in particular, and do not attempt to include everything you see in a given area, or you will introduce strain.
 

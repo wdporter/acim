@@ -2,7 +2,7 @@
 
 # LESSON 1
 
-# 1. Nothing I see in this room [on this street, from this window, in this place] means anything.
+# Nothing I see in this room [on this street, from this window, in this place] means anything.
 
 <a name="w-pi-1-1"></a>1.&emsp;Now look slowly around you, and practice applying this idea very specifically to whatever you see:
 

@@ -21,7 +21,7 @@ Miracles are all the same to do. Love always expresses as much as it can.
 
 (1) [It’s] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, L.D.N.C., p. 562)  
 
-(1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T–23.II.2:3](/text/23-the-war-against-yourself/#T-23.II.2)). (Wapnick, A.A.C., p. 58.)  
+(1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T–23.II.2:3](/text/23-the-war-against-yourself/#t-23-ii-2)). (Wapnick, A.A.C., p. 58.)  
 
 The very first principle of miracles that begins the text proper contains the whole thought system of the Course. In that sense the rest of the text is a commentary on this first principle which is the cornerstone of the teaching. (Wapnick, FCTL, p.15.)  
 :::
@@ -326,7 +326,7 @@ Miracles reäwaken the awareness that the spirit, not the body, is the altar of 
 The body is not the altar of truth. Miracles heal by making you aware that the spirit is the altar of truth.
 :::
 ::: tab Commentary
-It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([W-p1.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, F.A.J., p.77.)
+It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([w-pI.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, F.A.J., p.77.)
 :::
 ::::
 
@@ -840,7 +840,7 @@ I stand between you and God. I bridge the distance between you and God. I am you
 
 (3–6) Jesus became the Son of God, or Christ, by virtue of his having first completed his personal Atonement plan and helping us to do the same, but inherent in his nature is the Christ inherent in all of us. (Wapnick, F.A.J., p.286.)
 
-(7) In one form or another, all of us fall prey  to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7-the-gifts-of-the-kingdom#T-7.I.1). (Wapnick, F.A.J., p.263.)
+(7) In one form or another, all of us fall prey  to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7-the-gifts-of-the-kingdom#t-7-i-1). (Wapnick, F.A.J., p.263.)
 
 (7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, excep tthat God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, A.V.I., p.99).
 :::
@@ -898,7 +898,7 @@ I begin the process of Atonement. I help you to cancel out errors. Atonement is 
 ::: tab Commentary
 (1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who them became the victim of his Father’s justified vengeance. (Wapnick, F.A.J., p.189.)
 
-(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [t-1-iii-4:1](#t-1-iii-4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement#T-2.II.4).
+(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [t-1-iii-4:1](#t-1-iii-4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement#t-2-ii-4).
 
 (1) When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin”. (Wapnick, A.V.I., p.228)
 
@@ -1389,7 +1389,7 @@ Peace can only be found in doing God’s Will.
 
 (4–5) If we truly looked at anything in this world, we would realise that what we thought had given us happiness and joy was really filled with pain. (Wapnick, A.V.I., p.265.)
 
-(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/#t-19-iv-a-17), [/text/19-the-attainment-of-peace/#t-19-iv-b-p12](T-19.IV-B.12). (Wapnick, A.A.C., p. 105.)
+(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/#t-19-iv-a-17), [/text/19-the-attainment-of-peace/#t-19-iv-b-p12](t-19-iv-b-12). (Wapnick, A.A.C., p. 105.)
 :::
 ::::
 
