@@ -35,7 +35,8 @@ module.exports = {
 				ariaLabel: "Workbook Menu",
 				items: [
 					{ text: "Introduction", link: "/workbook/" },
-					{ text: "1. Nothing I see … means anything", link: "/workbook/part-1/1-nothing-i-see-means-anything/" }
+					{ text: "1. Nothing I see … means anything", link: "/workbook/part-1/1-nothing-i-see-means-anything/" },
+					{ text: "2. I have given everything I see … all the meaning it has for me", link: "/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/" }
 				]
 			},
 			{
@@ -50,6 +51,7 @@ module.exports = {
 				]
 			}
 		],
+
 		sidebar: [
 			{
 				title: "Text",
@@ -64,7 +66,8 @@ module.exports = {
 				path: "/workbook/",
 				children: [
 					["/workbook/", "Introduction"],
-					["/workbook/part-1/1-nothing-i-see-means-anything/", "1. Nothing I see … means anything"]
+					["/workbook/part-1/1-nothing-i-see-means-anything/", "1. Nothing I see … means anything"],
+					["/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/", "2. I have given everything I see … all the meaning it has for me/"]
 				],
 			},
 			{
@@ -72,13 +75,14 @@ module.exports = {
 				path: "/more/",
 				children: [
 					"/more/bibliography/",
+					"/more/course-teacher-comparison/",
 					"/more/random-section/",
 					"/more/prayers-from-the-course/",
-					"/more/course-thought-system/",
-					"/more/course-teacher-comparison/"
+					"/more/course-thought-system/"
 				]
 			}
 		],
+
 		repo: "wdporter/a-course-in-miracles",
 		repoLabel: "Help",
 		editLinks: true,

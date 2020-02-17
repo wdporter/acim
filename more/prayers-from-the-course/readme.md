@@ -21,6 +21,17 @@ Your reality is only spirit.
 Therefore you are in a state of grace forever.  
 ([T-1.III.5:4–6](/text/1-the-meaning-of-miracles/#T-1.III.5))
 
+## Perfect Love Casts out Fear
+
+Perfect love casts out fear.  
+If fear exists,  
+Then there is not perfect love.  
+&emsp;&emsp;But:  
+Only perfect love exists.  
+If there is fear,  
+It produces a state that does not exist.  
+([T-1.VI.5:4–8](/text/1-the-meaning-of-miracles/#T-1.VI.5))
+
 ## I am Here Only to be Truly Helpful 
 
 I am here only to be truly helpful.  
@@ -34,3 +45,4 @@ I will be healed as I let Him teach me to heal.
 
 The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. Amen.  
 ([T-4.III.1:12–13](/text/4-the-illusions-of-the-ego/#T-4.III.1))
+
