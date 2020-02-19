@@ -39,6 +39,7 @@ module.exports = {
 					{ text: "2. I have given everything I see … all the meaning it has for me", link: "/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/" },
 					{ text: "3. I do not understand anything I see", link: "/workbook/part-1/3-i-do-not-understand-anything-i-see/" },
 					{ text: "4. These thoughts do not mean anything", link: "/workbook/part-1/4-these-thoughts-do-not-mean-anything/"},
+					{ text: "5. I am never upset for the reason I think", link: "/workbook/part-1/5-i-am-never-upset-for-the-reason-i-think/"}
 				]
 			},
 			{
@@ -72,6 +73,7 @@ module.exports = {
 					["/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/", "2. I have given everything I see … all the meaning it has for me"],
 					["/workbook/part-1/3-i-do-not-understand-anything-i-see/", "3. I do not understand anything I see"],
 					["/workbook/part-1/4-these-thoughts-do-not-mean-anything/", "4. These thoughts do not mean anything"],
+					["/workbook/part-1/5-i-am-never-upset-for-the-reason-i-think/", "5. I am never upset for the reason I think"]
 				],
 			},
 			{
