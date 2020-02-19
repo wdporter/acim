@@ -37,7 +37,8 @@ module.exports = {
 					{ text: "Introduction", link: "/workbook/" },
 					{ text: "1. Nothing I see … means anything", link: "/workbook/part-1/1-nothing-i-see-means-anything/" },
 					{ text: "2. I have given everything I see … all the meaning it has for me", link: "/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/" },
-					{ text: "3. I do not understand anything I see", link: "workbook/part-1/3-i-do-not-understand-anything-i-see/" },
+					{ text: "3. I do not understand anything I see", link: "/workbook/part-1/3-i-do-not-understand-anything-i-see/" },
+					{ text: "4. These thoughts do not mean anything", link: "/workbook/part-1/4-these-thoughts-do-not-mean-anything/"},
 				]
 			},
 			{
@@ -68,8 +69,9 @@ module.exports = {
 				children: [
 					["/workbook/", "Introduction"],
 					["/workbook/part-1/1-nothing-i-see-means-anything/", "1. Nothing I see … means anything"],
-					["/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/", "2. I have given everything I see … all the meaning it has for me/"],
-					["/workbook/part-1/3-i-do-not-understand-anything-i-see/", "3. I do not understand anything I see/"]
+					["/workbook/part-1/2-i-have-given-everything-i-see-all-the-meaning-it-has-for-me/", "2. I have given everything I see … all the meaning it has for me"],
+					["/workbook/part-1/3-i-do-not-understand-anything-i-see/", "3. I do not understand anything I see"],
+					["/workbook/part-1/4-these-thoughts-do-not-mean-anything/", "4. These thoughts do not mean anything"],
 				],
 			},
 			{
