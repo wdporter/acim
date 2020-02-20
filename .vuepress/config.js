@@ -61,7 +61,8 @@ module.exports = {
 				path: "/text/",
 				children: [
 					["/text/", "Introduction"],
-					"/text/1-the-meaning-of-miracles/"
+					"/text/1-the-meaning-of-miracles/",
+					"/text/2-the-separation-and-the-atonement/"
 				],
 			},
 			{
