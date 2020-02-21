@@ -5,4 +5,6 @@
  * [3. I do not understand anything I see](./3-i-do-not-understand-anything-i-see/)
  * [4. These thoughts do not mean anything](./4-these-thoughts-do-not-mean-anything/)
  * [5. I am never upset for the reason I think](./5-i-am-never-upset-for-the-reason-i-think/)
+ * [6. I am upset because I see something that is not there](./6-i-am-upset-because-i-see-something-that-is-not-there/)
+ * [7. I see only the past](./7-i-see-only-the-past/)
 

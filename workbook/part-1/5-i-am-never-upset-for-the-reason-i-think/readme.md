@@ -1,6 +1,6 @@
 # LESSON 5
 
-# I am never upset for the reason I think
+# I am never upset for the reason I think.
 
 <a id=w-pi-5-1></a>1.&emsp;This idea, like the preceding one, can be used with any person, situation or event you think is causing you pain. ^2^Apply it specifically to whatever you believe is the cause of your upset, using the description of the feeling in whatever term seems accurate to you. ^3^The upset may seem to be fear, worry, depression, anxiety, anger, hatred, jealousy or any number of forms, all of which will be perceived as different. ^4^This is not true. ^5^However, until you learn that form does not matter, each form becomes a proper subject for the exercises for the day. ^6^Applying the same idea to each of them separately is the first step in ultimately recognising they are all the same.
 
@@ -13,6 +13,9 @@ This idea, like the preceding idea, can be used with any person, situation or ev
 :::
 ::: tab Simplified
 Upsets may seem to have different forms. Upsets are all the same.
+:::
+::: tab Commentary
+Through the dynamic of projection, the ego continually seeks to have us believe our problems are outside us in the world of the body — our own or others’. Thus we believe that what upsets us are problems perceived as external to us, beyound our control, for which we must find solutions. As long as we believe in the ego’s seductive smokescreens, the true source of the problem — our misthoughts — remains beyond recognition and therefore beyond correction. (Wapnick, F.A.J., p.67)
 :::
 ::::
 
@@ -66,6 +69,7 @@ But again, using the idea for specific upsets should not be substituted for prac
 Use the idea during the day when specifically upset. Also do practice periods. Sources and forms of upsets are only in your thoughts.
 :::
 ::::
+
 
 <a id=w-pi-5-4></a>4.&emsp;In these exercises, more than in the preceding ones, you may find it hard to be indiscriminate, and to avoid giving greater weight to some subjects than to others. ^2^It might help to precede the exercises with the statement:
 
@@ -154,7 +158,7 @@ Be unwilling to name form and cause of all upsets.
 
 <div class="indent italic">
 
-^4 I am not worried about _____ for the reason I think.  
+^4^I am not worried about _____ for the reason I think.  
 ^5^I am not depressed about _____ for the reason I think.
 
 </div>
@@ -167,7 +171,7 @@ Then search your mind for no more than a minute or so, and try to identify a num
 
 <div class="indent italic">
 
-^4 I am not worried about _____ for the reason I think.  
+^4^I am not worried about _____ for the reason I think.  
 ^5^I am not depressed about _____ for the reason I think.
 
 </div>
@@ -180,13 +184,12 @@ Then search your mind for no more than a minute or so, and try to identify a num
 
 <div class="indent italic">
 
-^4 I am not worried about _____ for the reason I think.  
+^4^I am not worried about _____ for the reason I think.  
 ^5^I am not depressed about _____ for the reason I think.
 
 </div>
 
 ^6^Three or four times during the day is enough.
-
 :::
 ::: tab Simplified
 Name the perceived source. Name the feeling you experience.

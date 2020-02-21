@@ -1,15 +1,34 @@
 # INTRODUCTION
 
-<a name="w-in-1"></a>1.&emsp;A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. ^2^Yet it is doing the exercises that will make the goal of the course possible. ^3^An untrained mind can accomplish nothing. ^4^It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
+<a id=w-in-1></a>1.&emsp;A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. ^2^Yet it is doing the exercises that will make the goal of the course possible. ^3^An untrained mind can accomplish nothing. ^4^It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
 
 ::::tabs
 ::: tab Simplified
-The text is theory. Theory is necessary. You also need training. This workbook trains your mind to think by the theory.
+The text is theory. Theory is necessary. You also need training. This workbook trains your mind to think according to the theory.
+:::
+::: tab Commentary
+
+Jesus conceived of his Course as an integrated work in which each book had its own particular place, making a unique contrbution to the student’s learning and growth, as well as being integrated with the other two books. (Wapnick F.C.T.L, p.11)
+
+(1) *A Course in Miracles* is a unified curriculum, and the three books need to be studied and used as a set, even though the actual sequence of study is left to the individual student and the Holy Spirit — “The curriculumn is highly individualised, and all aspects are under the Holy Spirit’s particuralr care and guidance” ([M-29.2:6](/manual/29-as-for-the-rest#m-29-2)). The workbook, therefore, is not meaningful without the text. (Wapnick, L.D.N.C., p.603)
+
+(1) At the very beginning of the workbook, Jesus underscores this relationship between theory and application, both of which are essential fo rthe completion of *A Course in Miracles*’ curriculumn (Wapnick, A.A.C., p.227)
+
+(2–3) …the workbook provides the practical application of the principles of the text (Wapnick, L.D.N.C., p.603)
+
+(3–4) …in order to accomplish the Course’s purpose of retraining our minds, some structure is obviously necessary (Wapnick, L.D.N.C., p.550, 
+
+(3–4) Such structure is particularly important in the early stages of one’s growth, and it is obviously between the individual and the Holy Spirit to determine the parameters of “early”. (A.A.C.,p.274)
+
+(4) …the workbook clarifies its purpose (Wapnick, L.D.N.C., p.603)
+
+(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reïnforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
+
+(4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, F.C.T.L., p.17)
 :::
 ::::
 
-<a name="w-in-2"></a>2.&emsp;The exercises are very simple. ^2^They do not require a great deal of time, and it does not matter where you do them. ^3^They need no preparation. ^4^The training period is one year. ^5^The exercises are numbered from 1 to 365. ^6^Do not undertake to do more than one set of exercises a day.
-
+<a id=w-in-2></a>2.&emsp;The exercises are very simple. ^2^They do not require a great deal of time, and it does not matter where you do them. ^3^They need no preparation. ^4^The training period is one year. ^5^The exercises are numbered from 1 to 365. ^6^Do not undertake to do more than one set of exercises a day.
 ::::tabs
 ::: tab Expanded
 The exercises are very simple. ^2^They [the exercises] do not require a great deal of time, and it does not matter where you do them [the exercises]. ^3^They [the exercises] need no preparation. ^4^The training period is one year. ^5^The exercises are numbered from 1 to 365. ^6^Do not undertake to do more than one set of exercises a day.
@@ -22,8 +41,7 @@ The exercises are quick. The exercises can be done anywhere. There is an exercis
 :::
 ::::
 
-<a name="w-in-3"></a>3.&emsp;The workbook is divided into two main sections, the first dealing with the undoïng of the way you see now, and the second with the acquisition of true perception. ^2^With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. ^3^This is followed by a description of the specific procedures by which the idea for the day is to be applied.
-
+<a id=w-in-3></a>3.&emsp;The workbook is divided into two main sections, the first dealing with the undoïng of the way you see now, and the second with the acquisition of true perception. ^2^With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. ^3^This is followed by a description of the specific procedures by which the idea for the day is to be applied.
 ::::tabs
 ::: tab Expanded
 The workbook is divided into two main sections, the first [section] dealing with the undoïng of the way you see now, and the second [section] [dealing] with the acquisition of true perception. ^2^With the exception of the review periods, each day’s exercises are planned around one central idea, which [central idea] is stated first. ^3^This [the statement of the central idea] is followed by a description of the specific procedures by which [the procedures] the idea for the day is to be applied.
@@ -36,8 +54,8 @@ The first section deals with undoing the way you see now. The second section dea
 :::
 ::::
 
-<a name="w-in-4"></a>4.&emsp;The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. ^2^The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
-
+<a id=w-in-4></a>
+4.&emsp;The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. ^2^The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
 ::::tabs
 ::: tab Expanded
 The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. ^2^The exercises are planned to help you generalise the lessons, so that you will understand that each of them [the lessons] is equally applicable to everyone and everything you see.
@@ -48,23 +66,28 @@ The purpose of the workbook is to train your mind in a systematic way to a diffe
 ::: tab Simplified
 Your mind will be trained to see everything differently. 
 :::
+::: tab Commentary
+(1–2 and 5:1–2) …it is the Course’s uncompromising metaphysical absoluteness that is deeply problematic for many people. One of its stated goals, therefore, is to effect a total transfer of learning, for “the impariment of the ability to generalise is a crucial learning failure” ([T-12.V.6:4](/text/12-the-holy-spirits-curriculum#t-12-v-6)). (Wapnick, L.D.N.C., p.595; F.C.T.L, p.154)
 ::::
 
-<a name="w-in-5"></a>5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
+<a id=w-in-5></a>5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
 
 ::::tabs
 ::: tab Expanded
-Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes its [true perception’s] accomplishments anywhere impossible.
+5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes its [true perception’s] accomplishments anywhere impossible.
 :::
 ::: tab Substituted
-Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes true perception’s accomplishments anywhere impossible.
+5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. ^2^If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. ^3^On the other hand, one exception held apart from true perception makes true perception’s accomplishments anywhere impossible.
 :::
 ::: tab Simplified
 True perception in one thing transfers to true perception in all things. But not if you hold any exceptions.
 :::
+::: tab Commentary
+see commentary for [4:1–2](#w-in-4).
+:::
 ::::
 
-<a name="w-in-6"></a>6.&emsp;The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. ^2^This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. ^3^Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. ^4^This will interfere with transfer of training. ^5^The very nature of true perception is that it has no limits. ^6^It is the opposite of the way you see now.
+<a id=w-in-6></a>6.&emsp;The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. ^2^This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. ^3^Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. ^4^This will interfere with transfer of training. ^5^The very nature of true perception is that it has no limits. ^6^It is the opposite of the way you see now.
 
 ::::tabs
 ::: tab Expanded
@@ -78,7 +101,7 @@ Follow the exercises very specifically. True perception has no limits. Making ex
 :::
 ::::
 
-<a name="w-in-7"></a>7.&emsp;The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. ^2^This will require no effort on your part. ^3^The exercises themselves meet the conditions necessary for this kind of transfer.
+<a id=w-in-7></a>7.&emsp;The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. ^2^This will require no effort on your part. ^3^The exercises themselves meet the conditions necessary for this kind of transfer.
 
 ::::tabs
 ::: tab Expanded
@@ -92,7 +115,7 @@ The exercises will teach you to include everything and everyone.
 :::
 ::::
 
-<a name="w-in-8"></a>8.&emsp;Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. ^2^This does not matter. ^3^You are merely asked to apply the ideas as you are directed to do. ^4^You are not asked to judge them at all. ^5^You are asked only to use them. ^6^It is their use that will give them meaning to you, and will show you that they are true.
+<a id=w-in-8></a>8.&emsp;Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. ^2^This does not matter. ^3^You are merely asked to apply the ideas as you are directed to do. ^4^You are not asked to judge them at all. ^5^You are asked only to use them. ^6^It is their use that will give them meaning to you, and will show you that they are true.
 
 ::::tabs
 ::: tab Expanded
@@ -104,9 +127,14 @@ Some of the ideas the workbook presents you will find hard to believe, and other
 ::: tab Simplified
 You might not believe the ideas. You might be startled by the ideas. We ask you to not to judge the ideas. If you use the ideas, you will see the the ideas are true.
 :::
+::: tab Commentary
+(3–6) The course’s focus is always practical, dealing with specific ways in which to undo the interferences in our spiritual growth. Emphasis on doctrinal issues, in the context of the Course, would tend to impede one’s learning and practice of its principles. (Wapnick, C.P., p.1)
+
+(3, 5, 9:4) The introduction to the workbook highlights the important place that *using* the Course’s ideas has in the curriculum (Wapnick, F.C.T.L., p.25)
+:::
 ::::
 
-<a name="w-in-9"></a>9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. ^2^Some of them you may actively resist. ^3^None of this will matter, or decrease their efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. ^5^Nothing more than that is required.
+<a id="w-in-9"></a>9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. ^2^Some of them you may actively resist. ^3^None of this will matter, or decrease their efficacy. ^4^But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. ^5^Nothing more than that is required.
 
 ::::tabs
 ::: tab Expanded
