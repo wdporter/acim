@@ -5,5 +5,8 @@
 3. Multiple words in a possessive are joined with dashes. e.g.  "their [dogs that bite] teeth" becomes "dogs-that-bite's teeth".
 
 
+todo:
+
+1. chapter 1, t-in, workbook in, workbook 1–5 put paragraph 1.&emsp; in expanded and substituted
 
 
