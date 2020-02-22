@@ -8,10 +8,10 @@
 
 ::::tabs 
 ::: tab Expanded  
-There is no order of difficulty in miracles. ^2^One [miracle] is not ‘harder’ or ‘bigger’ than another. ^3^They [miracles] are all the same. ^4^All expressions of love are maximal.
+1.&emsp;There is no order of difficulty in miracles. ^2^One [miracle] is not ‘harder’ or ‘bigger’ than another. ^3^They [miracles] are all the same. ^4^All expressions of love are maximal.
 :::
 ::: tab Substitued  
-There is no order of difficulty in miracles. ^2^One miracle is not ‘harder’ or ‘bigger’ than another. ^3^Miracles are all the same. ^4^All expressions of love are maximal.
+1.&emsp;There is no order of difficulty in miracles. ^2^One miracle is not ‘harder’ or ‘bigger’ than another. ^3^Miracles are all the same. ^4^All expressions of love are maximal.
 :::
 ::: tab Simplified  
 Miracles are all the same to do. Love always expresses as much as it can.
@@ -31,10 +31,10 @@ The very first principle of miracles that begins the text proper contains the wh
 
 ::::tabs
 ::: tab Expanded
-Miracles as such do not matter. ^2^The only thing that matters is their [miracles’] Source; which [miracles’ Source] is far beyond evaluation.
+2.&emsp;Miracles as such do not matter. ^2^The only thing that matters is their [miracles’] Source; which [miracles’ Source] is far beyond evaluation.
 :::
 ::: tab Substituted
-Miracles as such do not matter. ^2^The only thing that matters is miracles’ Source; miracles’ Source is far beyond evaluation.
+2.&emsp;Miracles as such do not matter. ^2^The only thing that matters is miracles’ Source; miracles’ Source is far beyond evaluation.
 :::
 ::: tab Simplified
 The Source of a miracle matters more than the miracle. The Source of miracles is beyond evaluation.
