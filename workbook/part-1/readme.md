@@ -7,4 +7,6 @@
  * [5. I am never upset for the reason I think](./5-i-am-never-upset-for-the-reason-i-think/)
  * [6. I am upset because I see something that is not there](./6-i-am-upset-because-i-see-something-that-is-not-there/)
  * [7. I see only the past](./7-i-see-only-the-past/)
+ * [8. My mind is preöccupied with past thoughts](./8-my-mind-is-preoccupied-with-past-thoughts/)
+
 
