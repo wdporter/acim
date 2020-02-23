@@ -8,5 +8,6 @@
  * [6. I am upset because I see something that is not there](./6-i-am-upset-because-i-see-something-that-is-not-there/)
  * [7. I see only the past](./7-i-see-only-the-past/)
  * [8. My mind is preöccupied with past thoughts](./8-my-mind-is-preoccupied-with-past-thoughts/)
+ * [9. I see nothing as it is now](./9-i-see-nothing-as-it-is-now/)
 
 
