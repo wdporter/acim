@@ -52,29 +52,6 @@ Thinking about past/future blocks the truth.
 
 </div>
 
-::::tabs
-::: tab Expanded
-4.&emsp;The exercises for today should be done with eyes closed. ^2^This [doïng with eyes closed] is because you actually cannot see anything, and it is easier to recognise that no matter how vividly you may picture a thought, you are not seeing anything. ^3^With as little investment as possible, search your mind for the usual minute or so, merely noting the thoughts you find there [in your mind]. ^4^Name each one [thought] by the central figure or theme it [the thought] contains, and pass on to the next [thought]. ^5^Introduce the practice period by saying:
-
-<div class="indented italic">
-
-^6^I seem to be thinking about _____.
-
-</div>
-
-:::
-::: tab Substituted
-4.&emsp;The exercises for today should be done with eyes closed. ^2^Doïng with eyes closed is because you actually cannot see anything, and it is easier to recognise that no matter how vividly you may picture a thought, you are not seeing anything. ^3^With as little investment as possible, search your mind for the usual minute or so, merely noting the thoughts you find in your mind. ^4^Name each thought by the central figure or theme the thought contains, and pass on to the next thought. ^5^Introduce the practice period by saying:
-
-<div class="indented italic">
-
-^6^I seem to be thinking about _____.
-
-</div>
-
-:::
-::::
-
 <a name=w-pi-8.5></a>5.&emsp;Then name each of your thoughts specifically, for example:
 
 <div class="indented italic">
@@ -92,15 +69,3 @@ and so on, concluding at the end of the mind-searching period with:
 </div>
 
 <a name=w-pi-8.6></a>6.&emsp;This can be done four or five times during the day, unless you find it irritates you. ^2^If you find it trying, three or four times is sufficient. ^3^You might find it helpful, however, to include your irritation, or any emotion that the idea for today may induce, in the mind searching itself.
-
-::::tabs
-::: tab Expanded
-6.&emsp;This [mind searching] can be done four or five times during the day, unless you find it [mind searching] irritates you. ^2^If you find it [mind searching] trying, three or four times is sufficient. ^3^You might find it helpful, however, to include your irritation, or any emotion that the idea for today may induce, in the mind searching itself.
-:::
-::: tab Substituted
-6.&emsp;Mind searching can be done four or five times during the day, unless you find mind searching irritates you. ^2^If you find mind searching trying, three or four times is sufficient. ^3^You might find it helpful, however, to include your irritation, or any emotion that the idea for today may induce, in the mind searching itself.
-:::
-::: tab Simplified
-You can do it for or five times a day. If the lesson is irritating, do the lesson less often. You could include the irritation in the lesson.
-:::
-::::

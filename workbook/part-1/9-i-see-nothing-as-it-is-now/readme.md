@@ -52,13 +52,3 @@ Try to apply the idea regardless of how much resistance you meet. Each small ste
 </div>
 
 <a name=w-pi-9-5></a>5.&emsp;It is emphasised again that while complete inclusion should not be attempted, specific exclusion must be avoided. ^2^Be sure you are honest with yourself in making this distinction. ^3^You may be tempted to obscure it.
-
-::::tabs
-::: tab Expanded
-5.&emsp;It is emphasised again that while complete inclusion should not be attempted, specific exclusion must be avoided. ^2^Be sure you are honest with yourself in making this distinction [between complete inclusion and specific exclusion]. ^3^You may be tempted to obscure it [the distinction between complete inclusion and specific exclusion].
-::: tab Substituted
-5.&emsp;It is emphasised again that while complete inclusion should not be attempted, specific exclusion must be avoided. ^2^Be sure you are honest with yourself in making the distinction between complete inclusion and specific exclusion. ^3^You may be tempted to obscure the distinction between complete inclusion and specific exclusion.
-::: tab Simplified
-Keep nothing in particular in. Leave nothing in particular out. 
-:::
-::::

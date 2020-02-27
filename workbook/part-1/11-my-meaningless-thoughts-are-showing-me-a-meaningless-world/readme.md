@@ -18,24 +18,6 @@ The process of correction reverses the thinking of the world. Your thoughts dete
 
 <a name=w-pi-11-2></a>2.&emsp;The practice periods for today’s idea are to be undertaken somewhat differently from the previous ones. ^2^Begin with your eyes closed, and repeat the idea slowly to yourself. ^3^Then open your eyes and look about, near and far, up and down, — anywhere. ^4^During the minute or so to be spent in using the idea merely repeat it to yourself, being sure to do so without haste, and with no sense of urgency or effort.
 
-::::tabs
-::: tab Expanded
-2.&emsp;The practice periods for today’s idea are to be undertaken somewhat differently from the previous ones [practice periods]. ^2^Begin with your eyes closed, and repeat the idea slowly to yourself. ^3^Then open your eyes and look about, near and far, up and down, — anywhere. ^4^During the minute or so to be spent in using the idea merely repeat it [the idea] to yourself, being sure to do so [repeat the idea] without haste, and with no sense of urgency or effort.
-:::
-::: tab Substituted
-2.&emsp;The practice periods for today’s idea are to be undertaken somewhat differently from the previous practice periods. ^2^Begin with your eyes closed, and repeat the idea slowly to yourself. ^3^Then open your eyes and look about, near and far, up and down, — anywhere. ^4^During the minute or so to be spent in using the idea merely repeat the idea to yourself, being sure to repeat the idea without haste, and with no sense of urgency or effort.
-:::
-::::
-
 <a name=w-pi-11-3></a>3.&emsp;To do these exercises for maximum benefit, the eyes should move from one thing to another fairly rapidly, since they should not linger on anything in particular. ^2^The words, however, should be used in an unhurried, even leisurely fashion. ^3^The introduction to this idea, in particular, should be practiced as casually as possible. ^4^It contains the foundation for the peace, relaxation and freedom from worry that we are trying to achieve. ^5^On concluding the exercises, close your eyes and repeat the idea once more slowly to yourself.
-
-::::tabs
-::: tab Expanded
-3.&emsp;To do these exercises for maximum benefit, the eyes should move from one thing to another fairly rapidly, since they [the eyes] should not linger on anything in particular. ^2^The words, however, should be used in an unhurried, even leisurely fashion. ^3^The introduction to this idea, in particular, should be practiced as casually as possible. ^4^It [the introduction to this idea] contains the foundation for the peace, relaxation and freedom from worry that we are trying to achieve. ^5^On concluding the exercises, close your eyes and repeat the idea once more slowly to yourself.
-:::
-::: tab Substituted
-3.&emsp;To do these exercises for maximum benefit, the eyes should move from one thing to another fairly rapidly, since the eyes should not linger on anything in particular. ^2^The words, however, should be used in an unhurried, even leisurely fashion. ^3^The introduction to this idea, in particular, should be practiced as casually as possible. ^4^The introduction to this idea contains the foundation for the peace, relaxation and freedom from worry that we are trying to achieve. ^5^On concluding the exercises, close your eyes and repeat the idea once more slowly to yourself.
-:::
-::::
 
 <a name=w-pi-11-4></a>4.&emsp;Three practice periods today will probably be sufficient. ^2^However, if there is little or no uneasiness and an inclination to do more, as many as five may be undertaken. ^3^More than this is not recommended.
