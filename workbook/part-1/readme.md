@@ -11,5 +11,6 @@
  * [9. I see nothing as it is now](./9-i-see-nothing-as-it-is-now/)
  * [10. My thoughts do not mean anything](./10-my-thoughts-do-not-mean-anything/)
  * [11. My meaningless thoughts are showing me a meaningless world](./11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/)
+ * [12. I am upset because I see a meaningless world](./12-i-am-upset-because-i-see-a-meaningless-world/)
 
 

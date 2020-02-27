@@ -45,8 +45,8 @@ module.exports = {
 					{ text: "8. My mind is preöccupied with past thoughts", link: "/workbook/part-1/8-my-mind-is-preoccupied-with-past-thoughts/"},
 					{ text: "9. I see nothing as it is now", link: "/workbook/part-1/9-i-see-nothing-as-it-is-now/"},
 					{ text: "10. My thoughts do not mean anything", link: "/workbook/part-1/10-my-thoughts-do-not-mean-anything/"},
-					{ text: "11. My meaningless thoughts are showing me a meaningless world", link: "/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/"}
-
+					{ text: "11. My meaningless thoughts are showing me a meaningless world", link: "/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/"},
+					{ text: "12. I am upset because I see a meaningless world", link: "/workbook/part-1/12-i-am-upset-because-i-see-a-meaningless-world/"}
 				]
 			},
 			{
@@ -87,8 +87,9 @@ module.exports = {
 					[ "/workbook/part-1/8-my-mind-is-preoccupied-with-past-thoughts/", "8. My mind is preöccupied with past thoughts"],
 					[ "/workbook/part-1/9-i-see-nothing-as-it-is-now/", "9. I see nothing as it is now"],
 					[ "/workbook/part-1/10-my-thoughts-do-not-mean-anything/", "10. My thoughts do not mean anything"],
-					[ "/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/", "11. My meaningless thoughts are showing me a meaningless world"]
-					
+					[ "/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/", "11. My meaningless thoughts are showing me a meaningless world"],
+					[ "/workbook/part-1/12-i-am-upset-because-i-see-a-meaningless-world/", "12. I am upset because I see a meaningless world"]
+
 				],
 			},
 			{
