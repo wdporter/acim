@@ -46,7 +46,8 @@ module.exports = {
 					{ text: "9. I see nothing as it is now", link: "/workbook/part-1/9-i-see-nothing-as-it-is-now/"},
 					{ text: "10. My thoughts do not mean anything", link: "/workbook/part-1/10-my-thoughts-do-not-mean-anything/"},
 					{ text: "11. My meaningless thoughts are showing me a meaningless world", link: "/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/"},
-					{ text: "12. I am upset because I see a meaningless world", link: "/workbook/part-1/12-i-am-upset-because-i-see-a-meaningless-world/"}
+					{ text: "12. I am upset because I see a meaningless world", link: "/workbook/part-1/12-i-am-upset-because-i-see-a-meaningless-world/"},
+					{ text: "13. A meaningless world engenders fear", link: "/workbook/part-1/13-a-meaningless-world-engenders-fear/"}
 				]
 			},
 			{
@@ -83,12 +84,13 @@ module.exports = {
 					["/workbook/part-1/4-these-thoughts-do-not-mean-anything/", "4. These thoughts do not mean anything"],
 					["/workbook/part-1/5-i-am-never-upset-for-the-reason-i-think/", "5. I am never upset for the reason I think"],
 					["/workbook/part-1/6-i-am-upset-because-i-see-something-that-is-not-there/", "6. I am upset because I see something that is not there"],
-					[ "/workbook/part-1/7-i-see-only-the-past/", "7. I see only the past"],
-					[ "/workbook/part-1/8-my-mind-is-preoccupied-with-past-thoughts/", "8. My mind is preöccupied with past thoughts"],
-					[ "/workbook/part-1/9-i-see-nothing-as-it-is-now/", "9. I see nothing as it is now"],
-					[ "/workbook/part-1/10-my-thoughts-do-not-mean-anything/", "10. My thoughts do not mean anything"],
-					[ "/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/", "11. My meaningless thoughts are showing me a meaningless world"],
-					[ "/workbook/part-1/12-i-am-upset-because-i-see-a-meaningless-world/", "12. I am upset because I see a meaningless world"]
+					["/workbook/part-1/7-i-see-only-the-past/", "7. I see only the past"],
+					["/workbook/part-1/8-my-mind-is-preoccupied-with-past-thoughts/", "8. My mind is preöccupied with past thoughts"],
+					["/workbook/part-1/9-i-see-nothing-as-it-is-now/", "9. I see nothing as it is now"],
+					["/workbook/part-1/10-my-thoughts-do-not-mean-anything/", "10. My thoughts do not mean anything"],
+					["/workbook/part-1/11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/", "11. My meaningless thoughts are showing me a meaningless world"],
+					["/workbook/part-1/12-i-am-upset-because-i-see-a-meaningless-world/", "12. I am upset because I see a meaningless world"],
+					["/workbook/part-1/13-a-meaningless-world-engenders-fear/", "13. A meaningless world engenders fear"]
 
 				],
 			},
