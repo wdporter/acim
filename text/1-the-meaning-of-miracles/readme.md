@@ -4,7 +4,7 @@
 
 ## I. Principles of Miracles
 
-<a id="t-1-i-1"></a>1.&emsp;There is no order of difficulty in miracles. ^2^One is not ‘harder’ or ‘bigger’ than another. ^3^They are all the same. ^4^All expressions of love are maximal.
+<a name="t-1-i-1"></a>1.&emsp;There is no order of difficulty in miracles. ^2^One is not ‘harder’ or ‘bigger’ than another. ^3^They are all the same. ^4^All expressions of love are maximal.
 
 ::::tabs 
 ::: tab Expanded  
@@ -27,7 +27,7 @@ The very first principle of miracles that begins the text proper contains the wh
 :::
 ::::
 
-<a id="t-1-i-2"></a>2.&emsp;Miracles as such do not matter. ^2^The only thing that matters is their Source, which is far beyond evaluation.
+<a name="t-1-i-2"></a>2.&emsp;Miracles as such do not matter. ^2^The only thing that matters is their Source, which is far beyond evaluation.
 
 ::::tabs
 ::: tab Expanded
@@ -41,60 +41,39 @@ The Source of a miracle matters more than the miracle. The Source of miracles is
 :::
 ::::
 
-<a id="t-1-i-3"></a>3.&emsp;Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires them. ^3^In this sense everything that comes from love is a miracle.
+<a name="t-1-i-3"></a>3.&emsp;Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires them. ^3^In this sense everything that comes from love is a miracle.
 
 ::::tabs
 ::: tab Expanded
-Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires them [miracles]. ^3^In this sense [love inspiring miracles] everything that comes from love is a miracle.
+3.&emsp;Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires them [miracles]. ^3^In this sense [love inspiring miracles] everything that comes from love is a miracle.
 :::
 ::: tab Substituted
-Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires miracles. ^3^Love inspires miracles, so everything that comes from love is a miracle.
+3.&emsp;Miracles occur naturally as expressions of love. ^2^The real miracle is the love that inspires miracles. ^3^Love inspires miracles, so everything that comes from love is a miracle.
 :::
 ::: tab Simplified
 Miracles are natural expressions of love. Love inspires miracles. Everything that comes from love is a miracle.
 :::
 ::::
 
-<a id="t-1-i-4"></a>4.&emsp;All miracles mean life, and God is the Giver of life. ^2^His Voice will direct you very specifically. ^3^You will be told all you need to know.
+<a name="t-1-i-4"></a>4.&emsp;All miracles mean life, and God is the Giver of life. ^2^His Voice will direct you very specifically. ^3^You will be told all you need to know.
+
+<a name="t-1-i-5"></a>5.&emsp;Miracles are habits, and should be involuntary. ^2^They should not be under conscious control. ^3^Consciously selected miracles can be misguided.
 
 ::::tabs
 ::: tab Expanded
-All miracles mean life, and God is the Giver of life. ^2^His [God’s] Voice will direct you very specifically. ^3^You will be told all you need to know.
+5.&emsp;Miracles are habits, and should be involuntary. ^2^They [miracles] should not be under conscious control. ^3^Consciously selected miracles can be misguided.
 :::
 ::: tab Substituted
-All miracles mean life, and God is the Giver of life. ^2^God’s Voice will direct you very specifically. ^3^You will be told all you need to know.
-:::
-::: tab Simplified
-All miracles mean life. God is the Giver of life. God’s Voice will direct you. God will tell you all you need to know.
-:::
-::::
-
-<a id="t-1-i-5"></a>5.&emsp;Miracles are habits, and should be involuntary. ^2^They should not be under conscious control. ^3^Consciously selected miracles can be misguided.
-
-::::tabs
-::: tab Expanded
-Miracles are habits, and should be involuntary. ^2^They [miracles] should not be under conscious control. ^3^Consciously selected miracles can be misguided.
-:::
-::: tab Substituted
-Miracles are habits, and should be involuntary. ^2^Miracles should not be under conscious control. ^3^Consciously selected miracles can be misguided.
+5.&emsp;Miracles are habits, and should be involuntary. ^2^Miracles should not be under conscious control. ^3^Consciously selected miracles can be misguided.
 :::
 ::: tab Simplified
 Let miracles become a habit. Do not choose what miracle to do. Choices may be misguided.
 :::
 ::::
 
-<a id="t-1-i-6"></a>6.&emsp;Miracles are natural. ^2^When they do not occur something has gone wrong.
+<a name="t-1-i-6"></a>6.&emsp;Miracles are natural. ^2^When they do not occur something has gone wrong.
 
 ::::tabs
-::: tab Expanded
-Miracles are natural. ^2^When they [miracles] do not occur something has gone wrong.
-:::
-::: tab Substituted
-Miracles are natural. ^2^When miracles do not occur something has gone wrong.
-:::
-::: tab Simplified
-Miracles are natural. Something is wrong if a miracle does not happen. 
-:::
 ::: tab Commentary
 … the world of separation [is] made real, along with the seemingly infinite range of problems to be solved. Hence, the first principle of miracles — there is no order of difficulty among them — seems impossible and beyond our attainment. It is the purpose of *A Course in Miracles* to teach us that it is not only possible, but perfectly natural (Wapnick, A.V.I., p.51.)
 
@@ -102,62 +81,50 @@ This statement reflects the very practical nature of the Course. It is not teach
 :::
 ::::
 
-<a id="t-1-i-7"></a>7.&emsp;Miracles are everyone’s right, but purification is necessary first.
+<a name="t-1-i-7"></a>7.&emsp;Miracles are everyone’s right, but purification is necessary first.
+
+<a name="t-1-i-8"></a>8.&emsp;Miracles are healing because they supply a lack; they are performed by those who temporarily have more for those who temporarily have less.
 
 ::::tabs
 ::: tab Expanded
-Miracles are everyone’s right, but purification is necessary first.
+8.&emsp;Miracles are healing because they [miracles] supply a lack; they [miracles] are performed by those who temporarily have more for those who temporarily have less.
 :::
 ::: tab Substituted
-Miracles are everyone’s right, but purification is necessary first.
-:::
-::: tab Simplified
-Purification is necessary for your right to a miracle.
-:::
-::::
-
-<a id="t-1-i-8"></a>8.&emsp;Miracles are healing because they supply a lack; they are performed by those who temporarily have more for those who temporarily have less.
-
-::::tabs
-::: tab Expanded
-Miracles are healing because they [miracles] supply a lack; they [miracles] are performed by those who temporarily have more for those who temporarily have less.
-:::
-::: tab Substituted
-Miracles are healing because miracles supply a lack; miracles are performed by those who temporarily have more for those who temporarily have less.
+8.&emsp;Miracles are healing because miracles supply a lack; miracles are performed by those who temporarily have more for those who temporarily have less.
 :::
 ::: tab Simplified
 Miracles supply a lack. Miracles are healing. Miracles come from those who have more. Miracles go to those who have less.
 :::
 ::::
 
-<a id="t-1-i-9"></a>9.&emsp;Miracles are a kind of exchange. ^2^Like all expressions of love, which are always miraculous in the true sense, the exchange reverses the physical laws. ^3^They bring more love both to the giver and the receiver.
+<a name="t-1-i-9"></a>9.&emsp;Miracles are a kind of exchange. ^2^Like all expressions of love, which are always miraculous in the true sense, the exchange reverses the physical laws. ^3^They bring more love both to the giver and the receiver.
 
 ::::tabs
 ::: tab Expanded
-Miracles are a kind of exchange. ^2^Like all expressions of love, which [expressions of love] are always miraculous in the true sense, the exchange reverses the physical laws. ^3^They [miracles] bring more love both to the giver and the receiver.
+9.&emsp;Miracles are a kind of exchange. ^2^Like all expressions of love, which [expressions of love] are always miraculous in the true sense, the exchange reverses the physical laws. ^3^They [miracles] bring more love both to the giver and the receiver.
 :::
 ::: tab Substituted
-Miracles are a kind of exchange. ^2^Like all expressions of love — expressions of love are always miraculous in the true sense — the exchange reverses the physical laws. ^3^Miracles bring more love both to the giver and the receiver.
+9.&emsp;Miracles are a kind of exchange. ^2^Like all expressions of love — expressions of love are always miraculous in the true sense — the exchange reverses the physical laws. ^3^Miracles bring more love both to the giver and the receiver.
 :::
 ::: tab Simplified
 Giving love ends up with more love for the giver. Increasing by giving is the true miracle. Most giving in the world results in less for the giver.
 :::
 ::::
 
-<a id="t-1-i-10"></a>10.&emsp;The use of miracles as spectacles to induce belief is a misunderstanding of their purpose.
+<a name="t-1-i-10"></a>10.&emsp;The use of miracles as spectacles to induce belief is a misunderstanding of their purpose.
 
 ::::tabs
 ::: tab Expanded
-The use of miracles as spectacles to induce belief is a misunderstanding of their [miracles’] purpose.
+10.&emsp;The use of miracles as spectacles to induce belief is a misunderstanding of their [miracles’] purpose.
 :::
 ::: tab Substituted
-The use of miracles as spectacles to induce belief is a misunderstanding of miracles’ purpose.
+10.&emsp;The use of miracles as spectacles to induce belief is a misunderstanding of miracles’ purpose.
 :::
 ::: tab Simplified
 It is not the purpose of Miracles to induce belief.
 :::
 ::: tab Commentary
-…they must first *decide* to accept God’s word. Demanding an external sign as proof of God is really believing in magic, since we must instead choose the miracle that reflects ourinternal shift. … Thus Jesus taught elsewhere, “Why does this generation demand a sign? I tell you solemnly, no sign shall be given to this generation” (*Mark* 8:12). No sign will be given because it would not be the loving or helpful thing to do, reïnforcing, as it where, the belief in magic which ultimately reïnforces the belief in separation. (Wapnick, F.A.J., p. 236–237.)
+…they must first *decide* to accept God’s word. Demanding an external sign as proof of God is really believing in magic, since we must instead choose the miracle that reflects our internal shift. … Thus Jesus taught elsewhere, “Why does this generation demand a sign? I tell you solemnly, no sign shall be given to this generation” (*Mark* 8:12). No sign will be given because it would not be the loving or helpful thing to do, reïnforcing, as it where, the belief in magic which ultimately reïnforces the belief in separation. (Wapnick, F.A.J., p. 236–237.)
 :::
 ::::
 

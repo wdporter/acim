@@ -9,5 +9,7 @@
  * [7. I see only the past](./7-i-see-only-the-past/)
  * [8. My mind is preöccupied with past thoughts](./8-my-mind-is-preoccupied-with-past-thoughts/)
  * [9. I see nothing as it is now](./9-i-see-nothing-as-it-is-now/)
+ * [10. My thoughts do not mean anything](./10-my-thoughts-do-not-mean-anything/)
+ * [11. My meaningless thoughts are showing me a meaningless world](./11-my-meaningless-thoughts-are-showing-me-a-meaningless-world/)
 
 
