@@ -1,0 +1,41 @@
+---
+sitetitle: A Course in Miracles
+title: Home
+---
+<html>
+
+<head>
+	<meta charset=utf-8>
+	<meta name=viewport content="width=device-width, initial-scale=1.0">
+	<title>A Course in Miracles | {{ title }}</title>
+{% set css %}
+  {% include "new.css" %}
+	{% include "theme.css" %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
+
+<body>
+	<header>
+		<h1>{{ sitetitle }}</h1>
+		<nav>
+			<a href="/text/">Text</a>&ensp;◆&ensp;
+			<a href="/workbook/">Workbook</a>&ensp;◆&ensp;
+			<a href="/manual/">Manual</a>
+		</nav>
+	</header>
+
+
+<nav>
+{{ breadcrumb | safe }}
+</nav>
+
+<h2>{{ reference }} {{ title | upper }}</h2>
+
+{{ content | safe }}
+
+<p style=overflow:auto>
+{% if prev %}<span>←{{prev | safe}}</span>{% endif %}
+{% if next %}<span style=float:right>{{next | safe}}→</span>{% endif %}
+</p>
+
+<footer>© No claims made. No permissions sought or granted. </footer>
