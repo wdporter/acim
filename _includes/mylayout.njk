@@ -33,7 +33,7 @@ title: Home
 {{ breadcrumb | safe }}
 </nav>
 
-<h2>{{ reference }} {{ title | upper }}</h2>
+<h2>{{ reference }} {% if isChapter %} {{ title | upper }} {% else %} {{ title }} {% endif %}</h2>
 
 {{ content | safe }}
 
