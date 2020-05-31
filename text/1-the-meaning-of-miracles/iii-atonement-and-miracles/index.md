@@ -6,7 +6,7 @@ breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → <a href=/text/1-t
 eleventyNavigation:
 	key: III. Atonement and Miracles
 	parent: 1. The Meaning of Miracles
-prev: <a href=/text/1-the-meaning-of-miracles/i-principles-of-miracles>T-1.II Revelation, Time and Miracles</a>
+prev: <a href=/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles>T-1.II Revelation, Time and Miracles</a>
 next: <a href=/text/1-the-meaning-of-miracles/iv-atonement-and-miracles>T-1.IV The Escape from Darkness</a>
 ---
 

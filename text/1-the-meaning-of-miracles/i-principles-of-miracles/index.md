@@ -7,7 +7,7 @@ eleventyNavigation:
 	key: I. Principles of Miracles
 	parent: 1. The Meaning of Miracles
 prev: <a href=/text/introduction>T-in Introduction</a>
-next: <a href=/text/1-the-meaning-of-miracles/ii-time-revelation-and-miracles>T-1.II Time, Revelation and Miracles</a>
+next: <a href=/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles>T-1.II Revelation, Time and Miracles</a>
 ---
 
 
