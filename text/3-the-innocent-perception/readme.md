@@ -55,7 +55,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 #### commentary
 
 :::tip
-(1–9) …powerful section on the crucifixion, where Jesus sets the record straight, explaining what went wrong in terms of how people understood his crucifixion. He explains why that happened and how a whole system of thought evolved out of that mistake. Jesus’ discussion is not traditionally Christian, though its principles are Christian in the sense of how he originally meant them. (Wapnick, ATG, p. 30.)
+(1–9) …powerful section on the crucifixion, where Jesus sets the record straight, explaining what went wrong in terms of how people understood his crucifixion. He explains why that happened and how a whole system of thought evolved out of that mistake. Jesus’ discussion is not traditionally Christian, though its principles are Christian in the sense of how he originally meant them. (Wapnick, ATG, p. ³0.)
 :::
 
 :::tip
@@ -1183,7 +1183,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 #### commentary
 
 :::tip
-(1) …perception is a relative phenomenon. It does not reflect a constant or absolute picture of the world around us — the seeming facts of the material universe — but rather perception is an *interpretation* of the world in which we live, which becomes, in effect, an unreal world. (Wapnick, FAJ, p. 38. c/f [T-3.V.7:7](/text/3-the-innocent-perception/v-beyond-perception#p7))
+(1) …perception is a relative phenomenon. It does not reflect a constant or absolute picture of the world around us — the seeming facts of the material universe — but rather perception is an *interpretation* of the world in which we live, which becomes, in effect, an unreal world. (Wapnick, FAJ, p. ³8. c/f [T-3.V.7:7](/text/3-the-innocent-perception/v-beyond-perception#p7))
 :::
  -->
 
@@ -1383,7 +1383,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 #### commentary
 
 :::tip
-(1–9) …powerful section on the crucifixion, where Jesus sets the record straight, explaining what went wrong in terms of how people understood his crucifixion. He explains why that happened and how a whole system of thought evolved out of that mistake. Jesus’ discussion is not traditionally Christian, though its principles are Christian in the sense of how he originally meant them. (Wapnick, ATG, p. 30.)
+(1–9) …powerful section on the crucifixion, where Jesus sets the record straight, explaining what went wrong in terms of how people understood his crucifixion. He explains why that happened and how a whole system of thought evolved out of that mistake. Jesus’ discussion is not traditionally Christian, though its principles are Christian in the sense of how he originally meant them. (Wapnick, ATG, p. ³0.)
 :::
 
 :::tip
@@ -2511,7 +2511,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 #### commentary
 
 :::tip
-(1) …perception is a relative phenomenon. It does not reflect a constant or absolute picture of the world around us — the seeming facts of the material universe — but rather perception is an *interpretation* of the world in which we live, which becomes, in effect, an unreal world. (Wapnick, FAJ, p. 38. c/f [T-3.V.7:7](/text/3-the-innocent-perception/v-beyond-perception#p7))
+(1) …perception is a relative phenomenon. It does not reflect a constant or absolute picture of the world around us — the seeming facts of the material universe — but rather perception is an *interpretation* of the world in which we live, which becomes, in effect, an unreal world. (Wapnick, FAJ, p. ³8. c/f [T-3.V.7:7](/text/3-the-innocent-perception/v-beyond-perception#p7))
 :::
  -->
 

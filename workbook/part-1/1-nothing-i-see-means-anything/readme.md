@@ -9,11 +9,11 @@
 
 <div class="indented italic">
 
-^2^This table does not mean anything.  
-^3^This chair does not mean anything.  
-^4^This hand does not mean anything.  
-^5^This foot does not mean anything.  
-^6^This pen does not mean anything.
+²This table does not mean anything.  
+3This chair does not mean anything.  
+⁴This hand does not mean anything.  
+⁵This foot does not mean anything.  
+⁶This pen does not mean anything.
 
 </div>
 
@@ -21,15 +21,15 @@
 
 <div class="indented italic">
 
-^2^That door does not mean anything.  
-^3^That body does not mean anything.  
-^4^That lamp does not mean anything.  
-^5^That sign does not mean anything.  
-^6^That shadow does not mean anything.
+²That door does not mean anything.  
+3That body does not mean anything.  
+⁴That lamp does not mean anything.  
+⁵That sign does not mean anything.  
+⁶That shadow does not mean anything.
 
 </div>
 
-<a name="w-pi-1-3"></a>3.&emsp;Notice that these statements are not arranged in any order, and make no allowance for differences in the kinds of things to which they are applied. ^2^That is the purpose of the exercise. ^3^The statement should merely be applied to anything you see. ^4^As you practice the idea for the day, use it totally indiscriminately. ^5^Do not attempt to apply it to everything you see, for these exercises should not become ritualistic. ^6^Only be sure that nothing you see is specifically excluded. ^7^One thing is like another as far as the application of the idea is concerned.
+<a name="w-pi-1-3"></a>3.&emsp;Notice that these statements are not arranged in any order, and make no allowance for differences in the kinds of things to which they are applied. ²That is the purpose of the exercise. ³The statement should merely be applied to anything you see. ⁴As you practice the idea for the day, use it totally indiscriminately. ⁵Do not attempt to apply it to everything you see, for these exercises should not become ritualistic. ⁶Only be sure that nothing you see is specifically excluded. ⁷One thing is like another as far as the application of the idea is concerned.
 
 
 ::: details Commentary
@@ -37,7 +37,7 @@
 :::
 
 
-<a name="w-pi-1-4"></a>4.&emsp;Each of the first three lessons should not be done more than twice a day each, preferably morning and evening. ^2^Nor should they be attempted for more than a minute or so, unless that entails a sense of hurry. ^3^A comfortable sense of leisure is essential.
+<a name="w-pi-1-4"></a>4.&emsp;Each of the first three lessons should not be done more than twice a day each, preferably morning and evening. ²Nor should they be attempted for more than a minute or so, unless that entails a sense of hurry. ³A comfortable sense of leisure is essential.
 
 
 ::: details Note

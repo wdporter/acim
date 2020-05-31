@@ -8,8 +8,5 @@ eleventyNavigation:
 ---
 ## Contents
 
- * [I. Principles of Miracles](/text/1-the-meaning-of-miracles/i-principles-of-miracles/)
-
-
-
-<!-- * [II. Revelation, Time and Miracles](/ii-revelation-time-and-miracles/) -->
+* [I. Principles of Miracles](/text/1-the-meaning-of-miracles/i-principles-of-miracles/)
+* [II. Revelation, Time and Miracles](/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles/)
