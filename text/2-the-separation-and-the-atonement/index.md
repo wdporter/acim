@@ -1,4 +1,9 @@
-# 2 THE SEPARATION AND THE ATONEMENT
+---
+reference: T-2
+title: The Separation and the Atonement
+---
+
+
 
 [[toc]]
 

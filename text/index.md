@@ -3,7 +3,7 @@ layout: landing.njk
 title: Text
 breadcrumb: <a href=/>Home</a> → Text
 eleventyNavigation:
-  key: Text
+	key: Text
 	parent: Home
 ---
 
