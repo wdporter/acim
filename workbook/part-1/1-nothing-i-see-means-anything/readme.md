@@ -31,16 +31,15 @@
 
 <a name="w-pi-1-3"></a>3.&emsp;Notice that these statements are not arranged in any order, and make no allowance for differences in the kinds of things to which they are applied. ^2^That is the purpose of the exercise. ^3^The statement should merely be applied to anything you see. ^4^As you practice the idea for the day, use it totally indiscriminately. ^5^Do not attempt to apply it to everything you see, for these exercises should not become ritualistic. ^6^Only be sure that nothing you see is specifically excluded. ^7^One thing is like another as far as the application of the idea is concerned.
 
-::::tabs
-::: tab Commentary
+
+::: details Commentary
 (5) …rituals, as they are discussed in the Course, especially in the workbook which, given its structured exercises, *could* easily lend itself to ritual. Yet, it clearly cautions against such practices (Wapnick, L.D.N.C.,p.550, A.A.C.,p.274)
 :::
-::::
+
 
 <a name="w-pi-1-4"></a>4.&emsp;Each of the first three lessons should not be done more than twice a day each, preferably morning and evening. ^2^Nor should they be attempted for more than a minute or so, unless that entails a sense of hurry. ^3^A comfortable sense of leisure is essential.
 
-::::tabs
-::: tab Note
+
+::: details Note
 Keep the lesson to a minute — but you can go longer if you feel like you are hurrying up the lesson in order to keep it under a minute.
 :::
-::::

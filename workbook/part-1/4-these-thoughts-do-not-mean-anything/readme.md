@@ -6,31 +6,31 @@
 
 <a name=w-pi-4-2></a>2.&emsp;In selecting the subjects for the application of today’s idea, the usual specificity is required. ^2^Do not be afraid to use ‘good’ thoughts as well as ‘bad’. ^3^None of them represents your real thoughts, which are being covered up by them. ^4^The ‘good’ ones are but shadows of what lies beyond, and shadows make sight difficult. ^5^The ‘bad’ ones are blocks to sight, and make seeing impossible. ^6^You do not want either.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 In selecting the subjects for the application of today’s idea, the usual specificity is required. ^2^Do not be afraid to use ‘good’ thoughts as well as ‘bad’. ^3^None of them [good or bad thoughts] represents your real thoughts, which [thoughts] are being covered up by them [good and bad thoughts]. ^4^The ‘good’ ones [thoughts] are but [only] shadows of what lies beyond, and shadows make sight difficult. ^5^The ‘bad’ ones [thoughts] are blocks to sight, and make seeing impossible. ^6^You do not want either [shadows or blocks].
 :::
-::: tab Substituted
+::: details Substituted
 In selecting the subjects for the application of today’s idea, the usual specificity is required. ^2^Do not be afraid to use ‘good’ thoughts as well as ‘bad’. ^3^Neither good nor bad thoughts represent your real thoughts; your real thoughts are being covered up by good and bad thoughts. ^4^The ‘good’ thoughts are only shadows of what lies beyond, and shadows make sight difficult. ^5^The ‘bad’ thoughts are blocks to sight, and make seeing impossible. ^6^You do not want either shadows or blocks.
 :::
-::: tab Simplified
+::: details Simplified
 Good thoughts are shadows of real thoughts. Bad thoughts are blocks to real thoughts. You want only real thoughts.
 :::
-::::
+
 
 <a name=w-pi-4-3></a>3.&emsp;This is a major exercise, and will be repeated from time to time in somewhat different form. ^2^The aim here is to train you in the first steps toward the goal of separating the meaningless from the meaningful. ^3^It is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within. ^4^It is also the beginning of training your mind to recognise what is the same and what is different.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 This is a major exercise, and will be repeated from time to time in somewhat different form. ^2^The aim here [of this exercise] is to train you in the first steps toward the goal of separating the meaningless from the meaningful. ^3^It [this exercise] is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within [you]. ^4^It [this exercise] is also the beginning of training your mind to recognise what is the same and what is different.
 :::
-::: tab Substituted
+::: details Substituted
 This is a major exercise, and will be repeated from time to time in somewhat different form. ^2^The aim of this exercise is to train you in the first steps toward the goal of separating the meaningless from the meaningful. ^3^This exercise is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within you. ^4^This exercise is also the beginning of training your mind to recognise what is the same and what is different.
 :::
-::: tab Simplified
+::: details Simplified
 What is outside you is meaningless. Only what is inside you can be meaningful.
 :::
-::::
+
 
 <a name=w-pi-4-4></a>4.&emsp;In using your thoughts for application of the idea for today, identify each thought by the central figure or event it contains; for example:
 

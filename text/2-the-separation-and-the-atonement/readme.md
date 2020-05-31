@@ -10,25 +10,25 @@
 <span class=lineindent>^11^Third,</span> you believe that you can distort the creations of God, including yourself.  
 <span class=lineindent>^12^Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 1.&emsp;To extend is a fundamental aspect of God which He [God] gave to His [God’s] Son. ^2^In the creation, God extended Himself [God’s Self] to His [God’s] creations and imbued them [God’s creations] with the same loving Will to create. ^3^You have not only been fully created, but have also been created perfect. ^4^There is no emptiness in you. ^5^Because of your likeness to your Creator you are creative. ^6^No child of God can lose this [creative] ability because it [creative ability] is inherent in what he [a child of God] is, but he [a child of God] can use it [creative ability] inappropriately by projecting. ^7^The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill it [emptiness or lack] with your own ideas instead of truth. ^8^This process [believing you can fill lack with your own ideas of truth] involves the following steps:  
 <span class=lineindent>^9^First,</span> you believe that what God created can be changed by your own mind.  
 <span class=lineindent>^10^Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
 <span class=lineindent>^11^Third,</span> you believe that you can distort the creations of God, including yourself.  
 <span class=lineindent>^12^Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
 :::
-::: tab Substituted
+::: details Substituted
 1.&emsp;To extend is a fundamental aspect of God which God gave to God’s Son. ^2^In the creation, God extended God’s Self to God’s creations and imbued God’s creations with the same loving Will to create. ^3^You have not only been fully created, but have also been created perfect. ^4^There is no emptiness in you. ^5^Because of your likeness to your Creator you are creative. ^6^No child of God can lose this creative ability because creative ability is inherent in what a child of God is, but a child of God can use creative ability inappropriately by projecting. ^7^The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth. ^8^Believing you can fill lack with your own ideas of truth involves the following steps:  
 <span class=lineindent>^9^First,</span> you believe that what God created can be changed by your own mind.  
 <span class=lineindent>^10^Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
 <span class=lineindent>^11^Third,</span> you believe that you can distort the creations of God, including yourself.  
 <span class=lineindent>^12^Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
 :::
-::: tab Simplified
+::: details Simplified
 You are God’s Son. You are creative. You misuse creativity by projecting. You project because you believe you lack something. You believe you can create yourself.
 :::
-::: tab Commentary
+::: details Commentary
 (7) In the Course, the words ‘extension’ and ‘projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. ‘Extension’ … is reserved for the ‘movement’ or ‘outflow’ of spirit, while ‘projection’ is almost always utilised for the ego. …we can speak of extension as being the ‘appropriate’ use of projection. (Wapnick, L.D.N.C., p.447–448).
 
 (7) The Course distinguishes between two types of ‘projection’: One is called ‘extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, F.A.J., p.39.)
@@ -41,166 +41,166 @@ You are God’s Son. You are creative. You misuse creativity by projecting. You 
 
 (9–2:1) …the entire ego thought system of betrayal and murder that begins with the insane thought that the reality of Christ must be sacrificed for the survival of the separated self. …this entire thought system is fabricated by the ego, wherein it substitutes its made-up version of the separated relationship between God and His Son for the truth of Their unity. Thus it achieves the goal of preserving its own existence. (Wapnick, A.A.C., p. 35.)
 :::
-::::
+
 
 <a id=t-2-i-2></a>2.&emsp;These related distortions represent a picture of what actually occurred in the separation, or the “detour into fear”. ^2^None of this existed before the separation, nor does it actually exist now. ^3^Everything God created is like Him. ^4^Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from Him. ^5^Its real source is internal. ^6^This is as true of the Son as of the Father. ^7^In this sense the creation includes both the creation of the Son by God, and the Son’s creations when his mind is healed. ^8^This requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line, in which all aspects are of the same order.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 These [steps are] related distortions represent a picture of what actually occurred in the separation, or the “detour into fear”. ^2^None of this [the related distortions] existed before the separation, nor does it [do the related distortions] actually exist now. ^3^Everything God created is like Him [God]. ^4^Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from Him [God]. ^5^Its [extension’s] real source is internal. ^6^This is as true of the Son as [it is true] of the Father. ^7^In this sense [being as true of the Son as true of the Father] the creation includes both the creation of the Son by God, and the Son’s creations when his [the Son’s] mind is healed. ^8^This [creation of the Son and creation by the Son] requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line, in which [line] all aspects [of creation] are of the same order.
 :::
-::: tab Substituted
+::: details Substituted
 2.&emsp;These steps are related distortions and represent a picture of what actually occurred in the separation, or the “detour into fear”. ^2^None of the related distortions existed before the separation, nor do the related distortions actually exist now. ^3^Everything God created is like God. ^4^Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from God. ^5^Extension’s real source is internal. ^6^This is as true of the Son as it is true of the Father. ^7^Being as true of the Son as it is true of the Father, the creation includes both the creation of the Son by God, and the Son’s creations when the Son’s mind is healed. ^8^Creation of the Son and by the Son requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line; in line all aspects of creation are of the same order.
 :::
-::: tab Simplified
+::: details Simplified
 Everything God creates is like God. You can create just as God creates. 
 :::
-::::
+
 
 <a name=t-2-i-3></a>3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind in which nothing was needed. ^2^When Adam listened to the “lies of the serpent”, all he heard was untruth. ^3^You do not have to continue to believe what is not true unless you choose to do so. ^4^All that can literally disappear in the twinkling of an eye because it is merely a misperception. ^5^What is seen in dreams seems to be very real. ^6^Yet the Bible says that a deep sleep fell upon Adam, and nowhere is there reference to his waking up. ^7^The world has not yet experienced any comprehensive reäwakening or rebirth. ^8^Such a rebirth is impossible as long as you continue to project or miscreate. ^9^It still remains within you, however, to extend as God extended His Spirit to you. ^10^In reality this is your only choice, because your free will was given you for your joy in creating the perfect.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind in which [state of mind] nothing was needed. ^2^When Adam listened to the “lies of the serpent”, all he [Adam] heard was untruth. ^3^You do not have to continue to believe what is not true unless you choose to do so [believe what is not true]. ^4^All that [what is not true] can literally disappear in the twinkling of an eye because it [what is not true] is merely a misperception. ^5^What is seen in dreams seems to be very real. ^6^Yet the Bible says that a deep sleep fell upon Adam, and nowhere [in the Bible] is there reference to his [Adam’s] waking up. ^7^The world has not yet experienced any comprehensive reäwakening or rebirth. ^8^Such a rebirth is impossible as long as you continue to project or miscreate. ^9^It still remains within you, however, to extend as God extended His [God’s] Spirit to you. ^10^In reality this [extending as God extended God’s spirit to you] is your only choice, because your free will was given you for your joy in creating the perfect.
 :::
-::: tab Substituted
+::: details Substituted
 3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind; in state of mind nothing was needed. ^2^When Adam listened to the “lies of the serpent”, all Adam heard was untruth. ^3^You do not have to continue to believe what is not true unless you choose to believe what is not true. ^4^All what is not true can literally disappear in the twinkling of an eye because what is not true is merely a misperception. ^5^What is seen in dreams seems to be very real. ^6^Yet the Bible says that a deep sleep fell upon Adam, and nowhere in the Bible is there reference to Adam’s waking up. ^7^The world has not yet experienced any comprehensive re-awakening or rebirth. ^8^Such a rebirth is impossible as long as you continue to project or miscreate. ^9^It still remains within you, however, to extend as God extended God’s Spirit to you. ^10^In reality, extending as God extended God’s spirit to you, is your only choice, because your free will was given you for your joy in creating the perfect.
 :::
-::: tab Simplified
+::: details Simplified
 You are dreaming you need something. We are all still dreaming. You can wake up any time. You can extend the truth.
 :::
-::::
+
 
 <a name=t-2-i-4></a>4.&emsp;All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. ^2^Of course, you neither can nor have been able to do this. ^3^Here is the real basis for your escape from fear. ^4^The escape is brought about by your acceptance of the Atonement, which enables you to realise that your errors never really occurred. ^5^Only after the deep sleep fell upon Adam could he experience nightmares. ^6^If a light is suddenly turned on while someone is dreaming a fearful dream, he may initially interpret the light itself as part of his dream and be afraid of it. ^7^However, when he awakens, the light is correctly perceived as the release from the dream, which is then no longer accorded reality. ^8^This release does not depend on illusions. ^9^The knowledge that illuminates not only sets you free, but also shows you clearly that you *are* free.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 4.&emsp;All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. ^2^Of course, you neither can nor have been able to do this [usurp the power of God]. ^3^Here is the real basis for your escape from fear. ^4^The escape [from fear] is brought about by your acceptance of the Atonement, which [acceptance of the Atonement] enables you to realise that your errors never really occurred. ^5^Only after the deep sleep fell upon Adam could he [Adam] experience nightmares. ^6^If a light is suddenly turned on while someone is dreaming a fearful dream, he [the dreamer] may initially interpret the light itself as part of his [the dreamer’s] dream and be afraid of it [the dream]. ^7^However, when he [the dreamer] awakens, the light is correctly perceived as the release from the dream, which [dream] is then no longer accorded reality. ^8^This release [from the dream] does not depend on illusions. ^9^The knowledge that illuminates not only sets you free, but also shows you clearly that you *are* free.
 :::
-::: tab Substituted
+::: details Substituted
 4.&emsp;All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. ^2^Of course, you neither can nor have been able to usurp the power of God. ^3^Here is the real basis for your escape from fear. ^4^Escape from fear is brought about by your acceptance of the Atonement; acceptance of the Atonement enables you to realise that your errors never really occurred. ^5^Only after the deep sleep fell upon Adam could Adam experience nightmares. ^6^If a light is suddenly turned on while someone is dreaming a fearful dream, the dreamer may initially interpret the light itself as part of the dreamer’s dream and be afraid of the dream. ^7^However, when the dreamer awakens, the light is correctly perceived as the release from the dream; dream is then no longer accorded reality. ^8^Release from the dream does not depend on illusions. ^9^The knowledge that illuminates not only sets you free, but also shows you clearly that you *are* free.
 :::
-::: tab Simplified
+::: details Simplified
 You have a misperception that you can usurp the power of God. Undoing this misperception will release you from fear. Wake up and see the light. You are free.
 :::
-::: tab Commentary
+::: details Commentary
 (para 3–4) The sin that we are most guilty of, which ultimately is the source of all our guilt, is the sin of our belief in a separation from God… This is roughly the same as what the Churches have taught as “original sin”. The description in the third chapter of Genesis gives a perfect account of how the ego was born. (Wapnick, A.T.G., p.39.)
 
 (6–9) The world was comfortably asleep, dreaming its dream of separation, individuality and specialness. Suddenly, like a telephone ringing outside the dream, Jesus appeared. His very presence stated the following: this world of time and space is a dream that in truth is already over; it is possible to awaken from this dream by listening to my words and following my example; and the many gods you believe in are not true because the real God is One of total Oneness and Love. (Wapnick, A.A.C., p.209.)
 :::
-::::
+
 
 <a name=t-2-i-5></a>5.&emsp;Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. ^2^It makes no distinctions among misperceptions. ^3^Its sole concern is to distinguish between truth on the one hand, and error on the other. ^4^Some miracles may seem to be of greater magnitude than others. ^5^But remember the first principle in this course: there is no order of difficulty in miracles. ^6^In reality you are perfectly unaffected by all expressions of lack of love. ^7^These can be from yourself and others, from yourself to others, or from others to you. ^8^Peace is an attribute *in* you. ^9^You cannot find it outside. ^10^Illness is some form of external searching. ^11^Health is inner peace. ^12^It enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 5.&emsp;Whatever lies you may believe are of no concern to the miracle, which [the miracle] can heal any of them [lie] with equal ease. ^2^It [the miracle] makes no distinctions among misperceptions. ^3^Its [the miracle’s] sole concern is to distinguish between truth on the one hand, and error on the other [hand]. ^4^Some miracles may seem to be of greater magnitude than others [miracles]. ^5^But remember the first principle in this course: there is no order of difficulty in miracles. ^6^In reality you are perfectly unaffected by all expressions of lack of love. ^7^These [expressions of lack of love] can be from yourself and others, [can be] from yourself to others, or [can be] from others to you. ^8^Peace is an attribute *in* you. ^9^You cannot find it [peace] outside. ^10^Illness is some form of external searching. ^11^Health is inner peace. ^12^It [health] enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 :::
-::: tab Substituted
+::: details Substituted
 5.&emsp;Whatever lies you may believe are of no concern to the miracle; the miracle can heal any lie with equal ease. ^2^The miracle makes no distinctions among misperceptions. ^3^The miracle’s sole concern is to distinguish between truth on the one hand, and error on the other hand. ^4^Some miracles may seem to be of greater magnitude than other miracles. ^5^But remember the first principle in this course: there is no order of difficulty in miracles. ^6^In reality you are perfectly unaffected by all expressions of lack of love. ^7^Expressions of lack of love can be from yourself and others, can be from yourself to others, or can be from others to you. ^8^Peace is an attribute *in* you. ^9^You cannot find peace outside. ^10^Illness is some form of external searching. ^11^Health is inner peace. ^12^Health enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 :::
-::: tab Simplified
+::: details Simplified
 The miracle heals all misperceptions. Health is inner peace. With health you can accept miracles and correct errors.
 :::
-::::
+
 
 ## II. The Atonement as Defence
 
 <a id=t-2-ii-1></a>1.&emsp;You can do anything I ask. ^2^I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ^3^There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. ^4^When you are afraid of anything, you are acknowledging its power to hurt you. ^5^Remember that where your heart is, there is your treasure also. ^6^You believe in what you value. ^7^If you are afraid, you are valuing wrongly. ^8^Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. ^9^That is why the Bible speaks of “the peace of God which passes understanding”. ^10^This peace is totally incapable of being shaken by errors of any kind. ^11^It denies the ability of anything not of God to affect you. ^12^This is the proper use of denial. ^13^It is not used to hide anything, but to correct error. ^14^It brings all error into the light, and since error and darkness are the same, it corrects error automatically.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 1.&emsp;You can do anything I ask. ^2^I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ^3^There is nothing they [miracles] cannot do, but they [miracles] cannot be performed in the spirit of doubt or fear. ^4^When you are afraid of anything, you are acknowledging its [the thing’s] power to hurt you. ^5^Remember that where your heart is, there is your treasure also. ^6^You believe in what you value. ^7^If you are afraid, you are valuing wrongly. ^8^Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power [your understanding] will inevitably destroy peace. ^9^That is why the Bible speaks of “the peace of God which passes understanding”. ^10^This peace [the peace of God which passes understanding] is totally incapable of being shaken by errors of any kind. ^11^It [the peace of God which passes understanding] denies the ability of anything not of God to affect you. ^12^This [denying the ability of anything not of God to affect you] is the proper use of denial. ^13^It [denying anything not of God can affect you] is not used to hide anything, but to correct error. ^14^It [denying anything not of God can affect you] brings all error into the light, and since error and darkness are the same, it [denying anything not of God can affect you] corrects error automatically.
 :::
-::: tab Substituted
+::: details Substituted
 1.&emsp;You can do anything I ask. ^2^I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ^3^There is nothing miracles cannot do, but miracles cannot be performed in the spirit of doubt or fear. ^4^When you are afraid of anything, you are acknowledging the thing’s power to hurt you. ^5^Remember that where your heart is, there is your treasure also. ^6^You believe in what you value. ^7^If you are afraid, you are valuing wrongly. ^8^Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power your understanding will inevitably destroy peace. ^9^That is why the Bible speaks of “the peace of God which passes understanding”. ^10^The peace of God which passes understanding is totally incapable of being shaken by errors of any kind. ^11^The peace of God which passes understanding denies the ability of anything not of God to affect you. ^12^Denying the ability of anything not of God to affect you is the proper use of denial. ^13^Denying anything not of God can affect you is not used to hide anything, but to correct error. ^14^Denying anything not of God can affect you brings all error into the light, and since error and darkness are the same, denying anything not of God can affect you corrects error automatically.
 :::
-::: tab Simplified
+::: details Simplified
 Do not be afraid. Do not allow anything not of God to affect you. 
 :::
-::: tab Commentary
+::: details Commentary
 (11–2:5) … the two uses of denial: the ego’s need to deny the guilt it has first made real, as opposed to the Holy Spirit’s denial of the ego’s denial of truth. The Holy Spirit denies the reality of the ego’s story of sin, guilt and fear, and denies that the ego has indeed changed our reality as God’s Son. (Wapnick, A.V.I., p.84.) 
 :::
-::::
+
 
 <a name=t-2-ii-2></a>2.&emsp;True denial is a powerful protective device. ^2^You can and should deny any belief that error can hurt you. ^3^This kind of denial is not a concealment but a correction. ^4^Your right mind depends on it. ^5^Denial of error is a strong defence of truth, but denial of truth results in miscreation, the projections of the ego. ^6^In the service of the right mind the denial of error frees the mind, and reëstablishes the freedom of the will. ^7^When the will is really free it cannot miscreate, because it recognises only truth.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 2.&emsp;True denial is a powerful protective device. ^2^You can and should deny any belief that error can hurt you. ^3^This kind of denial [that error can hurt you] is not a concealment but a correction. ^4^Your right mind depends on it [denying error can hurt you]. ^5^Denial of error is a strong defence of truth, but denial of truth results in miscreation, the projections of the ego. ^6^In the service of the right mind the denial of error frees the mind, and reëstablishes the freedom of the will. ^7^When the will is really free it [the will] cannot miscreate, because it [the will] recognises only truth.
 :::
-::: tab Substituted
+::: details Substituted
 2.&emsp;True denial is a powerful protective device. ^2^You can and should deny any belief that error can hurt you. ^3^Denying that error can hurt you is not a concealment but a correction. ^4^Your right mind depends on denying error can hurt you. ^5^Denial of error is a strong defence of truth, but denial of truth results in miscreation, the projections of the ego. ^6^In the service of the right mind the denial of error frees the mind, and reëstablishes the freedom of the will. ^7^When the will is really free the will cannot miscreate, because the will recognises only truth.
 :::
-::: tab Simplified
+::: details Simplified
 True denial denies error can hurt you. True denial is protection from error. In the right mind you create truly. 
 :::
-::::
+
 
 <a name=t-2-ii-3></a>3.&emsp;You can defend truth as well as error. ^2^The means are easier to understand after the value of the goal is firmly established. ^3^It is a question of what it is *for*. ^4^Everyone defends his treasure, and will do so automatically. ^5^The real questions are, what do you treasure, and how much do you treasure it? ^6^Once you have learned to consider these questions and to bring them into all your actions, you will have little difficulty in clarifying the means. ^7^The means are available whenever you ask. ^8^You can, however, save time if you do not protract this step unduly. ^9^The correct focus will shorten it mmeasurably.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 3.&emsp;You can defend truth as well as error. ^2^The means are easier to understand after the value of the goal is firmly established. ^3^It is a question of what it [the goal] is *for*. ^4^Everyone defends his [one’s] treasure, and will do so [defend one’s treasure] automatically. ^5^The real questions are, what do you treasure, and how much do you treasure it [what you treasure]? ^6^Once you have learned to consider these questions and to bring them [these questions] into all your actions, you will have little difficulty in clarifying the means. ^7^The means are available whenever you ask. ^8^You can, however, save time if you do not protract this step unduly. ^9^The correct focus will shorten it [time] immeasurably.
 :::
-::: tab Substituted
+::: details Substituted
 3.&emsp;You can defend truth as well as error. ^2^The means are easier to understand after the value of the goal is firmly established. ^3^It is a question of what the goal is *for*. ^4^Everyone defends one’s treasure, and will defend one’s treasure automatically. ^5^The real questions are, what do you treasure, and how much do you treasure what you treasure? ^6^Once you have learned to consider these questions and to bring these questions into all your actions, you will have little difficulty in clarifying the means. ^7^The means are available whenever you ask. ^8^You can, however, save time if you do not protract this step unduly. ^9^The correct focus will shorten time immeasurably.
 :::
-::: tab Simplified
+::: details Simplified
 Decide on truth as your goal. Defend only truth. The means will follow. By this you save time.
 :::
-::::
+
 
 <a name=t-2-ii-4></a>4.&emsp;The Atonement is the only defence that cannot be used destructively because it is not a device you made. ^2^The Atonement *principle* was in effect long before the Atonement began. ^3^The principle was love and the Atonement was an *act* of love. ^4^Acts were not necessary before the separation, because belief in space and time did not exist. ^5^It was only after the separation that the Atonement and the conditions necessary for its fulfillment were planned. ^6^Then a defence so splendid was needed that it could not be misused, although it could be refused. ^7^Refusal could not, however, turn it into a weapon of attack, which is the inherent characteristic of other defences. ^8^The Atonement thus becomes the only defence that is not a two-edged sword. ^9^ It can only heal.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 4.&emsp;The Atonement is the only defence that cannot be used destructively because it [the Atonement] is not a device you made. ^2^The Atonement *principle* was in effect long before the Atonement began. ^3^The principle was love and the Atonement was an *act* of love. ^4^Acts were not necessary before the separation, because belief in space and time did not exist. ^5^It was only after the separation that the Atonement and the conditions necessary for its [the Atonement’s] fulfillment were planned. ^6^Then a defence so splendid was needed that it [the defence] could not be misused, although it [the defence] could be refused. ^7^Refusal could not, however, turn it [the defence] into a weapon of attack, which is the inherent characteristic of other defences. ^8^The Atonement thus becomes the only defence that is not a two-edged sword. ^9^It [the Atonement] can only heal.
 :::
-::: tab Substituted
+::: details Substituted
 4.&emsp;The Atonement is the only defence that cannot be used destructively because the Atonement is not a device you made. ^2^The Atonement *principle* was in effect long before the Atonement began. ^3^The principle was love and the Atonement was an *act* of love. ^4^Acts were not necessary before the separation, because belief in space and time did not exist. ^5^It was only after the separation that the Atonement and the conditions necessary for the Atonement’s fulfillment were planned. ^6^Then a defence so splendid was needed that the defence could not be misused, although the defence could be refused. ^7^Refusal could not, however, turn the defence into a weapon of attack, which is the inherent characteristic of other defences. ^8^The Atonement thus becomes the only defence that is not a two-edged sword. ^9^The Atonement can only heal.
 :::
-::: tab Simplified
+::: details Simplified
 The principle of the Atonement is love. The Atonement is a defence against separation. You are healed by the Atonement.
 :::
-::: tab Commentary
+::: details Commentary
 (2–5) …the separated world needed a concrete manifestation of this [Atonement] principle, for while the Atonement came into existence with the creation of the Holy Spirit ([T-5.I.5:2](/text/5-healing-and-wholeness#t-5-i-5)), some figure within the Son’s dream had to represent it for us. The life of Jesus was this “act of love”, for he was the “thought” within the separated mind that first remembered its relationship with God and Identity as Christ (along with the rest of the Sonship). (Wapnick, L.D.N.C., p.514.) 
 :::
-::::
+
 
 <a name=t-2-ii-5></a>5.&emsp;The Atonement was built into the space–time belief to set a limit on the need for the belief itself, and ultimately to make learning complete. ^2^The Atonement is the final lesson. ^3^Learning itself, like the classrooms in which it occurs, is temporary. ^4^The ability to learn has no value when change is no longer necessary. ^5^The eternally creative have nothing to learn. ^6^You can learn to improve your perceptions, and can become a better and better learner. ^7^This will bring you into closer and closer accord with the Sonship; but the Sonship itself is a perfect creation and perfection is not a matter of degree. ^8^Only while there is a belief in differences is learning meaningful.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 5.&emsp;The Atonement was built into the space–time belief to set a limit on the need for the belief itself [in space–time], and ultimately to make learning complete. ^2^The Atonement is the final lesson. ^3^Learning itself, like the classrooms in which it [learning] occurs, is temporary. ^4^The ability to learn has no value when change is no longer necessary. ^5^The eternally creative have nothing to learn. ^6^You can learn to improve your perceptions, and can become a better and better learner. ^7^This [improving your perceptions] will bring you into closer and closer accord with the Sonship; but the Sonship itself is a perfect creation and perfection is not a matter of degree. ^8^Only while there is a belief in differences is learning meaningful.
 :::
-::: tab Substituted
+::: details Substituted
 5.&emsp;The Atonement was built into the space–time belief to set a limit on the need for the belief in space–time, and ultimately to make learning complete. ^2^The Atonement is the final lesson. ^3^Learning itself, like the classrooms in which learning occurs, is temporary. ^4^The ability to learn has no value when change is no longer necessary. ^5^The eternally creative have nothing to learn. ^6^You can learn to improve your perceptions, and can become a better and better learner. ^7^Improving your perceptions will bring you into closer and closer accord with the Sonship; but the Sonship itself is a perfect creation and perfection is not a matter of degree. ^8^Only while there is a belief in differences is learning meaningful.
 :::
-::: tab Simplified
+::: details Simplified
 Keep learning to improve your perceptions until the Atonement is fully learnt. 
 :::
-::: tab Commentary
+::: details Commentary
 (1–3) We made space and time in the instant the ego seemed to occur, and at that same instant God “gave” the Holy Spirit as the Correction, the principle of the Atonement. … When we have finally learned this lesson the classroom disappears, as does the ego itself. (Wapnick, A.V.I., p.130–131.)
 
 (4–8) Learning cannot exist in Heaven, where there is only perfection. Learning is required only in this world. … Once we have totally learned our lessons, all that remains in our minds is the pure experience of our oneness with Christ and with God. Until that time, however, learning is necessary to help us unlearn the ego’s thought system of differences. (Wapnick, A.V.I., p.131.)
 :::
-::::
+
 
 <a id=t-2-ii-6></a>6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ^2^You correct your previous missteps by stepping forward. ^3^This process is actually incomprehensible in temporal terms, because you return as you go forward. ^4^The Atonement is the device by which you can free yourself from the past as you go ahead. ^5^It undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ^6^In this sense the Atonement saves time, but like the miracle it serves, does not abolish it. ^7^As long as there is need for Atonement, there is need for time. 
 ^8^But the Atonement as a completed plan has a unique relationship to time. ^9^Until the Atonement is complete, its various phases will proceed in time, but the whole Atonement stands at time’s end. ^10^At that point the bridge of return has been built.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ^2^You correct your previous missteps by stepping forward. ^3^This process [evolution] is actually incomprehensible in temporal terms, because you return as you go forward. ^4^The Atonement is the device by which you can free yourself from the past as you go ahead. ^5^It [the Atonement] undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ^6^In this sense the Atonement saves time, but like the miracle it [the Atonement] serves, does not abolish it [time]. ^7^As long as there is need for Atonement, there is need for time. ^8^But the Atonement as a completed plan has a unique relationship to time. ^9^Until the Atonement is complete, its [the Atonement’s] various phases will proceed in time, but the whole Atonement stands at time’s end. ^10^At that point the bridge of return has been built.
 :::
-::: tab Substituted
+::: details Substituted
 6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ^2^You correct your previous missteps by stepping forward. ^3^Evolution is actually incomprehensible in temporal terms, because you return as you go forward. ^4^The Atonement is the device by which you can free yourself from the past as you go ahead. ^5^The Atonement undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ^6^In this sense the Atonement saves time, but like the miracle the Atonement serves, does not abolish time. ^7^As long as there is need for Atonement, there is need for time. ^8^But the Atonement as a completed plan has a unique relationship to time. ^9^Until the Atonement is complete, the Atonement’s various phases will proceed in time, but the whole Atonement stands at time’s end. ^10^At that point the bridge of return has been built.
 :::
-::: tab Simplified
+::: details Simplified
 The Atonement undoes your past errors. Phases of the Atonement exist in time. The whole Atonement is at the end of time.
 :::
-::: tab Commentary
+::: details Commentary
 When the separation occurred … ever since we have walked … away from God. The further we went away from God, the deeper we got involved with the world and the problems of guilt and sin. When we ask the Holy Spiriit to help us, we reverse this process and begin to walk towards God. Several of the most interesting sections of the Course talk about time. These are very hard to understand because we are still stuck in it. At one point it says that time seems to go forwards, but it is really going backward to the point at which time began. This is when the separation occurred. (Wapnick, A.T.G., p.106–107.)
 
 (1–2) *A Course in Miracles* uses this image [linear time],  … [but] teaches on another level that the journey “without distance” has already been completed, and in fact, never was. … The actual “movement” of the journey is backwards… (Wapnick, A.V.I., p.132.)
@@ -211,21 +211,21 @@ When the separation occurred … ever since we have walked … away from God. Th
 
 (6–10) If we think of the Atonement as the Holy Spirit, we can see Him standing outside of time with us (the observer), awaiting our decision to awaken from the dream. (Wapnick, A.V.I., p.133.) 
 :::
-::::
+
 
 <a name=t-2-ii-7></a>7.&emsp;The Atonement is a total commitment. ^2^You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. ^3^It is hard to believe a defence that cannot attack is the best defence. ^4^This is what is meant by “the meek shall inherit the earth”. ^5^They will literally take it over because of their strength. ^6^A two-way defence is inherently weak precisely because it has two edges, and can be turned against you very unexpectedly. ^7^This possibility cannot be controlled except by miracles. ^8^The miracle turns the defence of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 7.&emsp;The Atonement is a total commitment. ^2^You may still think this [the Atonement] is associated with loss, a mistake all the separated Sons of God make in one way or another. ^3^It is hard to believe a defence that cannot attack is the best defence. ^4^This [defence that cannot attack is the best defence] is what is meant by “the meek shall inherit the earth”. ^5^They [the meek] will literally take it [the earth] over because of their [the meek’s] strength. ^6^A two-way defence is inherently weak precisely because it [a two-way defence] has two edges, and can be turned against you very unexpectedly. ^7^This possibility [defence being turned against you] cannot be controlled except by miracles. ^8^The miracle turns the defence of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son.
 :::
-::: tab Substituted
+::: details Substituted
 7.&emsp;The Atonement is a total commitment. ^2^You may still think the Atonement is associated with loss, a mistake all the separated Sons of God make in one way or another. ^3^It is hard to believe a defence that cannot attack is the best defence. ^4^A defence that cannot attack is the best defence, is what is meant by “the meek shall inherit the earth”. ^5^The meek will literally take the earth over because of the meek’s strength. ^6^A two-way defence is inherently weak precisely because a two-way defence has two edges, and can be turned against you very unexpectedly. ^7^The possibility of defence being turned against you cannot be controlled except by miracles. ^8^The miracle turns the defence of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son.
 :::
-::: tab Simplified
+::: details Simplified
 If a defence can attack, then the defence can be turned against you. You protect yourself and others by using the Atonement as defence. 
 :::
-::::
+
 
 ## III. The Altar of God
 
@@ -325,7 +325,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 ^5^Tolerance for pain may be high, but it is not without limit. 
 ^6^Eventually everyone begins to recognise, however dimly, that there *must* be a better way. 
 ^7^As this recognition becomes more firmly established, it becomes a turning point. 
-^8^This ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
+^8^This ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ^9^The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. 
 ^10^But the outcome is as certain as God.
 </p>

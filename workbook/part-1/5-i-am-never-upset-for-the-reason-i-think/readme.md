@@ -4,20 +4,20 @@
 
 <a name=w-pi-5-1></a>1.&emsp;This idea, like the preceding one, can be used with any person, situation or event you think is causing you pain. ^2^Apply it specifically to whatever you believe is the cause of your upset, using the description of the feeling in whatever term seems accurate to you. ^3^The upset may seem to be fear, worry, depression, anxiety, anger, hatred, jealousy or any number of forms, all of which will be perceived as different. ^4^This is not true. ^5^However, until you learn that form does not matter, each form becomes a proper subject for the exercises for the day. ^6^Applying the same idea to each of them separately is the first step in ultimately recognising they are all the same.
 
-::::tabs
-::: tab Expanded
+
+::: details Expanded
 This idea, like the preceding one [idea], can be used with any person, situation or event you think is causing you pain. ^2^Apply it [this idea] specifically to whatever you believe is the cause of your upset, using the description of the feeling in whatever term seems accurate to you. ^3^The upset may seem to be fear, worry, depression, anxiety, anger, hatred, jealousy or any number of forms, all of which [forms of upset] will be perceived as different. ^4^This [forms of upset are different] is not true. ^5^However, until you learn that form does not matter, each form [of upset] becomes a proper subject for the exercises for the day. ^6^Applying the same idea to each of them [form of upset] separately is the first step in ultimately recognising they [forms of upset] are all the same.
 :::
-::: tab Substituted
+::: details Substituted
 This idea, like the preceding idea, can be used with any person, situation or event you think is causing you pain. ^2^Apply this idea specifically to whatever you believe is the cause of your upset, using the description of the feeling in whatever term seems accurate to you. ^3^The upset may seem to be fear, worry, depression, anxiety, anger, hatred, jealousy or any number of forms; all forms of upset will be perceived as different. ^4^Forms of upset are different is not true. ^5^However, until you learn that form does not matter, each form of upset becomes a proper subject for the exercises for the day. ^6^Applying the same idea to each form of upset separately is the first step in ultimately recognising forms of upset are all the same.
 :::
-::: tab Simplified
+::: details Simplified
 Upsets may seem to have different forms. Upsets are all the same.
 :::
-::: tab Commentary
+::: details Commentary
 Through the dynamic of projection, the ego continually seeks to have us believe our problems are outside us in the world of the body — our own or others’. Thus we believe that what upsets us are problems perceived as external to us, beyound our control, for which we must find solutions. As long as we believe in the ego’s seductive smokescreens, the true source of the problem — our misthoughts — remains beyond recognition and therefore beyond correction. (Wapnick, F.A.J., p.67)
 :::
-::::
+
 
 <a name=w-pi-5-2></a>2.&emsp;When using the idea for today for a specific perceived cause of an upset in any form, use both the name of the form in which you see the upset, and the cause which you ascribe to it. ^2^For example:
 
