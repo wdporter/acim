@@ -7,33 +7,28 @@ title: Home
 <head>
 	<meta charset=utf-8>
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
-	<title>A Course in Miracles | {{ title }}</title>
+	<title>{{ reference }} {{ title }} — {{ sitetitle }}</title>
 {% set css %}
-  {% include "new.css" %}
+	{% include "new.css" %}
 	{% include "theme.css" %}
 {% endset %}
 <style>{{ css | cssmin | safe }}</style>
-<!--<link rel="stylesheet" href="https://fonts.xz.style/serve/fira-sans.css">
 <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://fonts.xz.style/serve/roboto.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Serif">-->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Sans">
 <body>
 	<header>
-		<h1>{{ sitetitle }}</h1>
+		<h1>{{ sitetitle | upper }}</h1>
 		<nav>
-			<a href="/text/">Text</a>&ensp;◆&ensp;
-			<a href="/workbook/">Workbook</a>&ensp;◆&ensp;
-			<a href="/manual/">Manual</a>
+			<ul>
+				<li><a href="/text/">Text</a>
+				<li><a href="/workbook/">Workbook</a>
+				<li><a href="/manual/">Manual</a>
+		</ul>
 		</nav>
 	</header>
-
 
 <nav>
 {{ breadcrumb | safe }}
 </nav>
-
-<h2>{{ reference }} {% if isChapter %} {{ title | upper }} {% else %} {{ title }} {% endif %}</h2>
 
 {{ content | safe }}
 

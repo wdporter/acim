@@ -1,8 +1,8 @@
 ---
-layout: mylayout.njk
-title: 1. The Meaning of Miracles
+layout: landing.njk
+title: The Meaning of Miracles
+reference: T-1
 breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → 1. The Meaning of Miracles
-isChapter: true
 eleventyNavigation:
 	key: 1. The Meaning of Miracles
 	parent: Text

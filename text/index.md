@@ -1,5 +1,5 @@
 ---
-layout: mylayout.njk
+layout: landing.njk
 title: Text
 breadcrumb: <a href=/>Home</a> → Text
 eleventyNavigation:

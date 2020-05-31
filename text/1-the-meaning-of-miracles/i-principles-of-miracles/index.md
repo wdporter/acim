@@ -1,5 +1,5 @@
 ---
-layout: mylayout.njk
+layout: content.njk
 title: Principles of Miracles
 reference: T-1.I
 breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → <a href=/text/1-the-meaning-of-miracles>1. The Meaning of Miracles</a> → I. Principles of Miracles

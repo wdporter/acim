@@ -1,5 +1,5 @@
 ---
-layout: mylayout.njk
+layout: content.njk
 title: Introduction
 reference: T-in
 breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → Introduction
@@ -9,14 +9,6 @@ eleventyNavigation:
 	parent: Text
 next: <a href=/text/1-the-meaning-of-miracles/i-principles-of-miracles>T-1.I Principles of Miracles</a>
 ---
-
-<style>
-body>p, blockquote>p {
-	font-size: 1.25rem;
-	line-height: 2;
-}
-</style>
-
 
 1.&emsp;*This is a course in miracles. 
 ²It is a required course. 

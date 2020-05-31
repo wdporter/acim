@@ -1,5 +1,5 @@
 ---
-layout: mylayout.njk
+layout: content.njk
 title: Atonement and Miracles
 reference: T-1.III
 breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → <a href=/text/1-the-meaning-of-miracles>1. The Meaning of Miracles</a> → III. Atonement and Miracles
