@@ -6,24 +6,24 @@
 
 <a id=t-2-i-1></a>1.&emsp;To extend is a fundamental aspect of God which He gave to His Son. ²In the creation, God extended Himself to His creations and imbued them with the same loving Will to create. ³You have not only been fully created, but have also been created perfect. ⁴There is no emptiness in you. ⁵Because of your likeness to your Creator you are creative. ⁶No child of God can lose this ability because it is inherent in what he is, but he can use it inappropriately by projecting. ⁷The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill it with your own ideas instead of truth. ⁸This process involves the following steps:  
 <span class=lineindent>⁹First,</span> you believe that what God created can be changed by your own mind.  
-<span class=lineindent>^10^Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
-<span class=lineindent>^11^Third,</span> you believe that you can distort the creations of God, including yourself.  
-<span class=lineindent>^12^Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
+<span class=lineindent>¹⁰Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
+<span class=lineindent>¹¹Third,</span> you believe that you can distort the creations of God, including yourself.  
+<span class=lineindent>¹²Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
 
 
 ::: details Expanded
 1.&emsp;To extend is a fundamental aspect of God which He [God] gave to His [God’s] Son. ²In the creation, God extended Himself [God’s Self] to His [God’s] creations and imbued them [God’s creations] with the same loving Will to create. ³You have not only been fully created, but have also been created perfect. ⁴There is no emptiness in you. ⁵Because of your likeness to your Creator you are creative. ⁶No child of God can lose this [creative] ability because it [creative ability] is inherent in what he [a child of God] is, but he [a child of God] can use it [creative ability] inappropriately by projecting. ⁷The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill it [emptiness or lack] with your own ideas instead of truth. ⁸This process [believing you can fill lack with your own ideas of truth] involves the following steps:  
 <span class=lineindent>⁹First,</span> you believe that what God created can be changed by your own mind.  
-<span class=lineindent>^10^Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
-<span class=lineindent>^11^Third,</span> you believe that you can distort the creations of God, including yourself.  
-<span class=lineindent>^12^Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
+<span class=lineindent>¹⁰Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
+<span class=lineindent>¹¹Third,</span> you believe that you can distort the creations of God, including yourself.  
+<span class=lineindent>¹²Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
 :::
 ::: details Substituted
 1.&emsp;To extend is a fundamental aspect of God which God gave to God’s Son. ²In the creation, God extended God’s Self to God’s creations and imbued God’s creations with the same loving Will to create. ³You have not only been fully created, but have also been created perfect. ⁴There is no emptiness in you. ⁵Because of your likeness to your Creator you are creative. ⁶No child of God can lose this creative ability because creative ability is inherent in what a child of God is, but a child of God can use creative ability inappropriately by projecting. ⁷The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth. ⁸Believing you can fill lack with your own ideas of truth involves the following steps:  
 <span class=lineindent>⁹First,</span> you believe that what God created can be changed by your own mind.  
-<span class=lineindent>^10^Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
-<span class=lineindent>^11^Third,</span> you believe that you can distort the creations of God, including yourself.  
-<span class=lineindent>^12^Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
+<span class=lineindent>¹⁰Second,</span> you believe that what is perfect can be rendered imperfect or lacking.  
+<span class=lineindent>¹¹Third,</span> you believe that you can distort the creations of God, including yourself.  
+<span class=lineindent>¹²Fourth,</span> you believe that you can create yourself, and that the direction of your own creation is up to you.
 :::
 ::: details Simplified
 You are God’s Son. You are creative. You misuse creativity by projecting. You project because you believe you lack something. You believe you can create yourself.
@@ -57,14 +57,14 @@ Everything God creates is like God. You can create just as God creates.
 :::
 
 
-<a name=t-2-i-3></a>3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind in which nothing was needed. ²When Adam listened to the “lies of the serpent”, all he heard was untruth. ³You do not have to continue to believe what is not true unless you choose to do so. ⁴All that can literally disappear in the twinkling of an eye because it is merely a misperception. ⁵What is seen in dreams seems to be very real. ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere is there reference to his waking up. ⁷The world has not yet experienced any comprehensive reäwakening or rebirth. ⁸Such a rebirth is impossible as long as you continue to project or miscreate. ⁹It still remains within you, however, to extend as God extended His Spirit to you. ^10^In reality this is your only choice, because your free will was given you for your joy in creating the perfect.
+<a name=t-2-i-3></a>3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind in which nothing was needed. ²When Adam listened to the “lies of the serpent”, all he heard was untruth. ³You do not have to continue to believe what is not true unless you choose to do so. ⁴All that can literally disappear in the twinkling of an eye because it is merely a misperception. ⁵What is seen in dreams seems to be very real. ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere is there reference to his waking up. ⁷The world has not yet experienced any comprehensive reäwakening or rebirth. ⁸Such a rebirth is impossible as long as you continue to project or miscreate. ⁹It still remains within you, however, to extend as God extended His Spirit to you. ¹⁰In reality this is your only choice, because your free will was given you for your joy in creating the perfect.
 
 
 ::: details Expanded
-3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind in which [state of mind] nothing was needed. ²When Adam listened to the “lies of the serpent”, all he [Adam] heard was untruth. ³You do not have to continue to believe what is not true unless you choose to do so [believe what is not true]. ⁴All that [what is not true] can literally disappear in the twinkling of an eye because it [what is not true] is merely a misperception. ⁵What is seen in dreams seems to be very real. ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere [in the Bible] is there reference to his [Adam’s] waking up. ⁷The world has not yet experienced any comprehensive reäwakening or rebirth. ⁸Such a rebirth is impossible as long as you continue to project or miscreate. ⁹It still remains within you, however, to extend as God extended His [God’s] Spirit to you. ^10^In reality this [extending as God extended God’s spirit to you] is your only choice, because your free will was given you for your joy in creating the perfect.
+3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind in which [state of mind] nothing was needed. ²When Adam listened to the “lies of the serpent”, all he [Adam] heard was untruth. ³You do not have to continue to believe what is not true unless you choose to do so [believe what is not true]. ⁴All that [what is not true] can literally disappear in the twinkling of an eye because it [what is not true] is merely a misperception. ⁵What is seen in dreams seems to be very real. ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere [in the Bible] is there reference to his [Adam’s] waking up. ⁷The world has not yet experienced any comprehensive reäwakening or rebirth. ⁸Such a rebirth is impossible as long as you continue to project or miscreate. ⁹It still remains within you, however, to extend as God extended His [God’s] Spirit to you. ¹⁰In reality this [extending as God extended God’s spirit to you] is your only choice, because your free will was given you for your joy in creating the perfect.
 :::
 ::: details Substituted
-3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind; in state of mind nothing was needed. ²When Adam listened to the “lies of the serpent”, all Adam heard was untruth. ³You do not have to continue to believe what is not true unless you choose to believe what is not true. ⁴All what is not true can literally disappear in the twinkling of an eye because what is not true is merely a misperception. ⁵What is seen in dreams seems to be very real. ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere in the Bible is there reference to Adam’s waking up. ⁷The world has not yet experienced any comprehensive re-awakening or rebirth. ⁸Such a rebirth is impossible as long as you continue to project or miscreate. ⁹It still remains within you, however, to extend as God extended God’s Spirit to you. ^10^In reality, extending as God extended God’s spirit to you, is your only choice, because your free will was given you for your joy in creating the perfect.
+3.&emsp;The Garden of Eden, or the pre-separation condition, was a state of mind; in state of mind nothing was needed. ²When Adam listened to the “lies of the serpent”, all Adam heard was untruth. ³You do not have to continue to believe what is not true unless you choose to believe what is not true. ⁴All what is not true can literally disappear in the twinkling of an eye because what is not true is merely a misperception. ⁵What is seen in dreams seems to be very real. ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere in the Bible is there reference to Adam’s waking up. ⁷The world has not yet experienced any comprehensive re-awakening or rebirth. ⁸Such a rebirth is impossible as long as you continue to project or miscreate. ⁹It still remains within you, however, to extend as God extended God’s Spirit to you. ¹⁰In reality, extending as God extended God’s spirit to you, is your only choice, because your free will was given you for your joy in creating the perfect.
 :::
 ::: details Simplified
 You are dreaming you need something. We are all still dreaming. You can wake up any time. You can extend the truth.
@@ -90,14 +90,14 @@ You have a misperception that you can usurp the power of God. Undoing this mispe
 :::
 
 
-<a name=t-2-i-5></a>5.&emsp;Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. ²It makes no distinctions among misperceptions. ³Its sole concern is to distinguish between truth on the one hand, and error on the other. ⁴Some miracles may seem to be of greater magnitude than others. ⁵But remember the first principle in this course: there is no order of difficulty in miracles. ⁶In reality you are perfectly unaffected by all expressions of lack of love. ⁷These can be from yourself and others, from yourself to others, or from others to you. ⁸Peace is an attribute *in* you. ⁹You cannot find it outside. ^10^Illness is some form of external searching. ^11^Health is inner peace. ^12^It enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
+<a name=t-2-i-5></a>5.&emsp;Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. ²It makes no distinctions among misperceptions. ³Its sole concern is to distinguish between truth on the one hand, and error on the other. ⁴Some miracles may seem to be of greater magnitude than others. ⁵But remember the first principle in this course: there is no order of difficulty in miracles. ⁶In reality you are perfectly unaffected by all expressions of lack of love. ⁷These can be from yourself and others, from yourself to others, or from others to you. ⁸Peace is an attribute *in* you. ⁹You cannot find it outside. ¹⁰Illness is some form of external searching. ¹¹Health is inner peace. ¹²It enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 
 
 ::: details Expanded
-5.&emsp;Whatever lies you may believe are of no concern to the miracle, which [the miracle] can heal any of them [lie] with equal ease. ²It [the miracle] makes no distinctions among misperceptions. ³Its [the miracle’s] sole concern is to distinguish between truth on the one hand, and error on the other [hand]. ⁴Some miracles may seem to be of greater magnitude than others [miracles]. ⁵But remember the first principle in this course: there is no order of difficulty in miracles. ⁶In reality you are perfectly unaffected by all expressions of lack of love. ⁷These [expressions of lack of love] can be from yourself and others, [can be] from yourself to others, or [can be] from others to you. ⁸Peace is an attribute *in* you. ⁹You cannot find it [peace] outside. ^10^Illness is some form of external searching. ^11^Health is inner peace. ^12^It [health] enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
+5.&emsp;Whatever lies you may believe are of no concern to the miracle, which [the miracle] can heal any of them [lie] with equal ease. ²It [the miracle] makes no distinctions among misperceptions. ³Its [the miracle’s] sole concern is to distinguish between truth on the one hand, and error on the other [hand]. ⁴Some miracles may seem to be of greater magnitude than others [miracles]. ⁵But remember the first principle in this course: there is no order of difficulty in miracles. ⁶In reality you are perfectly unaffected by all expressions of lack of love. ⁷These [expressions of lack of love] can be from yourself and others, [can be] from yourself to others, or [can be] from others to you. ⁸Peace is an attribute *in* you. ⁹You cannot find it [peace] outside. ¹⁰Illness is some form of external searching. ¹¹Health is inner peace. ¹²It [health] enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 :::
 ::: details Substituted
-5.&emsp;Whatever lies you may believe are of no concern to the miracle; the miracle can heal any lie with equal ease. ²The miracle makes no distinctions among misperceptions. ³The miracle’s sole concern is to distinguish between truth on the one hand, and error on the other hand. ⁴Some miracles may seem to be of greater magnitude than other miracles. ⁵But remember the first principle in this course: there is no order of difficulty in miracles. ⁶In reality you are perfectly unaffected by all expressions of lack of love. ⁷Expressions of lack of love can be from yourself and others, can be from yourself to others, or can be from others to you. ⁸Peace is an attribute *in* you. ⁹You cannot find peace outside. ^10^Illness is some form of external searching. ^11^Health is inner peace. ^12^Health enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
+5.&emsp;Whatever lies you may believe are of no concern to the miracle; the miracle can heal any lie with equal ease. ²The miracle makes no distinctions among misperceptions. ³The miracle’s sole concern is to distinguish between truth on the one hand, and error on the other hand. ⁴Some miracles may seem to be of greater magnitude than other miracles. ⁵But remember the first principle in this course: there is no order of difficulty in miracles. ⁶In reality you are perfectly unaffected by all expressions of lack of love. ⁷Expressions of lack of love can be from yourself and others, can be from yourself to others, or can be from others to you. ⁸Peace is an attribute *in* you. ⁹You cannot find peace outside. ¹⁰Illness is some form of external searching. ¹¹Health is inner peace. ¹²Health enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 :::
 ::: details Simplified
 The miracle heals all misperceptions. Health is inner peace. With health you can accept miracles and correct errors.
@@ -106,14 +106,14 @@ The miracle heals all misperceptions. Health is inner peace. With health you can
 
 ## II. The Atonement as Defence
 
-<a id=t-2-ii-1></a>1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ^10^This peace is totally incapable of being shaken by errors of any kind. ^11^It denies the ability of anything not of God to affect you. ^12^This is the proper use of denial. ^13^It is not used to hide anything, but to correct error. ^14^It brings all error into the light, and since error and darkness are the same, it corrects error automatically.
+<a id=t-2-ii-1></a>1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰This peace is totally incapable of being shaken by errors of any kind. ¹¹It denies the ability of anything not of God to affect you. ¹²This is the proper use of denial. ¹³It is not used to hide anything, but to correct error. ^14^It brings all error into the light, and since error and darkness are the same, it corrects error automatically.
 
 
 ::: details Expanded
-1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they [miracles] cannot do, but they [miracles] cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its [the thing’s] power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power [your understanding] will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ^10^This peace [the peace of God which passes understanding] is totally incapable of being shaken by errors of any kind. ^11^It [the peace of God which passes understanding] denies the ability of anything not of God to affect you. ^12^This [denying the ability of anything not of God to affect you] is the proper use of denial. ^13^It [denying anything not of God can affect you] is not used to hide anything, but to correct error. ^14^It [denying anything not of God can affect you] brings all error into the light, and since error and darkness are the same, it [denying anything not of God can affect you] corrects error automatically.
+1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they [miracles] cannot do, but they [miracles] cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its [the thing’s] power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power [your understanding] will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰This peace [the peace of God which passes understanding] is totally incapable of being shaken by errors of any kind. ¹¹It [the peace of God which passes understanding] denies the ability of anything not of God to affect you. ¹²This [denying the ability of anything not of God to affect you] is the proper use of denial. ¹³It [denying anything not of God can affect you] is not used to hide anything, but to correct error. ^14^It [denying anything not of God can affect you] brings all error into the light, and since error and darkness are the same, it [denying anything not of God can affect you] corrects error automatically.
 :::
 ::: details Substituted
-1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing miracles cannot do, but miracles cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging the thing’s power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power your understanding will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ^10^The peace of God which passes understanding is totally incapable of being shaken by errors of any kind. ^11^The peace of God which passes understanding denies the ability of anything not of God to affect you. ^12^Denying the ability of anything not of God to affect you is the proper use of denial. ^13^Denying anything not of God can affect you is not used to hide anything, but to correct error. ^14^Denying anything not of God can affect you brings all error into the light, and since error and darkness are the same, denying anything not of God can affect you corrects error automatically.
+1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing miracles cannot do, but miracles cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging the thing’s power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power your understanding will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰The peace of God which passes understanding is totally incapable of being shaken by errors of any kind. ¹¹The peace of God which passes understanding denies the ability of anything not of God to affect you. ¹²Denying the ability of anything not of God to affect you is the proper use of denial. ¹³Denying anything not of God can affect you is not used to hide anything, but to correct error. ^14^Denying anything not of God can affect you brings all error into the light, and since error and darkness are the same, denying anything not of God can affect you corrects error automatically.
 :::
 ::: details Simplified
 Do not be afraid. Do not allow anything not of God to affect you. 
@@ -188,14 +188,14 @@ Keep learning to improve your perceptions until the Atonement is fully learnt.
 
 
 <a id=t-2-ii-6></a>6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ²You correct your previous missteps by stepping forward. ³This process is actually incomprehensible in temporal terms, because you return as you go forward. ⁴The Atonement is the device by which you can free yourself from the past as you go ahead. ⁵It undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ⁶In this sense the Atonement saves time, but like the miracle it serves, does not abolish it. ⁷As long as there is need for Atonement, there is need for time. 
-⁸But the Atonement as a completed plan has a unique relationship to time. ⁹Until the Atonement is complete, its various phases will proceed in time, but the whole Atonement stands at time’s end. ^10^At that point the bridge of return has been built.
+⁸But the Atonement as a completed plan has a unique relationship to time. ⁹Until the Atonement is complete, its various phases will proceed in time, but the whole Atonement stands at time’s end. ¹⁰At that point the bridge of return has been built.
 
 
 ::: details Expanded
-6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ²You correct your previous missteps by stepping forward. ³This process [evolution] is actually incomprehensible in temporal terms, because you return as you go forward. ⁴The Atonement is the device by which you can free yourself from the past as you go ahead. ⁵It [the Atonement] undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ⁶In this sense the Atonement saves time, but like the miracle it [the Atonement] serves, does not abolish it [time]. ⁷As long as there is need for Atonement, there is need for time. ⁸But the Atonement as a completed plan has a unique relationship to time. ⁹Until the Atonement is complete, its [the Atonement’s] various phases will proceed in time, but the whole Atonement stands at time’s end. ^10^At that point the bridge of return has been built.
+6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ²You correct your previous missteps by stepping forward. ³This process [evolution] is actually incomprehensible in temporal terms, because you return as you go forward. ⁴The Atonement is the device by which you can free yourself from the past as you go ahead. ⁵It [the Atonement] undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ⁶In this sense the Atonement saves time, but like the miracle it [the Atonement] serves, does not abolish it [time]. ⁷As long as there is need for Atonement, there is need for time. ⁸But the Atonement as a completed plan has a unique relationship to time. ⁹Until the Atonement is complete, its [the Atonement’s] various phases will proceed in time, but the whole Atonement stands at time’s end. ¹⁰At that point the bridge of return has been built.
 :::
 ::: details Substituted
-6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ²You correct your previous missteps by stepping forward. ³Evolution is actually incomprehensible in temporal terms, because you return as you go forward. ⁴The Atonement is the device by which you can free yourself from the past as you go ahead. ⁵The Atonement undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ⁶In this sense the Atonement saves time, but like the miracle the Atonement serves, does not abolish time. ⁷As long as there is need for Atonement, there is need for time. ⁸But the Atonement as a completed plan has a unique relationship to time. ⁹Until the Atonement is complete, the Atonement’s various phases will proceed in time, but the whole Atonement stands at time’s end. ^10^At that point the bridge of return has been built.
+6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. ²You correct your previous missteps by stepping forward. ³Evolution is actually incomprehensible in temporal terms, because you return as you go forward. ⁴The Atonement is the device by which you can free yourself from the past as you go ahead. ⁵The Atonement undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. ⁶In this sense the Atonement saves time, but like the miracle the Atonement serves, does not abolish time. ⁷As long as there is need for Atonement, there is need for time. ⁸But the Atonement as a completed plan has a unique relationship to time. ⁹Until the Atonement is complete, the Atonement’s various phases will proceed in time, but the whole Atonement stands at time’s end. ¹⁰At that point the bridge of return has been built.
 :::
 ::: details Simplified
 The Atonement undoes your past errors. Phases of the Atonement exist in time. The whole Atonement is at the end of time.
@@ -241,9 +241,9 @@ If a defence can attack, then the defence can be turned against you. You protect
 ⁷The next step, however, is to realise that a temple is not a structure at all. 
 ⁸Its true holiness lies at the inner altar around which the structure is built. 
 ⁹The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. 
-^10^The real beauty of the temple cannot be seen with the physical eye. 
-^11^Spiritual sight, on the other hand, cannot see the structure at all because it is perfect vision. 
-^12^It can, however, see the altar with perfect clarity.
+¹⁰The real beauty of the temple cannot be seen with the physical eye. 
+¹¹Spiritual sight, on the other hand, cannot see the structure at all because it is perfect vision. 
+¹²It can, however, see the altar with perfect clarity.
 </p>
 
 #### expanded
@@ -257,9 +257,9 @@ If a defence can attack, then the defence can be turned against you. You protect
 ⁷The next step, however, is to realise that a temple is not a structure at all. 
 ⁸Its [a temple’s] true holiness lies at the inner altar around which the structure is built. 
 ⁹The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. 
-^10^The real beauty of the temple cannot be seen with the physical eye. 
-^11^Spiritual sight, on the other hand, cannot see the structure at all because it [spiritual sight] is perfect vision. 
-^12^It [spiritual sight] can, however, see the altar with perfect clarity.
+¹⁰The real beauty of the temple cannot be seen with the physical eye. 
+¹¹Spiritual sight, on the other hand, cannot see the structure at all because it [spiritual sight] is perfect vision. 
+¹²It [spiritual sight] can, however, see the altar with perfect clarity.
 	
 #### substituted
 
@@ -272,9 +272,9 @@ If a defence can attack, then the defence can be turned against you. You protect
 ⁷The next step, however, is to realise that a temple is not a structure at all. 
 ⁸A temple’s true holiness lies at the inner altar around which the structure is built. 
 ⁹The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. 
-^10^The real beauty of the temple cannot be seen with the physical eye. 
-^11^Spiritual sight, on the other hand, cannot see the structure at all because spiritual sight is perfect vision. 
-^12^Spiritual sight can, however, see the altar with perfect clarity.
+¹⁰The real beauty of the temple cannot be seen with the physical eye. 
+¹¹Spiritual sight, on the other hand, cannot see the structure at all because spiritual sight is perfect vision. 
+¹²Spiritual sight can, however, see the altar with perfect clarity.
 
 #### simplified
 
@@ -327,7 +327,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 ⁷As this recognition becomes more firmly established, it becomes a turning point. 
 ⁸This ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. 
-^10^But the outcome is as certain as God.
+¹⁰But the outcome is as certain as God.
 </p>
 
 #### expanded
@@ -341,7 +341,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 ⁷As this recognition [that there must be a better way] becomes more firmly established, it [recognition that there must be a better way] becomes a turning point. 
 ⁸This [recognising there must be a better way] ultimately re-awakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which [experience of conflict] can become very acute. 
-^10^But the outcome is as certain as God.
+¹⁰But the outcome is as certain as God.
 
 #### substituted
 
@@ -354,7 +354,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 ⁷As the recognition that there must be a better way becomes more firmly established, the recognition that there must be a better way becomes a turning point. 
 ⁸Recognising there must be a better way ultimately re-awakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict; experience of conflict can become very acute. 
-^10^But the outcome is as certain as God.
+¹⁰But the outcome is as certain as God.
 
 #### simplified
 
@@ -438,10 +438,10 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 ⁷He depends on them *because* He created them perfect. 
 ⁸He gave them His peace so they could not be shaken and could not be deceived. 
 ⁹Whenever you are afraid you *are* deceived, and your mind cannot serve the Holy Spirit. 
-^10^This starves you by denying you your daily bread. 
-^11^God is lonely without His Sons, and they are lonely without Him. 
-^12^They must learn to look upon the world as a means of healing the separation. 
-^13^The Atonement is the guarantee that they will ultimately succeed.
+¹⁰This starves you by denying you your daily bread. 
+¹¹God is lonely without His Sons, and they are lonely without Him. 
+¹²They must learn to look upon the world as a means of healing the separation. 
+¹³The Atonement is the guarantee that they will ultimately succeed.
 </p>
 
 #### expanded
@@ -455,10 +455,10 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 ⁷He [God] depends on them [God’s creations] *because* He [God] created them [God’s creations] perfect. 
 ⁸He [God] gave them [God’s creations] His [God’s] peace so they [God’s creations] could not be shaken and could not be deceived. 
 ⁹Whenever you are afraid you *are* deceived, and your mind cannot serve the Holy Spirit. 
-^10^This [being afraid] starves you by denying you your daily bread. 
-^11^God is lonely without His [God’s] Sons, and they [God’s Sons] are lonely without Him [God]. 
-^12^They [God’s Sons] must learn to look upon the world as a means of healing the separation. 
-^13^The Atonement is the guarantee that they [God’s Sons] will ultimately succeed.
+¹⁰This [being afraid] starves you by denying you your daily bread. 
+¹¹God is lonely without His [God’s] Sons, and they [God’s Sons] are lonely without Him [God]. 
+¹²They [God’s Sons] must learn to look upon the world as a means of healing the separation. 
+¹³The Atonement is the guarantee that they [God’s Sons] will ultimately succeed.
 
 #### substituted
 
@@ -471,10 +471,10 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 ⁷God depends on God’s creations *because* God created God’s creations perfect. 
 ⁸God gave God’s creations God’s peace so God’s creations could not be shaken and could not be deceived. 
 ⁹Whenever you are afraid you *are* deceived, and your mind cannot serve the Holy Spirit. 
-^10^Being afraid starves you by denying you your daily bread. 
-^11^God is lonely without God’s Sons, and God’s Sons are lonely without God. 
-^12^God’s Sons must learn to look upon the world as a means of healing the separation. 
-^13^The Atonement is the guarantee that God’s Sons will ultimately succeed.
+¹⁰Being afraid starves you by denying you your daily bread. 
+¹¹God is lonely without God’s Sons, and God’s Sons are lonely without God. 
+¹²God’s Sons must learn to look upon the world as a means of healing the separation. 
+¹³The Atonement is the guarantee that God’s Sons will ultimately succeed.
 
 #### simplified
 
@@ -557,7 +557,7 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 ⁷Physical illness represents a belief in magic. 
 ⁸The whole distortion that made magic rests on the belief that there is a creative ability in matter which the mind cannot control. 
 ⁹This error can take two forms: it can be believed that the mind can miscreate in the body, or that the body can miscreate in the mind. 
-^10^When it is understood that the mind, the only level of creation, cannot create beyond itself, neither type of confusion need occur.
+¹⁰When it is understood that the mind, the only level of creation, cannot create beyond itself, neither type of confusion need occur.
 </p>
 
 #### expanded
@@ -571,7 +571,7 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 ⁷Physical illness represents a belief in magic. 
 ⁸The whole distortion that made magic rests on the belief that there is a creative ability in matter which the mind cannot control. 
 ⁹This error can take two forms: it can be believed that the mind can miscreate in the body, or that the body can miscreate in the mind. 
-^10^When it is understood that the mind, the only level of creation, cannot create beyond itself [mind’s self], neither type of confusion need occur.
+¹⁰When it is understood that the mind, the only level of creation, cannot create beyond itself [mind’s self], neither type of confusion need occur.
 
 #### substituted
 
@@ -584,7 +584,7 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 ⁷Physical illness represents a belief in magic. 
 ⁸The whole distortion that made magic rests on the belief that there is a creative ability in matter which the mind cannot control. 
 ⁹This error can take two forms: it can be believed that the mind can miscreate in the body, or that the body can miscreate in the mind. 
-^10^When it is understood that the mind, the only level of creation, cannot create beyond mind’s self, neither type of confusion need occur.
+¹⁰When it is understood that the mind, the only level of creation, cannot create beyond mind’s self, neither type of confusion need occur.
 
 #### simplified
 
@@ -614,10 +614,10 @@ Sickness is no different from any other form in the world that reflects the ego�
 ⁷This is not because the body is a miracle, but because it is not inherently open to misinterpretation. 
 ⁸The body is merely part of your experience in the physical world. 
 ⁹Its abilities can be and frequently are overevaluated. 
-^10^However, it is almost impossible to deny its existence in this world. 
-^11^Those who do so are engaging in a particularly unworthy form of denial. 
-^12^The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
-^13^If one denies this unfortunate aspect of the mind’s power, one is also denying the power itself.
+¹⁰However, it is almost impossible to deny its existence in this world. 
+¹¹Those who do so are engaging in a particularly unworthy form of denial. 
+¹²The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
+¹³If one denies this unfortunate aspect of the mind’s power, one is also denying the power itself.
 </p>
 
 #### expanded
@@ -631,10 +631,10 @@ Sickness is no different from any other form in the world that reflects the ego�
 ⁷This [the body shares with the Atonement invulnerability to two-edged application] is not because the body is a miracle, but because it [the body] is not inherently open to misinterpretation. 
 ⁸The body is merely part of your experience in the physical world. 
 ⁹Its [the body’s] abilities can be and frequently are overevaluated. 
-^10^However, it is almost impossible to deny its [the body’s] existence in this world. 
-^11^Those who do so [deny the body’s existence in the world] are engaging in a particularly unworthy form of denial. 
-^12^The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful.
-^13^If one denies this unfortunate aspect [to miscreate] of the mind’s power [to create], one is also denying the power [to create] itself.
+¹⁰However, it is almost impossible to deny its [the body’s] existence in this world. 
+¹¹Those who do so [deny the body’s existence in the world] are engaging in a particularly unworthy form of denial. 
+¹²The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful.
+¹³If one denies this unfortunate aspect [to miscreate] of the mind’s power [to create], one is also denying the power [to create] itself.
 
 #### substituted
 
@@ -647,10 +647,10 @@ Sickness is no different from any other form in the world that reflects the ego�
 ⁷The body shares with the Atonement invulnerability to two-edged application, is not because the body is a miracle, but because the body is not inherently open to misinterpretation. 
 ⁸The body is merely part of your experience in the physical world. 
 ⁹The body’s abilities can be and frequently are overevaluated. 
-^10^However, it is almost impossible to deny the body’s existence in this world. 
-^11^Those who deny the body’s existence in the world are engaging in a particularly unworthy form of denial. 
-^12^The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
-^13^If one denies the unfortunate power of the mind to miscreate, one is also denying the mind’s power to create.
+¹⁰However, it is almost impossible to deny the body’s existence in this world. 
+¹¹Those who deny the body’s existence in the world are engaging in a particularly unworthy form of denial. 
+¹²The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
+¹³If one denies the unfortunate power of the mind to miscreate, one is also denying the mind’s power to create.
 
 #### simplified
 
@@ -707,7 +707,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 ⁷This is because the last thing that can help the non-right-minded, or the sick, is an increase in fear. 
 ⁸They are already in a fear-weakened state. 
 ⁹If they are prematurely exposed to a miracle, they may be precipitated into panic. 
-^10^This is likely to occur when upside-down perception has induced the belief that miracles are frightening.
+¹⁰This is likely to occur when upside-down perception has induced the belief that miracles are frightening.
 </p>
 
 #### expanded
@@ -721,7 +721,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 ⁷This [being wise to utilise a compromise approach] is because the last thing that can help the non-right-minded, or the sick, is an increase in fear. 
 ⁸They [the non-right-minded] are already in a fear-weakened state. 
 ⁹If they [the non-right-minded] are prematurely exposed to a miracle, they [the non-right-minded] may be precipitated into panic. 
-^10^This [panic] is likely to occur when upside-down perception has induced the belief that miracles are frightening.
+¹⁰This [panic] is likely to occur when upside-down perception has induced the belief that miracles are frightening.
 
 #### substituted
 
@@ -734,7 +734,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 ⁷Being wise to utilise a compromise approach is because the last thing that can help the non-right-minded, or the sick, is an increase in fear. 
 ⁸The non-right-minded are already in a fear-weakened state. 
 ⁹If the non-right-minded are prematurely exposed to a miracle, the non-right-minded may be precipitated into panic. 
-^10^Panic is likely to occur when upside-down perception has induced the belief that miracles are frightening.
+¹⁰Panic is likely to occur when upside-down perception has induced the belief that miracles are frightening.
 </p>
 
 #### simplified
@@ -825,8 +825,8 @@ Jesus’ own Course [is] the perfect example of the principles he was teaching h
 ⁷It is essential to remember that only the mind can create, and that correction belongs at the thought level. 
 ⁸To amplify an earlier statement, spirit is already perfect and therefore does not require correction. 
 ⁹The body does not exist except as a learning device for the mind. 
-^10^This learning device is not subject to errors of its own, because it cannot create. 
-^11^It is obvious, then, that inducing the mind to give up its miscreations is the only application of creative ability that is truly meaningful.
+¹⁰This learning device is not subject to errors of its own, because it cannot create. 
+¹¹It is obvious, then, that inducing the mind to give up its miscreations is the only application of creative ability that is truly meaningful.
 </p>
 
 #### expanded
@@ -840,8 +840,8 @@ Jesus’ own Course [is] the perfect example of the principles he was teaching h
 ⁷It is essential to remember that only the mind can create, and that correction belongs at the thought level. 
 ⁸To amplify an earlier statement, spirit is already perfect and therefore does not require correction. 
 ⁹The body does not exist except as a learning device for the mind. 
-^10^This learning device [the body] is not subject to errors of its [body-as-learning-device’s] own, because it [body-as-learning-device] cannot create. 
-^11^It is obvious, then, that inducing the mind to give up its [the mind’s] miscreations is the only application of creative ability that is truly meaningful.
+¹⁰This learning device [the body] is not subject to errors of its [body-as-learning-device’s] own, because it [body-as-learning-device] cannot create. 
+¹¹It is obvious, then, that inducing the mind to give up its [the mind’s] miscreations is the only application of creative ability that is truly meaningful.
 
 #### substituted
 
@@ -854,8 +854,8 @@ Jesus’ own Course [is] the perfect example of the principles he was teaching h
 ⁷It is essential to remember that only the mind can create, and that correction belongs at the thought level. 
 ⁸To amplify an earlier statement, spirit is already perfect and therefore does not require correction. 
 ⁹The body does not exist except as a learning device for the mind. 
-^10^The body as learning device is not subject to errors of body-as-learning-device’s own, because body-as-learning-device cannot create. 
-^11^It is obvious, then, that inducing the mind to give up the mind’s miscreations is the only application of creative ability that is truly meaningful.
+¹⁰The body as learning device is not subject to errors of body-as-learning-device’s own, because body-as-learning-device cannot create. 
+¹¹It is obvious, then, that inducing the mind to give up the mind’s miscreations is the only application of creative ability that is truly meaningful.
 
 #### simplified
 
@@ -1526,7 +1526,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 ⁷What you do comes from what you think. 
 ⁸You cannot separate yourself from the truth by ‘giving’ autonomy to behA.V.I.our. 
 ⁹This is controlled by me automatically as soon as you place what you think under my guidance. 
-^10^Whenever you are afraid, it is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it.
+¹⁰Whenever you are afraid, it is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it.
 </p>
 
 #### expanded
@@ -1540,7 +1540,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 ⁷What you do comes from what you think. 
 ⁸You cannot separate yourself from the truth by ‘giving’ autonomy to behA.V.I.our. 
 ⁹This [behA.V.I.our] is controlled by me automatically as soon as you place what you think under my guidance. 
-^10^Whenever you are afraid, it [being afraid] is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it [your mind].
+¹⁰Whenever you are afraid, it [being afraid] is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it [your mind].
 
 #### substituted
 
@@ -1553,7 +1553,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 ⁷What you do comes from what you think. 
 ⁸You cannot separate yourself from the truth by ‘giving’ autonomy to behA.V.I.our. 
 ⁹BehA.V.I.our is controlled by me automatically as soon as you place what you think under my guidance. 
-^10^Whenever you are afraid, being afraid is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide your mind.
+¹⁰Whenever you are afraid, being afraid is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide your mind.
 
 #### simplified
 
@@ -1618,7 +1618,7 @@ BehA.V.I.our and fear are the outcomes of misthought. Correction and healing can
 ⁷The particular result does not matter, but the fundamental error does. 
 ⁸The correction is always the same. 
 ⁹Before you choose to do anything, ask me if your choice is in accord with mine. 
-^10^If you are sure that it is, there will be no fear.
+¹⁰If you are sure that it is, there will be no fear.
 </p>
 
 #### expanded
@@ -1632,7 +1632,7 @@ BehA.V.I.our and fear are the outcomes of misthought. Correction and healing can
 ⁷The particular result does not matter, but the fundamental error does. 
 ⁸The correction is always the same. 
 ⁹Before you choose to do anything, ask me if your choice is in accord with mine [my choice]. 
-^10^If you are sure that it [your choice] is [in accord with my choice], there will be no fear.
+¹⁰If you are sure that it [your choice] is [in accord with my choice], there will be no fear.
 
 #### substituted
 
@@ -1645,7 +1645,7 @@ BehA.V.I.our and fear are the outcomes of misthought. Correction and healing can
 ⁷The particular result does not matter, but the fundamental error does. 
 ⁸The correction is always the same. 
 ⁹Before you choose to do anything, ask me if your choice is in accord with my choice. 
-^10^If you are sure that your choice is in accord with my choice, there will be no fear.
+¹⁰If you are sure that your choice is in accord with my choice, there will be no fear.
 
 #### simplified
 
@@ -1687,7 +1687,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 ⁷This arouses a sense of coercion that usually produces rage, and projection is likely to follow. 
 ⁸Whenever there is fear, it is because you have not made up your mind. 
 ⁹Your mind is therefore split, and your behA.V.I.our inevitably becomes erratic. 
-^10^Correcting at the behA.V.I.oural level can shift the error from the first to the second type, but will not obliterate the fear.
+¹⁰Correcting at the behA.V.I.oural level can shift the error from the first to the second type, but will not obliterate the fear.
 </p>
 
 #### expanded
@@ -1701,7 +1701,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 ⁷This [doing what you do not wholly want to do] arouses a sense of coercion that usually produces rage, and projection is likely to follow. 
 ⁸Whenever there is fear, it is [fear exists] because you have not made up your mind. 
 ⁹Your mind is therefore split, and your behA.V.I.our inevitably becomes erratic. 
-^10^Correcting at the behA.V.I.oural level can shift the error from the first [doing conflicting things] to the second type [behA.V.I.ng as you think you should behave], but [correcting at the behA.V.I.oural level] will not obliterate the fear.
+¹⁰Correcting at the behA.V.I.oural level can shift the error from the first [doing conflicting things] to the second type [behA.V.I.ng as you think you should behave], but [correcting at the behA.V.I.oural level] will not obliterate the fear.
 
 #### substituted
 
@@ -1714,7 +1714,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 ⁷Doing what you do not wholly want to do arouses a sense of coercion that usually produces rage, and projection is likely to follow. 
 ⁸Whenever there is fear, fear exists because you have not made up your mind. 
 ⁹Your mind is therefore split, and your behA.V.I.our inevitably becomes erratic. 
-^10^Correcting at the behA.V.I.oural level can shift the error from doing confilicting things to behA.V.I.ng as you think you should behave, but correcting at the behA.V.I.oural level will not obliterate the fear.
+¹⁰Correcting at the behA.V.I.oural level can shift the error from doing confilicting things to behA.V.I.ng as you think you should behave, but correcting at the behA.V.I.oural level will not obliterate the fear.
 
 #### simplified
 
@@ -1855,10 +1855,10 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ⁷Every instant it is creating. 
 ⁸It is hard to recognise that thought and belief combine into a power surge that can literally move mountains. 
 ⁹It appears at first glance that to believe such power about yourself is arrogant, but that is not the real reason you do not believe it. 
-^10^You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them. 
-^11^This may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
-^12^If you believe that what you think is ineffectual you may cease to be afraid of it, but you are hardly likely to respect it. 
-^13^There *are* no idle thoughts. 
+¹⁰You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them. 
+¹¹This may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
+¹²If you believe that what you think is ineffectual you may cease to be afraid of it, but you are hardly likely to respect it. 
+¹³There *are* no idle thoughts. 
 ^14^All thinking produces form at some level.
 ^
 
@@ -1873,10 +1873,10 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ⁷Every instant it [the mind] is creating. 
 ⁸It is hard to recognise that thought and belief combine into a power surge that can literally move mountains. 
 ⁹It appears at first glance that to believe such power about yourself is arrogant, but that [believing such power about yourself is arrogance] is not the real reason you do not believe it [you have power to move mountains]. 
-^10^You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them [your thoughts]. 
-^11^This [believing that your thoughts cannot exert real influence] may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
-^12^If you believe that what you think is ineffectual you may cease to be afraid of it [the mind], but you are hardly likely to respect it [the mind]. 
-^13^There *are* no idle thoughts. 
+¹⁰You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them [your thoughts]. 
+¹¹This [believing that your thoughts cannot exert real influence] may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
+¹²If you believe that what you think is ineffectual you may cease to be afraid of it [the mind], but you are hardly likely to respect it [the mind]. 
+¹³There *are* no idle thoughts. 
 ^14^All thinking produces form at some level.
 
 #### substituted
@@ -1890,10 +1890,10 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ⁷Every instant the mind is creating. 
 ⁸It is hard to recognise that thought and belief combine into a power surge that can literally move mountains. 
 ⁹It appears at first glance that to believe such power about yourself is arrogant, but believing such power about yourself is arrogance is not the real reason you do not believe you have power to move mountains. 
-^10^You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of your thoughts. 
-^11^Believing that your thoughts cannot exert real influence may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
-^12^If you believe that what you think is ineffectual you may cease to be afraid of the mind, but you are hardly likely to respect the mind. 
-^13^There *are* no idle thoughts. 
+¹⁰You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of your thoughts. 
+¹¹Believing that your thoughts cannot exert real influence may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
+¹²If you believe that what you think is ineffectual you may cease to be afraid of the mind, but you are hardly likely to respect the mind. 
+¹³There *are* no idle thoughts. 
 ^14^All thinking produces form at some level.
 
 #### simplified
@@ -1926,7 +1926,7 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 ⁷It is much more helpful to remind you that you do not guard your thoughts carefully enough. 
 ⁸You may feel that at this point it would take a miracle to enable you to do this, which is perfectly true. 
 ⁹You are not used to miracle-minded thinking, but you can be trained to think that way. 
-^10^All miracle workers need that kind of training.
+¹⁰All miracle workers need that kind of training.
 </p>
 
 #### expanded
@@ -1940,7 +1940,7 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 ⁷It is much more helpful to remind you that you do not guard your thoughts carefully enough. 
 ⁸You may feel that at this point it would take a miracle to enable you to do this [guard your thoughts carefully enough], which [taking a miracle] is perfectly true. 
 ⁹You are not used to miracle-minded thinking, but you can be trained to think that [in a miracle-minded] way. 
-^10^All miracle workers need that kind of [miracle-minded] training.
+¹⁰All miracle workers need that kind of [miracle-minded] training.
 
 #### substituted
 
@@ -1953,7 +1953,7 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 ⁷It is much more helpful to remind you that you do not guard your thoughts carefully enough. 
 ⁸You may feel that at this point it would take a miracle to enable you to guard your thoughts carefully enough; taking a miracle is perfectly true. 
 ⁹You are not used to miracle-minded thinking, but you can be trained to think in a miracle-minded way. 
-^10^All miracle workers need miracle-minded training.
+¹⁰All miracle workers need miracle-minded training.
 
 #### simplified
 
@@ -2014,10 +2014,10 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ⁷You would not have done this if you were not afraid of your own thoughts. 
 ⁸The fearful *must* miscreate, because they misperceive creation. 
 ⁹When you miscreate you are in pain. 
-^10^The cause and effect principle now becomes a real expediter, though only temporarily. 
-^11^Actually, ‘Cause’ is a term properly belonging to God, and His ‘Effect’ is His Son. 
-^12^This entails a set of Cause and Effect relationships totally different from those you introduce into miscreation. 
-^13^The fundamental conflict in this world, then, is between creation and miscreation. 
+¹⁰The cause and effect principle now becomes a real expediter, though only temporarily. 
+¹¹Actually, ‘Cause’ is a term properly belonging to God, and His ‘Effect’ is His Son. 
+¹²This entails a set of Cause and Effect relationships totally different from those you introduce into miscreation. 
+¹³The fundamental conflict in this world, then, is between creation and miscreation. 
 ^14^All fear is implicit in the second, and all love in the first. 
 ^15^The conflict is therefore one between love and fear.
 </p>
@@ -2033,10 +2033,10 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ⁷You would not have done this [misperceived Us] if you were not afraid of your own thoughts. 
 ⁸The fearful *must* miscreate, because they [the fearful] misperceive creation. 
 ⁹When you miscreate you are in pain. 
-^10^The cause and effect principle now becomes a real expediter, though only temporarily. 
-^11^Actually, ‘Cause’ is a term properly belonging to God, and His [God’s] ‘Effect’ is His [God’s] Son. 
-^12^This [God’s effect is God’s Son] entails a set of Cause and Effect relationships totally different from those [the cause and effect relationships] you introduce into miscreation. 
-^13^The fundamental conflict in this world, then, is between creation and miscreation. 
+¹⁰The cause and effect principle now becomes a real expediter, though only temporarily. 
+¹¹Actually, ‘Cause’ is a term properly belonging to God, and His [God’s] ‘Effect’ is His [God’s] Son. 
+¹²This [God’s effect is God’s Son] entails a set of Cause and Effect relationships totally different from those [the cause and effect relationships] you introduce into miscreation. 
+¹³The fundamental conflict in this world, then, is between creation and miscreation. 
 ^14^All fear is implicit in the second [miscreation], and all love in the first [creation]. 
 ^15^The conflict is therefore one between love and fear.
 
@@ -2051,10 +2051,10 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ⁷You would not have misperceived Us if you were not afraid of your own thoughts. 
 ⁸The fearful *must* miscreate, because the fearful misperceive creation. 
 ⁹When you miscreate you are in pain. 
-^10^The cause and effect principle now becomes a real expediter, though only temporarily. 
-^11^Actually, ‘Cause’ is a term properly belonging to God, and God’s ‘Effect’ is God’s Son. 
-^12^God’s effect is God’s Son entails a set of Cause and Effect relationships totally different from the cause and effect relationships you introduce into miscreation. 
-^13^The fundamental conflict in this world, then, is between creation and miscreation. 
+¹⁰The cause and effect principle now becomes a real expediter, though only temporarily. 
+¹¹Actually, ‘Cause’ is a term properly belonging to God, and God’s ‘Effect’ is God’s Son. 
+¹²God’s effect is God’s Son entails a set of Cause and Effect relationships totally different from the cause and effect relationships you introduce into miscreation. 
+¹³The fundamental conflict in this world, then, is between creation and miscreation. 
 ^14^All fear is implicit in miscreation, and all love in creation. 
 ^15^The conflict is therefore one between love and fear.
 
@@ -2104,10 +2104,10 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ⁷However, to concentrate on error is only a further error. 
 ⁸The initial corrective procedure is to recognise temporarily that there is a problem, but only as an indication that immediate correction is needed. 
 ⁹This establishes a state of mind in which the Atonement can be accepted without delay. 
-^10^It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
-^11^Time is essentially a device by which all compromise in this respect can be given up. 
-^12^It only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
-^13^Miscreation made this necessary as a corrective device. 
+¹⁰It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
+¹¹Time is essentially a device by which all compromise in this respect can be given up. 
+¹²It only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
+¹³Miscreation made this necessary as a corrective device. 
 ^14^The statement “For God so loved the world that he gave his only begotten Son, that whosoever believes in him should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He gave it *to* His only begotten Son”.
 </p>
 
@@ -2122,10 +2122,10 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ⁷However, to concentrate on error is only a further error. 
 ⁸The initial corrective procedure is to recognise temporarily that there is a problem, but only as an indication that immediate correction is needed. 
 ⁹This [temporary recognition of a problem] establishes a state of mind in which [state of mind] the Atonement can be accepted without delay. 
-^10^It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
-^11^Time is essentially a device by which [time] all compromise in this respect [between everything and nothing] can be given up. 
-^12^It [time] only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
-^13^Miscreation made this [time] necessary as a corrective device. 
+¹⁰It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
+¹¹Time is essentially a device by which [time] all compromise in this respect [between everything and nothing] can be given up. 
+¹²It [time] only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
+¹³Miscreation made this [time] necessary as a corrective device. 
 ^14^The statement “For God so loved the world that he [God] gave his [God’s] only begotten Son, that whosoever believes in him [God’s Son] should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He [God] gave it [the world] *to* His [God’s] only begotten Son”.
 
 #### substituted
@@ -2139,10 +2139,10 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ⁷However, to concentrate on error is only a further error. 
 ⁸The initial corrective procedure is to recognise temporarily that there is a problem, but only as an indication that immediate correction is needed. 
 ⁹Temporary recognition of a problem establishes a state of mind where the Atonement can be accepted without delay. 
-^10^It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
-^11^Time is essentially a device; by time all compromise between everything and nothing can be given up. 
-^12^Time only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
-^13^Miscreation made time necessary as a corrective device. 
+¹⁰It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
+¹¹Time is essentially a device; by time all compromise between everything and nothing can be given up. 
+¹²Time only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
+¹³Miscreation made time necessary as a corrective device. 
 ^14^The statement “For God so loved the world that God gave God’s only begotten Son, that whosoever believes in God’s Son should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “God gave the world *to* God’s only begotten Son”.
 
 #### simplified
@@ -2495,8 +2495,8 @@ First sort out the false from the true. Sorting out the false from the true is c
 ⁷This is what your right-mindedness cannot but dictate. 
 ⁸The purpose of time is solely to ‘give you time’ to achieve this judgement. 
 ⁹It is your own perfect judgement of your own perfect creations. 
-^10^When everything you retain is loveable, there is no reason for fear to remain with you. 
-^11^This is your part in the Atonement.
+¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
+¹¹This is your part in the Atonement.
 </p>
 
 #### expanded
@@ -2510,8 +2510,8 @@ First sort out the false from the true. Sorting out the false from the true is c
 ⁷This [retaining what is creative and good] is what your right-mindedness cannot but [i.e. must] dictate. 
 ⁸The purpose of time is solely to ‘give you time’ to achieve this judgement [of what is creative and good]. 
 ⁹It [judging what is perfect and good] is your own perfect judgement of your own perfect creations. 
-^10^When everything you retain is loveable, there is no reason for fear to remain with you. 
-^11^This [to retain what is loveable] is your part in the Atonement.
+¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
+¹¹This [to retain what is loveable] is your part in the Atonement.
 
 #### substituted
 
@@ -2524,8 +2524,8 @@ First sort out the false from the true. Sorting out the false from the true is c
 ⁷Retaining what is creative and good is what your right-mindedness must dictate. 
 ⁸The purpose of time is solely to ‘give you time’ to achieve this judgement of what is creative and good. 
 ⁹Judgeing what is perfect and good is your own perfect judgement of your own perfect creations. 
-^10^When everything you retain is loveable, there is no reason for fear to remain with you. 
-^11^To retain what is loveable is your part in the Atonement.
+¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
+¹¹To retain what is loveable is your part in the Atonement.
 
 #### simplified
 
