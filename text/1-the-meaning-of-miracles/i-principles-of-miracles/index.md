@@ -7,6 +7,8 @@ eleventyNavigation:
   title: T-1.I Principles of Miracles
   parent: T-1
   order: 1
+prev: T-in
+next: T-1.II
 ---
 
 

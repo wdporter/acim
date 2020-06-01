@@ -7,6 +7,8 @@ eleventyNavigation:
   title: T-1.III Atonement and Miracles
   parent: T-1
   order: 3
+prev: T-1.II
+next: T-1.IV
 ---
 
 1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. 

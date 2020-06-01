@@ -20,28 +20,24 @@ layout: mylayout.njk
 </main>
 
 <p style=overflow:auto>
-{% if prev %}<span>←{{prev | safe}}</span>{% endif %}
-{% if next %}<span style=float:right>{{next | safe}}→</span>{% endif %}
-</p>
+{# {% if prev %}<span>←{{prev | safe}}</span>{% endif %} 
+{% if next %}<span style=float:right>{{next | safe}}→</span>{% endif %} #}
 
-<p style="background-color: yellow; overflow: auto">
-{% set navPages = collections.all | eleventyNavigation() %}
-{% set found = false %}
-{% set keepgoing = true %}
-{%- for entry in navPages %}
-	{%- if keepgoing %}
-		{%- if found %}
-			<span style=float:right><a href={{entry.url}}>{{entry.title}}</a>→</span>
-			{% set keepgoing = false %}
-		{%- endif %}
-		{%- if entry.key == reference %}
-			{% set found = true %}
-			{%- if prev %}
-				<span>←<a href={{prev.url}}>{{prev.title}}</a></span>
-			{%- endif %}
-		{%- else %}
-			{% set prev = entry %}
-		{%- endif %}
-	{%- endif %}
-{%- endfor %}
+
+{% set navPages = collections.all | eleventyNavigation %}
+{% macro renderNavListItem(entry) -%}
+	{%- if entry.key == prev -%}
+	  <span>← <a href="{{ entry.url | url }}">{{ entry.title }}</a></span>
+	{%- endif -%}
+	{%- if entry.key == next -%}
+	  <span style=float:right><a href="{{ entry.url | url }}">{{ entry.title }}</a> →</span>
+	{%- endif -%}
+
+	{%- if entry.children.length -%}
+		{%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+	{%- endif -%}
+
+{%- endmacro %}
+
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
 </p>

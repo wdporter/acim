@@ -7,6 +7,8 @@ eleventyNavigation:
   title: T-1.II Revelation, Time and Miracles
   parent: T-1
   order: 1
+prev: T-1.I
+next: T-1.III
 ---
 
 1.&emsp;Revelation induces complete but temporary suspension of doubt and fear. 
