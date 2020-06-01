@@ -20,9 +20,7 @@ next: T-1.VI
 ⁷You can destroy your medium of communication, but not your potential. 
 ⁸You did not create yourself.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 The miracle is much like the body in that both [miracle and body] are learning aids for facilitating a state in which they [miracle and body] become unnecessary. 
 ²When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
@@ -33,7 +31,9 @@ The miracle is much like the body in that both [miracle and body] are learning a
 ⁷You can destroy your medium of communication, but [you can] not [destroy] your potential. 
 ⁸You did not create yourself.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 The miracle is much like the body in that miracle and body are learning aids for facilitating a state in which miracle and body become unnecessary. 
 ²When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
@@ -44,7 +44,9 @@ The miracle is much like the body in that miracle and body are learning aids for
 ⁷You can destroy your medium of communication, but you can not destroy your potential. 
 ⁸You did not create yourself.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 The miracle and the body are learning aids. 
 You can choose to express miracles. 
@@ -61,9 +63,7 @@ You did not create yourself.
 ⁵Equality does not imply equality *now*. 
 ⁶When everyone recognises that he has everything, individual contributions to the Sonship will no longer be necessary.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ²Time can waste as well as be wasted. 
@@ -72,7 +72,9 @@ The basic decision of the miracle-minded is not to wait on time any longer than 
 ⁵Equality does not imply equality *now*. 
 ⁶When everyone recognises that he [one] has everything, individual contributions to the Sonship will no longer be necessary.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ²Time can waste as well as be wasted. 
@@ -81,7 +83,9 @@ The basic decision of the miracle-minded is not to wait on time any longer than 
 ⁵Equality does not imply equality *now*. 
 ⁶When everyone recognises that one has everything, individual contributions to the Sonship will no longer be necessary.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 Collapse time by recognising you have everything. 
 Every collapse brings everyone closer to knowledge of oneness.
@@ -103,9 +107,7 @@ Every collapse brings everyone closer to knowledge of oneness.
 ⁷If they believe they are deprived of anything, their perception becomes distorted. 
 ⁸When this occurs the whole family of God, or the Sonship, is impaired in its relationships.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
@@ -116,7 +118,9 @@ When the Atonement has been completed, all talents will be shared by all the Son
 ⁷If they [my brothers] believe they [my brothers] are deprived of anything, their [my brothers’] perception becomes distorted. 
 ⁸When this occurs [perception becomes distorted] the whole family of God, or the Sonship, is impaired in its [the family of God’s] relationships.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
@@ -127,7 +131,9 @@ When the Atonement has been completed, all talents will be shared by all the Son
 ⁷If my brothers believe my brothers are deprived of anything, my brothers’ perception becomes distorted. 
 ⁸When perception becomes distorted the whole family of God, or the Sonship, is impaired in the family of God’s relationships.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 All are children of God. 
 All are dependent on God. 
@@ -136,6 +142,8 @@ All are special.
 Do not believe you are deprived of anything. 
 Believing in deprivation distorts perceptions. 
 Distorted perceptions create distorted relationships.
+
+:::
 
 <!--::: details Commentary
 (4) Since guilt makes God into an ememy, recognising our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, F.A.J., p. 171.)
@@ -149,8 +157,6 @@ Distorted perceptions create distorted relationships.
 (6) The true teacher of God … is not one with a *special* mission, nor a *special* gift to give others *special* messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in reïnforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
 ::: -->
 
-:::
-
 ---
 
 4.&emsp;Ultimately, every member of the family of God must return. 
@@ -160,9 +166,7 @@ Distorted perceptions create distorted relationships.
 ⁵The creation is whole, and the mark of wholeness is holiness. 
 ⁶Miracles are affirmations of Sonship, which is a state of completion and abundance.
 
-::: details Annotations 
-
-##### Expanded
+::: details Expanded
 
 Ultimately, every member of the family of God must return. 
 ²The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honours him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. 
@@ -171,7 +175,9 @@ Ultimately, every member of the family of God must return.
 ⁵The creation is whole, and the mark of wholeness is holiness. 
 ⁶Miracles are affirmations of Sonship, which is a state of completion and abundance.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 Ultimately, every member of the family of God must return. 
 ²The miracle calls a member of the family of God to return because the miracle blesses and honours a member of the family of God, even though a member of the family of God may be absent in spirit. 
@@ -180,7 +186,10 @@ Ultimately, every member of the family of God must return.
 ⁵The creation is whole, and the mark of wholeness is holiness. 
 ⁶Miracles are affirmations of Sonship, which is a state of completion and abundance.
 
-##### Simplified
+:::
+
+::: details Simplified
+
 All of God’s creations are holy. The miracles calls every member of the family of God to return to a state of completion and abundance.
 
 :::
@@ -195,9 +204,7 @@ All of God’s creations are holy. The miracles calls every member of the family
 ⁶As a result it imprisons, because such are the dictates of tyrants. 
 ⁷To change your mind means to place it at the disposal of *true* Authority.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 Whatever is true is eternal, and cannot change or be changed. 
 ²Spirit is therefore unalterable because it [spirit] is already perfect, but the mind can elect what it [the mind] chooses to serve. 
@@ -207,7 +214,9 @@ Whatever is true is eternal, and cannot change or be changed.
 ⁶As a result it [the mind] imprisons, because such [to imprison] are the dictates of tyrants. 
 ⁷To change your mind means to place it [your mind] at the disposal of *true* Authority.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 Whatever is true is eternal, and cannot change or be changed. 
 ²Spirit is therefore unalterable because spirit is already perfect, but the mind can elect what the mind chooses to serve. 
@@ -217,7 +226,9 @@ Whatever is true is eternal, and cannot change or be changed.
 ⁶As a result the mind imprisons, because to imprison is the dictate of tyrants. 
 ⁷To change your mind means to place it [your mind] at the disposal of *true* Authority.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 The mind can choose to create the same way the spirit creates. 
 Or the mind can become a tyrant and imprison you. 
@@ -234,9 +245,7 @@ Or the mind can become a tyrant and imprison you.
 ⁶However, nothing is less stable than an upside-down orientation. 
 ⁷Nor can anything that holds it upside down be conducive to increased stability.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 The miracle is a sign that the mind has chosen to be led by me in Christ’s service. 
 ²The abundance of Christ is the natural result of choosing to follow Him [Christ]. 
@@ -246,7 +255,9 @@ The miracle is a sign that the mind has chosen to be led by me in Christ’s ser
 ⁶However, nothing is less stable than an upside-down orientation. 
 ⁷Nor can anything that holds it [orientation] upside down be conducive to increased stability.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 The miracle is a sign that the mind has chosen to be led by me in Christ’s service. 
 ²The abundance of Christ is the natural result of choosing to follow Christ. 
@@ -256,7 +267,9 @@ The miracle is a sign that the mind has chosen to be led by me in Christ’s ser
 ⁶However, nothing is less stable than an upside-down orientation. 
 ⁷Nor can anything that holds orientation upside down be conducive to increased stability.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 Following Christ gives the abundance of Christ. 
 The abundance of Christ will keep you stable.
