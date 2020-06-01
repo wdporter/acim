@@ -7,7 +7,7 @@ eleventyNavigation:
   title: X-X.XX My Title
   parent: X-X.XX
   order: 1
-prev: X-X.XX
+prev: X-X
 next: T-1.III
 ---
 
