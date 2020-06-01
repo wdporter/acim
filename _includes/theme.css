@@ -52,16 +52,30 @@ body > nav {
 	font-size: .8rem;
 }
 
-header nav ul {
+body > nav ul {
 	list-style-type: none;
-	margin-bottom: initial;
+	padding-left: initial;
 }
 
-header nav li {
+body > nav li {
 	display: inline;
 }
 
-header nav li + li::before {
+body > nav li + li::before {
+	content: "→";
+}
+
+header > nav ul {
+	list-style-type: none;
+	margin-bottom: initial;
+	padding-left: initial;
+}
+
+header > nav li {
+	display: inline;
+}
+
+header > nav li + li::before {
 	content: " ◆ ";
 }
 

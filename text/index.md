@@ -1,19 +1,10 @@
 ---
-layout: landing.njk
+layout: volume.njk
 title: Text
-breadcrumb: <a href=/>Home</a> → Text
+reference: T
+eleventyNavigation:
+  key: T
+  title: Text
+  parent: H
 ---
-
-### Contents
-
-* [Introduction](/text/introduction)
-* [1. The Meaning of Miracles](/text/1-the-meaning-of-miracles)
-* chapter 2
-* chapter 3
-* chapter 4
-* chapter 5
-* chapter 6
-* chapter 7
-* chapter 8
-
 

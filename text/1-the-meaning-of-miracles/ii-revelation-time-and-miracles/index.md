@@ -2,7 +2,11 @@
 layout: content.njk
 title: Revelation, Time and Miracles
 reference: T-1.II
-breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → <a href=/text/1-the-meaning-of-miracles>1. The Meaning of Miracles</a> → II. Revelation, Time and Miracles
+eleventyNavigation:
+  key: T-1.II
+  title: T-1.II Revelation, Time and Miracles
+  parent: T-1
+  order: 1
 prev: <a href=/text/1-the-meaning-of-miracles/i-principles-of-miracles>T-1.I Principles of Miracles</a>
 next: <a href=/text/1-the-meaning-of-miracles/iii-atonement-and-miracles>T-1.III Atonement and Miracles</a>
 ---

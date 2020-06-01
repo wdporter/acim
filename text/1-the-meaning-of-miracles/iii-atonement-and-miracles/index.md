@@ -2,7 +2,11 @@
 layout: content.njk
 title: Atonement and Miracles
 reference: T-1.III
-breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → <a href=/text/1-the-meaning-of-miracles>1. The Meaning of Miracles</a> → III. Atonement and Miracles
+eleventyNavigation:
+  key: T-1.III
+  title: T-1.III Atonement and Miracles
+  parent: T-1
+  order: 3
 prev: <a href=/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles>T-1.II Revelation, Time and Miracles</a>
 next: <a href=/text/1-the-meaning-of-miracles/iv-atonement-and-miracles>T-1.IV The Escape from Darkness</a>
 ---

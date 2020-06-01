@@ -1,9 +1,12 @@
 ---
-layout: mylayout.njk
+layout: home.njk
 title: Home
 eleventyNavigation:
-  key: Home
+  key: H
+  title: Home
 ---
+
+<main>
 
 ### Text
 
@@ -38,3 +41,5 @@ Further, the act of teaching is regarded as a special activity in which one enga
 The course, on the other hand, emphasises that to teach is to learn, so that teacher and learner are the same. 
 It also emphasises that teaching is a constant process; it goes on every moment of the day and continues into sleeping thoughts as well. 
 [🡕](/manual/)
+
+</main>

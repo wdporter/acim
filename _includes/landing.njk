@@ -1,7 +1,32 @@
 ---
 layout: mylayout.njk
 ---
+<nav>
+{% set navPages = collections.all | eleventyNavigationBreadcrumb(reference) %}
+<ul>
+{%- for entry in navPages %}
+  <li>
+    <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+{%- endfor %}
+  <li>
+    {{reference}} {{ title }}
+</ul>
+</nav>
+
+<main>
 
 <h2>{{ reference }} {{ title | upper }}</h2>
 
-{{ content | safe }}
+<h3> Contents </h3>
+
+{% set navPages = collections.all | eleventyNavigation(reference) %}
+<ul>
+{%- for entry in navPages %}
+  <li><a href="{{ entry.url | url }}">{{ entry.title }}</a>
+{%- endfor %}
+</ul>
+
+
+
+
+</main>

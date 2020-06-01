@@ -26,15 +26,9 @@ title: Home
 		</nav>
 	</header>
 
-<nav>
-{{ breadcrumb | safe }}
-</nav>
 
 {{ content | safe }}
 
-<p style=overflow:auto>
-{% if prev %}<span>←{{prev | safe}}</span>{% endif %}
-{% if next %}<span style=float:right>{{next | safe}}→</span>{% endif %}
-</p>
-
 <footer>© No claims made. No permissions sought or granted. </footer>
+
+
