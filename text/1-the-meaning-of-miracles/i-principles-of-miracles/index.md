@@ -3,9 +3,6 @@ layout: content.njk
 title: Principles of Miracles
 reference: T-1.I
 breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → <a href=/text/1-the-meaning-of-miracles>1. The Meaning of Miracles</a> → I. Principles of Miracles
-eleventyNavigation:
-	key: {{title}}
-	parent: 1. The Meaning of Miracles
 prev: <a href=/text/introduction>T-in Introduction</a>
 next: <a href=/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles>T-1.II Revelation, Time and Miracles</a>
 ---

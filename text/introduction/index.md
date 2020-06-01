@@ -4,9 +4,6 @@ title: Introduction
 reference: T-in
 breadcrumb: <a href=/>Home</a> → <a href=/text/>Text</a> → Introduction
 isChapter: true
-eleventyNavigation:
-	key: Introduction
-	parent: Text
 next: <a href=/text/1-the-meaning-of-miracles/i-principles-of-miracles>T-1.I Principles of Miracles</a>
 ---
 

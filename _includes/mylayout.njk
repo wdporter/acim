@@ -13,7 +13,7 @@ title: Home
 	{% include "theme.css" %}
 {% endset %}
 <style>{{ css | cssmin | safe }}</style>
-<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link rel="stylesheet" href="https://fonts.xz.style/serve/open-sans.css">
 <body>
 	<header>
 		<h1>{{ sitetitle | upper }}</h1>
@@ -28,8 +28,6 @@ title: Home
 
 <nav>
 {{ breadcrumb | safe }}
-{% set navPages = collections.all | eleventyNavigationBreadcrumb(title) %}
-{{ navPages | dump | safe }}
 </nav>
 
 {{ content | safe }}
