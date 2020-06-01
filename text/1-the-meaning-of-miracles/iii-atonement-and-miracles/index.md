@@ -7,8 +7,6 @@ eleventyNavigation:
   title: T-1.III Atonement and Miracles
   parent: T-1
   order: 3
-prev: <a href=/text/1-the-meaning-of-miracles/ii-revelation-time-and-miracles>T-1.II Revelation, Time and Miracles</a>
-next: <a href=/text/1-the-meaning-of-miracles/iv-atonement-and-miracles>T-1.IV The Escape from Darkness</a>
 ---
 
 1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. 

@@ -7,7 +7,6 @@ eleventyNavigation:
   title: T-in Introduction
   parent: T
   order: 0
-next: <a href=/text/1-the-meaning-of-miracles/i-principles-of-miracles>T-1.I Principles of Miracles</a>
 ---
 
 

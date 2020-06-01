@@ -7,8 +7,6 @@ eleventyNavigation:
   title: T-1.II Revelation, Time and Miracles
   parent: T-1
   order: 1
-prev: <a href=/text/1-the-meaning-of-miracles/i-principles-of-miracles>T-1.I Principles of Miracles</a>
-next: <a href=/text/1-the-meaning-of-miracles/iii-atonement-and-miracles>T-1.III Atonement and Miracles</a>
 ---
 
 1.&emsp;Revelation induces complete but temporary suspension of doubt and fear. 
