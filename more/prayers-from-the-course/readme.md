@@ -19,18 +19,20 @@ Here I am.
 Spirit is in a state of grace forever.  
 Your reality is only spirit.  
 Therefore you are in a state of grace forever.  
-—([T-1.III.5:4–6 🡕](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles#5))
+—[T-1.III.5:4–6 🡕](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles#5)
 
 ## Perfect Love Casts out Fear
 
 Perfect love casts out fear.  
 If fear exists,  
 Then there is not perfect love.  
+
 &emsp;&emsp;But:  
+
 Only perfect love exists.  
 If there is fear,  
 It produces a state that does not exist.  
-([T-1.VI.5:4–8](/text/1-the-meaning-of-miracles/#t-1-vi-5))
+—[T-1.VI.5:4–8](/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs)
 
 ## I am Here Only to be Truly Helpful 
 

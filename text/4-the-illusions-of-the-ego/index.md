@@ -4639,7 +4639,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 <sup>2</sup>The ego is thus against communication, except insofar as it is utilised to establish separateness rather than to abolish it. 
 <sup>3</sup>The communication system of the ego is based on its own thought system, as is everything else it dictates. 
 <sup>4</sup>Its communication is controlled by its need to protect itself, and it will disrupt communication when it experiences threat. 
-<sup>5</sup>This disruption is a reaction to a specific person or persons. 
+<sup>5</sup>This disruption is a reäction to a specific person or persons. 
 <sup>6</sup>The specificity of the ego’s thinking, then, results in spurious generalisation which is really not abstract at all. 
 <sup>7</sup>It merely responds in certain specific ways to everything it perceives as related.
 </p>
@@ -4650,7 +4650,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 <sup>2</sup>The ego is thus against communication, except insofar as it [communication] is utilised to establish separateness rather than to abolish it [separateness]. 
 <sup>3</sup>The communication system of the ego is based on its [the-ego’s] own thought system, as is everything else it [the ego] dictates. 
 <sup>4</sup>Its [the-ego’s] communication is controlled by its [the-ego’s] need to protect itself [the-ego’s-self], and it [the ego] will disrupt communication when it [the ego] experiences threat. 
-<sup>5</sup>This disruption [of communication] is a reaction to a specific person or persons. 
+<sup>5</sup>This disruption [of communication] is a reäction to a specific person or persons. 
 <sup>6</sup>The specificity of the ego’s thinking, then, results in spurious generalisation which [generalisation] is really not abstract at all. 
 <sup>7</sup>It [the ego] merely responds in certain specific ways to everything it [the ego] perceives as related.
 
@@ -4660,7 +4660,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 <sup>2</sup>The ego is thus against communication, except insofar as communication is utilised to establish separateness rather than to abolish separateness. 
 <sup>3</sup>The communication system of the ego is based on the-ego’s own thought system, as is everything else the ego dictates. 
 <sup>4</sup>The-ego’s communication is controlled by the-ego’s need to protect the-ego’s-self, and the ego will disrupt communication when the ego experiences threat. 
-<sup>5</sup>The disruption of communication is a reaction to a specific person or persons. 
+<sup>5</sup>The disruption of communication is a reäction to a specific person or persons. 
 <sup>6</sup>The specificity of the ego’s thinking, then, results in spurious generalisation, generalisation is really not abstract at all. 
 <sup>7</sup>The ego merely responds in certain specific ways to everything the ego perceives as related.
 

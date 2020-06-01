@@ -117,14 +117,14 @@ The miracle heals all misperceptions. Health is inner peace. With health you can
 
 ## II. The Atonement as Defence
 
-<a id=t-2-ii-1></a>1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰This peace is totally incapable of being shaken by errors of any kind. ¹¹It denies the ability of anything not of God to affect you. ¹²This is the proper use of denial. ¹³It is not used to hide anything, but to correct error. ^14^It brings all error into the light, and since error and darkness are the same, it corrects error automatically.
+<a id=t-2-ii-1></a>1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰This peace is totally incapable of being shaken by errors of any kind. ¹¹It denies the ability of anything not of God to affect you. ¹²This is the proper use of denial. ¹³It is not used to hide anything, but to correct error. ¹⁴It brings all error into the light, and since error and darkness are the same, it corrects error automatically.
 
 
 ::: details Expanded
-1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they [miracles] cannot do, but they [miracles] cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its [the thing’s] power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power [your understanding] will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰This peace [the peace of God which passes understanding] is totally incapable of being shaken by errors of any kind. ¹¹It [the peace of God which passes understanding] denies the ability of anything not of God to affect you. ¹²This [denying the ability of anything not of God to affect you] is the proper use of denial. ¹³It [denying anything not of God can affect you] is not used to hide anything, but to correct error. ^14^It [denying anything not of God can affect you] brings all error into the light, and since error and darkness are the same, it [denying anything not of God can affect you] corrects error automatically.
+1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing they [miracles] cannot do, but they [miracles] cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging its [the thing’s] power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power [your understanding] will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰This peace [the peace of God which passes understanding] is totally incapable of being shaken by errors of any kind. ¹¹It [the peace of God which passes understanding] denies the ability of anything not of God to affect you. ¹²This [denying the ability of anything not of God to affect you] is the proper use of denial. ¹³It [denying anything not of God can affect you] is not used to hide anything, but to correct error. ¹⁴It [denying anything not of God can affect you] brings all error into the light, and since error and darkness are the same, it [denying anything not of God can affect you] corrects error automatically.
 :::
 ::: details Substituted
-1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing miracles cannot do, but miracles cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging the thing’s power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power your understanding will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰The peace of God which passes understanding is totally incapable of being shaken by errors of any kind. ¹¹The peace of God which passes understanding denies the ability of anything not of God to affect you. ¹²Denying the ability of anything not of God to affect you is the proper use of denial. ¹³Denying anything not of God can affect you is not used to hide anything, but to correct error. ^14^Denying anything not of God can affect you brings all error into the light, and since error and darkness are the same, denying anything not of God can affect you corrects error automatically.
+1.&emsp;You can do anything I ask. ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. ³There is nothing miracles cannot do, but miracles cannot be performed in the spirit of doubt or fear. ⁴When you are afraid of anything, you are acknowledging the thing’s power to hurt you. ⁵Remember that where your heart is, there is your treasure also. ⁶You believe in what you value. ⁷If you are afraid, you are valuing wrongly. ⁸Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power your understanding will inevitably destroy peace. ⁹That is why the Bible speaks of “the peace of God which passes understanding”. ¹⁰The peace of God which passes understanding is totally incapable of being shaken by errors of any kind. ¹¹The peace of God which passes understanding denies the ability of anything not of God to affect you. ¹²Denying the ability of anything not of God to affect you is the proper use of denial. ¹³Denying anything not of God can affect you is not used to hide anything, but to correct error. ¹⁴Denying anything not of God can affect you brings all error into the light, and since error and darkness are the same, denying anything not of God can affect you corrects error automatically.
 :::
 ::: details Simplified
 Do not be afraid. Do not allow anything not of God to affect you. 
@@ -1870,7 +1870,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ¹¹This may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
 ¹²If you believe that what you think is ineffectual you may cease to be afraid of it, but you are hardly likely to respect it. 
 ¹³There *are* no idle thoughts. 
-^14^All thinking produces form at some level.
+¹⁴All thinking produces form at some level.
 ^
 
 #### expanded
@@ -1888,7 +1888,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ¹¹This [believing that your thoughts cannot exert real influence] may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
 ¹²If you believe that what you think is ineffectual you may cease to be afraid of it [the mind], but you are hardly likely to respect it [the mind]. 
 ¹³There *are* no idle thoughts. 
-^14^All thinking produces form at some level.
+¹⁴All thinking produces form at some level.
 
 #### substituted
 
@@ -1905,7 +1905,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ¹¹Believing that your thoughts cannot exert real influence may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
 ¹²If you believe that what you think is ineffectual you may cease to be afraid of the mind, but you are hardly likely to respect the mind. 
 ¹³There *are* no idle thoughts. 
-^14^All thinking produces form at some level.
+¹⁴All thinking produces form at some level.
 
 #### simplified
 
@@ -2029,7 +2029,7 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ¹¹Actually, ‘Cause’ is a term properly belonging to God, and His ‘Effect’ is His Son. 
 ¹²This entails a set of Cause and Effect relationships totally different from those you introduce into miscreation. 
 ¹³The fundamental conflict in this world, then, is between creation and miscreation. 
-^14^All fear is implicit in the second, and all love in the first. 
+¹⁴All fear is implicit in the second, and all love in the first. 
 ^15^The conflict is therefore one between love and fear.
 </p>
 
@@ -2048,7 +2048,7 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ¹¹Actually, ‘Cause’ is a term properly belonging to God, and His [God’s] ‘Effect’ is His [God’s] Son. 
 ¹²This [God’s effect is God’s Son] entails a set of Cause and Effect relationships totally different from those [the cause and effect relationships] you introduce into miscreation. 
 ¹³The fundamental conflict in this world, then, is between creation and miscreation. 
-^14^All fear is implicit in the second [miscreation], and all love in the first [creation]. 
+¹⁴All fear is implicit in the second [miscreation], and all love in the first [creation]. 
 ^15^The conflict is therefore one between love and fear.
 
 #### substituted
@@ -2066,7 +2066,7 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ¹¹Actually, ‘Cause’ is a term properly belonging to God, and God’s ‘Effect’ is God’s Son. 
 ¹²God’s effect is God’s Son entails a set of Cause and Effect relationships totally different from the cause and effect relationships you introduce into miscreation. 
 ¹³The fundamental conflict in this world, then, is between creation and miscreation. 
-^14^All fear is implicit in miscreation, and all love in creation. 
+¹⁴All fear is implicit in miscreation, and all love in creation. 
 ^15^The conflict is therefore one between love and fear.
 
 #### simplified
@@ -2119,7 +2119,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ¹¹Time is essentially a device by which all compromise in this respect can be given up. 
 ¹²It only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
 ¹³Miscreation made this necessary as a corrective device. 
-^14^The statement “For God so loved the world that he gave his only begotten Son, that whosoever believes in him should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He gave it *to* His only begotten Son”.
+¹⁴The statement “For God so loved the world that he gave his only begotten Son, that whosoever believes in him should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He gave it *to* His only begotten Son”.
 </p>
 
 #### expanded
@@ -2137,7 +2137,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ¹¹Time is essentially a device by which [time] all compromise in this respect [between everything and nothing] can be given up. 
 ¹²It [time] only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
 ¹³Miscreation made this [time] necessary as a corrective device. 
-^14^The statement “For God so loved the world that he [God] gave his [God’s] only begotten Son, that whosoever believes in him [God’s Son] should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He [God] gave it [the world] *to* His [God’s] only begotten Son”.
+¹⁴The statement “For God so loved the world that he [God] gave his [God’s] only begotten Son, that whosoever believes in him [God’s Son] should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He [God] gave it [the world] *to* His [God’s] only begotten Son”.
 
 #### substituted
 
@@ -2154,7 +2154,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ¹¹Time is essentially a device; by time all compromise between everything and nothing can be given up. 
 ¹²Time only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
 ¹³Miscreation made time necessary as a corrective device. 
-^14^The statement “For God so loved the world that God gave God’s only begotten Son, that whosoever believes in God’s Son should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “God gave the world *to* God’s only begotten Son”.
+¹⁴The statement “For God so loved the world that God gave God’s only begotten Son, that whosoever believes in God’s Son should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “God gave the world *to* God’s only begotten Son”.
 
 #### simplified
 

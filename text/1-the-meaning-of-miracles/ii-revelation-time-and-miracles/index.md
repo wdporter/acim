@@ -98,7 +98,7 @@ Miracles are useful actions for others, until you are ready for revelation.
 ³You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
 ⁵Equals should not be in awe of one another because awe implies inequality. 
-⁶It is therefore an inappropriate reaction to me. 
+⁶It is therefore an inappropriate reäction to me. 
 ⁷An elder brother is entitled to respect for his greater experience, and obedience for his greater wisdom. 
 ⁸He is also entitled to love because he is a brother, and to devotion if he is devoted. 
 ⁹It is only my devotion that entitles me to yours. 
@@ -113,7 +113,7 @@ Awe should be reserved for revelation, to which [revelation] it [awe] is perfect
 ³You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
 ⁵Equals should not be in awe of one another [other equals] because awe implies inequality. 
-⁶It [awe] is therefore an inappropriate reaction to me. 
+⁶It [awe] is therefore an inappropriate reäction to me. 
 ⁷An elder brother is entitled to respect for his [the elder brother’s] greater experience, and obedience for his [the elder brother’s] greater wisdom. 
 ⁸He [an elder brother] is also entitled to love because he [an elder brother] is a brother, and [entitled] to devotion if he [the elder brother] is devoted. 
 ⁹It is only my devotion that entitles me to yours [your devotion]. 
@@ -129,7 +129,7 @@ Awe should be reserved for revelation; to revelation awe is perfectly and correc
 3You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
 ⁵Equals should not be in awe of other equals because awe implies inequality. 
-⁶Awe is therefore an inappropriate reaction to me. 
+⁶Awe is therefore an inappropriate reäction to me. 
 ⁷An elder brother is entitled to respect for the elder brother’s greater experience, and obedience for the elder brother’s greater wisdom. 
 ⁸An elder brother is also entitled to love because an elder brother is a brother, and entitled to devotion if the elder brother is devoted. 
 ⁹It is only my devotion that entitles me to your devotion. 
