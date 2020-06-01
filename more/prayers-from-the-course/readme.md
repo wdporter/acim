@@ -19,7 +19,7 @@ Here I am.
 Spirit is in a state of grace forever.  
 Your reality is only spirit.  
 Therefore you are in a state of grace forever.  
-([T-1.III.5:4–6](/text/1-the-meaning-of-miracles/#t-1-iii-5))
+—([T-1.III.5:4–6 🡕](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles#5))
 
 ## Perfect Love Casts out Fear
 

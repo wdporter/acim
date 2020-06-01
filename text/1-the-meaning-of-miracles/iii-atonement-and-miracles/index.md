@@ -155,7 +155,7 @@ Follow my guidance.
 
 ---
 
-5.&emsp;Error cannot really threaten truth, which can always withstand it. 
+<a id=5></a>5.&emsp;Error cannot really threaten truth, which can always withstand it. 
 ²Only the error is actually vulnerable. 
 ³You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
 
