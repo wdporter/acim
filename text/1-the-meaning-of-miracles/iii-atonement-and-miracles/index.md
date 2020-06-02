@@ -103,7 +103,7 @@ You are wholly lovable and loving.
 
 ---
 
-<a name="t-1-iii-3"></a>3.&emsp;The forgiven are the means of the Atonement. ²Being filled with spirit, they forgive in return. ³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
+3.&emsp;The forgiven are the means of the Atonement. ²Being filled with spirit, they forgive in return. ³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
 
 
 ::: details Expanded
