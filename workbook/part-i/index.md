@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: Part 1
-reference: W-p1
+title: Part I
+reference: W-pI
 eleventyNavigation:
-  key: W-p1
-  title: W-p1 Part 1
+  key: W-pI
+  title: W-pI Part I
   parent: W
   order: 1
 ---

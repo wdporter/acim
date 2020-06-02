@@ -1,8 +1,18 @@
-# PART I
+---
+layout: lesson.njk
+title: Nothing I see … means anything
+lessontitle: Nothing I see in this room [on this street, from this window, in this place] means anything.
+reference: W-pI.1
+eleventyNavigation:
+  key: W-pI.1
+  title: W-pI.1 Nothing I see … means anything
+  parent: W-pI
+  order: 1
+prev: W-in
+next: W-pI.2
+---
 
-# LESSON 1
-
-# Nothing I see in this room [on this street, from this window, in this place] means anything.
+### Nothing I see in this room [on this street, from this window, in this place] means anything.
 
 <a name="w-pi-1-1"></a>
 1.&emsp;Now look slowly around you, and practice applying this idea very specifically to whatever you see:

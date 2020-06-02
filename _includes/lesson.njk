@@ -1,0 +1,39 @@
+---
+layout: mylayout.njk
+---
+<nav>
+{% set navPages = collections.all | eleventyNavigationBreadcrumb(reference) %}
+<ul>
+{%- for entry in navPages %}
+  <li>
+    <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+{%- endfor %}
+  <li>
+    {{reference}} {{ title }}
+</ul>
+</nav>
+
+<main>
+<h2>{{ reference }} {{ lessontitle }}</h2>
+
+{{ content | safe }}
+</main>
+
+<p style=overflow:auto>
+{% set navPages = collections.all | eleventyNavigation %}
+{% macro renderNavListItem(entry) -%}
+	{%- if entry.key == prev -%}
+	  <span>← <a href="{{ entry.url | url }}">{{ entry.title }}</a></span>
+	{%- endif -%}
+	{%- if entry.key == next -%}
+	  <span style=float:right><a href="{{ entry.url | url }}">{{ entry.title }}</a> →</span>
+	{%- endif -%}
+
+	{%- if entry.children.length -%}
+		{%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+	{%- endif -%}
+
+{%- endmacro %}
+
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+</p>
