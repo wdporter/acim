@@ -12,7 +12,7 @@
 ## T-3.I.1
 
 <p class=fip id=p1>
-1.&emsp;A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
+1. A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
 <sup>2</sup>The crucifixion did not establish the Atonement; the resurrection did. 
 <sup>3</sup>Many sincere Christians have misunderstood this.
 <sup>4</sup>No one who is free of the belief in scarcity could possibly make this mistake. 
@@ -25,7 +25,7 @@
 
 #### expanded
 
-1.&emsp;A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
+1. A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
 <sup>2</sup>The crucifixion did not establish the Atonement; the resurrection did [established the Atonement]. 
 <sup>3</sup>Many sincere Christians have misunderstood this [what established the Atonement].
 <sup>4</sup>No one who is free of the belief in scarcity could possibly make this mistake [that the crucifixion established the Atonement]. 
@@ -37,7 +37,7 @@
 
 #### substituted
 
-1.&emsp;A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
+1. A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
 <sup>2</sup>The crucifixion did not establish the Atonement; the resurrection established the Atonement. 
 <sup>3</sup>Many sincere Christians have misunderstood what established the Atonement.
 <sup>4</sup>No one who is free of the belief in scarcity could possibly make the mistake that the crucifixion established the Atonement. 
@@ -66,7 +66,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 ## T-3.I.2
 
 <p class=fip id=p2>
-2.&emsp;The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
+2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 <sup>2</sup>It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it. 
 <sup>3</sup>This procedure is painful in its minor applications and genuinely tragic on a wider scale. 
 <sup>4</sup>Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God Himself persecuted His Own Son on behalf of salvation. 
@@ -81,7 +81,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 
 #### expanded
 
-2.&emsp;The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
+2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 <sup>2</sup>It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it [the concept]. 
 <sup>3</sup>This procedure [of inverting a whole frame of reference] is painful in its [procedure’s] minor applications and genuinely tragic on a wider scale. 
 <sup>4</sup>Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God Himself [God’s Self] persecuted His [God’s] Own Son on behalf of salvation. 
@@ -95,7 +95,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 
 #### substituted
 
-2.&emsp;The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
+2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 <sup>2</sup>It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify the concept. 
 <sup>3</sup>The procedure of inverting a whole frame of reference is painful in the procedure’s minor applications and genuinely tragic on a wider scale. 
 <sup>4</sup>Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God God’s Self persecuted God’s Own Son on behalf of salvation. 
@@ -130,7 +130,7 @@ Attack can not be justified. God could not think this way.
 ## T-3.I.3
 
 <p class=fip id=p3>
-3.&emsp;The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own ‘evil’ past to God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own ‘evil’ past to God. 
 <sup>2</sup>The ‘evil’ past has nothing to do with God. 
 <sup>3</sup>He did not create it and He does not maintain it. 
 <sup>4</sup>God does not believe in retribution. 
@@ -145,7 +145,7 @@ Attack can not be justified. God could not think this way.
 
 #### expanded
 
-3.&emsp;The statement “Vengeance is mine, says the Lord” is a misperception by which [misperception] one assigns his [one’s] own ‘evil’ past to God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception by which [misperception] one assigns his [one’s] own ‘evil’ past to God. 
 <sup>2</sup>The ‘evil’ past has nothing to do with God. 
 <sup>3</sup>He [God] did not create it [the ‘evil’ past] and He [God] does not maintain it [the ‘evil’ past]. 
 <sup>4</sup>God does not believe in retribution. 
@@ -159,7 +159,7 @@ Attack can not be justified. God could not think this way.
 
 #### substituted
 
-3.&emsp;The statement “Vengeance is mine, says the Lord” is a misperception; by misperception one assigns one’s own ‘evil’ past to God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception; by misperception one assigns one’s own ‘evil’ past to God. 
 <sup>2</sup>The ‘evil’ past has nothing to do with God. 
 <sup>3</sup>God did not create the ‘evil’ past and God does not maintain the ‘evil’ past. 
 <sup>4</sup>God does not believe in retribution. 
@@ -190,7 +190,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 ## T-3.I.4
 
 <p class=fip id=p4>
-4.&emsp;Sacrifice is a notion totally unknown to God. 
+4. Sacrifice is a notion totally unknown to God. 
 <sup>2</sup>It arises solely from fear, and frightened people can be vicious. 
 <sup>3</sup>Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
 <sup>4</sup>It has been hard for many Christians to realise that this applies to themselves. 
@@ -201,7 +201,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 
 #### expanded
 
-4.&emsp;Sacrifice is a notion totally unknown to God. 
+4. Sacrifice is a notion totally unknown to God. 
 <sup>2</sup>It [sacrifice] arises solely from fear, and frightened people can be vicious. 
 <sup>3</sup>Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
 <sup>4</sup>It has been hard for many Christians to realise that this [being merciful] applies to themselves [Christians’ selves]. 
@@ -211,7 +211,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 
 #### substituted
 
-4.&emsp;Sacrifice is a notion totally unknown to God. 
+4. Sacrifice is a notion totally unknown to God. 
 <sup>2</sup>Sacrifice arises solely from fear, and frightened people can be vicious. 
 <sup>3</sup>Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
 <sup>4</sup>It has been hard for many Christians to realise that being merciful applies to Christians’ selves. 
@@ -246,7 +246,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 ## T-3.I.5
 
 <p class=fip id=p5>
-5.&emsp;I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
+5. I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
 <sup>2</sup>Correctly understood, it is a very simple symbol that speaks of my innocence. 
 <sup>3</sup>The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. 
 <sup>4</sup>“Blessed are the pure in heart for they shall see God” is another way of saying the same thing. 
@@ -256,7 +256,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 
 #### expanded
 
-5.&emsp;I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
+5. I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
 <sup>2</sup>Correctly understood, it [the lamb of God who takes away the sins of the world] is a very simple symbol that [symbol] speaks of my innocence. 
 <sup>3</sup>The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. 
 <sup>4</sup>“Blessed are the pure in heart for they [the pure in heart] shall see God” is another way of saying the same thing [strength and innocence are not in conflict]. 
@@ -265,7 +265,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 
 #### substituted
 
-5.&emsp;I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
+5. I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
 <sup>2</sup>Correctly understood, the lamb of God who takes away the sins of the world is a very simple symbol; the symbol speaks of my innocence. 
 <sup>3</sup>The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. 
 <sup>4</sup>“Blessed are the pure in heart for the pure in heart shall see God” is another way of saying strength and innocence are not in conflict. 
@@ -287,7 +287,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 ## T-3.I.6
 
 <p class=fip id=p6>
-6.&emsp;Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its wholeness. 
+6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its wholeness. 
 <sup>2</sup>It cannot project. 
 <sup>3</sup>It can only honour other minds, because honour is the natural greeting of the truly loved to others who are like them. 
 <sup>4</sup>The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one in which the meaning of the Atonement is perfectly apparent. 
@@ -298,7 +298,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 
 #### expanded
 
-6.&emsp;Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its [the innocent mind’s] wholeness. 
+6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its [the innocent mind’s] wholeness. 
 <sup>2</sup>It [the innocent mind] cannot project. 
 <sup>3</sup>It [the innocent mind] can only honour other minds, because honour is the natural greeting of the truly loved to others who are like them [the truly loved]. 
 <sup>4</sup>The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one [a state] in which [state] the meaning of the Atonement is perfectly apparent. 
@@ -308,7 +308,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 
 #### substituted
 
-6.&emsp;Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect the innocent mind’s wholeness. 
+6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect the innocent mind’s wholeness. 
 <sup>2</sup>The innocent mind cannot project. 
 <sup>3</sup>The innocent mind can only honour other minds, because honour is the natural greeting of the truly loved to others who are like the truly loved. 
 <sup>4</sup>The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is a state; in state the meaning of the Atonement is perfectly apparent. 
@@ -323,7 +323,7 @@ The innocent mind protects its wholeness. The innocent mind does not project. Th
 ## T-3.I.7
 
 <p class=fip id=p7>
-7.&emsp;The Atonement itself radiates nothing but truth. 
+7. The Atonement itself radiates nothing but truth. 
 <sup>2</sup>It therefore epitomises harmlessness and sheds only blessing. 
 <sup>3</sup>It could not do this if it arose from anything but perfect innocence. 
 <sup>4</sup>Innocence is wisdom because it is unaware of evil, and evil does not exist. 
@@ -338,7 +338,7 @@ The innocent mind protects its wholeness. The innocent mind does not project. Th
 
 #### expanded
 
-7.&emsp;The Atonement itself radiates nothing but truth. 
+7. The Atonement itself radiates nothing but truth. 
 <sup>2</sup>It [the Atonement] therefore epitomises harmlessness and sheds only blessing. 
 <sup>3</sup>It [the Atonement] could not do this [shed only blessing] if it [the Atonement] arose from anything but perfect innocence. 
 <sup>4</sup>Innocence is wisdom because it [innocence] is unaware of evil, and evil does not exist. 
@@ -352,7 +352,7 @@ The innocent mind protects its wholeness. The innocent mind does not project. Th
 
 #### substituted
 
-7.&emsp;The Atonement itself radiates nothing but truth. 
+7. The Atonement itself radiates nothing but truth. 
 <sup>2</sup>The Atonement therefore epitomises harmlessness and sheds only blessing. 
 <sup>3</sup>The Atonement could not do shed only blessing if the Atonement arose from anything but perfect innocence. 
 <sup>4</sup>Innocence is wisdom because innocence is unaware of evil, and evil does not exist. 
@@ -371,7 +371,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 ## T-3.I.8
 
 <p class=fip id=p8>
-8.&emsp;The innocence of God is the true state of the mind of His Son. 
+8. The innocence of God is the true state of the mind of His Son. 
 <sup>2</sup>In this state your mind knows God, for God is not symbolic; He is Fact. 
 <sup>3</sup>Knowing His Son as he is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 <sup>4</sup>The understanding of the innocent is truth. 
@@ -380,7 +380,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 
 #### expanded
 
-8.&emsp;The innocence of God is the true state of the mind of His [God’s] Son. 
+8. The innocence of God is the true state of the mind of His [God’s] Son. 
 <sup>2</sup>In this state [of innocence] your mind knows God, for God is not symbolic; He [God] is Fact. 
 <sup>3</sup>Knowing His [God’s] Son as he [God’s son] is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 <sup>4</sup>The understanding of the innocent is truth. 
@@ -388,7 +388,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 
 #### substituted
 
-8.&emsp;The innocence of God is the true state of the mind of God’s Son. 
+8. The innocence of God is the true state of the mind of God’s Son. 
 <sup>2</sup>In the state of innocence your mind knows God, for God is not symbolic; God is Fact. 
 <sup>3</sup>Knowing God’s Son as God’s son is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 <sup>4</sup>The understanding of the innocent is truth. 
@@ -418,7 +418,7 @@ God’s Son’s true state is innocence. In innocence you know God.
 ## T-3.II.1
 
 <p class=fip id=p1>
-1.&emsp;I have stated that the basic concepts referred to in this course are not matters of degree. 
+1. I have stated that the basic concepts referred to in this course are not matters of degree. 
 <sup>2</sup>Certain fundamental concepts cannot be understood in terms of opposites. 
 <sup>3</sup>It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 <sup>4</sup>They are all true or all false. 
@@ -430,7 +430,7 @@ God’s Son’s true state is innocence. In innocence you know God.
 
 #### expanded
 
-1.&emsp;I have stated that the basic concepts referred to in this course are not matters of degree. 
+1. I have stated that the basic concepts referred to in this course are not matters of degree. 
 <sup>2</sup>Certain fundamental concepts cannot be understood in terms of opposites. 
 <sup>3</sup>It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 <sup>4</sup>They [fundamental concepts like light and dark, or everything and nothing] are all true or all false. 
@@ -441,7 +441,7 @@ God’s Son’s true state is innocence. In innocence you know God.
 
 #### substituted
 
-1.&emsp;I have stated that the basic concepts referred to in this course are not matters of degree. 
+1. I have stated that the basic concepts referred to in this course are not matters of degree. 
 <sup>2</sup>Certain fundamental concepts cannot be understood in terms of opposites. 
 <sup>3</sup>It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 <sup>4</sup>Fundamental concepts like light and dark, or everything and nothing, are all true or all false. 
@@ -457,7 +457,7 @@ Some concepts are either all true or all false. Example are light or darkness, o
 ## T-3.II.2
 
 <p class=fip id=p2>
-2.&emsp;Innocence is not a partial attribute. 
+2. Innocence is not a partial attribute. 
 <sup>2</sup>It is not real <em>until</em> it is total. 
 <sup>3</sup>The partly innocent are apt to be quite foolish at times. 
 <sup>4</sup>It is not until their innocence becomes a viewpoint with universal application that it becomes wisdom. 
@@ -467,7 +467,7 @@ Some concepts are either all true or all false. Example are light or darkness, o
 
 #### expanded
 
-1.&emsp;Innocence is not a partial attribute. 
+1. Innocence is not a partial attribute. 
 <sup>2</sup>It [innocence] is not real <em>until</em> it [innocence] is total. 
 <sup>3</sup>The partly innocent are apt to be quite foolish at times. 
 <sup>4</sup>It is not until their [the partly-innocent’s] innocence becomes a viewpoint with universal application that it [innocence] becomes wisdom. 
@@ -476,7 +476,7 @@ Some concepts are either all true or all false. Example are light or darkness, o
 
 #### substituted
 
-1.&emsp;Innocence is not a partial attribute. 
+1. Innocence is not a partial attribute. 
 <sup>2</sup>Innocence is not real <em>until</em> innocence is total. 
 <sup>3</sup>The partly innocent are apt to be quite foolish at times. 
 <sup>4</sup>It is not until the partly-innocent’s innocence becomes a viewpoint with universal application that innocence becomes wisdom. 
@@ -490,7 +490,7 @@ Innocence is wisdom, but only for those totally innocent. The totally innocent w
 ## T-3.II.3
 
 <p class=fip id=p3>
-3.&emsp;When you lack confidence in what someone will do, you are attesting to your belief that he is not in his right mind. 
+3. When you lack confidence in what someone will do, you are attesting to your belief that he is not in his right mind. 
 <sup>2</sup>This is hardly a miracle-based frame of reference. 
 <sup>3</sup>It also has the disastrous effect of denying the power of the miracle. 
 <sup>4</sup>The miracle perceives everything as it is. 
@@ -502,7 +502,7 @@ Innocence is wisdom, but only for those totally innocent. The totally innocent w
 
 #### expanded
 
-3.&emsp;When you lack confidence in what someone will do, you are attesting to your belief that he [someone] is not in his [someone’s] right mind. 
+3. When you lack confidence in what someone will do, you are attesting to your belief that he [someone] is not in his [someone’s] right mind. 
 <sup>2</sup>This [believing someone is not in someone’s right mind] is hardly a miracle-based frame of reference. 
 <sup>3</sup>It [believing someone is not in someone’s right mind] also has the disastrous effect of denying the power of the miracle. 
 <sup>4</sup>The miracle perceives everything as it [everything] is. 
@@ -513,7 +513,7 @@ Innocence is wisdom, but only for those totally innocent. The totally innocent w
 
 #### substituted
 
-3.&emsp;When you lack confidence in what someone will do, you are attesting to your belief that someone is not in his someone’s right mind. 
+3. When you lack confidence in what someone will do, you are attesting to your belief that someone is not in his someone’s right mind. 
 <sup>2</sup>Believing someone is not in someone’s right mind is hardly a miracle-based frame of reference. 
 <sup>3</sup>Believing someone is not in someone’s right mind also has the disastrous effect of denying the power of the miracle. 
 <sup>4</sup>The miracle perceives everything as everything is. 
@@ -529,7 +529,7 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 ## T-3.II.4
 
 <p class=fip id=p4>
-4.&emsp;You are afraid of God’s Will because you have used your own mind, which He created in the likeness of His Own, to miscreate. 
+4. You are afraid of God’s Will because you have used your own mind, which He created in the likeness of His Own, to miscreate. 
 <sup>2</sup>The mind can miscreate only when it believes it is not free. 
 <sup>3</sup>An “imprisoned” mind is not free because it is possessed, or held back, by itself. 
 <sup>4</sup>It is therefore limited, and the will is not free to assert itself. 
@@ -539,7 +539,7 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 
 #### expanded
 
-4.&emsp;You are afraid of God’s Will because you have used your own mind, which He [God] created in the likeness of His [God’s] Own [Mind], to miscreate. 
+4. You are afraid of God’s Will because you have used your own mind, which He [God] created in the likeness of His [God’s] Own [Mind], to miscreate. 
 <sup>2</sup>The mind can miscreate only when it [the mind] believes it [the mind] is not free. 
 <sup>3</sup>An “imprisoned” mind is not free because it [an imprisoned mind] is possessed, or held back, by itself [imprisoned-mind’s self]. 
 <sup>4</sup>It [imprisoned mind] is therefore limited, and the will is not free to assert itself [will’s self]. 
@@ -548,7 +548,7 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 
 #### substituted
 
-4.&emsp;You are afraid of God’s Will because you have used your own mind, which God created in the likeness of God’s Own Mind, to miscreate. 
+4. You are afraid of God’s Will because you have used your own mind, which God created in the likeness of God’s Own Mind, to miscreate. 
 <sup>2</sup>The mind can miscreate only when the mind believes the mind is not free. 
 <sup>3</sup>An “imprisoned” mind is not free because an imprisoned mind is possessed, or held back, by imprisoned-mind’s self. 
 <sup>4</sup>Imprisoned mind is therefore limited, and the will is not free to assert will’s self. 
@@ -569,7 +569,7 @@ God created your mind in the likeness of God’s mind. You have used your mind t
 ## T-3.II.5
 
 <p class=fip id=p5>
-5.&emsp;Nothing can prevail against a Son of God who commends his spirit into the Hands of his Father. 
+5. Nothing can prevail against a Son of God who commends his spirit into the Hands of his Father. 
 <sup>2</sup>By doing this the mind awakens from its sleep and remembers its Creator. 
 <sup>3</sup>All sense of separation disappears. 
 <sup>4</sup>The Son of God is part of the Holy Trinity, but the Trinity Itself is One. 
@@ -583,7 +583,7 @@ God created your mind in the likeness of God’s mind. You have used your mind t
 
 #### expanded
 
-5.&emsp;Nothing can prevail against a Son of God who commends his [Son-of-God’s] spirit into the Hands of his [Son-of-God’s] Father. 
+5. Nothing can prevail against a Son of God who commends his [Son-of-God’s] spirit into the Hands of his [Son-of-God’s] Father. 
 <sup>2</sup>By doing this [commending his [Son of God’s] spirit into the Hands of the Father] the mind awakens from its [the mind’s] sleep and remembers its [the mind’s] Creator. 
 <sup>3</sup>All sense of separation disappears. 
 <sup>4</sup>The Son of God is part of the Holy Trinity, but the Trinity Itself [Trinity’s-self] is One. 
@@ -596,7 +596,7 @@ God created your mind in the likeness of God’s mind. You have used your mind t
 
 #### substituted
 
-5.&emsp;Nothing can prevail against a Son of God who commends Son-of-God’s spirit into the Hands of [Son-of-God’s] Father. 
+5. Nothing can prevail against a Son of God who commends Son-of-God’s spirit into the Hands of [Son-of-God’s] Father. 
 <sup>2</sup>By commending Son-of-God’s spirit into the Hands of the Father the mind awakens from its the mind’s sleep and remembers its the mind’s Creator. 
 <sup>3</sup>All sense of separation disappears. 
 <sup>4</sup>The Son of God is part of the Holy Trinity, but the Trinity Trinity’s-self is One. 
@@ -614,7 +614,7 @@ Commend your spirit to into the Hands of the Father. This will awaken your mind 
 ## T-3.II.6
 
 <p class=fip id=p6>
-6.&emsp;The way to correct distortions is to withdraw your faith in them and invest it only in what is true. 
+6. The way to correct distortions is to withdraw your faith in them and invest it only in what is true. 
 <sup>2</sup>You cannot make untruth true. 
 <sup>3</sup>If you are willing to accept what is true in everything you perceive, you let it be true for you. 
 <sup>4</sup>Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. 
@@ -625,7 +625,7 @@ Commend your spirit to into the Hands of the Father. This will awaken your mind 
 
 #### expanded
 
-6.&emsp;The way to correct distortions is to withdraw your faith in them [distortions] and invest it [your faith] only in what is true. 
+6. The way to correct distortions is to withdraw your faith in them [distortions] and invest it [your faith] only in what is true. 
 <sup>2</sup>You cannot make untruth true. 
 <sup>3</sup>If you are willing to accept what is true in everything you perceive, you let it [what you perceive] be true for you. 
 <sup>4</sup>Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. 
@@ -635,7 +635,7 @@ Commend your spirit to into the Hands of the Father. This will awaken your mind 
 
 #### substituted
 
-6.&emsp;The way to correct distortions is to withdraw your faith in distortions and invest your faith only in what is true. 
+6. The way to correct distortions is to withdraw your faith in distortions and invest your faith only in what is true. 
 <sup>2</sup>You cannot make untruth true. 
 <sup>3</sup>If you are willing to accept what is true in everything you perceive, you let what you perceive be true for you. 
 <sup>4</sup>Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. 
@@ -651,7 +651,7 @@ Believe only in the truth and see only the truth. Seeing the truth in others wil
 ## T-3.III.1
 
 <p class=fip id=p1>
-1.&emsp;We have been emphasising perception, and have said very little about knowledge as yet. 
+1. We have been emphasising perception, and have said very little about knowledge as yet. 
 <sup>2</sup>This is because perception must be straightened out before you can know anything. 
 <sup>3</sup>To know is to be certain. 
 <sup>4</sup>Uncertainty means that you do not know. 
@@ -665,7 +665,7 @@ Believe only in the truth and see only the truth. Seeing the truth in others wil
 
 #### expanded
 
-1.&emsp;We have been emphasising perception, and have said very little about knowledge as yet. 
+1. We have been emphasising perception, and have said very little about knowledge as yet. 
 <sup>2</sup>This [emphasising perception] is because perception must be straightened out before you can know anything. 
 <sup>3</sup>To know is to be certain. 
 <sup>4</sup>Uncertainty means that you do not know. 
@@ -678,7 +678,7 @@ Believe only in the truth and see only the truth. Seeing the truth in others wil
 
 #### substituted
 
-1.&emsp;We have been emphasising perception, and have said very little about knowledge as yet. 
+1. We have been emphasising perception, and have said very little about knowledge as yet. 
 <sup>2</sup>Emphasising perception is because perception must be straightened out before you can know anything. 
 <sup>3</sup>To know is to be certain. 
 <sup>4</sup>Uncertainty means that you do not know. 
@@ -696,7 +696,7 @@ All perception varies. Knowledge is always certain. Certainty is strength. Stren
 ## T-3.III.2
 
 <p class=fip id=p2>
-2.&emsp;All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
+2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 <sup>2</sup>To recognise means to “know again”, implying that you knew before. 
 <sup>3</sup>You can see in many ways because perception involves interpretation, and this means that it is not whole or consistent. 
 <sup>4</sup>The miracle, being a way of perceiving, is not knowledge. 
@@ -711,7 +711,7 @@ All perception varies. Knowledge is always certain. Certainty is strength. Stren
 
 #### expanded
 
-2.&emsp;All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
+2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 <sup>2</sup>To recognise means to “know again”, implying that you knew before. 
 <sup>3</sup>You can see in many ways because perception involves interpretation, and this [perception involving interpretation] means that it [perception] is not whole or consistent. 
 <sup>4</sup>The miracle, being a way of perceiving, is not knowledge. 
@@ -725,7 +725,7 @@ All perception varies. Knowledge is always certain. Certainty is strength. Stren
 
 #### substituted
 
-2.&emsp;All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
+2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 <sup>2</sup>To recognise means to “know again”, implying that you knew before. 
 <sup>3</sup>You can see in many ways because perception involves interpretation, and perception involving interpretation means that perception is not whole or consistent. 
 <sup>4</sup>The miracle, being a way of perceiving, is not knowledge. 
@@ -744,7 +744,7 @@ Perceptions are not whole or consistent. Illusions must be questioned. Miracles 
 ## T-3.III.3
 
 <p class=fip id=p3>
-3.&emsp;The questioning mind perceives itself in time, and therefore looks for future answers. 
+3. The questioning mind perceives itself in time, and therefore looks for future answers. 
 <sup>2</sup>The closed mind believes the future and the present will be the same. 
 <sup>3</sup>This establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 <sup>4</sup>This fear inhibits the tendency to question at all.
@@ -752,14 +752,14 @@ Perceptions are not whole or consistent. Illusions must be questioned. Miracles 
 
 #### expanded
 
-3.&emsp;The questioning mind perceives itself [questioning-mind’s self] in time, and therefore looks for future answers. 
+3. The questioning mind perceives itself [questioning-mind’s self] in time, and therefore looks for future answers. 
 <sup>2</sup>The closed mind believes the future and the present will be the same. 
 <sup>3</sup>This [believing the future and the present will be the same] establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 <sup>4</sup>This fear [that the future will be worse than the present] inhibits the tendency to question at all.
 
 #### substituted
 
-3.&emsp;The questioning mind perceives questioning-mind’s self in time, and therefore looks for future answers. 
+3. The questioning mind perceives questioning-mind’s self in time, and therefore looks for future answers. 
 <sup>2</sup>The closed mind believes the future and the present will be the same. 
 <sup>3</sup>Believing the future and the present will be the same establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 <sup>4</sup>The fear that the future will be worse than the present inhibits the tendency to question at all.
@@ -771,7 +771,7 @@ Fear is believing the future will be worse than the present. Believing present a
 ## T-3.III.4
 
 <p class=fip id=p4>
-4.&emsp;True vision is the natural perception of spiritual sight, but it is still a correction rather than a fact. 
+4. True vision is the natural perception of spiritual sight, but it is still a correction rather than a fact. 
 <sup>2</sup>Spiritual sight is symbolic, and therefore not a device for knowing. 
 <sup>3</sup>It is, however, a means of right perception, which brings it into the proper domain of the miracle. 
 <sup>4</sup>A “vision of God” would be a miracle rather than a revelation. 
@@ -781,7 +781,7 @@ Fear is believing the future will be worse than the present. Believing present a
 
 #### expanded
 
-4.&emsp;True vision is the natural perception of spiritual sight, but it [true vision] is still a correction rather than a fact. 
+4. True vision is the natural perception of spiritual sight, but it [true vision] is still a correction rather than a fact. 
 <sup>2</sup>Spiritual sight is symbolic, and therefore not a device for knowing. 
 <sup>3</sup>It [spiritual sight] is, however, a means of right perception, which brings it [spiritual sight] into the proper domain of the miracle. 
 <sup>4</sup>A “vision of God” would be a miracle rather than a revelation. 
@@ -790,7 +790,7 @@ Fear is believing the future will be worse than the present. Believing present a
 
 #### substituted
 
-4.&emsp;True vision is the natural perception of spiritual sight, but true vision is still a correction rather than a fact. 
+4. True vision is the natural perception of spiritual sight, but true vision is still a correction rather than a fact. 
 <sup>2</sup>Spiritual sight is symbolic, and therefore not a device for knowing. 
 <sup>3</sup>Spiritual sight is, however, a means of right perception, which brings spiritual sight into the proper domain of the miracle. 
 <sup>4</sup>A “vision of God” would be a miracle rather than a revelation. 
@@ -812,7 +812,7 @@ True vision is the correction of perception. But True vision, or spiritual sight
 ## T-3.III.5
 
 <p class=fip id=p5>
-5.&emsp;The Bible tells you to know yourself, or to be certain. 
+5. The Bible tells you to know yourself, or to be certain. 
 <sup>2</sup>Certainty is always of God. 
 <sup>3</sup>When you love someone you have perceived him as he is, and this makes it possible for you to know him. 
 <sup>4</sup>Until you first perceive him as he is you cannot know him. 
@@ -829,7 +829,7 @@ True vision is the correction of perception. But True vision, or spiritual sight
 
 #### expanded
 
-5.&emsp;The Bible tells you to know yourself, or to be certain. 
+5. The Bible tells you to know yourself, or to be certain. 
 <sup>2</sup>Certainty is always of God. 
 <sup>3</sup>When you love someone you have perceived him [someone] as he [someone] is, and this [perceiving someone as is] makes it possible for you to know him [someone]. 
 <sup>4</sup>Until you first perceive him [someone] as he [someone] is you cannot know him [someone]. 
@@ -845,7 +845,7 @@ True vision is the correction of perception. But True vision, or spiritual sight
 
 #### substituted
 
-5.&emsp;The Bible tells you to know yourself, or to be certain. 
+5. The Bible tells you to know yourself, or to be certain. 
 <sup>2</sup>Certainty is always of God. 
 <sup>3</sup>When you love someone you have perceived someone as someone is, and perceiving someone as someone is makes it possible for you to know someone. 
 <sup>4</sup>Until you first perceive someone as someone is you cannot know someone. 
@@ -866,7 +866,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 ## T-3.III.6
 
 <p class=fip id=p6>
-6.&emsp;Right perception is necessary before God can communicate directly to His altars, which He established in His Sons. 
+6. Right perception is necessary before God can communicate directly to His altars, which He established in His Sons. 
 <sup>2</sup>There He can communicate His certainty, and His knowledge will bring peace without question. 
 <sup>3</sup>God is not a stranger to His Sons, and His Sons are not strangers to each other. 
 <sup>4</sup>Knowledge preceded both perception and time, and will ultimately replace them. 
@@ -877,7 +877,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 
 #### expanded
 
-6.&emsp;Right perception is necessary before God can communicate directly to His [God’s] altars, which He [God] established in His [God’s] Sons. 
+6. Right perception is necessary before God can communicate directly to His [God’s] altars, which He [God] established in His [God’s] Sons. 
 <sup>2</sup>There He [God] can communicate His [God’s] certainty, and His [God’s] knowledge will bring peace without question. 
 <sup>3</sup>God is not a stranger to His [God’s] Sons, and His [God’s] Sons are not strangers to each other. 
 <sup>4</sup>Knowledge preceded both perception and time, and will ultimately replace them [perception and time]. 
@@ -887,7 +887,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 
 #### substituted
 
-6.&emsp;Right perception is necessary before God can communicate directly to God’s altars, which God established in God’s Sons. 
+6. Right perception is necessary before God can communicate directly to God’s altars, which God established in God’s Sons. 
 <sup>2</sup>There God can communicate God’s certainty, and God’s knowledge will bring peace without question. 
 <sup>3</sup>God is not a stranger to God’s Sons, and God’s Sons are not strangers to each other. 
 <sup>4</sup>Knowledge preceded both perception and time, and will ultimately replace perception and time. 
@@ -918,7 +918,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 ## T-3.III.7
 
 <p class=fip id=p7>
-7.&emsp;If you attack error in another, you will hurt yourself. 
+7. If you attack error in another, you will hurt yourself. 
 <sup>2</sup>You cannot know your brother when you attack him. 
 <sup>3</sup>Attack is always made upon a stranger. 
 <sup>4</sup>You are making him a stranger by misperceiving him, and so you cannot know him. 
@@ -934,7 +934,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 
 #### expanded
 
-7.&emsp;If you attack error in another, you will hurt yourself. 
+7. If you attack error in another, you will hurt yourself. 
 <sup>2</sup>You cannot know your brother when you attack him [your brother]. 
 <sup>3</sup>Attack is always made upon a stranger. 
 <sup>4</sup>You are making him [your brother] a stranger by misperceiving him [your brother], and so you cannot know him [your brother]. 
@@ -949,7 +949,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 
 #### substituted
 
-7.&emsp;If you attack error in another, you will hurt yourself. 
+7. If you attack error in another, you will hurt yourself. 
 <sup>2</sup>You cannot know your brother when you attack your brother. 
 <sup>3</sup>Attack is always made upon a stranger. 
 <sup>4</sup>You are making your brother a stranger by misperceiving your brother, and so you cannot know your brother. 
@@ -971,7 +971,7 @@ Attacking a brother is making a brother into a stranger. God’s creations know 
 ## T-3.IV.1
 
 <p class=fip id=p1>
-1.&emsp;The abilities you now possess are only shadows of your real strength. 
+1. The abilities you now possess are only shadows of your real strength. 
 <sup>2</sup>All of your present functions are divided and open to question and doubt. 
 <sup>3</sup>This is because you are not certain how you will use them, and are therefore incapable of knowledge. 
 <sup>4</sup>You are also incapable of knowledge because you can still perceive lovelessly. 
@@ -984,7 +984,7 @@ Attacking a brother is making a brother into a stranger. God’s creations know 
 
 #### expanded
 
-1.&emsp;The abilities you now possess are only shadows of your real strength. 
+1. The abilities you now possess are only shadows of your real strength. 
 <sup>2</sup>All of your present functions are divided and open to question and doubt. 
 <sup>3</sup>This [your present functions are divided] is because you are not certain how you will use them [your present functions], and are therefore incapable of knowledge. 
 <sup>4</sup>You are also incapable of knowledge because you can still perceive lovelessly. 
@@ -996,7 +996,7 @@ Attacking a brother is making a brother into a stranger. God’s creations know 
 
 #### substituted
 
-1.&emsp;The abilities you now possess are only shadows of your real strength. 
+1. The abilities you now possess are only shadows of your real strength. 
 <sup>2</sup>All of your present functions are divided and open to question and doubt. 
 <sup>3</sup>Your present functions are divided because you are not certain how you will use your present functions, and are therefore incapable of knowledge. 
 <sup>4</sup>You are also incapable of knowledge because you can still perceive lovelessly. 
@@ -1013,7 +1013,7 @@ The separation introduced levels. Perception and conflict arise from levels.
 ## T-3.IV.2
 
 <p class=fip id=p2>
-2.&emsp;Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
+2. Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
 <sup>2</sup>Consciousness is correctly identified as the domain of the ego. 
 <sup>3</sup>The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. 
 <sup>4</sup>Yet you can know yourself only as you are, because that is all you can be sure of. 
@@ -1022,7 +1022,7 @@ The separation introduced levels. Perception and conflict arise from levels.
 
 #### expanded
 
-2.&emsp;Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
+2. Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
 <sup>2</sup>Consciousness is correctly identified as the domain of the ego. 
 <sup>3</sup>The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. 
 <sup>4</sup>Yet you can know yourself only as you are, because that [what you are] is all you can be sure of. 
@@ -1030,7 +1030,7 @@ The separation introduced levels. Perception and conflict arise from levels.
 
 #### substituted
 
-2.&emsp;Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
+2. Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
 <sup>2</sup>Consciousness is correctly identified as the domain of the ego. 
 <sup>3</sup>The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. 
 <sup>4</sup>Yet you can know yourself only as you are, because what you are is all you can be sure of. 
@@ -1051,7 +1051,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 ## T-3.IV.3
 
 <p class=fip id=p3>
-3.&emsp;The ego is the questioning aspect of the post-separation self, which was made rather than created. 
+3. The ego is the questioning aspect of the post-separation self, which was made rather than created. 
 <sup>2</sup>It is capable of asking questions but not of perceiving meaningful answers, because these would involve knowledge and cannot be perceived. 
 <sup>3</sup>The mind is therefore confused, because only One-mindedness can be without confusion. 
 <sup>4</sup>A separated or divided mind <em>must</em> be confused. 
@@ -1066,7 +1066,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 
 #### expanded
 
-3.&emsp;The ego is the questioning aspect of the post-separation self, which [post-separation self] was made rather than created. 
+3. The ego is the questioning aspect of the post-separation self, which [post-separation self] was made rather than created. 
 <sup>2</sup>It [the ego] is capable of asking questions but not of perceiving meaningful answers, because these [meaningful answers] would involve knowledge and cannot be perceived. 
 <sup>3</sup>The mind is therefore confused, because only One-mindedness can be without confusion. 
 <sup>4</sup>A separated or divided mind must be confused. 
@@ -1080,7 +1080,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 
 #### substituted
 
-3.&emsp;The ego is the questioning aspect of the post-separation self; post-separation self was made rather than created. 
+3. The ego is the questioning aspect of the post-separation self; post-separation self was made rather than created. 
 <sup>2</sup>The ego is capable of asking questions but not of perceiving meaningful answers, because meaningful answers would involve knowledge and cannot be perceived. 
 <sup>3</sup>The mind is therefore confused, because only One-mindedness can be without confusion. 
 <sup>4</sup>A separated or divided mind must be confused. 
@@ -1107,7 +1107,7 @@ The ego asks questions but can’t perceive meaningful answers. A separated mind
 ## T-3.IV.4
 
 <p class=fip id=p4>
-4.&emsp;Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
+4. Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
 <sup>2</sup>You can be right-minded or wrong-minded, and even this is subject to degrees, clearly demonstrating that knowledge is not involved. 
 <sup>3</sup>The term “right-mindedness” is properly used as the correction for “wrong-mindedness”, and applies to the state of mind that induces accurate perception. 
 <sup>4</sup>It is miracle-minded because it heals misperception, and this is indeed a miracle in view of how you perceive yourself.
@@ -1115,14 +1115,14 @@ The ego asks questions but can’t perceive meaningful answers. A separated mind
 
 #### expanded
 
-4.&emsp;Right-mindedness is not to be confused with the knowing mind, because it [right-mindedness] is applicable only to right perception. 
+4. Right-mindedness is not to be confused with the knowing mind, because it [right-mindedness] is applicable only to right perception. 
 <sup>2</sup>You can be right-minded or wrong-minded, and even this [being right- or wrong-minded] is subject to degrees, clearly demonstrating that knowledge is not involved. 
 <sup>3</sup>The term “right-mindedness” is properly used as the correction for “wrong-mindedness”, and applies to the state of mind that induces accurate perception. 
 <sup>4</sup>It [right-mindedness] is miracle-minded because it [right-mindedness] heals misperception, and this [healing misperception] is indeed a miracle in view of how you perceive yourself.
 
 #### substituted
 
-4.&emsp;Right-mindedness is not to be confused with the knowing mind, because right-mindedness is applicable only to right perception. 
+4. Right-mindedness is not to be confused with the knowing mind, because right-mindedness is applicable only to right perception. 
 <sup>2</sup>You can be right-minded or wrong-minded, and even being right- or wrong-minded is subject to degrees, clearly demonstrating that knowledge is not involved. 
 <sup>3</sup>The term “right-mindedness” is properly used as the correction for “wrong-mindedness”, and applies to the state of mind that induces accurate perception. 
 <sup>4</sup>Right-mindedness is miracle-minded because right-mindedness heals misperception, and healing misperception is indeed a miracle in view of how you perceive yourself.
@@ -1134,7 +1134,7 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 ## T-3.IV.5
 
 <p class=fip id=p5>
-5.&emsp;Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. 
+5. Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. 
 <sup>2</sup>The mind is very active. 
 <sup>3</sup>When it chooses to be separated it chooses to perceive. 
 <sup>4</sup>Until then it wills only to know. 
@@ -1149,7 +1149,7 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 
 #### expanded
 
-5.&emsp;Perception always involves some misuse of mind, because it [perception] brings the mind into areas of uncertainty. 
+5. Perception always involves some misuse of mind, because it [perception] brings the mind into areas of uncertainty. 
 <sup>2</sup>The mind is very active. 
 <sup>3</sup>When it [the mind] chooses to be separated it [the mind] chooses to perceive. 
 <sup>4</sup>Until then it [the mind] wills only to know. 
@@ -1163,7 +1163,7 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 
 #### substituted
 
-5.&emsp;Perception always involves some misuse of mind, because perception brings the mind into areas of uncertainty. 
+5. Perception always involves some misuse of mind, because perception brings the mind into areas of uncertainty. 
 <sup>2</sup>The mind is very active. 
 <sup>3</sup>When the mind chooses to be separated the mind chooses to perceive. 
 <sup>4</sup>Until then the mind wills only to know. 
@@ -1190,7 +1190,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 ## T-3.IV.6
 
 <p class=fip id=p6>
-6.&emsp;The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
+6. The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
 <sup>2</sup>That is why perception involves an exchange or translation, which knowledge does not need. 
 <sup>3</sup>The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 <sup>4</sup>Spirit, which knows, could not be reconciled with this loss of power, because it is incapable of darkness. 
@@ -1204,7 +1204,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 
 #### expanded
 
-6.&emsp;The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
+6. The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
 <sup>2</sup>That [you must perceive something and with something] is why perception involves an exchange or translation, which [exchange or translation] knowledge does not need. 
 <sup>3</sup>The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 <sup>4</sup>Spirit, which knows, could not be reconciled with this loss of power [interpreting the body as yourself], because it [spirit] is incapable of darkness. 
@@ -1217,7 +1217,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 
 #### substituted
 
-6.&emsp;The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
+6. The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
 <sup>2</sup>You must perceive something and with something is why perception involves an exchange or translation; knowledge does not need exchange or translation. 
 <sup>3</sup>The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 <sup>4</sup>Spirit, which knows, could not be reconciled with this loss of power, interpreting the body as yourself, because spirit is incapable of darkness. 
@@ -1243,7 +1243,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 ## T-3.IV.7
 
 <p class=fip id=p7>
-7.&emsp;God and His creations remain in surety, and therefore know that no miscreation exists. 
+7. God and His creations remain in surety, and therefore know that no miscreation exists. 
 <sup>2</sup>Truth cannot deal with errors that you want. 
 <sup>3</sup>I was a man who remembered spirit and its knowledge. 
 <sup>4</sup>As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. 
@@ -1263,7 +1263,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 
 #### expanded
 
-7.&emsp;God and His [God’s] creations remain in surety, and therefore know that no miscreation exists. 
+7. God and His [God’s] creations remain in surety, and therefore know that no miscreation exists. 
 <sup>2</sup>Truth cannot deal with errors that you want. 
 <sup>3</sup>I was a man who remembered spirit and its [spirit’s] knowledge. 
 <sup>4</sup>As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. 
@@ -1282,7 +1282,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 
 #### substituted
 
-7.&emsp;God and God’s creations remain in surety, and therefore know that no miscreation exists. 
+7. God and God’s creations remain in surety, and therefore know that no miscreation exists. 
 <sup>2</sup>Truth cannot deal with errors that you want. 
 <sup>3</sup>I was a man who remembered spirit and spirit’s knowledge. 
 <sup>4</sup>As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. 
@@ -1340,7 +1340,7 @@ No miscreation exists. I corrected error by demonstrating the powerlessness of t
 ## T-3.I.1
 
 <p class=fip id=p1>
-1.&emsp;A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
+1. A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
 <sup>2</sup>The crucifixion did not establish the Atonement; the resurrection did. 
 <sup>3</sup>Many sincere Christians have misunderstood this.
 <sup>4</sup>No one who is free of the belief in scarcity could possibly make this mistake. 
@@ -1353,7 +1353,7 @@ No miscreation exists. I corrected error by demonstrating the powerlessness of t
 
 #### expanded
 
-1.&emsp;A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
+1. A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
 <sup>2</sup>The crucifixion did not establish the Atonement; the resurrection did [established the Atonement]. 
 <sup>3</sup>Many sincere Christians have misunderstood this [what established the Atonement].
 <sup>4</sup>No one who is free of the belief in scarcity could possibly make this mistake [that the crucifixion established the Atonement]. 
@@ -1365,7 +1365,7 @@ No miscreation exists. I corrected error by demonstrating the powerlessness of t
 
 #### substituted
 
-1.&emsp;A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
+1. A further point must be perfectly clear before any residual fear still associated with miracles can disappear. 
 <sup>2</sup>The crucifixion did not establish the Atonement; the resurrection established the Atonement. 
 <sup>3</sup>Many sincere Christians have misunderstood what established the Atonement.
 <sup>4</sup>No one who is free of the belief in scarcity could possibly make the mistake that the crucifixion established the Atonement. 
@@ -1394,7 +1394,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 ## T-3.I.2
 
 <p class=fip id=p2>
-2.&emsp;The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
+2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 <sup>2</sup>It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it. 
 <sup>3</sup>This procedure is painful in its minor applications and genuinely tragic on a wider scale. 
 <sup>4</sup>Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God Himself persecuted His Own Son on behalf of salvation. 
@@ -1409,7 +1409,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 
 #### expanded
 
-2.&emsp;The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
+2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 <sup>2</sup>It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it [the concept]. 
 <sup>3</sup>This procedure [of inverting a whole frame of reference] is painful in its [procedure’s] minor applications and genuinely tragic on a wider scale. 
 <sup>4</sup>Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God Himself [God’s Self] persecuted His [God’s] Own Son on behalf of salvation. 
@@ -1423,7 +1423,7 @@ The resurrection established the Atonement. God did not permit his Son to suffer
 
 #### substituted
 
-2.&emsp;The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
+2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 <sup>2</sup>It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify the concept. 
 <sup>3</sup>The procedure of inverting a whole frame of reference is painful in the procedure’s minor applications and genuinely tragic on a wider scale. 
 <sup>4</sup>Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God God’s Self persecuted God’s Own Son on behalf of salvation. 
@@ -1458,7 +1458,7 @@ Attack can not be justified. God could not think this way.
 ## T-3.I.3
 
 <p class=fip id=p3>
-3.&emsp;The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own ‘evil’ past to God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own ‘evil’ past to God. 
 <sup>2</sup>The ‘evil’ past has nothing to do with God. 
 <sup>3</sup>He did not create it and He does not maintain it. 
 <sup>4</sup>God does not believe in retribution. 
@@ -1473,7 +1473,7 @@ Attack can not be justified. God could not think this way.
 
 #### expanded
 
-3.&emsp;The statement “Vengeance is mine, says the Lord” is a misperception by which [misperception] one assigns his [one’s] own ‘evil’ past to God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception by which [misperception] one assigns his [one’s] own ‘evil’ past to God. 
 <sup>2</sup>The ‘evil’ past has nothing to do with God. 
 <sup>3</sup>He [God] did not create it [the ‘evil’ past] and He [God] does not maintain it [the ‘evil’ past]. 
 <sup>4</sup>God does not believe in retribution. 
@@ -1487,7 +1487,7 @@ Attack can not be justified. God could not think this way.
 
 #### substituted
 
-3.&emsp;The statement “Vengeance is mine, says the Lord” is a misperception; by misperception one assigns one’s own ‘evil’ past to God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception; by misperception one assigns one’s own ‘evil’ past to God. 
 <sup>2</sup>The ‘evil’ past has nothing to do with God. 
 <sup>3</sup>God did not create the ‘evil’ past and God does not maintain the ‘evil’ past. 
 <sup>4</sup>God does not believe in retribution. 
@@ -1518,7 +1518,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 ## T-3.I.4
 
 <p class=fip id=p4>
-4.&emsp;Sacrifice is a notion totally unknown to God. 
+4. Sacrifice is a notion totally unknown to God. 
 <sup>2</sup>It arises solely from fear, and frightened people can be vicious. 
 <sup>3</sup>Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
 <sup>4</sup>It has been hard for many Christians to realise that this applies to themselves. 
@@ -1529,7 +1529,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 
 #### expanded
 
-4.&emsp;Sacrifice is a notion totally unknown to God. 
+4. Sacrifice is a notion totally unknown to God. 
 <sup>2</sup>It [sacrifice] arises solely from fear, and frightened people can be vicious. 
 <sup>3</sup>Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
 <sup>4</sup>It has been hard for many Christians to realise that this [being merciful] applies to themselves [Christians’ selves]. 
@@ -1539,7 +1539,7 @@ Retribution is not an attribute of God. God does not hold evil deeds against any
 
 #### substituted
 
-4.&emsp;Sacrifice is a notion totally unknown to God. 
+4. Sacrifice is a notion totally unknown to God. 
 <sup>2</sup>Sacrifice arises solely from fear, and frightened people can be vicious. 
 <sup>3</sup>Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
 <sup>4</sup>It has been hard for many Christians to realise that being merciful applies to Christians’ selves. 
@@ -1574,7 +1574,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 ## T-3.I.5
 
 <p class=fip id=p5>
-5.&emsp;I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
+5. I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
 <sup>2</sup>Correctly understood, it is a very simple symbol that speaks of my innocence. 
 <sup>3</sup>The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. 
 <sup>4</sup>“Blessed are the pure in heart for they shall see God” is another way of saying the same thing. 
@@ -1584,7 +1584,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 
 #### expanded
 
-5.&emsp;I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
+5. I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
 <sup>2</sup>Correctly understood, it [the lamb of God who takes away the sins of the world] is a very simple symbol that [symbol] speaks of my innocence. 
 <sup>3</sup>The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. 
 <sup>4</sup>“Blessed are the pure in heart for they [the pure in heart] shall see God” is another way of saying the same thing [strength and innocence are not in conflict]. 
@@ -1593,7 +1593,7 @@ If we believe that Jesus suffered *because* of our sins — that he, an innocent
 
 #### substituted
 
-5.&emsp;I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
+5. I have been correctly referred to as “the lamb of God who takes away the sins of the world”, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. 
 <sup>2</sup>Correctly understood, the lamb of God who takes away the sins of the world is a very simple symbol; the symbol speaks of my innocence. 
 <sup>3</sup>The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. 
 <sup>4</sup>“Blessed are the pure in heart for the pure in heart shall see God” is another way of saying strength and innocence are not in conflict. 
@@ -1615,7 +1615,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 ## T-3.I.6
 
 <p class=fip id=p6>
-6.&emsp;Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its wholeness. 
+6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its wholeness. 
 <sup>2</sup>It cannot project. 
 <sup>3</sup>It can only honour other minds, because honour is the natural greeting of the truly loved to others who are like them. 
 <sup>4</sup>The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one in which the meaning of the Atonement is perfectly apparent. 
@@ -1626,7 +1626,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 
 #### expanded
 
-6.&emsp;Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its [the innocent mind’s] wholeness. 
+6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its [the innocent mind’s] wholeness. 
 <sup>2</sup>It [the innocent mind] cannot project. 
 <sup>3</sup>It [the innocent mind] can only honour other minds, because honour is the natural greeting of the truly loved to others who are like them [the truly loved]. 
 <sup>4</sup>The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one [a state] in which [state] the meaning of the Atonement is perfectly apparent. 
@@ -1636,7 +1636,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 
 #### substituted
 
-6.&emsp;Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect the innocent mind’s wholeness. 
+6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect the innocent mind’s wholeness. 
 <sup>2</sup>The innocent mind cannot project. 
 <sup>3</sup>The innocent mind can only honour other minds, because honour is the natural greeting of the truly loved to others who are like the truly loved. 
 <sup>4</sup>The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is a state; in state the meaning of the Atonement is perfectly apparent. 
@@ -1651,7 +1651,7 @@ The innocent mind protects its wholeness. The innocent mind does not project. Th
 ## T-3.I.7
 
 <p class=fip id=p7>
-7.&emsp;The Atonement itself radiates nothing but truth. 
+7. The Atonement itself radiates nothing but truth. 
 <sup>2</sup>It therefore epitomises harmlessness and sheds only blessing. 
 <sup>3</sup>It could not do this if it arose from anything but perfect innocence. 
 <sup>4</sup>Innocence is wisdom because it is unaware of evil, and evil does not exist. 
@@ -1666,7 +1666,7 @@ The innocent mind protects its wholeness. The innocent mind does not project. Th
 
 #### expanded
 
-7.&emsp;The Atonement itself radiates nothing but truth. 
+7. The Atonement itself radiates nothing but truth. 
 <sup>2</sup>It [the Atonement] therefore epitomises harmlessness and sheds only blessing. 
 <sup>3</sup>It [the Atonement] could not do this [shed only blessing] if it [the Atonement] arose from anything but perfect innocence. 
 <sup>4</sup>Innocence is wisdom because it [innocence] is unaware of evil, and evil does not exist. 
@@ -1680,7 +1680,7 @@ The innocent mind protects its wholeness. The innocent mind does not project. Th
 
 #### substituted
 
-7.&emsp;The Atonement itself radiates nothing but truth. 
+7. The Atonement itself radiates nothing but truth. 
 <sup>2</sup>The Atonement therefore epitomises harmlessness and sheds only blessing. 
 <sup>3</sup>The Atonement could not do shed only blessing if the Atonement arose from anything but perfect innocence. 
 <sup>4</sup>Innocence is wisdom because innocence is unaware of evil, and evil does not exist. 
@@ -1699,7 +1699,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 ## T-3.I.8
 
 <p class=fip id=p8>
-8.&emsp;The innocence of God is the true state of the mind of His Son. 
+8. The innocence of God is the true state of the mind of His Son. 
 <sup>2</sup>In this state your mind knows God, for God is not symbolic; He is Fact. 
 <sup>3</sup>Knowing His Son as he is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 <sup>4</sup>The understanding of the innocent is truth. 
@@ -1708,7 +1708,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 
 #### expanded
 
-8.&emsp;The innocence of God is the true state of the mind of His [God’s] Son. 
+8. The innocence of God is the true state of the mind of His [God’s] Son. 
 <sup>2</sup>In this state [of innocence] your mind knows God, for God is not symbolic; He [God] is Fact. 
 <sup>3</sup>Knowing His [God’s] Son as he [God’s son] is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 <sup>4</sup>The understanding of the innocent is truth. 
@@ -1716,7 +1716,7 @@ The Atonement is truth. Evil does not exist. The Atonement is understanding that
 
 #### substituted
 
-8.&emsp;The innocence of God is the true state of the mind of God’s Son. 
+8. The innocence of God is the true state of the mind of God’s Son. 
 <sup>2</sup>In the state of innocence your mind knows God, for God is not symbolic; God is Fact. 
 <sup>3</sup>Knowing God’s Son as God’s son is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 <sup>4</sup>The understanding of the innocent is truth. 
@@ -1746,7 +1746,7 @@ God’s Son’s true state is innocence. In innocence you know God.
 ## T-3.II.1
 
 <p class=fip id=p1>
-1.&emsp;I have stated that the basic concepts referred to in this course are not matters of degree. 
+1. I have stated that the basic concepts referred to in this course are not matters of degree. 
 <sup>2</sup>Certain fundamental concepts cannot be understood in terms of opposites. 
 <sup>3</sup>It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 <sup>4</sup>They are all true or all false. 
@@ -1758,7 +1758,7 @@ God’s Son’s true state is innocence. In innocence you know God.
 
 #### expanded
 
-1.&emsp;I have stated that the basic concepts referred to in this course are not matters of degree. 
+1. I have stated that the basic concepts referred to in this course are not matters of degree. 
 <sup>2</sup>Certain fundamental concepts cannot be understood in terms of opposites. 
 <sup>3</sup>It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 <sup>4</sup>They [fundamental concepts like light and dark, or everything and nothing] are all true or all false. 
@@ -1769,7 +1769,7 @@ God’s Son’s true state is innocence. In innocence you know God.
 
 #### substituted
 
-1.&emsp;I have stated that the basic concepts referred to in this course are not matters of degree. 
+1. I have stated that the basic concepts referred to in this course are not matters of degree. 
 <sup>2</sup>Certain fundamental concepts cannot be understood in terms of opposites. 
 <sup>3</sup>It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 <sup>4</sup>Fundamental concepts like light and dark, or everything and nothing, are all true or all false. 
@@ -1785,7 +1785,7 @@ Some concepts are either all true or all false. Example are light or darkness, o
 ## T-3.II.2
 
 <p class=fip id=p2>
-2.&emsp;Innocence is not a partial attribute. 
+2. Innocence is not a partial attribute. 
 <sup>2</sup>It is not real <em>until</em> it is total. 
 <sup>3</sup>The partly innocent are apt to be quite foolish at times. 
 <sup>4</sup>It is not until their innocence becomes a viewpoint with universal application that it becomes wisdom. 
@@ -1795,7 +1795,7 @@ Some concepts are either all true or all false. Example are light or darkness, o
 
 #### expanded
 
-1.&emsp;Innocence is not a partial attribute. 
+1. Innocence is not a partial attribute. 
 <sup>2</sup>It [innocence] is not real <em>until</em> it [innocence] is total. 
 <sup>3</sup>The partly innocent are apt to be quite foolish at times. 
 <sup>4</sup>It is not until their [the partly-innocent’s] innocence becomes a viewpoint with universal application that it [innocence] becomes wisdom. 
@@ -1804,7 +1804,7 @@ Some concepts are either all true or all false. Example are light or darkness, o
 
 #### substituted
 
-1.&emsp;Innocence is not a partial attribute. 
+1. Innocence is not a partial attribute. 
 <sup>2</sup>Innocence is not real <em>until</em> innocence is total. 
 <sup>3</sup>The partly innocent are apt to be quite foolish at times. 
 <sup>4</sup>It is not until the partly-innocent’s innocence becomes a viewpoint with universal application that innocence becomes wisdom. 
@@ -1818,7 +1818,7 @@ Innocence is wisdom, but only for those totally innocent. The totally innocent w
 ## T-3.II.3
 
 <p class=fip id=p3>
-3.&emsp;When you lack confidence in what someone will do, you are attesting to your belief that he is not in his right mind. 
+3. When you lack confidence in what someone will do, you are attesting to your belief that he is not in his right mind. 
 <sup>2</sup>This is hardly a miracle-based frame of reference. 
 <sup>3</sup>It also has the disastrous effect of denying the power of the miracle. 
 <sup>4</sup>The miracle perceives everything as it is. 
@@ -1830,7 +1830,7 @@ Innocence is wisdom, but only for those totally innocent. The totally innocent w
 
 #### expanded
 
-3.&emsp;When you lack confidence in what someone will do, you are attesting to your belief that he [someone] is not in his [someone’s] right mind. 
+3. When you lack confidence in what someone will do, you are attesting to your belief that he [someone] is not in his [someone’s] right mind. 
 <sup>2</sup>This [believing someone is not in someone’s right mind] is hardly a miracle-based frame of reference. 
 <sup>3</sup>It [believing someone is not in someone’s right mind] also has the disastrous effect of denying the power of the miracle. 
 <sup>4</sup>The miracle perceives everything as it [everything] is. 
@@ -1841,7 +1841,7 @@ Innocence is wisdom, but only for those totally innocent. The totally innocent w
 
 #### substituted
 
-3.&emsp;When you lack confidence in what someone will do, you are attesting to your belief that someone is not in his someone’s right mind. 
+3. When you lack confidence in what someone will do, you are attesting to your belief that someone is not in his someone’s right mind. 
 <sup>2</sup>Believing someone is not in someone’s right mind is hardly a miracle-based frame of reference. 
 <sup>3</sup>Believing someone is not in someone’s right mind also has the disastrous effect of denying the power of the miracle. 
 <sup>4</sup>The miracle perceives everything as everything is. 
@@ -1857,7 +1857,7 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 ## T-3.II.4
 
 <p class=fip id=p4>
-4.&emsp;You are afraid of God’s Will because you have used your own mind, which He created in the likeness of His Own, to miscreate. 
+4. You are afraid of God’s Will because you have used your own mind, which He created in the likeness of His Own, to miscreate. 
 <sup>2</sup>The mind can miscreate only when it believes it is not free. 
 <sup>3</sup>An “imprisoned” mind is not free because it is possessed, or held back, by itself. 
 <sup>4</sup>It is therefore limited, and the will is not free to assert itself. 
@@ -1867,7 +1867,7 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 
 #### expanded
 
-4.&emsp;You are afraid of God’s Will because you have used your own mind, which He [God] created in the likeness of His [God’s] Own [Mind], to miscreate. 
+4. You are afraid of God’s Will because you have used your own mind, which He [God] created in the likeness of His [God’s] Own [Mind], to miscreate. 
 <sup>2</sup>The mind can miscreate only when it [the mind] believes it [the mind] is not free. 
 <sup>3</sup>An “imprisoned” mind is not free because it [an imprisoned mind] is possessed, or held back, by itself [imprisoned-mind’s self]. 
 <sup>4</sup>It [imprisoned mind] is therefore limited, and the will is not free to assert itself [will’s self]. 
@@ -1876,7 +1876,7 @@ Miracles won’t happen if you believe others are not in their right minds. Do n
 
 #### substituted
 
-4.&emsp;You are afraid of God’s Will because you have used your own mind, which God created in the likeness of God’s Own Mind, to miscreate. 
+4. You are afraid of God’s Will because you have used your own mind, which God created in the likeness of God’s Own Mind, to miscreate. 
 <sup>2</sup>The mind can miscreate only when the mind believes the mind is not free. 
 <sup>3</sup>An “imprisoned” mind is not free because an imprisoned mind is possessed, or held back, by imprisoned-mind’s self. 
 <sup>4</sup>Imprisoned mind is therefore limited, and the will is not free to assert will’s self. 
@@ -1897,7 +1897,7 @@ God created your mind in the likeness of God’s mind. You have used your mind t
 ## T-3.II.5
 
 <p class=fip id=p5>
-5.&emsp;Nothing can prevail against a Son of God who commends his spirit into the Hands of his Father. 
+5. Nothing can prevail against a Son of God who commends his spirit into the Hands of his Father. 
 <sup>2</sup>By doing this the mind awakens from its sleep and remembers its Creator. 
 <sup>3</sup>All sense of separation disappears. 
 <sup>4</sup>The Son of God is part of the Holy Trinity, but the Trinity Itself is One. 
@@ -1911,7 +1911,7 @@ God created your mind in the likeness of God’s mind. You have used your mind t
 
 #### expanded
 
-5.&emsp;Nothing can prevail against a Son of God who commends his [Son-of-God’s] spirit into the Hands of his [Son-of-God’s] Father. 
+5. Nothing can prevail against a Son of God who commends his [Son-of-God’s] spirit into the Hands of his [Son-of-God’s] Father. 
 <sup>2</sup>By doing this [commending his [Son of God’s] spirit into the Hands of the Father] the mind awakens from its [the mind’s] sleep and remembers its [the mind’s] Creator. 
 <sup>3</sup>All sense of separation disappears. 
 <sup>4</sup>The Son of God is part of the Holy Trinity, but the Trinity Itself [Trinity’s-self] is One. 
@@ -1924,7 +1924,7 @@ God created your mind in the likeness of God’s mind. You have used your mind t
 
 #### substituted
 
-5.&emsp;Nothing can prevail against a Son of God who commends Son-of-God’s spirit into the Hands of [Son-of-God’s] Father. 
+5. Nothing can prevail against a Son of God who commends Son-of-God’s spirit into the Hands of [Son-of-God’s] Father. 
 <sup>2</sup>By commending Son-of-God’s spirit into the Hands of the Father the mind awakens from its the mind’s sleep and remembers its the mind’s Creator. 
 <sup>3</sup>All sense of separation disappears. 
 <sup>4</sup>The Son of God is part of the Holy Trinity, but the Trinity Trinity’s-self is One. 
@@ -1942,7 +1942,7 @@ Commend your spirit to into the Hands of the Father. This will awaken your mind 
 ## T-3.II.6
 
 <p class=fip id=p6>
-6.&emsp;The way to correct distortions is to withdraw your faith in them and invest it only in what is true. 
+6. The way to correct distortions is to withdraw your faith in them and invest it only in what is true. 
 <sup>2</sup>You cannot make untruth true. 
 <sup>3</sup>If you are willing to accept what is true in everything you perceive, you let it be true for you. 
 <sup>4</sup>Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. 
@@ -1953,7 +1953,7 @@ Commend your spirit to into the Hands of the Father. This will awaken your mind 
 
 #### expanded
 
-6.&emsp;The way to correct distortions is to withdraw your faith in them [distortions] and invest it [your faith] only in what is true. 
+6. The way to correct distortions is to withdraw your faith in them [distortions] and invest it [your faith] only in what is true. 
 <sup>2</sup>You cannot make untruth true. 
 <sup>3</sup>If you are willing to accept what is true in everything you perceive, you let it [what you perceive] be true for you. 
 <sup>4</sup>Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. 
@@ -1963,7 +1963,7 @@ Commend your spirit to into the Hands of the Father. This will awaken your mind 
 
 #### substituted
 
-6.&emsp;The way to correct distortions is to withdraw your faith in distortions and invest your faith only in what is true. 
+6. The way to correct distortions is to withdraw your faith in distortions and invest your faith only in what is true. 
 <sup>2</sup>You cannot make untruth true. 
 <sup>3</sup>If you are willing to accept what is true in everything you perceive, you let what you perceive be true for you. 
 <sup>4</sup>Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. 
@@ -1979,7 +1979,7 @@ Believe only in the truth and see only the truth. Seeing the truth in others wil
 ## T-3.III.1
 
 <p class=fip id=p1>
-1.&emsp;We have been emphasising perception, and have said very little about knowledge as yet. 
+1. We have been emphasising perception, and have said very little about knowledge as yet. 
 <sup>2</sup>This is because perception must be straightened out before you can know anything. 
 <sup>3</sup>To know is to be certain. 
 <sup>4</sup>Uncertainty means that you do not know. 
@@ -1993,7 +1993,7 @@ Believe only in the truth and see only the truth. Seeing the truth in others wil
 
 #### expanded
 
-1.&emsp;We have been emphasising perception, and have said very little about knowledge as yet. 
+1. We have been emphasising perception, and have said very little about knowledge as yet. 
 <sup>2</sup>This [emphasising perception] is because perception must be straightened out before you can know anything. 
 <sup>3</sup>To know is to be certain. 
 <sup>4</sup>Uncertainty means that you do not know. 
@@ -2006,7 +2006,7 @@ Believe only in the truth and see only the truth. Seeing the truth in others wil
 
 #### substituted
 
-1.&emsp;We have been emphasising perception, and have said very little about knowledge as yet. 
+1. We have been emphasising perception, and have said very little about knowledge as yet. 
 <sup>2</sup>Emphasising perception is because perception must be straightened out before you can know anything. 
 <sup>3</sup>To know is to be certain. 
 <sup>4</sup>Uncertainty means that you do not know. 
@@ -2024,7 +2024,7 @@ All perception varies. Knowledge is always certain. Certainty is strength. Stren
 ## T-3.III.2
 
 <p class=fip id=p2>
-2.&emsp;All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
+2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 <sup>2</sup>To recognise means to “know again”, implying that you knew before. 
 <sup>3</sup>You can see in many ways because perception involves interpretation, and this means that it is not whole or consistent. 
 <sup>4</sup>The miracle, being a way of perceiving, is not knowledge. 
@@ -2039,7 +2039,7 @@ All perception varies. Knowledge is always certain. Certainty is strength. Stren
 
 #### expanded
 
-2.&emsp;All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
+2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 <sup>2</sup>To recognise means to “know again”, implying that you knew before. 
 <sup>3</sup>You can see in many ways because perception involves interpretation, and this [perception involving interpretation] means that it [perception] is not whole or consistent. 
 <sup>4</sup>The miracle, being a way of perceiving, is not knowledge. 
@@ -2053,7 +2053,7 @@ All perception varies. Knowledge is always certain. Certainty is strength. Stren
 
 #### substituted
 
-2.&emsp;All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
+2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 <sup>2</sup>To recognise means to “know again”, implying that you knew before. 
 <sup>3</sup>You can see in many ways because perception involves interpretation, and perception involving interpretation means that perception is not whole or consistent. 
 <sup>4</sup>The miracle, being a way of perceiving, is not knowledge. 
@@ -2072,7 +2072,7 @@ Perceptions are not whole or consistent. Illusions must be questioned. Miracles 
 ## T-3.III.3
 
 <p class=fip id=p3>
-3.&emsp;The questioning mind perceives itself in time, and therefore looks for future answers. 
+3. The questioning mind perceives itself in time, and therefore looks for future answers. 
 <sup>2</sup>The closed mind believes the future and the present will be the same. 
 <sup>3</sup>This establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 <sup>4</sup>This fear inhibits the tendency to question at all.
@@ -2080,14 +2080,14 @@ Perceptions are not whole or consistent. Illusions must be questioned. Miracles 
 
 #### expanded
 
-3.&emsp;The questioning mind perceives itself [questioning-mind’s self] in time, and therefore looks for future answers. 
+3. The questioning mind perceives itself [questioning-mind’s self] in time, and therefore looks for future answers. 
 <sup>2</sup>The closed mind believes the future and the present will be the same. 
 <sup>3</sup>This [believing the future and the present will be the same] establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 <sup>4</sup>This fear [that the future will be worse than the present] inhibits the tendency to question at all.
 
 #### substituted
 
-3.&emsp;The questioning mind perceives questioning-mind’s self in time, and therefore looks for future answers. 
+3. The questioning mind perceives questioning-mind’s self in time, and therefore looks for future answers. 
 <sup>2</sup>The closed mind believes the future and the present will be the same. 
 <sup>3</sup>Believing the future and the present will be the same establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 <sup>4</sup>The fear that the future will be worse than the present inhibits the tendency to question at all.
@@ -2099,7 +2099,7 @@ Fear is believing the future will be worse than the present. Believing present a
 ## T-3.III.4
 
 <p class=fip id=p4>
-4.&emsp;True vision is the natural perception of spiritual sight, but it is still a correction rather than a fact. 
+4. True vision is the natural perception of spiritual sight, but it is still a correction rather than a fact. 
 <sup>2</sup>Spiritual sight is symbolic, and therefore not a device for knowing. 
 <sup>3</sup>It is, however, a means of right perception, which brings it into the proper domain of the miracle. 
 <sup>4</sup>A “vision of God” would be a miracle rather than a revelation. 
@@ -2109,7 +2109,7 @@ Fear is believing the future will be worse than the present. Believing present a
 
 #### expanded
 
-4.&emsp;True vision is the natural perception of spiritual sight, but it [true vision] is still a correction rather than a fact. 
+4. True vision is the natural perception of spiritual sight, but it [true vision] is still a correction rather than a fact. 
 <sup>2</sup>Spiritual sight is symbolic, and therefore not a device for knowing. 
 <sup>3</sup>It [spiritual sight] is, however, a means of right perception, which brings it [spiritual sight] into the proper domain of the miracle. 
 <sup>4</sup>A “vision of God” would be a miracle rather than a revelation. 
@@ -2118,7 +2118,7 @@ Fear is believing the future will be worse than the present. Believing present a
 
 #### substituted
 
-4.&emsp;True vision is the natural perception of spiritual sight, but true vision is still a correction rather than a fact. 
+4. True vision is the natural perception of spiritual sight, but true vision is still a correction rather than a fact. 
 <sup>2</sup>Spiritual sight is symbolic, and therefore not a device for knowing. 
 <sup>3</sup>Spiritual sight is, however, a means of right perception, which brings spiritual sight into the proper domain of the miracle. 
 <sup>4</sup>A “vision of God” would be a miracle rather than a revelation. 
@@ -2140,7 +2140,7 @@ True vision is the correction of perception. But True vision, or spiritual sight
 ## T-3.III.5
 
 <p class=fip id=p5>
-5.&emsp;The Bible tells you to know yourself, or to be certain. 
+5. The Bible tells you to know yourself, or to be certain. 
 <sup>2</sup>Certainty is always of God. 
 <sup>3</sup>When you love someone you have perceived him as he is, and this makes it possible for you to know him. 
 <sup>4</sup>Until you first perceive him as he is you cannot know him. 
@@ -2157,7 +2157,7 @@ True vision is the correction of perception. But True vision, or spiritual sight
 
 #### expanded
 
-5.&emsp;The Bible tells you to know yourself, or to be certain. 
+5. The Bible tells you to know yourself, or to be certain. 
 <sup>2</sup>Certainty is always of God. 
 <sup>3</sup>When you love someone you have perceived him [someone] as he [someone] is, and this [perceiving someone as is] makes it possible for you to know him [someone]. 
 <sup>4</sup>Until you first perceive him [someone] as he [someone] is you cannot know him [someone]. 
@@ -2173,7 +2173,7 @@ True vision is the correction of perception. But True vision, or spiritual sight
 
 #### substituted
 
-5.&emsp;The Bible tells you to know yourself, or to be certain. 
+5. The Bible tells you to know yourself, or to be certain. 
 <sup>2</sup>Certainty is always of God. 
 <sup>3</sup>When you love someone you have perceived someone as someone is, and perceiving someone as someone is makes it possible for you to know someone. 
 <sup>4</sup>Until you first perceive someone as someone is you cannot know someone. 
@@ -2194,7 +2194,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 ## T-3.III.6
 
 <p class=fip id=p6>
-6.&emsp;Right perception is necessary before God can communicate directly to His altars, which He established in His Sons. 
+6. Right perception is necessary before God can communicate directly to His altars, which He established in His Sons. 
 <sup>2</sup>There He can communicate His certainty, and His knowledge will bring peace without question. 
 <sup>3</sup>God is not a stranger to His Sons, and His Sons are not strangers to each other. 
 <sup>4</sup>Knowledge preceded both perception and time, and will ultimately replace them. 
@@ -2205,7 +2205,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 
 #### expanded
 
-6.&emsp;Right perception is necessary before God can communicate directly to His [God’s] altars, which He [God] established in His [God’s] Sons. 
+6. Right perception is necessary before God can communicate directly to His [God’s] altars, which He [God] established in His [God’s] Sons. 
 <sup>2</sup>There He [God] can communicate His [God’s] certainty, and His [God’s] knowledge will bring peace without question. 
 <sup>3</sup>God is not a stranger to His [God’s] Sons, and His [God’s] Sons are not strangers to each other. 
 <sup>4</sup>Knowledge preceded both perception and time, and will ultimately replace them [perception and time]. 
@@ -2215,7 +2215,7 @@ Loving someone is perceiving them as they are. Perceiving someone as they are is
 
 #### substituted
 
-6.&emsp;Right perception is necessary before God can communicate directly to God’s altars, which God established in God’s Sons. 
+6. Right perception is necessary before God can communicate directly to God’s altars, which God established in God’s Sons. 
 <sup>2</sup>There God can communicate God’s certainty, and God’s knowledge will bring peace without question. 
 <sup>3</sup>God is not a stranger to God’s Sons, and God’s Sons are not strangers to each other. 
 <sup>4</sup>Knowledge preceded both perception and time, and will ultimately replace perception and time. 
@@ -2246,7 +2246,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 ## T-3.III.7
 
 <p class=fip id=p7>
-7.&emsp;If you attack error in another, you will hurt yourself. 
+7. If you attack error in another, you will hurt yourself. 
 <sup>2</sup>You cannot know your brother when you attack him. 
 <sup>3</sup>Attack is always made upon a stranger. 
 <sup>4</sup>You are making him a stranger by misperceiving him, and so you cannot know him. 
@@ -2262,7 +2262,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 
 #### expanded
 
-7.&emsp;If you attack error in another, you will hurt yourself. 
+7. If you attack error in another, you will hurt yourself. 
 <sup>2</sup>You cannot know your brother when you attack him [your brother]. 
 <sup>3</sup>Attack is always made upon a stranger. 
 <sup>4</sup>You are making him [your brother] a stranger by misperceiving him [your brother], and so you cannot know him [your brother]. 
@@ -2277,7 +2277,7 @@ Knowledge existed before perception and time. Right perception is necessary befo
 
 #### substituted
 
-7.&emsp;If you attack error in another, you will hurt yourself. 
+7. If you attack error in another, you will hurt yourself. 
 <sup>2</sup>You cannot know your brother when you attack your brother. 
 <sup>3</sup>Attack is always made upon a stranger. 
 <sup>4</sup>You are making your brother a stranger by misperceiving your brother, and so you cannot know your brother. 
@@ -2299,7 +2299,7 @@ Attacking a brother is making a brother into a stranger. God’s creations know 
 ## T-3.IV.1
 
 <p class=fip id=p1>
-1.&emsp;The abilities you now possess are only shadows of your real strength. 
+1. The abilities you now possess are only shadows of your real strength. 
 <sup>2</sup>All of your present functions are divided and open to question and doubt. 
 <sup>3</sup>This is because you are not certain how you will use them, and are therefore incapable of knowledge. 
 <sup>4</sup>You are also incapable of knowledge because you can still perceive lovelessly. 
@@ -2312,7 +2312,7 @@ Attacking a brother is making a brother into a stranger. God’s creations know 
 
 #### expanded
 
-1.&emsp;The abilities you now possess are only shadows of your real strength. 
+1. The abilities you now possess are only shadows of your real strength. 
 <sup>2</sup>All of your present functions are divided and open to question and doubt. 
 <sup>3</sup>This [your present functions are divided] is because you are not certain how you will use them [your present functions], and are therefore incapable of knowledge. 
 <sup>4</sup>You are also incapable of knowledge because you can still perceive lovelessly. 
@@ -2324,7 +2324,7 @@ Attacking a brother is making a brother into a stranger. God’s creations know 
 
 #### substituted
 
-1.&emsp;The abilities you now possess are only shadows of your real strength. 
+1. The abilities you now possess are only shadows of your real strength. 
 <sup>2</sup>All of your present functions are divided and open to question and doubt. 
 <sup>3</sup>Your present functions are divided because you are not certain how you will use your present functions, and are therefore incapable of knowledge. 
 <sup>4</sup>You are also incapable of knowledge because you can still perceive lovelessly. 
@@ -2341,7 +2341,7 @@ The separation introduced levels. Perception and conflict arise from levels.
 ## T-3.IV.2
 
 <p class=fip id=p2>
-2.&emsp;Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
+2. Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
 <sup>2</sup>Consciousness is correctly identified as the domain of the ego. 
 <sup>3</sup>The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. 
 <sup>4</sup>Yet you can know yourself only as you are, because that is all you can be sure of. 
@@ -2350,7 +2350,7 @@ The separation introduced levels. Perception and conflict arise from levels.
 
 #### expanded
 
-2.&emsp;Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
+2. Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
 <sup>2</sup>Consciousness is correctly identified as the domain of the ego. 
 <sup>3</sup>The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. 
 <sup>4</sup>Yet you can know yourself only as you are, because that [what you are] is all you can be sure of. 
@@ -2358,7 +2358,7 @@ The separation introduced levels. Perception and conflict arise from levels.
 
 #### substituted
 
-2.&emsp;Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
+2. Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. 
 <sup>2</sup>Consciousness is correctly identified as the domain of the ego. 
 <sup>3</sup>The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. 
 <sup>4</sup>Yet you can know yourself only as you are, because what you are is all you can be sure of. 
@@ -2379,7 +2379,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 ## T-3.IV.3
 
 <p class=fip id=p3>
-3.&emsp;The ego is the questioning aspect of the post-separation self, which was made rather than created. 
+3. The ego is the questioning aspect of the post-separation self, which was made rather than created. 
 <sup>2</sup>It is capable of asking questions but not of perceiving meaningful answers, because these would involve knowledge and cannot be perceived. 
 <sup>3</sup>The mind is therefore confused, because only One-mindedness can be without confusion. 
 <sup>4</sup>A separated or divided mind <em>must</em> be confused. 
@@ -2394,7 +2394,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 
 #### expanded
 
-3.&emsp;The ego is the questioning aspect of the post-separation self, which [post-separation self] was made rather than created. 
+3. The ego is the questioning aspect of the post-separation self, which [post-separation self] was made rather than created. 
 <sup>2</sup>It [the ego] is capable of asking questions but not of perceiving meaningful answers, because these [meaningful answers] would involve knowledge and cannot be perceived. 
 <sup>3</sup>The mind is therefore confused, because only One-mindedness can be without confusion. 
 <sup>4</sup>A separated or divided mind must be confused. 
@@ -2408,7 +2408,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 
 #### substituted
 
-3.&emsp;The ego is the questioning aspect of the post-separation self; post-separation self was made rather than created. 
+3. The ego is the questioning aspect of the post-separation self; post-separation self was made rather than created. 
 <sup>2</sup>The ego is capable of asking questions but not of perceiving meaningful answers, because meaningful answers would involve knowledge and cannot be perceived. 
 <sup>3</sup>The mind is therefore confused, because only One-mindedness can be without confusion. 
 <sup>4</sup>A separated or divided mind must be confused. 
@@ -2435,7 +2435,7 @@ The ego asks questions but can’t perceive meaningful answers. A separated mind
 ## T-3.IV.4
 
 <p class=fip id=p4>
-4.&emsp;Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
+4. Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
 <sup>2</sup>You can be right-minded or wrong-minded, and even this is subject to degrees, clearly demonstrating that knowledge is not involved. 
 <sup>3</sup>The term “right-mindedness” is properly used as the correction for “wrong-mindedness”, and applies to the state of mind that induces accurate perception. 
 <sup>4</sup>It is miracle-minded because it heals misperception, and this is indeed a miracle in view of how you perceive yourself.
@@ -2443,14 +2443,14 @@ The ego asks questions but can’t perceive meaningful answers. A separated mind
 
 #### expanded
 
-4.&emsp;Right-mindedness is not to be confused with the knowing mind, because it [right-mindedness] is applicable only to right perception. 
+4. Right-mindedness is not to be confused with the knowing mind, because it [right-mindedness] is applicable only to right perception. 
 <sup>2</sup>You can be right-minded or wrong-minded, and even this [being right- or wrong-minded] is subject to degrees, clearly demonstrating that knowledge is not involved. 
 <sup>3</sup>The term “right-mindedness” is properly used as the correction for “wrong-mindedness”, and applies to the state of mind that induces accurate perception. 
 <sup>4</sup>It [right-mindedness] is miracle-minded because it [right-mindedness] heals misperception, and this [healing misperception] is indeed a miracle in view of how you perceive yourself.
 
 #### substituted
 
-4.&emsp;Right-mindedness is not to be confused with the knowing mind, because right-mindedness is applicable only to right perception. 
+4. Right-mindedness is not to be confused with the knowing mind, because right-mindedness is applicable only to right perception. 
 <sup>2</sup>You can be right-minded or wrong-minded, and even being right- or wrong-minded is subject to degrees, clearly demonstrating that knowledge is not involved. 
 <sup>3</sup>The term “right-mindedness” is properly used as the correction for “wrong-mindedness”, and applies to the state of mind that induces accurate perception. 
 <sup>4</sup>Right-mindedness is miracle-minded because right-mindedness heals misperception, and healing misperception is indeed a miracle in view of how you perceive yourself.
@@ -2462,7 +2462,7 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 ## T-3.IV.5
 
 <p class=fip id=p5>
-5.&emsp;Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. 
+5. Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. 
 <sup>2</sup>The mind is very active. 
 <sup>3</sup>When it chooses to be separated it chooses to perceive. 
 <sup>4</sup>Until then it wills only to know. 
@@ -2477,7 +2477,7 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 
 #### expanded
 
-5.&emsp;Perception always involves some misuse of mind, because it [perception] brings the mind into areas of uncertainty. 
+5. Perception always involves some misuse of mind, because it [perception] brings the mind into areas of uncertainty. 
 <sup>2</sup>The mind is very active. 
 <sup>3</sup>When it [the mind] chooses to be separated it [the mind] chooses to perceive. 
 <sup>4</sup>Until then it [the mind] wills only to know. 
@@ -2491,7 +2491,7 @@ Correct wrong-mindedness with right perception. Right-mindedness is a miracle. R
 
 #### substituted
 
-5.&emsp;Perception always involves some misuse of mind, because perception brings the mind into areas of uncertainty. 
+5. Perception always involves some misuse of mind, because perception brings the mind into areas of uncertainty. 
 <sup>2</sup>The mind is very active. 
 <sup>3</sup>When the mind chooses to be separated the mind chooses to perceive. 
 <sup>4</sup>Until then the mind wills only to know. 
@@ -2518,7 +2518,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 ## T-3.IV.6
 
 <p class=fip id=p6>
-6.&emsp;The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
+6. The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
 <sup>2</sup>That is why perception involves an exchange or translation, which knowledge does not need. 
 <sup>3</sup>The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 <sup>4</sup>Spirit, which knows, could not be reconciled with this loss of power, because it is incapable of darkness. 
@@ -2532,7 +2532,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 
 #### expanded
 
-6.&emsp;The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
+6. The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
 <sup>2</sup>That [you must perceive something and with something] is why perception involves an exchange or translation, which [exchange or translation] knowledge does not need. 
 <sup>3</sup>The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 <sup>4</sup>Spirit, which knows, could not be reconciled with this loss of power [interpreting the body as yourself], because it [spirit] is incapable of darkness. 
@@ -2545,7 +2545,7 @@ The mind wills to know. When the mind chooses to be separate, then the mind choo
 
 #### substituted
 
-6.&emsp;The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
+6. The ability to perceive made the body possible, because you must perceive <em>something</em> and <em>with</em> something. 
 <sup>2</sup>You must perceive something and with something is why perception involves an exchange or translation; knowledge does not need exchange or translation. 
 <sup>3</sup>The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 <sup>4</sup>Spirit, which knows, could not be reconciled with this loss of power, interpreting the body as yourself, because spirit is incapable of darkness. 
@@ -2571,7 +2571,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 ## T-3.IV.7
 
 <p class=fip id=p7>
-7.&emsp;God and His creations remain in surety, and therefore know that no miscreation exists. 
+7. God and His creations remain in surety, and therefore know that no miscreation exists. 
 <sup>2</sup>Truth cannot deal with errors that you want. 
 <sup>3</sup>I was a man who remembered spirit and its knowledge. 
 <sup>4</sup>As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. 
@@ -2591,7 +2591,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 
 #### expanded
 
-7.&emsp;God and His [God’s] creations remain in surety, and therefore know that no miscreation exists. 
+7. God and His [God’s] creations remain in surety, and therefore know that no miscreation exists. 
 <sup>2</sup>Truth cannot deal with errors that you want. 
 <sup>3</sup>I was a man who remembered spirit and its [spirit’s] knowledge. 
 <sup>4</sup>As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. 
@@ -2610,7 +2610,7 @@ The body is the result of the ability to perceive. Perception involves interpret
 
 #### substituted
 
-7.&emsp;God and God’s creations remain in surety, and therefore know that no miscreation exists. 
+7. God and God’s creations remain in surety, and therefore know that no miscreation exists. 
 <sup>2</sup>Truth cannot deal with errors that you want. 
 <sup>3</sup>I was a man who remembered spirit and spirit’s knowledge. 
 <sup>4</sup>As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. 
@@ -2664,7 +2664,7 @@ No miscreation exists. I corrected error by demonstrating the powerlessness of t
 ## T-3.V.1
 
 <p class=fip id=p1>
-1.&emsp;I have said that the abilities you possess are only shadows of your real strength, and that perception, which is inherently judgmental, was introduced only after the separation. 
+1. I have said that the abilities you possess are only shadows of your real strength, and that perception, which is inherently judgmental, was introduced only after the separation. 
 <sup>2</sup>No one has been sure of anything since. 
 <sup>3</sup>I have also made it clear that the resurrection was the means for the return to knowledge, which was accomplished by the union of my will with the Father’s. 
 <sup>4</sup>We can now establish a distinction that will clarify some of our subsequent statements.
@@ -2672,14 +2672,14 @@ No miscreation exists. I corrected error by demonstrating the powerlessness of t
 
 #### expanded
 
-1.&emsp;I have said that the abilities you possess are only shadows of your real strength, and that perception, which [perception] is inherently judgmental, was introduced only after the separation. 
+1. I have said that the abilities you possess are only shadows of your real strength, and that perception, which [perception] is inherently judgmental, was introduced only after the separation. 
 <sup>2</sup>No one has been sure of anything since. 
 <sup>3</sup>I have also made it clear that the resurrection was the means for the return to knowledge, which [resurrection] was accomplished by the union of my will with the Father’s [will]. 
 <sup>4</sup>We can now establish a distinction that will clarify some of our subsequent statements.
 
 #### substituted
 
-1.&emsp;I have said that the abilities you possess are only shadows of your real strength; and that perception is inherently judgmental, perception was introduced only after the separation. 
+1. I have said that the abilities you possess are only shadows of your real strength; and that perception is inherently judgmental, perception was introduced only after the separation. 
 <sup>2</sup>No one has been sure of anything since. 
 <sup>3</sup>I have also made it clear that the resurrection was the means for the return to knowledge; resurrection was accomplished by the union of my will with the Father’s will. 
 <sup>4</sup>We can now establish a distinction that will clarify some of our subsequent statements.
@@ -2691,7 +2691,7 @@ Recap: perception was introduced after the separation. Perception is judgemental
 ## T-3.V.2
 
 <p class=fip id=p2>
-2.&emsp;Since the separation, the words “create” and “make” have become confused. 
+2. Since the separation, the words “create” and “make” have become confused. 
 <sup>2</sup>When you make something, you do so out of a specific sense of lack or need. 
 <sup>3</sup>Anything made for a specific purpose has no true generalisability. 
 <sup>4</sup>When you make something to fill a perceived lack, you are tacitly implying that you believe in separation. 
@@ -2703,7 +2703,7 @@ Recap: perception was introduced after the separation. Perception is judgemental
 
 #### expanded
 
-2.&emsp;Since the separation, the words “create” and “make” have become confused. 
+2. Since the separation, the words “create” and “make” have become confused. 
 <sup>2</sup>When you make something, you do so [make something] out of a specific sense of lack or need. 
 <sup>3</sup>Anything made for a specific purpose has no true generalisability. 
 <sup>4</sup>When you make something to fill a perceived lack, you are tacitly implying that you believe in separation. 
@@ -2714,7 +2714,7 @@ Recap: perception was introduced after the separation. Perception is judgemental
 
 #### substituted
 
-2.&emsp;Since the separation, the words “create” and “make” have become confused. 
+2. Since the separation, the words “create” and “make” have become confused. 
 <sup>2</sup>When you make something, you make something out of a specific sense of lack or need. 
 <sup>3</sup>Anything made for a specific purpose has no true generalisability. 
 <sup>4</sup>When you make something to fill a perceived lack, you are tacitly implying that you believe in separation. 
@@ -2738,7 +2738,7 @@ In *A Course in Miracles*, “make” is reserved for the world of separation or
 ## T-3.V.3
 
 <p class=fip id=p3>
-3.&emsp;Knowing, as we have already observed, does not lead to doing. 
+3. Knowing, as we have already observed, does not lead to doing. 
 <sup>2</sup>The confusion between your real creation and what you have made of yourself is so profound that it has become literaly impossible for you to know anything. 
 <sup>3</sup>Knowledge is always stable, and it is quite evident that you are not. 
 <sup>4</sup>Nevertheless, you are perfectly stable as God created you. 
@@ -2748,7 +2748,7 @@ In *A Course in Miracles*, “make” is reserved for the world of separation or
 
 #### expanded
 
-3.&emsp;Knowing, as we have already observed, does not lead to doing. 
+3. Knowing, as we have already observed, does not lead to doing. 
 <sup>2</sup>The confusion between your real creation and what you have made of yourself is so profound that it has become literaly impossible for you to know anything. 
 <sup>3</sup>Knowledge is always stable, and it is quite evident that you are not. 
 <sup>4</sup>Nevertheless, you are perfectly stable as God created you. 
@@ -2757,7 +2757,7 @@ In *A Course in Miracles*, “make” is reserved for the world of separation or
 
 #### substituted
 
-3.&emsp;Knowing, as we have already observed, does not lead to doing. 
+3. Knowing, as we have already observed, does not lead to doing. 
 <sup>2</sup>The confusion between your real creation and what you have made of yourself is so profound that it has become literaly impossible for you to know anything. 
 <sup>3</sup>Knowledge is always stable, and it is quite evident that you are not. 
 <sup>4</sup>Nevertheless, you are perfectly stable as God created you. 
@@ -2771,7 +2771,7 @@ Your are confused between what you are trying to make of yourself, and God’s i
 ## T-3.V.4
 
 <p class=fip id=p4>
-4.&emsp;The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
+4. The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
 <sup>2</sup>You keep asking what it is you are. 
 <sup>3</sup>This implies that the answer is not only one you know, but is also one that is up to you to supply. 
 <sup>4</sup>Yet you cannot perceive yourself correctly. 
@@ -2783,7 +2783,7 @@ Your are confused between what you are trying to make of yourself, and God’s i
 
 #### expanded
 
-4.&emsp;The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
+4. The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
 <sup>2</sup>You keep asking what it is you are. 
 <sup>3</sup>This [asking what it is you are] implies that the answer is not only one [an answer] you know, but is also one [an answer] that is up to you to supply. 
 <sup>4</sup>Yet you cannot perceive yourself correctly. 
@@ -2794,7 +2794,7 @@ Your are confused between what you are trying to make of yourself, and God’s i
 
 #### substituted
 
-4.&emsp;The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
+4. The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
 <sup>2</sup>You keep asking what it is you are. 
 <sup>3</sup>Asking what it is you are implies that the answer is not only an answer you know, but is also an answer that is up to you to supply. 
 <sup>4</sup>Yet you cannot perceive yourself correctly. 
@@ -2810,7 +2810,7 @@ You keep asking what it is you are. It is not up to you to answer this. You cann
 ## T-3.V.5
 
 <p class=fip id=p5>
-5.&emsp;Knowing is not open to interpretation. 
+5. Knowing is not open to interpretation. 
 <sup>2</sup>You may try to ‘interpret’ meaning, but this is always open to error because it refers to the <em>perception</em> of meaning. 
 <sup>3</sup>Such incongruities are the result of attempts to regard yourself as separated and unseparated at the same time. 
 <sup>4</sup>It is impossible to make so fundamental a confusion without increasing your overall confusion still further. 
@@ -2821,7 +2821,7 @@ You keep asking what it is you are. It is not up to you to answer this. You cann
 
 #### expanded
 
-5.&emsp;Knowing is not open to interpretation. 
+5. Knowing is not open to interpretation. 
 <sup>2</sup>You may try to ‘interpret’ meaning, but this [trying to interpret meaning] is always open to error because it [trying to intrepret meaning] refers to the <em>perception</em> of meaning. 
 <sup>3</sup>Such incongruities [between meaning and perception of meaning] are the result of attempts to regard yourself as separated and unseparated at the same time. 
 <sup>4</sup>It is impossible to make so fundamental a confusion without increasing your overall confusion still further. 
@@ -2831,7 +2831,7 @@ You keep asking what it is you are. It is not up to you to answer this. You cann
 
 #### substituted
 
-5.&emsp;Knowing is not open to interpretation. 
+5. Knowing is not open to interpretation. 
 <sup>2</sup>You may try to ‘interpret’ meaning, but trying to interpret meaning is always open to error because trying to intrepret meaning refers to the <em>perception</em> of meaning. 
 <sup>3</sup>Incongruities between meaning and perception of meaning, are the result of attempts to regard yourself as separated and unseparated at the same time. 
 <sup>4</sup>It is impossible to make so fundamental a confusion without increasing your overall confusion still further. 
@@ -2846,7 +2846,7 @@ Let go of ingenious thinking. Ingenious thinking is an effort of the ego to inte
 ## T-3.V.6
 
 <p class=fip id=p6>
-6.&emsp;Prayer is a way of asking for something. 
+6. Prayer is a way of asking for something. 
 <sup>2</sup>It is the medium of miracles. 
 <sup>3</sup>But the only meaningful prayer is for forgiveness, because those who have been forgiven have everything. 
 <sup>4</sup>Once forgiveness has been accepted, prayer in the usual sense becomes utterly meaningless. 
@@ -2858,7 +2858,7 @@ Let go of ingenious thinking. Ingenious thinking is an effort of the ego to inte
 
 #### expanded
 
-6.&emsp;Prayer is a way of asking for something. 
+6. Prayer is a way of asking for something. 
 <sup>2</sup>It [prayer] is the medium of miracles. 
 <sup>3</sup>But the only meaningful prayer is for forgiveness, because those who have been forgiven have everything. 
 <sup>4</sup>Once forgiveness has been accepted, prayer in the usual sense becomes utterly meaningless. 
@@ -2869,7 +2869,7 @@ Let go of ingenious thinking. Ingenious thinking is an effort of the ego to inte
 
 #### substituted
 
-6.&emsp;Prayer is a way of asking for something. 
+6. Prayer is a way of asking for something. 
 <sup>2</sup>Prayer is the medium of miracles. 
 <sup>3</sup>But the only meaningful prayer is for forgiveness, because those who have been forgiven have everything. 
 <sup>4</sup>Once forgiveness has been accepted, prayer in the usual sense becomes utterly meaningless. 
@@ -2905,7 +2905,7 @@ Your only meaningful prayer is forgiveness. Praying for forgiveness is asking to
 ## T-3.V.7
 
 <p class=fip id=p7>
-7.&emsp;The statement “God created man in his own image and likeness” needs re-interpretation. 
+7. The statement “God created man in his own image and likeness” needs re-interpretation. 
 <sup>2</sup>“Image” can be understood as ‘thought’, and “likeness” as ‘of a like quality’. 
 <sup>3</sup>God did create spirit in His Own Thought and of a quality like to His Own. 
 <sup>4</sup>There is nothing else. 
@@ -2917,7 +2917,7 @@ Your only meaningful prayer is forgiveness. Praying for forgiveness is asking to
 
 #### expanded
 
-7.&emsp;The statement “God created man in his own image and likeness” needs re-interpretation. 
+7. The statement “God created man in his own image and likeness” needs re-interpretation. 
 <sup>2</sup>“Image” can be understood as ‘thought’, and “likeness” [can be understood] as ‘of a like quality’. 
 <sup>3</sup>God did create spirit in His [God’s] Own Thought and of a quality like to His [God’s] Own. 
 <sup>4</sup>There is nothing else. 
@@ -2928,7 +2928,7 @@ Your only meaningful prayer is forgiveness. Praying for forgiveness is asking to
 
 #### substituted
 
-7.&emsp;The statement “God created man in his own image and likeness” needs re-interpretation. 
+7. The statement “God created man in his own image and likeness” needs re-interpretation. 
 <sup>2</sup>“Image” can be understood as ‘thought’, and “likeness” can be understood as ‘of a like quality’. 
 <sup>3</sup>God did create spirit in God’s Own Thought and of a quality like to God’s Own. 
 <sup>4</sup>There is nothing else. 
@@ -2959,7 +2959,7 @@ There is only spirit. Spirit is created in God’s Thought, and in like quality 
 ## T-3.V.8
 
 <p class=fip id=p8>
-8.&emsp;What happens to perceptions if there are no judgements and nothing but perfect equality? 
+8. What happens to perceptions if there are no judgements and nothing but perfect equality? 
 <sup>2</sup>Perception becomes impossible. 
 <sup>3</sup>Truth can only be known. 
 <sup>4</sup>All of it is equally true, and knowing any part of it is to know all of it. 
@@ -2972,7 +2972,7 @@ There is only spirit. Spirit is created in God’s Thought, and in like quality 
 
 #### expanded
 
-8.&emsp;What happens to perceptions if there are no judgements and nothing but perfect equality? 
+8. What happens to perceptions if there are no judgements and nothing but perfect equality? 
 <sup>2</sup>Perception becomes impossible. 
 <sup>3</sup>Truth can only be known. 
 <sup>4</sup>All of it [truth] is equally true, and knowing any part of it [truth] is to know all of it [truth]. 
@@ -2984,7 +2984,7 @@ There is only spirit. Spirit is created in God’s Thought, and in like quality 
 
 #### substituted
 
-8.&emsp;What happens to perceptions if there are no judgements and nothing but perfect equality? 
+8. What happens to perceptions if there are no judgements and nothing but perfect equality? 
 <sup>2</sup>Perception becomes impossible. 
 <sup>3</sup>Truth can only be known. 
 <sup>4</sup>All of truth is equally true, and knowing any part of truth is to know all of truth. 
@@ -3001,7 +3001,7 @@ In Knowledge there is perfect equality and no judgement. Perception becomes impo
 ## T-3.V.9
 
 <p class=fip id=p9>
-9.&emsp;Forgiveness is the healing of the perception of separation. 
+9. Forgiveness is the healing of the perception of separation. 
 <sup>2</sup>Correct perception of your brother is necessary, because minds have chosen to see themselves as separate. 
 <sup>3</sup>Spirit knows God completely. 
 <sup>4</sup>That is its miraculous power. 
@@ -3012,7 +3012,7 @@ In Knowledge there is perfect equality and no judgement. Perception becomes impo
 
 #### expanded
 
-9.&emsp;Forgiveness is the healing of the perception of separation. 
+9. Forgiveness is the healing of the perception of separation. 
 <sup>2</sup>Correct perception of your brother is necessary, because minds have chosen to see themselves [mind’s selves] as separate. 
 <sup>3</sup>Spirit knows God completely. 
 <sup>4</sup>That [knowing God completely] is its [spirit’s] miraculous power. 
@@ -3022,7 +3022,7 @@ In Knowledge there is perfect equality and no judgement. Perception becomes impo
 
 #### substituted
 
-9.&emsp;Forgiveness is the healing of the perception of separation. 
+9. Forgiveness is the healing of the perception of separation. 
 <sup>2</sup>Correct perception of your brother is necessary, because minds have chosen to see mind’s selves as separate. 
 <sup>3</sup>Spirit knows God completely. 
 <sup>4</sup>Knowing God completely is spirit’s miraculous power. 
@@ -3045,7 +3045,7 @@ Forgiveness is the healing of the perception of separation. You need to correct 
 ## T-3.V.10
 
 <p class=fip id=p10>
-10.&emsp;As long as perception lasts prayer has a place. 
+10. As long as perception lasts prayer has a place. 
 <sup>2</sup>Since perception rests on lack, those who perceive have not totally accepted the Atonement and given themselves over to truth. 
 <sup>3</sup>Perception is based on a separated state, so that anyone who perceives at all needs healing. 
 <sup>4</sup>Communion, not prayer, is the natural state of those who know. 
@@ -3058,7 +3058,7 @@ Forgiveness is the healing of the perception of separation. You need to correct 
 
 #### expanded
 
-10.&emsp;As long as perception lasts prayer has a place. 
+10. As long as perception lasts prayer has a place. 
 <sup>2</sup>Since perception rests on lack, those who perceive have not totally accepted the Atonement and given themselves [perceiver’s selves] over to truth. 
 <sup>3</sup>Perception is based on a separated state, so that anyone who perceives at all needs healing. 
 <sup>4</sup>Communion, not prayer, is the natural state of those who know. 
@@ -3070,7 +3070,7 @@ Forgiveness is the healing of the perception of separation. You need to correct 
 
 #### substituted
 
-10.&emsp;As long as perception lasts prayer has a place. 
+10. As long as perception lasts prayer has a place. 
 <sup>2</sup>Since perception rests on lack, those who perceive have not totally accepted the Atonement and given perceiver’s selves over to truth. 
 <sup>3</sup>Perception is based on a separated state, so that anyone who perceives at all needs healing. 
 <sup>4</sup>Communion, not prayer, is the natural state of those who know. 
@@ -3089,7 +3089,7 @@ Perception rests on lack. Perception is based on separation. If you perceive you
 ## T-3.VI.1
 
 <p class=fip id=p1>
-1.&emsp;We have already discussed the Last Judgement, but in insufficient detail. 
+1. We have already discussed the Last Judgement, but in insufficient detail. 
 <sup>2</sup>After the Last Judgement there will be no more. 
 <sup>3</sup>Judgement is symbolic because beyond perception there is no judgement. 
 <sup>4</sup>When the Bible says “Judge not that ye be not judged”, it means that if you judge the reality of others you will be unable to avoid judging your own.
@@ -3097,14 +3097,14 @@ Perception rests on lack. Perception is based on separation. If you perceive you
 
 #### expanded
 
-1.&emsp;We have already discussed the Last Judgement, but in insufficient detail. 
+1. We have already discussed the Last Judgement, but in insufficient detail. 
 <sup>2</sup>After the Last Judgement there will be no more [judgement]. 
 <sup>3</sup>Judgement is symbolic because beyond perception there is no judgement. 
 <sup>4</sup>When the Bible says “Judge not that ye be not judged”, it [the Bible] means that if you judge the reality of others you will be unable to avoid judging your own [reality].
 
 #### substituted
 
-1.&emsp;We have already discussed the Last Judgement, but in insufficient detail. 
+1. We have already discussed the Last Judgement, but in insufficient detail. 
 <sup>2</sup>After the Last Judgement there will be no more judgement. 
 <sup>3</sup>Judgement is symbolic because beyond perception there is no judgement. 
 <sup>4</sup>When the Bible says “Judge not that ye be not judged”, the Bible means that if you judge the reality of others you will be unable to avoid judging your own reality.
@@ -3124,7 +3124,7 @@ In perception we judge others and judge ourselves. After the Last Judgement ther
 ## T-3.VI.2
 
 <p class=fip id=p2>
-2.&emsp;The choice to judge rather than to know is the cause of the loss of peace. 
+2. The choice to judge rather than to know is the cause of the loss of peace. 
 <sup>2</sup>Judgement is the process on which perception but not knowledge rests. 
 <sup>3</sup>I have discussed this before in terms of the selectivity of perception, pointing out that evaluation is its obvious prerequisite. 
 <sup>4</sup>Judegment always involves rejection. 
@@ -3140,7 +3140,7 @@ In perception we judge others and judge ourselves. After the Last Judgement ther
 
 #### expanded
 
-2.&emsp;The choice to judge rather than to know is the cause of the loss of peace. 
+2. The choice to judge rather than to know is the cause of the loss of peace. 
 <sup>2</sup>Judgement is the process on which perception but not knowledge rests. 
 <sup>3</sup>I have discussed this [perception resting on judgement] before in terms of the selectivity of perception, pointing out that evaluation is its [perception’s] obvious prerequisite. 
 <sup>4</sup>Judegment always involves rejection. 
@@ -3155,7 +3155,7 @@ In perception we judge others and judge ourselves. After the Last Judgement ther
 
 #### substituted
 
-2.&emsp;The choice to judge rather than to know is the cause of the loss of peace. 
+2. The choice to judge rather than to know is the cause of the loss of peace. 
 <sup>2</sup>Judgement is the process on which perception but not knowledge rests. 
 <sup>3</sup>I have discussed perception resting on judgement before in terms of the selectivity of perception, pointing out that evaluation is perception’s obvious prerequisite. 
 <sup>4</sup>Judegment always involves rejection. 
@@ -3183,7 +3183,7 @@ Judging is selecting and rejecting. What is perceived is judged. What is perceiv
 ## T-3.VI.3
 
 <p class=fip id=p3>
-3.&emsp;You have no idea of the tremendous release and deep peace that comes from meeting yourself and your brothers totally without judgement. 
+3. You have no idea of the tremendous release and deep peace that comes from meeting yourself and your brothers totally without judgement. 
 <sup>2</sup>When you recognise what you are and what your brothers are, you will realise that judging them in any way is without meaning. 
 <sup>3</sup>In fact, their meaning is lost to you precisely <em>because</em> you are judging them. 
 <sup>4</sup>All uncertainty comes from the belief that you are under the coercion of judgement. 
@@ -3193,7 +3193,7 @@ Judging is selecting and rejecting. What is perceived is judged. What is perceiv
 
 #### expanded
 
-3.&emsp;You have no idea of the tremendous release and deep peace that comes from meeting yourself and [meeting] your brothers totally without judgement. 
+3. You have no idea of the tremendous release and deep peace that comes from meeting yourself and [meeting] your brothers totally without judgement. 
 <sup>2</sup>When you recognise what you are and [recognise] what your brothers are, you will realise that judging them [your brothers] in any way is without meaning. 
 <sup>3</sup>In fact, their [your brothers’] meaning is lost to you precisely <em>because</em> you are judging them [your brothers]. 
 <sup>4</sup>All uncertainty comes from the belief that you are under the coercion of judgement. 
@@ -3202,7 +3202,7 @@ Judging is selecting and rejecting. What is perceived is judged. What is perceiv
 
 #### substituted
 
-3.&emsp;You have no idea of the tremendous release and deep peace that comes from meeting yourself and meeting your brothers totally without judgement. 
+3. You have no idea of the tremendous release and deep peace that comes from meeting yourself and meeting your brothers totally without judgement. 
 <sup>2</sup>When you recognise what you are and recognise what your brothers are, you will realise that judging your brothers in any way is without meaning. 
 <sup>3</sup>In fact, your brothers’ meaning is lost to you precisely <em>because</em> you are judging your brothers. 
 <sup>4</sup>All uncertainty comes from the belief that you are under the coercion of judgement. 
@@ -3228,7 +3228,7 @@ Not judging brings peace. You do not need to judge. Giving up judgement enables 
 ## T-3.VI.4
 
 <p class=fip id=p4>
-4.&emsp;You are very fearful of everything you have perceived but have refused to accept. 
+4. You are very fearful of everything you have perceived but have refused to accept. 
 <sup>2</sup>You believe that, because you have refused to accept it, you have lost control over it. 
 <sup>3</sup>This is why you see it in nightmares, or in pleasant disguises in what seem to be your happier dreams. 
 <sup>4</sup>Nothing that you have refused to accept can be brought into awareness. 
@@ -3237,7 +3237,7 @@ Not judging brings peace. You do not need to judge. Giving up judgement enables 
 
 #### expanded
 
-4.&emsp;You are very fearful of everything you have perceived but have refused to accept. 
+4. You are very fearful of everything you have perceived but have refused to accept. 
 <sup>2</sup>You believe that, because you have refused to accept it [what you have perceived], you have lost control over it [what you have percieved]. 
 <sup>3</sup>This is why you see it [what you have refused to accept] in nightmares, or in pleasant disguises in what seem to be your happier dreams. 
 <sup>4</sup>Nothing that you have refused to accept can be brought into awareness. 
@@ -3245,7 +3245,7 @@ Not judging brings peace. You do not need to judge. Giving up judgement enables 
 
 #### substituted
 
-4.&emsp;You are very fearful of everything you have perceived but have refused to accept. 
+4. You are very fearful of everything you have perceived but have refused to accept. 
 <sup>2</sup>You believe that, because you have refused to accept what you have perceived, you have lost control over what you have perceived. 
 <sup>3</sup>This is why you see what you have refused to accept in nightmares, or in pleasant disguises in what seem to be your happier dreams. 
 <sup>4</sup>Nothing that you have refused to accept can be brought into awareness. 
@@ -3258,7 +3258,7 @@ If you refuse to accept something you perceive, you believe you have lost contro
 ## T-3.VI.5
 
 <p class=fip id=p5>
-5.&emsp;When you feel tired, it is because you have judged yourself as capable of being tired. 
+5. When you feel tired, it is because you have judged yourself as capable of being tired. 
 <sup>2</sup>When you laugh at someone, it is because you have judged him as unworthy. 
 <sup>3</sup>When you laugh at yourself you must laugh at others, if only because you cannot tolerate the idea of being more unworthy than they are. 
 <sup>4</sup>All this makes you feel tired because it is essentially disheartening. 
@@ -3272,7 +3272,7 @@ If you refuse to accept something you perceive, you believe you have lost contro
 
 #### expanded
 
-5.&emsp;When you feel tired, it [feeling tired] is because you have judged yourself as capable of being tired. 
+5. When you feel tired, it [feeling tired] is because you have judged yourself as capable of being tired. 
 <sup>2</sup>When you laugh at someone, it [laughing at someone] is because you have judged him [someone laughed at] as unworthy. 
 <sup>3</sup>When you laugh at yourself you must laugh at others, if only because you cannot tolerate the idea of being more unworthy than they [others] are. 
 <sup>4</sup>All this [judging] makes you feel tired because it [judging] is essentially disheartening. 
@@ -3285,7 +3285,7 @@ If you refuse to accept something you perceive, you believe you have lost contro
 
 #### substituted
 
-5.&emsp;When you feel tired, feeling tired is because you have judged yourself as capable of being tired. 
+5. When you feel tired, feeling tired is because you have judged yourself as capable of being tired. 
 <sup>2</sup>When you laugh at someone, laughing at someone is because you have judged someone laughed at as unworthy. 
 <sup>3</sup>When you laugh at yourself you must laugh at others, if only because you cannot tolerate the idea of being more unworthy than others are. 
 <sup>4</sup>All this judging makes you feel tired because judging is essentially disheartening. 
@@ -3303,7 +3303,7 @@ You want to be the author of reality. So you judge. But judging is tiring.
 ## T-3.VI.6
 
 <p class=fip id=p6>
-6.&emsp;God offers only mercy. 
+6. God offers only mercy. 
 <sup>2</sup>Your words should reflect only mercy, because that is what you have received and that is what you should give. 
 <sup>3</sup>Justice is a temporary expedient, or an attempt to teach you the meaning of mercy. 
 <sup>4</sup>It is judgemental only because you are capable of injustice.
@@ -3311,14 +3311,14 @@ You want to be the author of reality. So you judge. But judging is tiring.
 
 #### expanded
 
-6.&emsp;God offers only mercy. 
+6. God offers only mercy. 
 <sup>2</sup>Your words should reflect only mercy, because that [mercy] is what you have received and that [mercy] is what you should give. 
 <sup>3</sup>Justice is a temporary expedient, or an attempt to teach you the meaning of mercy. 
 <sup>4</sup>It [justice] is judgemental only because you are capable of injustice.
 
 #### substituted
 
-6.&emsp;God offers only mercy. 
+6. God offers only mercy. 
 <sup>2</sup>Your words should reflect only mercy, because mercy is what you have received and mercy is what you should give. 
 <sup>3</sup>Justice is a temporary expedient, or an attempt to teach you the meaning of mercy. 
 <sup>4</sup>Justice is judgemental only because you are capable of injustice.
@@ -3330,7 +3330,7 @@ Give mercy because mercy was given to you by God.
 ## T-3.VI.7
 
 <p class=fip id=p7>
-7.&emsp; I have spoken of different symptoms, and at that level there is almost endless variation. 
+7.  I have spoken of different symptoms, and at that level there is almost endless variation. 
 <sup>2</sup>There is, however, only one cause for all of them: the authority problem. 
 <sup>3</sup>This <em>is</em> “the root of all evil”. 
 <sup>4</sup>Every symptom the ego makes involves a contradiction in terms, because the mind is split between the ego and the Holy Spirit, so that whatever the ego makes is incomplete and contradictory. 
@@ -3339,7 +3339,7 @@ Give mercy because mercy was given to you by God.
 
 #### expanded
 
-7.&emsp; I have spoken of different symptoms, and at that level [of symptoms] there is almost endless variation. 
+7.  I have spoken of different symptoms, and at that level [of symptoms] there is almost endless variation. 
 <sup>2</sup>There is, however, only one cause for all of them [symptoms]: the authority problem. 
 <sup>3</sup>This [the authority problem] <em>is</em> “the root of all evil”. 
 <sup>4</sup>Every symptom the ego makes involves a contradiction in terms, because the mind is split between the ego and the Holy Spirit, so that whatever the ego makes is incomplete and contradictory. 
@@ -3347,7 +3347,7 @@ Give mercy because mercy was given to you by God.
 
 #### substituted
 
-7.&emsp; I have spoken of different symptoms, and at the level of symptoms there is almost endless variation. 
+7.  I have spoken of different symptoms, and at the level of symptoms there is almost endless variation. 
 <sup>2</sup>There is, however, only one cause for all symptoms: the authority problem. 
 <sup>3</sup>The authority problem <em>is</em> “the root of all evil”. 
 <sup>4</sup>Every symptom the ego makes involves a contradiction in terms, because the mind is split between the ego and the Holy Spirit, so that whatever the ego makes is incomplete and contradictory. 
@@ -3368,7 +3368,7 @@ Everything the ego makes is a symptom of the authority problem. The mind is spli
 ## T-3.VI.8
 
 <p class=fip id=p8>
-8.&emsp;The issue of authority is really a question of authorship. 
+8. The issue of authority is really a question of authorship. 
 <sup>2</sup>When you have an authority problem, it is always because you believe you are the author of yourself and project your delusion onto others. 
 <sup>3</sup>You then perceive the situation as one in which others are literally fighting you for your authorship. 
 <sup>4</sup>This is the fundamental error of all those who believe they have usurped the power of God. 
@@ -3382,7 +3382,7 @@ Everything the ego makes is a symptom of the authority problem. The mind is spli
 
 #### expanded
 
-8.&emsp;The issue of authority is really a question of authorship. 
+8. The issue of authority is really a question of authorship. 
 <sup>2</sup>When you have an authority problem, it [having an authority problem] is always because you believe you are the author of yourself and project your delusion onto others. 
 <sup>3</sup>You then perceive the situation as one [a situation] in which [situation] others are literally fighting you for your authorship. 
 <sup>4</sup>This [perceiving others as fighting you for authorship] is the fundamental error of all those who believe they have usurped the power of God. 
@@ -3395,7 +3395,7 @@ Everything the ego makes is a symptom of the authority problem. The mind is spli
 
 #### substituted
 
-8.&emsp;The issue of authority is really a question of authorship. 
+8. The issue of authority is really a question of authorship. 
 <sup>2</sup>When you have an authority problem, having an authority problem is always because you believe you are the author of yourself and project your delusion onto others. 
 <sup>3</sup>You then perceive the situation as a situation; in situation others are literally fighting you for your authorship. 
 <sup>4</sup>Perceiving others as fighting you for authorship is the fundamental error of all those who believe they have usurped the power of God. 
@@ -3421,7 +3421,7 @@ The authority problem is when you believe you are the author of yourself. That i
 ## T-3.VI.9
 
 <p class=fip id=p9>
-9.&emsp;Only those who give over all desire to reject can know that their own rejection is impossible. 
+9. Only those who give over all desire to reject can know that their own rejection is impossible. 
 <em>2</em>You have not usurped the power of God, but you <em>have</em> lost it. 
 <em>3</em>Fortunately, to lose something does not mean that it has gone. 
 <em>4</em>It merely means that you do not remember where it is. 
@@ -3430,7 +3430,7 @@ The authority problem is when you believe you are the author of yourself. That i
 </p>
 
 #### expanded
-9.&emsp;Only those who give over all desire to reject can know that their [non-rejecters’] own rejection is impossible. 
+9. Only those who give over all desire to reject can know that their [non-rejecters’] own rejection is impossible. 
 <em>2</em>You have not usurped the power of God, but you <em>have</em> lost it [the power of God]. 
 <em>3</em>Fortunately, to lose something does not mean that it [the lost thing] has gone. 
 <em>4</em>It [losing something] merely means that you do not remember where it [the lost thing] is. 
@@ -3438,7 +3438,7 @@ The authority problem is when you believe you are the author of yourself. That i
 <em>6</em>It is possible to look on reality without judgement and merely know that it [reality] is there.
 
 #### substituted
-9.&emsp;Only those who give over all desire to reject can know that non-rejecters’ own rejection is impossible. 
+9. Only those who give over all desire to reject can know that non-rejecters’ own rejection is impossible. 
 <em>2</em>You have not usurped the power of God, but you <em>have</em> lost the power of God. 
 <em>3</em>Fortunately, to lose something does not mean that the lost thing has gone. 
 <em>4</em>Losing something merely means that you do not remember where the lost thing is. 
@@ -3452,7 +3452,7 @@ Give over the desire to reject, and then you will know you can’t be rejected. 
 ## T-3.VI.10
 
 <p class=fip id=p10>
-10.&emsp;Peace is a natural heritage of spirit. 
+10. Peace is a natural heritage of spirit. 
 <sup>2</sup>Everyone is free to refuse to accept his inheritance, but he is not free to establish what his inheritance is. 
 <sup>3</sup>The problem everyone must decide is the fundamental question of authorship. 
 <sup>4</sup>All fear comes ultimately, and sometimes by way of very devious routes, from the denial of Authorship. 
@@ -3463,7 +3463,7 @@ Give over the desire to reject, and then you will know you can’t be rejected. 
 
 #### expanded
 
-10.&emsp;Peace is a natural heritage of spirit. 
+10. Peace is a natural heritage of spirit. 
 <sup>2</sup>Everyone is free to refuse to accept his [one’s] inheritance, but he [one] is not free to establish what his [one’s] inheritance is. 
 <sup>3</sup>The problem everyone must decide is the fundamental question of authorship. 
 <sup>4</sup>All fear comes ultimately, and sometimes by way of very devious routes, from the denial of Authorship. 
@@ -3473,7 +3473,7 @@ Give over the desire to reject, and then you will know you can’t be rejected. 
 
 #### substituted
 
-10.&emsp;Peace is a natural heritage of spirit. 
+10. Peace is a natural heritage of spirit. 
 <sup>2</sup>Everyone is free to refuse to accept one’s inheritance, but one is not free to establish what one’s inheritance is. 
 <sup>3</sup>The problem everyone must decide is the fundamental question of authorship. 
 <sup>4</sup>All fear comes ultimately, and sometimes by way of very devious routes, from the denial of Authorship. 
@@ -3496,7 +3496,7 @@ You must decide your authorship. Denying God’s Authorship results in fear. You
 ## T-3.VI.11
 
 <p class=fip id=p11>
-11.&emsp;There is no one who does not feel that he is imprisoned in some way. 
+11. There is no one who does not feel that he is imprisoned in some way. 
 <sup>2</sup>If this is the result of his own free will he must regard his will as not free, or the circular reasoning in this position would be quite apparent. 
 <sup>3</sup>Free will must lead to freedom. 
 <sup>4</sup>Judgement always imprisons because it separates segments of reality by the unstable scales of desire. 
@@ -3508,7 +3508,7 @@ You must decide your authorship. Denying God’s Authorship results in fear. You
 
 #### expanded
 
-11.&emsp;There is no one who does not feel that he [one] is imprisoned in some way. 
+11. There is no one who does not feel that he [one] is imprisoned in some way. 
 <sup>2</sup>If this [feeling imprisoned] is the result of his [one’s] own free will he [one] must regard his [one’s] will as not free, or the circular reasoning in this position [free-will] would be quite apparent. 
 <sup>3</sup>Free will must lead to freedom. 
 <sup>4</sup>Judgement always imprisons because it [judgement] separates segments of reality by the unstable scales of desire. 
@@ -3519,7 +3519,7 @@ You must decide your authorship. Denying God’s Authorship results in fear. You
 
 #### substituted
 
-11.&emsp;There is no one who does not feel that one is imprisoned in some way. 
+11. There is no one who does not feel that one is imprisoned in some way. 
 <sup>2</sup>If feeling imprisoned is the result of one’s own free will one must regard his one’s will as not free, or the circular reasoning in the free-will position would be quite apparent. 
 <sup>3</sup>Free will must lead to freedom. 
 <sup>4</sup>Judgement always imprisons because judgement separates segments of reality by the unstable scales of desire. 
@@ -3536,7 +3536,7 @@ Everyone feels imprisoned. Your will is only free if it wills with God and accep
 
 ## T-3.VII.1
 <p class=fip id=p1>
-1.&emsp;Every system of thought must have a starting point. 
+1. Every system of thought must have a starting point. 
 <sup>2</sup>It begins with either a making or a creating, a difference we have already discussed. 
 <sup>3</sup>Their resemblance lies in their power as foundations. 
 <sup>4</sup>Their difference lies in what rests upon them. 
@@ -3548,7 +3548,7 @@ Everyone feels imprisoned. Your will is only free if it wills with God and accep
 
 #### expanded
 
-1.&emsp;Every system of thought must have a starting point. 
+1. Every system of thought must have a starting point. 
 <sup>2</sup>It [a system of thought] begins with either a making or a creating, a difference we have already discussed. 
 <sup>3</sup>Their [making’s and creating’s] resemblance lies in their [making’s and creating’s] power as foundations. 
 <sup>4</sup>Their [making’s and creating’s] difference lies in what rests upon them [making and creating]. 
@@ -3559,7 +3559,7 @@ Everyone feels imprisoned. Your will is only free if it wills with God and accep
 
 #### substituted
 
-1.&emsp;Every system of thought must have a starting point. 
+1. Every system of thought must have a starting point. 
 <sup>2</sup>A system of thought begins with either a making or a creating, a difference we have already discussed. 
 <sup>3</sup>Making’s and creating’s resemblance lies in making’s and creating’s power as foundations. 
 <sup>4</sup>Making’s and creating’s difference lies in what rests upon making and creating. 
@@ -3577,7 +3577,7 @@ A thought system can be based on creating (active willing) or making (doing). A 
 ## T-3.VII.2
 
 <p class=fip id=p2>
-2.&emsp;You cannot resolve the authority problem by depreciating the power of your mind. 
+2. You cannot resolve the authority problem by depreciating the power of your mind. 
 <sup>2</sup>To do so is to deceive yourself, and this will hurt you because you really understand the strength of the mind. 
 <sup>3</sup>You also realise that you cannot weaken it, any more than you can weaken God. 
 <sup>4</sup>The ‘devil’ is a frightening concept because he seems to be extremely powerful and extremely active. 
@@ -3589,7 +3589,7 @@ A thought system can be based on creating (active willing) or making (doing). A 
 
 #### expanded
 
-2.&emsp;You cannot resolve the authority problem by depreciating the power of your mind. 
+2. You cannot resolve the authority problem by depreciating the power of your mind. 
 <sup>2</sup>To do so [depreciate the power of your mind] is to deceive yourself, and this [deceiving yourself] will hurt you because you really understand the strength of the mind. 
 <sup>3</sup>You also realise that you cannot weaken it [your mind], any more than you can weaken God. 
 <sup>4</sup>The ‘devil’ is a frightening concept because he [the devil] seems to be extremely powerful and extremely active. 
@@ -3600,7 +3600,7 @@ A thought system can be based on creating (active willing) or making (doing). A 
 
 #### substituted
 
-2.&emsp;You cannot resolve the authority problem by depreciating the power of your mind. 
+2. You cannot resolve the authority problem by depreciating the power of your mind. 
 <sup>2</sup>To depreciate the power of your mind is to deceive yourself, and deceiving yourself will hurt you because you really understand the strength of the mind. 
 <sup>3</sup>You also realise that you cannot weaken your mind, any more than you can weaken God. 
 <sup>4</sup>The ‘devil’ is a frightening concept because the devil seems to be extremely powerful and extremely active. 
@@ -3622,7 +3622,7 @@ You can’t solve the authority problem by pretending the mind is weak.
 ## T-3.VII.3
 
 <p class=fip id=p3>
-3.&emsp;We have discussed the fall or separation before, but its meaning must be clearly understood. 
+3. We have discussed the fall or separation before, but its meaning must be clearly understood. 
 <sup>2</sup>The separation is a system of thought real enough in time, though not in eternity. 
 <sup>3</sup>All beliefs are real to the believer. 
 <sup>4</sup>The fruit of only one tree was ‘forbidden’ in the symbolic garden. 
@@ -3635,7 +3635,7 @@ You can’t solve the authority problem by pretending the mind is weak.
 
 #### expanded
 
-3.&emsp;We have discussed the fall or separation before, but its [the separation’s] meaning must be clearly understood. 
+3. We have discussed the fall or separation before, but its [the separation’s] meaning must be clearly understood. 
 <sup>2</sup>The separation is a system of thought real enough in time, though not [real] in eternity. 
 <sup>3</sup>All beliefs are real to the believer. 
 <sup>4</sup>The fruit of only one tree was ‘forbidden’ in the symbolic garden. 
@@ -3647,7 +3647,7 @@ You can’t solve the authority problem by pretending the mind is weak.
 
 #### substituted
 
-3.&emsp;We have discussed the fall or separation before, but the separation’s meaning must be clearly understood. 
+3. We have discussed the fall or separation before, but the separation’s meaning must be clearly understood. 
 <sup>2</sup>The separation is a system of thought real enough in time, though not real in eternity. 
 <sup>3</sup>All beliefs are real to the believer. 
 <sup>4</sup>The fruit of only one tree was ‘forbidden’ in the symbolic garden. 
@@ -3672,7 +3672,7 @@ Believing in separation makes separation real to the believer. God created knowl
 ## T-3.VII.4
 
 <p class=fip id=p4>
-4.&emsp;Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
+4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 <sup>2</sup>This is the only sense in which God and His creations are not co-creators. 
 <sup>3</sup>The belief that they are is implicit in the ‘self-concept’, or the tendency of the self to make an image of itself. 
 <sup>4</sup>Images are perceived, not known. 
@@ -3688,7 +3688,7 @@ Believing in separation makes separation real to the believer. God created knowl
 
 #### expanded
 
-4.&emsp;Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
+4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 <sup>2</sup>This [usurping the ability for self-creating] is the only sense in which God and His [God’s] creations are not co-creators. 
 <sup>3</sup>The belief that they [God and God’s creations] are [co-creators] is implicit in the ‘self-concept’, or the tendency of the self to make an image of itself [self’s self]. 
 <sup>4</sup>Images are perceived, not known. 
@@ -3703,7 +3703,7 @@ Believing in separation makes separation real to the believer. God created knowl
 
 #### substituted
 
-4.&emsp;Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
+4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 <sup>2</sup>Usurping the ability for self-creating is the only sense in which God and His God’s creations are not co-creators. 
 <sup>3</sup>The belief that they God and God’s creations are co-creators is implicit in the ‘self-concept’, or the tendency of the self to make an image of self’s self. 
 <sup>4</sup>Images are perceived, not known. 
@@ -3731,7 +3731,7 @@ You did not create yourself. But you believe you did create yourself. You percei
 ## T-3.VII.5
 
 <p class=fip id=p5>
-5.&emsp;The mind can make the belief in separation very real and very fearful, and this belief <em>is</em> the ‘devil’. 
+5. The mind can make the belief in separation very real and very fearful, and this belief <em>is</em> the ‘devil’. 
 <sup>2</sup>It is powerful, active, destructive and clearly in opposition to God, because it literally denies His Fatherhood. 
 <sup>3</sup>Look at your life and see what the devil has made. 
 <sup>4</sup>But realise that this making will surely dissolve in the light of truth, because its foundation is a lie. 
@@ -3746,7 +3746,7 @@ You did not create yourself. But you believe you did create yourself. You percei
 
 #### expanded
 
-5.&emsp;The mind can make the belief in separation very real and very fearful, and this belief [in separation] <em>is</em> the ‘devil’. 
+5. The mind can make the belief in separation very real and very fearful, and this belief [in separation] <em>is</em> the ‘devil’. 
 <sup>2</sup>It [the devil] is powerful, active, destructive and clearly in opposition to God, because it [the devil] literally denies His [God’s] Fatherhood. 
 <sup>3</sup>Look at your life and see what the devil has made. 
 <sup>4</sup>But realise that this [the devil’s] making will surely dissolve in the light of truth, because its [the-devil’s] foundation is a lie. 
@@ -3760,7 +3760,7 @@ You did not create yourself. But you believe you did create yourself. You percei
 
 #### substituted
 
-5.&emsp;The mind can make the belief in separation very real and very fearful, and the belief in separation <em>is</em> the ‘devil’. 
+5. The mind can make the belief in separation very real and very fearful, and the belief in separation <em>is</em> the ‘devil’. 
 <sup>2</sup>The devil is powerful, active, destructive and clearly in opposition to God, because the devil literally denies God’s Fatherhood. 
 <sup>3</sup>Look at your life and see what the devil has made. 
 <sup>4</sup>But realise that the devil’s making will surely dissolve in the light of truth, because the-devil’s foundation is a lie. 
@@ -3796,7 +3796,7 @@ The foundation of your thought system is a false belief in separation. Your thou
 ## T-3.VII.6
 
 <p class=fip id=p6>
-6.&emsp;The branch that bears no fruit will be cut off and will wither away. 
+6. The branch that bears no fruit will be cut off and will wither away. 
 <sup>2</sup>Be glad! 
 <sup>3</sup>The light will shine from the true Foundation of life, and your own thought system will stand corrected. 
 <sup>4</sup>It cannot stand otherwise. 
@@ -3811,7 +3811,7 @@ The foundation of your thought system is a false belief in separation. Your thou
 
 #### expanded
 
-6.&emsp;The branch that bears no fruit will be cut off and will wither away. 
+6. The branch that bears no fruit will be cut off and will wither away. 
 <sup>2</sup>Be glad! 
 <sup>3</sup>The light will shine from the true Foundation of life, and your own thought system will stand corrected. 
 <sup>4</sup>It [your own thought system] cannot stand otherwise [other than corrected]. 
@@ -3825,7 +3825,7 @@ The foundation of your thought system is a false belief in separation. Your thou
 
 #### substituted
 
-6.&emsp;The branch that bears no fruit will be cut off and will wither away. 
+6. The branch that bears no fruit will be cut off and will wither away. 
 <sup>2</sup>Be glad! 
 <sup>3</sup>The light will shine from the true Foundation of life, and your own thought system will stand corrected. 
 <sup>4</sup>Your own thought system cannot stand other than corrected. 

@@ -11,7 +11,7 @@ prev: T-1.V
 next: T-1.VII
 ---
 
-1.&emsp;You who want peace can find it only by complete forgiveness. 
+1. You who want peace can find it only by complete forgiveness. 
 ²No learning is acquired by anyone unless he wants to learn it and believes in some way that he needs it. 
 ³While lack does not exist in the creation of God, it is very apparent in what you have made. 
 ⁴It is, in fact, the essential difference between them. 
@@ -66,7 +66,7 @@ Forgive yourself and see yourself truly.
 
 ---
 
-2.&emsp;A sense of separation from God is the only lack you really need correct. 
+2. A sense of separation from God is the only lack you really need correct. 
 ²This sense of separation would never have arisen if you had not distorted your perception of truth, and had thus perceived yourself as lacking. 
 ³The idea of order of needs arose because, having made this fundamental error, you had already fragmented yourself into levels with different needs. 
 ⁴As you integrate you become one, and your needs become one accordingly. 
@@ -105,7 +105,7 @@ Act only to restore oneness with God. God is all you need.
 
 ---
 
-3.&emsp;The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its own level before the error of perceiving levels at all can be corrected. 
+3. The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its own level before the error of perceiving levels at all can be corrected. 
 ²You cannot behave effectively while you function on different levels. 
 ³However, while you do, correction must be introduced vertically from the bottom up. 
 ⁴This is because you think you live in space, where concepts such as ‘up’ and ‘down’ are meaningful. 
@@ -147,7 +147,7 @@ Then you can correct the error of separation.
 
 ---
 
-4.&emsp;The real purpose of this world is to use it to correct your unbelief. 
+4. The real purpose of this world is to use it to correct your unbelief. 
 ²You can never control the effects of fear yourself, because you made fear, and you believe in what you made. 
 ³In attitude, then, though not in content, you resemble your Creator, Who has perfect faith in His creations *because* He created them. 
 ⁴Belief produces the acceptance of existence. 
@@ -191,7 +191,7 @@ The course urges us to look at the world benevolently: since we believe we are h
 
 ---
 
-5.&emsp;All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. 
+5. All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. 
 ²To whatever extent you are willing to submit your beliefs to this test, to that extent are your perceptions corrected. 
 ³In sorting out the false from the true, the miracle proceeds along these lines:
 

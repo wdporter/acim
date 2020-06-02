@@ -11,7 +11,7 @@ prev: T-1.IV
 next: T-1.VI
 ---
 
-1.&emsp;The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. 
+1. The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. 
 ²When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. 
 ³While you believe you are in a body, however, you can choose between loveless and miraculous channels of expression. 
 ⁴You can make an empty shell, but you cannot express nothing at all. 
@@ -56,7 +56,7 @@ You did not create yourself.
 
 ---
 
-2.&emsp;The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
+2. The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ²Time can waste as well as be wasted. 
 ³The miracle worker, therefore, accepts the time-control factor gladly. 
 ⁴He recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
@@ -98,7 +98,7 @@ Every collapse brings everyone closer to knowledge of oneness.
 
 ---
 
-3.&emsp;When the Atonement has been completed, all talents will be shared by all the Sons of God. 
+3. When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
 ³All His children have His total Love, and all His gifts are freely given to everyone alike. 
 ⁴“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his true relationship with the Father. 
@@ -159,7 +159,7 @@ Distorted perceptions create distorted relationships.
 
 ---
 
-4.&emsp;Ultimately, every member of the family of God must return. 
+4. Ultimately, every member of the family of God must return. 
 ²The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. 
 ³“God is not mocked” is not a warning but a reässurance. 
 ⁴God *would* be mocked if any of His creations lacked holiness. 
@@ -196,7 +196,7 @@ All of God’s creations are holy. The miracles calls every member of the family
 
 ---
 
-5.&emsp;Whatever is true is eternal, and cannot change or be changed. 
+5. Whatever is true is eternal, and cannot change or be changed. 
 ²Spirit is therefore unalterable because it is already perfect, but the mind can elect what it chooses to serve. 
 ³The only limit put on its choice is that it cannot serve two masters. 
 ⁴If it elects to do so, the mind can become the medium by which spirit creates along the line of its own creation. 
@@ -237,7 +237,7 @@ Or the mind can become a tyrant and imprison you.
 
 ---
 
-6.&emsp;The miracle is a sign that the mind has chosen to be led by me in Christ’s service. 
+6. The miracle is a sign that the mind has chosen to be led by me in Christ’s service. 
 ²The abundance of Christ is the natural result of choosing to follow Him. 
 ³All shallow roots must be uprooted, because they are not deep enough to sustain you. 
 ⁴The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. 

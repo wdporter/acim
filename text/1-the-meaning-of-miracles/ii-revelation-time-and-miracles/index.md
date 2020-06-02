@@ -11,7 +11,7 @@ prev: T-1.I
 next: T-1.III
 ---
 
-1.&emsp;Revelation induces complete but temporary suspension of doubt and fear. 
+1. Revelation induces complete but temporary suspension of doubt and fear. 
 ²It reflects the original form of communication between God and His creations, involving the extremely personal sense of creation sometimes sought in physical relationships. 
 ³Physical closeness cannot achieve it. 
 ⁴Miracles, however, are genuinely interpersonal, and result in true closeness to others. 
@@ -56,7 +56,7 @@ You act according to your beliefs.
 
 ---
 
-2.&emsp;Revelation is intensely personal and cannot be meaningfully translated. 
+2. Revelation is intensely personal and cannot be meaningfully translated. 
 ²That is why any attempt to describe it in words is impossible. 
 ³Revelation induces only experience. 
 ⁴Miracles, on the other hand, induce action. 
@@ -93,7 +93,7 @@ Miracles are useful actions for others, until you are ready for revelation.
 
 ---
 
-3.&emsp;Awe should be reserved for revelation, to which it is perfectly and correctly applicable. 
+3. Awe should be reserved for revelation, to which it is perfectly and correctly applicable. 
 ²It is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before his Creator. 
 ³You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
@@ -165,7 +165,7 @@ You have the potential to be like me.
 
 ---
 
-4.&emsp;“No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
+4. “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement is more meaningful in terms of a vertical rather than a horizontal axis. 
 ³You stand below me and I stand below God. 
 ⁴In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
@@ -211,7 +211,7 @@ I stand between you and God. I bridge the distance between you and God. I am you
 
 ---
 
-5.&emsp;Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
+5. Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
 ²I can thus bring down to them more than they can draw down to themselves. 
 ³The Holy Spirit mediates higher to lower communication, keeping the direct channel from God to you open for revelation. 
 ⁴Revelation is not reciprocal. 
@@ -241,7 +241,7 @@ I bring revelation to you through the Holy Spirit.
 
 ---
 
-6.&emsp;The miracle minimises the need for time. 
+6. The miracle minimises the need for time. 
 ²In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. 
 ³However, the miracle entails a sudden shift from horizontal to vertical perception. 
 ⁴This introduces an interval from which the giver and receiver both emerge farther along in time than they would otherwise have been. 

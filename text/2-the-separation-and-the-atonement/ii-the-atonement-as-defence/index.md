@@ -11,7 +11,7 @@ prev: T-2.I
 next: T-2.III
 ---
 
-1.&emsp;You can do anything I ask. 
+1. You can do anything I ask. 
 ²I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. 
 ³There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. 
 ⁴When you are afraid of anything, you are acknowledging its power to hurt you. 
@@ -77,7 +77,7 @@ Do not allow anything not of God to affect you.
 
 ---
 
-2.&emsp;True denial is a powerful protective device. 
+2. True denial is a powerful protective device. 
 ²You can and should deny any belief that error can hurt you. 
 ³This kind of denial is not a concealment but a correction. 
 ⁴Your right mind depends on it. 
@@ -119,7 +119,7 @@ In the right mind you create truly.
 
 ---
 
-3.&emsp;You can defend truth as well as error. 
+3. You can defend truth as well as error. 
 ²The means are easier to understand after the value of the goal is firmly established. 
 ³It is a question of what it is *for*. 
 ⁴Everyone defends his treasure, and will do so automatically. 
@@ -168,7 +168,7 @@ By this you save time.
 
 ---
 
-4.&emsp;The Atonement is the only defence that cannot be used destructively because it is not a device you made. 
+4. The Atonement is the only defence that cannot be used destructively because it is not a device you made. 
 ²The Atonement *principle* was in effect long before the Atonement began. 
 ³The principle was love and the Atonement was an *act* of love. 
 ⁴Acts were not necessary before the separation, because belief in space and time did not exist. 
@@ -220,7 +220,7 @@ You are healed by the Atonement.
 
 ---
 
-5.&emsp;The Atonement was built into the space–time belief to set a limit on the need for the belief itself, and ultimately to make learning complete. 
+5. The Atonement was built into the space–time belief to set a limit on the need for the belief itself, and ultimately to make learning complete. 
 ²The Atonement is the final lesson. 
 ³Learning itself, like the classrooms in which it occurs, is temporary. 
 ⁴The ability to learn has no value when change is no longer necessary. 
@@ -269,7 +269,7 @@ Keep learning to improve your perceptions until the Atonement is fully learnt.
 
 ---
 
-6.&emsp;Evolution is a process in which you seem to proceed from one degree to the next. 
+6. Evolution is a process in which you seem to proceed from one degree to the next. 
 ²You correct your previous missteps by stepping forward. 
 ³This process is actually incomprehensible in temporal terms, because you return as you go forward. 
 ⁴The Atonement is the device by which you can free yourself from the past as you go ahead. 
@@ -332,7 +332,7 @@ When the separation occurred … ever since we have walked … away from God. Th
 
 ---
 
-7.&emsp;The Atonement is a total commitment. 
+7. The Atonement is a total commitment. 
 ²You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. 
 ³It is hard to believe a defence that cannot attack is the best defence. 
 ⁴This is what is meant by “the meek shall inherit the earth”. 
@@ -380,7 +380,7 @@ You protect yourself and others by using the Atonement as defence.
 ## T-2.III.1
 
 <p class=fip id=p1>
-1.&emsp;The Atonement can only be accepted within you by releasing the inner light. 
+1. The Atonement can only be accepted within you by releasing the inner light. 
 ²Since the separation, defences have been used almost entirely to defend *against* the Atonement, and thus maintain the separation. 
 3This is generally seen as a need to protect the body. 
 ⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
@@ -396,7 +396,7 @@ You protect yourself and others by using the Atonement as defence.
 
 #### expanded
 
-1.&emsp;The Atonement can only be accepted within you by releasing the inner light. 
+1. The Atonement can only be accepted within you by releasing the inner light. 
 ²Since the separation, defences have been used almost entirely to defend *against* the Atonement, and thus maintain the separation. 
 3This [using defences against the Atonement] is generally seen as a need to protect the body. 
 ⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
@@ -411,7 +411,7 @@ You protect yourself and others by using the Atonement as defence.
 	
 #### substituted
 
-1.&emsp;The Atonement can only be accepted within you by releasing the inner light. 
+1. The Atonement can only be accepted within you by releasing the inner light. 
 ²Since the separation, defences have been used almost entirely to defend *against* the Atonement, and thus maintain the separation. 
 3Using defences against the Atonement is generally seen as a need to protect the body. 
 ⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
@@ -439,7 +439,7 @@ You believe you need the body to attain Atonement. In separation, you defend the
 ## T-2.III.2
 
 <p class=fip id=p2>
-2.&emsp;For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it undoes the separation and restores the wholeness of the mind. 
+2. For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it undoes the separation and restores the wholeness of the mind. 
 ²Before the separation the mind was invulnerable to fear, because fear did not exist. 
 3Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. 
 ⁴This heals the separation by placing within you the one effective defence against all separation thoughts and making you perfectly invulnerable.
@@ -447,14 +447,14 @@ You believe you need the body to attain Atonement. In separation, you defend the
 
 #### expanded
 
-2.&emsp;For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it [the Atonement] undoes the separation and restores the wholeness of the mind. 
+2. For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it [the Atonement] undoes the separation and restores the wholeness of the mind. 
 ²Before the separation the mind was invulnerable to fear, because fear did not exist. 
 3Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. 
 ⁴This [restoring the temple and opening the altar] heals the separation by placing within you the one effective defence against all separation thoughts and making you perfectly invulnerable.
 
 #### substituted
 
-2.&emsp;For perfect effectiveness the Atonement belongs at the centre of the inner altar, where the Atonement undoes the separation and restores the wholeness of the mind. 
+2. For perfect effectiveness the Atonement belongs at the centre of the inner altar, where the Atonement undoes the separation and restores the wholeness of the mind. 
 ²Before the separation the mind was invulnerable to fear, because fear did not exist. 
 3Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. 
 ⁴Restoring the temple and opening the altar heals the separation by placing within you the one effective defence against all separation thoughts and making you perfectly invulnerable.
@@ -466,7 +466,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 ## T-2.III.3
 
 <p class=fip id=p3>
-3.&emsp;The acceptance of the Atonement by everyone is only a matter of time. 
+3. The acceptance of the Atonement by everyone is only a matter of time. 
 ²This may appear to contradict free will because of the inevitability of the final decision, but this is not so. 
 3You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who set the limits on your ability to miscreate. 
 ⁴An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. 
@@ -480,7 +480,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 
 #### expanded
 
-3.&emsp;The acceptance of the Atonement by everyone is only a matter of time. 
+3. The acceptance of the Atonement by everyone is only a matter of time. 
 ²This [that everyone will accept the Atonement] may appear to contradict free will because of the inevitability of the final decision, but this [contradicting free will] is not so. 
 3You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who [your Creator] set the limits on your ability to miscreate. 
 ⁴An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. 
@@ -493,7 +493,7 @@ Fear did not exist before the separation. Separation and fear must be undone. Th
 
 #### substituted
 
-3.&emsp;The acceptance of the Atonement by everyone is only a matter of time. 
+3. The acceptance of the Atonement by everyone is only a matter of time. 
 ²Everyone will accept the Atonement, may appear to contradict free will because of the inevitability of the final decision, but contradicting free will is not so. 
 3You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator; your Creator set the limits on your ability to miscreate. 
 ⁴An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. 
@@ -528,7 +528,7 @@ Everyone has a pain limit. Everyone eventually recognises there must be a better
 
 
 <p class=fip id=p4>
-4.&emsp;Spiritual vision literally cannot see error, and merely looks for Atonement. 
+4. Spiritual vision literally cannot see error, and merely looks for Atonement. 
 ²All solutions the physical eye seeks dissolve. 
 3Spiritual vision looks within and recognises immediately that the altar has been defiled and needs to be repaired and protected. 
 ⁴Perfectly aware of the right defence it passes over all others, looking past error to truth. 
@@ -539,7 +539,7 @@ Everyone has a pain limit. Everyone eventually recognises there must be a better
 
 #### expanded
 
-4.&emsp;Spiritual vision literally cannot see error, and merely looks for Atonement. 
+4. Spiritual vision literally cannot see error, and merely looks for Atonement. 
 ²All solutions the physical eye seeks dissolve. 
 3Spiritual vision looks within and recognises immediately that the altar has been defiled and needs to be repaired and protected. 
 ⁴Perfectly aware of the right defence it [spiritual vision] passes over all others [defences], looking past error to truth. 
@@ -549,7 +549,7 @@ Everyone has a pain limit. Everyone eventually recognises there must be a better
 
 #### substituted
 
-4.&emsp;Spiritual vision literally cannot see error, and merely looks for Atonement. 
+4. Spiritual vision literally cannot see error, and merely looks for Atonement. 
 ²All solutions the physical eye seeks dissolve. 
 3Spiritual vision looks within and recognises immediately that the altar has been defiled and needs to be repaired and protected. 
 ⁴Perfectly aware of the right defence spiritual vision passes over all other defences, looking past error to truth. 
@@ -577,7 +577,7 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 
 
 <p class=fip id=p5>
-5.&emsp;The children of God are entitled to the perfect comfort that comes from perfect trust. 
+5. The children of God are entitled to the perfect comfort that comes from perfect trust. 
 ²Until they achieve this, they waste themselves and their true creative powers on useless attempts to make themselves more comfortable by inappropriate means. 
 3But the real means are already provided, and do not involve any effort at all on their part. 
 ⁴The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. 
@@ -594,7 +594,7 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 
 #### expanded
 
-5.&emsp;The children of God are entitled to the perfect comfort that comes from perfect trust. 
+5. The children of God are entitled to the perfect comfort that comes from perfect trust. 
 ²Until they [the children of God] achieve this [perfect comfort], they [the children of God] waste  themselves [the children-of-God’s selves] and their [the children-of-God’s] true creative powers on useless attempts to make themselves [the children-of-God’s selves] more comfortable by inappropriate means. 
 3But the real means are already provided, and do not involve any effort at all on their [the children-of-God’s] part. 
 ⁴The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. 
@@ -610,7 +610,7 @@ Spiritual vision looks past error and sees truth. Spiritual vision awakens the m
 
 #### substituted
 
-5.&emsp;The children of God are entitled to the perfect comfort that comes from perfect trust. 
+5. The children of God are entitled to the perfect comfort that comes from perfect trust. 
 ²Until the children of God achieve perfect comfort, the children of God waste the children-of-God’s selves and the children-of-God’s true creative powers on useless attempts to make the children-of-God’s selves more comfortable by inappropriate means. 
 3But the real means are already provided, and do not involve any effort at all on the children-of-God’s part. 
 ⁴The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. 
@@ -646,7 +646,7 @@ The children of God are entitled to perfect comfort *[i.e. in peace and free of 
 ## T-2.IV.1
 
 <p class=fip id=p1>
-1.&emsp;Our emphasis is now on healing. 
+1. Our emphasis is now on healing. 
 ²The miracle is the means, the Atonement is the principle, and healing is the result. 
 3To speak of “a miracle of healing” is to combine two orders of reality inappropriately. 
 ⁴Healing is not a miracle. 
@@ -659,7 +659,7 @@ The children of God are entitled to perfect comfort *[i.e. in peace and free of 
 
 #### expanded
 
-1.&emsp;Our emphasis is now on healing. 
+1. Our emphasis is now on healing. 
 ²The miracle is the means, the Atonement is the principle, and healing is the result. 
 3To speak of “a miracle of healing” is to combine two orders of reality inappropriately. 
 ⁴Healing is not a miracle. 
@@ -671,7 +671,7 @@ The children of God are entitled to perfect comfort *[i.e. in peace and free of 
 
 #### substituted
 
-1.&emsp;Our emphasis is now on healing. 
+1. Our emphasis is now on healing. 
 ²The miracle is the means, the Atonement is the principle, and healing is the result. 
 3To speak of “a miracle of healing” is to combine two orders of reality inappropriately. 
 ⁴Healing is not a miracle. 
@@ -696,7 +696,7 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 ## T-2.IV.2
 
 <p class=fip id=p2>
-2.&emsp;A major step in the Atonement plan is to undo error at all levels. 
+2. A major step in the Atonement plan is to undo error at all levels. 
 ²Sickness or ‘not-right-mindedness’ is the result of level confusion, because it always entails the belief that what is amiss on one level can adversely affect another. 
 3We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they occur. 
 ⁴Only the mind is capable of error. 
@@ -710,7 +710,7 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 
 #### expanded
 
-2.&emsp;A major step in the Atonement plan is to undo error at all levels. 
+2. A major step in the Atonement plan is to undo error at all levels. 
 ²Sickness or ‘not-right-mindedness’ is the result of level confusion, because it [sickness] always entails the belief that what is amiss on one level can adversely affect another. 
 3We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they [mistakes] occur. 
 ⁴Only the mind is capable of error. 
@@ -723,7 +723,7 @@ Healing is the release from fear. Healing is the result of miracles. The Atoneme
 
 #### substituted
 
-2.&emsp;A major step in the Atonement plan is to undo error at all levels. 
+2. A major step in the Atonement plan is to undo error at all levels. 
 ²Sickness or ‘not-right-mindedness’ is the result of level confusion, because sickness always entails the belief that what is amiss on one level can adversely affect another. 
 3We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which mistakes occur. 
 ⁴Only the mind is capable of error. 
@@ -753,7 +753,7 @@ Sickness is no different from any other form in the world that reflects the ego�
 ## T-2.IV.3
 
 <p class=fip>
-3.&emsp;Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
+3. Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
 ²Learning devices are not lessons in themselves. 
 3Their purpose is merely to facilitate learning. 
 ⁴The worst a faulty use of a learning device can do is to fail to facilitate learning. 
@@ -770,7 +770,7 @@ Sickness is no different from any other form in the world that reflects the ego�
 
 #### expanded
 
-3.&emsp;Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
+3. Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
 ²Learning devices are not lessons in themselves [learning-devices’ selves]. 
 3Their [learning-devices’] purpose is merely to facilitate learning. 
 ⁴The worst a faulty use of a learning device can do is to fail to facilitate learning. 
@@ -786,7 +786,7 @@ Sickness is no different from any other form in the world that reflects the ego�
 
 #### substituted
 
-3.&emsp;Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
+3. Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
 ²Learning devices are not lessons in learning-devices’ selves. 
 3Learning-devices’ purpose is merely to facilitate learning. 
 ⁴The worst a faulty use of a learning device can do is to fail to facilitate learning. 
@@ -846,7 +846,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 
 ## T-2.IV.4
 <p class=fip id=p4>
-4.&emsp;All material means that you accept as remedies for bodily ills are restatements of magic principles. 
+4. All material means that you accept as remedies for bodily ills are restatements of magic principles. 
 ²This is the first step in believing that the body makes its own illness. 
 3It is a second misstep to attempt to heal it through non-creative agents. 
 ⁴It does not follow, however, that the use of such agents for corrective purposes is evil. 
@@ -860,7 +860,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 
 #### expanded
 
-4.&emsp;All material means that you accept as remedies for bodily ills are restatements of magic principles. 
+4. All material means that you accept as remedies for bodily ills are restatements of magic principles. 
 ²This [accepting material means as remedies for bodily ills] is the first step in believing that the body makes its [the body’s] own illness. 
 3It is a second misstep to attempt to heal it [the body] through non-creative agents. 
 ⁴It does not follow, however, that the use of such agents for corrective purposes is evil. 
@@ -873,7 +873,7 @@ A sentence in the ur-text has been deleted from between 12 and 13. The sentence 
 
 #### substituted
 
-4.&emsp;All material means that you accept as remedies for bodily ills are restatements of magic principles. 
+4. All material means that you accept as remedies for bodily ills are restatements of magic principles. 
 ²Accepting material means as remedies for bodily ills is the first step in believing that the body makes the body’s own illness. 
 3It is a second misstep to attempt to heal the body through non-creative agents. 
 ⁴It does not follow, however, that the use of such agents for corrective purposes is evil. 
@@ -910,7 +910,7 @@ The belief in illness can take hold of the mind. In this state, a miracle can ca
 
 ## T-2.IV.5
 <p class=fip id=p5>
-5.&emsp;The value of the Atonement does not lie in the manner in which it is expressed. 
+5. The value of the Atonement does not lie in the manner in which it is expressed. 
 ²In fact, if it is used truly, it will inevitably be expressed in whatever way is most helpful to the receiver. 
 3This means that a miracle, to attain its full efficacy, must be expressed in a language that the recipient can understand without fear. 
 ⁴This does not necessarily mean that this is the highest level of communication of which he is capable. 
@@ -919,7 +919,7 @@ The belief in illness can take hold of the mind. In this state, a miracle can ca
 
 #### expanded
 
-5.&emsp;The value of the Atonement does not lie in the manner in which it [the Atonement] is expressed. 
+5. The value of the Atonement does not lie in the manner in which it [the Atonement] is expressed. 
 ²In fact, if it [the Atonement] is used truly, it [the Atonement] will inevitably be expressed in whatever way is most helpful to the receiver. 
 3This [the Atonement expressed in whatever way is most helpful] means that a miracle, to attain its [the miracle’s] full efficacy, must be expressed in a language that the recipient can understand without fear. 
 ⁴This [a miracle must be understood without fear] does not necessarily mean that this [being understood without fear] is the highest level of communication of which he [the recipient of the miracle] is capable. 
@@ -928,7 +928,7 @@ The belief in illness can take hold of the mind. In this state, a miracle can ca
 
 #### substituted
 
-5.&emsp;The value of the Atonement does not lie in the manner in which the Atonement is expressed. 
+5. The value of the Atonement does not lie in the manner in which the Atonement is expressed. 
 ²In fact, if the Atonement is used truly, the Atonement will inevitably be expressed in whatever way is most helpful to the receiver. 
 3The Atonement expressed in whatever way is most helpful, means that a miracle, to attain the miracle’s full efficacy, must be expressed in a language that the recipient can understand without fear. 
 ⁴A miracle must be understood without fear does not necessarily mean that being understood without fear is the highest level of communication of which the recipient of the miracle is capable. 
@@ -964,7 +964,7 @@ Jesus’ own Course [is] the perfect example of the principles he was teaching h
 ## T-2.V.1
 
 <p class=fip id=p1>
-1.&emsp;Before miracle workers are ready to undertake their function in this world, it is essential that they fully understand the fear of release. 
+1. Before miracle workers are ready to undertake their function in this world, it is essential that they fully understand the fear of release. 
 ²Otherwise they may unwittingly foster the belief that release is imprisonment, a belief that is already very prevalent. 
 3This misperception arises in turn from the belief that harm can be limited to the body. 
 ⁴That is because of the underlying fear that the mind can hurt itself. 
@@ -979,7 +979,7 @@ Jesus’ own Course [is] the perfect example of the principles he was teaching h
 
 #### expanded
 
-1.&emsp;Before miracle workers are ready to undertake their [miracle workers’] function in this world, it is essential that they [miracle workers] fully understand the fear of release. 
+1. Before miracle workers are ready to undertake their [miracle workers’] function in this world, it is essential that they [miracle workers] fully understand the fear of release. 
 ²Otherwise they [miracle workers] may unwittingly foster the belief that release is imprisonment, a belief that is already very prevalent. 
 3This misperception [release is imprisonment] arises in turn from the belief that harm can be limited to the body. 
 ⁴That [believing release is imprisonment] is because of the underlying fear that the mind can hurt itself. 
@@ -993,7 +993,7 @@ Jesus’ own Course [is] the perfect example of the principles he was teaching h
 
 #### substituted
 
-1.&emsp;Before miracle workers are ready to undertake miracle workers’ function in this world, it is essential that miracle workers fully understand the fear of release. 
+1. Before miracle workers are ready to undertake miracle workers’ function in this world, it is essential that miracle workers fully understand the fear of release. 
 ²Otherwise miracle workers may unwittingly foster the belief that release is imprisonment, a belief that is already very prevalent. 
 3The misperception that release is imprisonment arises in turn from the belief that harm can be limited to the body. 
 ⁴Believing release is imprisonment is because of the underlying fear that the mind can hurt itself. 
@@ -1024,7 +1024,7 @@ Fear of release comes from believing the mind can hurt itself. The mind cannot h
 ## T-2.V.2
 
 <p class=fip id=p2>
-2.&emsp;Magic is the mindless or the miscreative use of mind. 
+2. Magic is the mindless or the miscreative use of mind. 
 ²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so. 
 3The very fact that you are afraid makes your mind vulnerable to miscreation. 
 ⁴You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. 
@@ -1034,7 +1034,7 @@ Fear of release comes from believing the mind can hurt itself. The mind cannot h
 
 #### expanded
 
-2.&emsp;Magic is the mindless or the miscreative use of mind. 
+2. Magic is the mindless or the miscreative use of mind. 
 ²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so [use the mind to heal]. 
 3The very fact that you are afraid makes your mind vulnerable to miscreation. 
 ⁴You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. 
@@ -1043,7 +1043,7 @@ Fear of release comes from believing the mind can hurt itself. The mind cannot h
 
 #### substituted
 
-2.&emsp;Magic is the mindless or the miscreative use of mind. 
+2. Magic is the mindless or the miscreative use of mind. 
 ²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to use the mind to heal. 
 3The very fact that you are afraid makes your mind vulnerable to miscreation. 
 ⁴You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. 
@@ -1065,7 +1065,7 @@ Do not use the mind to heal if there is fear or egocentricity.
 ## T-2.V.3
 
 <p class=fip id=p3>
-3.&emsp;I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
+3. I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
 ²The right-minded neither exalt nor depreciate the mind of the miracle worker or the miracle receiver. 
 3However, as a correction, the miracle need not await the right-mindedness of the receiver. 
 ⁴In fact, its purpose is to restore him *to* his right mind. 
@@ -1074,7 +1074,7 @@ Do not use the mind to heal if there is fear or egocentricity.
 
 #### expanded
 
-3.&emsp;I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
+3. I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
 ²The right-minded neither exalt nor depreciate the mind of the miracle worker or the miracle receiver. 
 3However, as a correction, the miracle need not await the right-mindedness of the receiver. 
 ⁴In fact, its [the miracle’s] purpose is to restore him [the miracle receiver] *to* his [the miracle reeiver’s] right mind. 
@@ -1082,7 +1082,7 @@ Do not use the mind to heal if there is fear or egocentricity.
 
 #### substituted
 
-3.&emsp;I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
+3. I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
 ²The right-minded neither exalt nor depreciate the mind of the miracle worker or the miracle receiver. 
 3However, as a correction, the miracle need not await the right-mindedness of the receiver. 
 ⁴In fact, the miracle’s purpose is to restore the miracle receiver *to* the miracle receiver’s right mind. 
@@ -1095,7 +1095,7 @@ Right mindedness is miracle-mindedness. Miracle mindedness exresses miracles. Th
 ## T-2.V.4
 
 <p class=fip id=p4>
-4.&emsp;The healer who relies on his own readiness is endangering his understanding. 
+4. The healer who relies on his own readiness is endangering his understanding. 
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in mine. 
 3If your miracle working inclinations are not functioning properly, it is always because fear has intruded on your right-mindedness and has turned it upside down. 
 ⁴All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. 
@@ -1104,7 +1104,7 @@ Right mindedness is miracle-mindedness. Miracle mindedness exresses miracles. Th
 
 #### expanded
 
-4.&emsp;The healer who relies on his [the healer’s] own readiness is endangering his [the healer’s] understanding. 
+4. The healer who relies on his [the healer’s] own readiness is endangering his [the healer’s] understanding. 
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in mine [readiness]. 
 3If your miracle working inclinations are not functioning properly, it [not functioning properly] is always because fear has intruded on your right-mindedness and has turned it [your right-mindedness] upside down. 
 ⁴All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. 
@@ -1112,7 +1112,7 @@ Right mindedness is miracle-mindedness. Miracle mindedness exresses miracles. Th
 
 #### substituted
 
-4.&emsp;The healer who relies on the healer’s own readiness is endangering the healer’s understanding. 
+4. The healer who relies on the healer’s own readiness is endangering the healer’s understanding. 
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in my readiness. 
 3If your miracle working inclinations are not functioning properly, not functioning properly is always because fear has intruded on your right-mindedness and has turned your right-mindedness upside down. 
 ⁴All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. 
@@ -1125,7 +1125,7 @@ Trust in my readiness. Miracles come from right-mindedness. Fear turns right-min
 ## T-2.V.5
 
 <p class=fip id=p5>
-5.&emsp;*The sole responsibility of the miracle worker is to accept the Atonement for himself.*
+5. *The sole responsibility of the miracle worker is to accept the Atonement for himself.*
 ²This means you recognise that mind is the only creative level, and that its errors are healed by the Atonement. 
 3Once you accept this, your mind can only heal. 
 ⁴By denying your mind any destructive potential and re-instating its purely constructive powers, you place yourself in a position to undo the level confusion of others. 
@@ -1135,7 +1135,7 @@ Trust in my readiness. Miracles come from right-mindedness. Fear turns right-min
 
 #### expanded
 
-5.&emsp;*The sole responsibility of the miracle worker is to accept the Atonement for himself [the miracle-worker’s self].*
+5. *The sole responsibility of the miracle worker is to accept the Atonement for himself [the miracle-worker’s self].*
 ²This means you recognise that mind is the only creative level, and that its [mind’s] errors are healed by the Atonement. 
 3Once you accept this [the Atonement], your mind can only heal. 
 ⁴By denying your mind any destructive potential and re-instating its [your mind’s] purely constructive powers, you place yourself in a position to undo the level confusion of others. 
@@ -1144,7 +1144,7 @@ Trust in my readiness. Miracles come from right-mindedness. Fear turns right-min
 
 #### substituted
 
-5.&emsp;*The sole responsibility of the miracle worker is to accept the Atonement for the miracle-worker’s self.*
+5. *The sole responsibility of the miracle worker is to accept the Atonement for the miracle-worker’s self.*
 ²This means you recognise that mind is the only creative level, and that mind’s errors are healed by the Atonement. 
 3Once you accept the Atonement, your mind can only heal. 
 ⁴By denying your mind any destructive potential and re-instating your mind’s purely constructive powers, you place yourself in a position to undo the level confusion of others. 
@@ -1190,7 +1190,7 @@ Accept the Atonement for yourself. Accepting the Atonement will heal your mind. 
 ## T-2.V.6
 
 <p class=fip id=p6>
-6.&emsp;It should be emphasised again that the body does not learn any more than it creates. 
+6. It should be emphasised again that the body does not learn any more than it creates. 
 ²As a learning device it merely follows the learner, but if it is falsely endowed with self-initiative, it becomes a serious obstruction to the very learning it should facilitate. 
 3Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in itself is too dense. 
@@ -1200,7 +1200,7 @@ Accept the Atonement for yourself. Accepting the Atonement will heal your mind. 
 
 #### expanded
 
-6.&emsp;It should be emphasised again that the body does not learn any more than it [the body] creates. 
+6. It should be emphasised again that the body does not learn any more than it [the body] creates. 
 ²As a learning device it [the body] merely follows the learner, but if it [the body] is falsely endowed with self-initiative, it [the body] becomes a serious obstruction to the very learning it [the body] should facilitate. 
 3Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in itself [the body’s self] is too dense. 
@@ -1209,7 +1209,7 @@ Accept the Atonement for yourself. Accepting the Atonement will heal your mind. 
 
 #### substituted
 
-6.&emsp;It should be emphasised again that the body does not learn any more than the body creates. 
+6. It should be emphasised again that the body does not learn any more than the body creates. 
 ²As a learning device the body merely follows the learner, but if the body is falsely endowed with self-initiative, the body becomes a serious obstruction to the very learning the body should facilitate. 
 3Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in the body’s self is too dense. 
@@ -1223,7 +1223,7 @@ The body does not learn. The body helps the mind to learn. Look beyond the body 
 ## T-2.V.7
 
 <p class=fip id=p7>
-7.&emsp;Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
+7. Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
 ²This often entails fear, because you are afraid of what your spiritual sight will show you. 
 3I said before that the Holy Spirit cannot see error, and is capable only of looking beyond it to the defence of Atonement. 
 ⁴There is no doubt that this may produce discomfort, yet the discomfort is not the final outcome of the perception. 
@@ -1235,7 +1235,7 @@ The body does not learn. The body helps the mind to learn. Look beyond the body 
 
 #### expanded
 
-7.&emsp;Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
+7. Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
 ²This [turning away from the belief in physical sight] often entails fear, because you are afraid of what your spiritual sight will show you. 
 3I said before that the Holy Spirit cannot see error, and [Holy Spirit] is capable only of looking beyond it [error] to the defence of Atonement. 
 ⁴There is no doubt that this [looking beyond error] may produce discomfort, yet the discomfort is not the final outcome of the perception. 
@@ -1246,7 +1246,7 @@ The body does not learn. The body helps the mind to learn. Look beyond the body 
 
 #### substituted
 
-7.&emsp;Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
+7. Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
 ²Turning away from the belief in physical sight often entails fear, because you are afraid of what your spiritual sight will show you. 
 3I said before that the Holy Spirit cannot see error, and Holy Spirit is capable only of looking beyond error to the defence of Atonement. 
 ⁴There is no doubt that looking beyond error may produce discomfort, yet the discomfort is not the final outcome of the perception. 
@@ -1262,7 +1262,7 @@ Corrective learning begins with the awakening of spirit and turning away from be
 ## T-2.V.8
 
 <p class=fip id=p8>
-8.&emsp;The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
+8. The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
 ²What the physical eye sees is not corrective, nor can error be corrected by any device that can be seen physically. 
 3As long as you believe in what your physical sight tells you, your attempts at correction will be misdirected. 
 ⁴The real vision is obscured, because you cannot endure to see your own defiled altar. 
@@ -1271,7 +1271,7 @@ Corrective learning begins with the awakening of spirit and turning away from be
 
 #### expanded
 
-8.&emsp;The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
+8. The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
 ²What the physical eye sees is not corrective, nor can error be corrected by any device that can be seen physically. 
 3As long as you believe in what your physical sight tells you, your attempts at correction will be misdirected. 
 ⁴The real vision is obscured, because you cannot endure to see your own defiled altar. 
@@ -1279,7 +1279,7 @@ Corrective learning begins with the awakening of spirit and turning away from be
 
 #### substituted
 
-8.&emsp;The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
+8. The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
 ²What the physical eye sees is not corrective, nor can error be corrected by any device that can be seen physically. 
 3As long as you believe in what your physical sight tells you, your attempts at correction will be misdirected. 
 ⁴The real vision is obscured, because you cannot endure to see your own defiled altar. 
@@ -1292,7 +1292,7 @@ Do not try to heal anything your physical eye sees. Do not be afraid to look at 
 ## T-2.V.9
 
 <p class=fip id=p9>
-9.&emsp;Healing is an ability that developed after the separation, before which it was unnecessary. 
+9. Healing is an ability that developed after the separation, before which it was unnecessary. 
 ²Like all aspects of the belief in space and time, it is temporary. 
 3However, as long as time persists, healing is needed as a means of protection. 
 ⁴This is because healing rests on charity, and charity is a way of perceiving the perfection of another even if you cannot perceive it in yourself. 
@@ -1304,7 +1304,7 @@ Do not try to heal anything your physical eye sees. Do not be afraid to look at 
 
 #### expanded
 
-9.&emsp;Healing is an ability that developed after the separation, before which [the separation] it [healing] was unnecessary. 
+9. Healing is an ability that developed after the separation, before which [the separation] it [healing] was unnecessary. 
 ²Like all aspects of the belief in space and time, it [healing] is temporary. 
 3However, as long as time persists, healing is needed as a means of protection. 
 ⁴This [healing is needed as a means of protection] is because healing rests on charity, and charity is a way of perceiving the perfection of another even if you cannot perceive it [perfection] in yourself. 
@@ -1314,7 +1314,7 @@ Do not try to heal anything your physical eye sees. Do not be afraid to look at 
 
 #### substituted
 
-9.&emsp;Healing is an ability that developed after the separation; before the separation healing was unnecessary. 
+9. Healing is an ability that developed after the separation; before the separation healing was unnecessary. 
 ²Like all aspects of the belief in space and time, healing is temporary. 
 3However, as long as time persists, healing is needed as a means of protection. 
 ⁴Healing is needed as a means of protection because healing rests on charity, and charity is a way of perceiving the perfection of another even if you cannot perceive perfection in yourself. 
@@ -1329,7 +1329,7 @@ The separation introduced the need for healing. The need for healing persists as
 ## T-2.V.10
 
 <p class=fip id=p10>
-10.&emsp;Charity is a way of looking at another as if he had already gone far beyond his actual accomplishments in time. 
+10. Charity is a way of looking at another as if he had already gone far beyond his actual accomplishments in time. 
 ²Since his own thinking is faulty he cannot see the Atonement for himself, or he would have no need of charity. 
 3The charity that is accorded him is both an acknowledgment that he needs help, and a recognition that he will accept it. 
 ⁴Both of these perceptions clearly imply their dependence on time, making it apparent that charity still lies within the limitations of this world. 
@@ -1341,7 +1341,7 @@ The separation introduced the need for healing. The need for healing persists as
 
 #### expanded
 
-10.&emsp;Charity is a way of looking at another as if he [the other] had already gone far beyond his [the other’s] actual accomplishments in time. 
+10. Charity is a way of looking at another as if he [the other] had already gone far beyond his [the other’s] actual accomplishments in time. 
 ²Since his [the other’s] own thinking is faulty he [the other] cannot see the Atonement for himself [the other’s self], or he [the other] would have no need of charity. 
 3The charity that is accorded him [the other] is both an acknowledgment that he [the other] needs help, and a recognition that he [the other] will accept it [help]. 
 ⁴Both of these perceptions [the other needs and will accept help] clearly imply their [perceptions’s] dependence on time, making it apparent that charity still lies within the limitations of this world. 
@@ -1352,7 +1352,7 @@ The separation introduced the need for healing. The need for healing persists as
 
 #### substituted
 
-10.&emsp;Charity is a way of looking at another as if the other had already gone far beyond the other’s actual accomplishments in time. 
+10. Charity is a way of looking at another as if the other had already gone far beyond the other’s actual accomplishments in time. 
 ²Since the other’s own thinking is faulty the other cannot see the Atonement for the other’s self, or the other would have no need of charity. 
 3The charity that is accorded the other is both an acknowledgment that the other needs help, and a recognition that the other will accept help. 
 ⁴The perception that the other needs and will accept help, clearly implies the perceptions’s dependence on time, making it apparent that charity still lies within the limitations of this world. 
@@ -1370,20 +1370,20 @@ Charity is limited to the world of perception. The miracle is an expression of c
 ## T-2.V.11
 
 <p class=fip id=p11>
-11.&emsp;(1) The miracle abolishes the need for lower-order concerns. 
+11. (1) The miracle abolishes the need for lower-order concerns. 
 ²Since it is an out-of-pattern time interval, the ordinary considerations of time and space do not apply. 
 3When you perform a miracle, I will arrange both time and space to adjust to it.
 </p>
 
 #### expanded
 
-11.&emsp;(1) The miracle abolishes the need for lower-order concerns. 
+11. (1) The miracle abolishes the need for lower-order concerns. 
 ²Since it [the miracle] is an out-of-pattern time interval, the ordinary considerations of time and space do not apply. 
 3When you perform a miracle, I will arrange both time and space to adjust to it [the miracle].
 
 #### substituted
 
-11.&emsp;(1) The miracle abolishes the need for lower-order concerns. 
+11. (1) The miracle abolishes the need for lower-order concerns. 
 ²Since the miracle is an out-of-pattern time interval, the ordinary considerations of time and space do not apply. 
 3When you perform a miracle, I will arrange both time and space to adjust to the miracle.
 
@@ -1394,18 +1394,18 @@ Miracles change your relationship to time and Space. I will help you to adjust.
 ## T-2.V.12
 
 <p class=fip id=p12>
-12.&emsp;(2) A clear distinction between what is created and what is made is essential. 
+12. (2) A clear distinction between what is created and what is made is essential. 
 ²All forms of healing rest on this fundamental correction in level perception.
 </p>
 
 #### expanded
 
-12.&emsp;(2) A clear distinction between what is created and what is made is essential. 
+12. (2) A clear distinction between what is created and what is made is essential. 
 ²All forms of healing rest on this fundamental correction [between what is created and what is made] in level perception.
 		
 #### substituted
 
-12.&emsp;(2) A clear distinction between what is created and what is made is essential. 
+12. (2) A clear distinction between what is created and what is made is essential. 
 ²All forms of healing rest on the fundamental correction — between what is created and what is made — in level perception.
 
 #### simplified
@@ -1415,18 +1415,18 @@ Healing rests on you distinguishing between what is created and what is made.
 ## T-2.V.13
 
 <p class=fip id=p13>
-13.&emsp;(3) Never confuse right- and wrong-mindedness. 
+13. (3) Never confuse right- and wrong-mindedness. 
 ²Responding to any form of error with anything except a desire to heal is an expression of this confusion.
 </p>
 
 #### expanded
 
-13.&emsp;(3) Never confuse right- and wrong-mindedness. 
+13. (3) Never confuse right- and wrong-mindedness. 
 ²Responding to any form of error with anything except a desire to heal is an expression of this confusion [between right-mindedness and wrong-mindedness].
 
 #### substituted
 
-13.&emsp;(3) Never confuse right- and wrong-mindedness. 
+13. (3) Never confuse right- and wrong-mindedness. 
 ²Responding to any form of error with anything except a desire to heal is an expression of confusion between right-mindedness and wrong-mindedness.
 
 #### simplified
@@ -1436,7 +1436,7 @@ Right mind responds to error with a desire to heal.
 ## T-2.V.14
 
 <p class=fip id=p14>
-14.&emsp;(4) The miracle is always a denial of this error and an affirmation of the truth. 
+14. (4) The miracle is always a denial of this error and an affirmation of the truth. 
 ²Only right-mindedness can correct in a way that has any real effect. 
 3Pragmatically, what has no real effect has no real existence. 
 ⁴Its effect, then, is emptiness. 
@@ -1445,7 +1445,7 @@ Right mind responds to error with a desire to heal.
 
 #### expanded
 
-14.&emsp;(4) The miracle is always a denial of this error [confusing right-mindedness and wrong-mindedness] and an affirmation of the truth. 
+14. (4) The miracle is always a denial of this error [confusing right-mindedness and wrong-mindedness] and an affirmation of the truth. 
 ²Only right-mindedness can correct in a way that has any real effect. 
 3Pragmatically, what has no real effect [wrong-mindedness] has no real existence. 
 ⁴Its [wrong-mindedness’s] effect, then, is emptiness. 
@@ -1453,7 +1453,7 @@ Right mind responds to error with a desire to heal.
 
 #### substituted
 
-14.&emsp;(4) The miracle is always a denial of confusing right-mindedness and wrong-mindedness and an affirmation of the truth. 
+14. (4) The miracle is always a denial of confusing right-mindedness and wrong-mindedness and an affirmation of the truth. 
 ²Only right-mindedness can correct in a way that has any real effect. 
 3Pragmatically, wrong-mindedness has no real existence. 
 ⁴Wrong-mindedness’s effect, then, is emptiness. 
@@ -1465,7 +1465,7 @@ Right-mindedness heals and corrects and has real effects. Wrong-mindedness can h
 ## T-2.V.15
 
 <p class=fip id=p15>
-15.&emsp;(5) The level-adjustment power of the miracle induces the right perception for healing. 
+15. (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until this has occurred healing cannot be understood. 
 3Forgiveness is an empty gesture unless it entails correction. 
 ⁴Without this it is essentially judgmental, rather than healing.
@@ -1473,14 +1473,14 @@ Right-mindedness heals and corrects and has real effects. Wrong-mindedness can h
 
 #### expanded
 
-15.&emsp;(5) The level-adjustment power of the miracle induces the right perception for healing. 
+15. (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until this [level-adjustement] has occurred healing cannot be understood. 
 3Forgiveness is an empty gesture unless it [forgiveness] entails correction. 
 ⁴Without this [correction] it [forgiveness] is essentially judgmental, rather than healing.
 
 #### substituted
 
-15.&emsp;(5) The level-adjustment power of the miracle induces the right perception for healing. 
+15. (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until level-adjustement has occurred healing cannot be understood. 
 3Forgiveness is an empty gesture unless forgiveness entails correction. 
 ⁴Without correction forgiveness is essentially judgmental, rather than healing.
@@ -1492,7 +1492,7 @@ Right-mindedness forgives with correction and healing. Forgiving without correct
 ## T-2.V.16
 
 <p class=fip id=p16>
-16.&emsp;(6) Miracle-minded forgiveness is correction. 
+16. (6) Miracle-minded forgiveness is correction. 
 ²It has no element of judgement at all. 
 3The statement “Father forgive them for they know not what they do” in no way evaluates what they do. 
 ⁴It is an appeal to God to heal their minds. 
@@ -1502,7 +1502,7 @@ Right-mindedness forgives with correction and healing. Forgiving without correct
 
 #### expanded
 
-16.&emsp;(6) Miracle-minded forgiveness is correction. 
+16. (6) Miracle-minded forgiveness is correction. 
 ²It [miracle-minded forgiveness] has no element of judgement at all. 
 3The statement “Father forgive them for they know not what they do” in no way evaluates what they [those who know not what they do] do. 
 ⁴It [the statement “Father forgive them for they know not what they do”] is an appeal to God to heal their [those-who-know-not-what-they-do’s] minds. 
@@ -1511,7 +1511,7 @@ Right-mindedness forgives with correction and healing. Forgiving without correct
 
 #### substituted
 
-16.&emsp;(6) Miracle-minded forgiveness is correction. 
+16. (6) Miracle-minded forgiveness is correction. 
 ²Miracle-minded forgiveness has no element of judgement at all. 
 3The statement “Father forgive them for they know not what they do” in no way evaluates what those who know not what they do, do. 
 ⁴The statement “Father forgive them for they know not what they do” is an appeal to God to heal those-who-know-not-what-they-do’s minds. 
@@ -1525,7 +1525,7 @@ Miracles mindedness forgives regardless of consequences.
 ## T-2.V.17
 
 <p class=fip id=p17>
-17.&emsp;(7) The injunction “Be of one mind” is the statement for revelation-readiness. 
+17. (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
 ²My request “Do this in remembrance of me” is the appeal for co-operation from miracle workers. 
 3The two statements are not in the same order of reality. 
 ⁴Only the latter involves an awareness of time, since to remember is to recall the past in the present. 
@@ -1536,7 +1536,7 @@ Miracles mindedness forgives regardless of consequences.
 
 #### expanded
 
-17.&emsp;(7) The injunction “Be of one mind” is the statement for revelation-readiness. 
+17. (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
 ²My request “Do this in remembrance of me” is the appeal for co-operation from miracle workers. 
 3The two statements [“be of one mind” and “do this in remembrance of me” are not in the same order of reality. 
 ⁴Only the latter [“do this in remembrance of me”] involves an awareness of time, since to remember is to recall the past in the present. 
@@ -1546,7 +1546,7 @@ Miracles mindedness forgives regardless of consequences.
 
 #### substituted
 
-17.&emsp;(7) The injunction “Be of one mind” is the statement for revelation-readiness. 
+17. (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
 ²My request “Do this in remembrance of me” is the appeal for co-operation from miracle workers. 
 3“Be of one mind” and “do this in remembrance of me” are not in the same order of reality. 
 ⁴Only “do this in remembrance of me” involves an awareness of time, since to remember is to recall the past in the present. 
@@ -1561,7 +1561,7 @@ Right-mindedness is in time. Right-mindedness is directed by Jesus. One-mindedne
 ## T-2.V.18
 
 <p class=fip id=p18>
-18.&emsp;(8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:
+18. (8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:
 <span class=course-quote>
 ²I am here only to be truly helpful. <br>
 3I am here to represent Him Who sent me. <br>
@@ -1574,7 +1574,7 @@ Right-mindedness is in time. Right-mindedness is directed by Jesus. One-mindedne
 #### expanded
 
 <p>
-18.&emsp;(8) You can do much on behalf of your own healing and that [the healing] of others if, in a situation calling for help, you think of it [the situation calling for help] this way: 
+18. (8) You can do much on behalf of your own healing and that [the healing] of others if, in a situation calling for help, you think of it [the situation calling for help] this way: 
 <span class=course-quote>
 ²I am here only to be truly helpful. <br>
 3I am here to represent Him Who sent me [God]. <br>
@@ -1587,7 +1587,7 @@ Right-mindedness is in time. Right-mindedness is directed by Jesus. One-mindedne
 #### substituted
 
 <p>
-18.&emsp;(8) You can do much on behalf of your own healing and the healing of others if, in a situation calling for help, you think of the situation calling for help this way: 
+18. (8) You can do much on behalf of your own healing and the healing of others if, in a situation calling for help, you think of the situation calling for help this way: 
 <span class=course-quote>
 ²I am here only to be truly helpful.<br>
 3I am here to represent God; God sent me. <br>
@@ -1606,7 +1606,7 @@ If a situation calls for help, think of the situation as God sending you. God wi
 ## T-2.VI.1
 
 <p class=fip id=p1>
-1.&emsp;Being afraid seems to be involuntary; something beyond your own control. 
+1. Being afraid seems to be involuntary; something beyond your own control. 
 ²Yet I have said already that only constructive acts should be involuntary. 
 3My control can take over everything that does not matter, while my guidance can direct everything that does, if you so choose. 
 ⁴Fear cannot be controlled by me, but it can be self-controlled. 
@@ -1618,7 +1618,7 @@ If a situation calls for help, think of the situation as God sending you. God wi
 
 #### expanded
 
-1.&emsp;Being afraid seems to be involuntary; [being afraid seems to be] something beyond your own control. 
+1. Being afraid seems to be involuntary; [being afraid seems to be] something beyond your own control. 
 ²Yet I have said already that only constructive acts should be involuntary. 
 3My control can take over everything that does not matter, while my guidance can direct everything that does [matter], if you so choose. 
 ⁴Fear cannot be controlled by me, but it [fear] can be self-controlled. 
@@ -1629,7 +1629,7 @@ If a situation calls for help, think of the situation as God sending you. God wi
 
 #### substituted
 
-1.&emsp;Being afraid seems to be involuntary; being afraid seems to be something beyond your own control. 
+1. Being afraid seems to be involuntary; being afraid seems to be something beyond your own control. 
 ²Yet I have said already that only constructive acts should be involuntary. 
 3My control can take over everything that does not matter, while my guidance can direct everything that does matter, if you so choose. 
 ⁴Fear cannot be controlled by me, but fear can be self-controlled. 
@@ -1665,7 +1665,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 ## T-2.VI.2
 
 <p class=fip id=p2>
-2.&emsp;I do not foster level confusion, but you must choose to correct it. 
+2. I do not foster level confusion, but you must choose to correct it. 
 ²You would not excuse insane behA.V.I.or on your part by saying you could not help it. 
 3Why should you condone insane thinking? 
 ⁴There is a confusion here that you would do well to look at clearly. 
@@ -1679,7 +1679,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 
 #### expanded
 
-2.&emsp;I do not foster level confusion, but you must choose to correct it [level-confusion]. 
+2. I do not foster level confusion, but you must choose to correct it [level-confusion]. 
 ²You would not excuse insane behA.V.I.our on your part by saying you could not help it [insane behA.V.I.our]. 
 3Why should you condone insane thinking? 
 ⁴There is a confusion here that you would do well to look at clearly. 
@@ -1692,7 +1692,7 @@ Thoughts about the body cause fear. Let me control thoughts about the body. Let 
 
 #### substituted
 
-2.&emsp;I do not foster level confusion, but you must choose to correct level-confusion. 
+2. I do not foster level confusion, but you must choose to correct level-confusion. 
 ²You would not excuse insane behA.V.I.our on your part by saying you could not help insane behA.V.I.our. 
 3Why should you condone insane thinking? 
 ⁴There is a confusion here that you would do well to look at clearly. 
@@ -1710,7 +1710,7 @@ BehA.V.I.our is not a choice. You choose what to think. What you do comes from w
 ### T-2.VI. id=p3>
 
 <p class=fip>
-3.&emsp;It is pointless to believe that controlling the outcome of misthought can result in healing. 
+3. It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 3That is why you feel responsible for it. 
 ⁴You must change your mind, not your behA.V.I.our, and this *is* a matter of willingness. 
@@ -1721,7 +1721,7 @@ BehA.V.I.our is not a choice. You choose what to think. What you do comes from w
 
 #### expanded
 
-3.&emsp;It is pointless to believe that controlling the outcome of misthought can result in healing. 
+3. It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 3That [fear coming from your wrong choice] is why you feel responsible for it [being fearful]. 
 ⁴You must change your mind, not your behA.V.I.our, and this [changing your mind] *is* a matter of willingness. 
@@ -1731,7 +1731,7 @@ BehA.V.I.our is not a choice. You choose what to think. What you do comes from w
 
 #### substituted
 
-3.&emsp;It is pointless to believe that controlling the outcome of misthought can result in healing. 
+3. It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 3Fear coming from your wrong choice, is why you feel responsible for being fearful. 
 ⁴You must change your mind, not your behA.V.I.our, and changing your mind *is* a matter of willingness. 
@@ -1757,7 +1757,7 @@ BehA.V.I.our and fear are the outcomes of misthought. Correction and healing can
 ## T-2.VI.4
 
 <p class=fip id=p4>
-4.&emsp;The correction of fear *is* your responsibility. 
+4. The correction of fear *is* your responsibility. 
 ²When you ask for release from fear, you are implying that it is not. 
 3You should ask, instead, for help in the conditions that have brought the fear about. 
 ⁴These conditions always entail a willingness to be separate. 
@@ -1771,7 +1771,7 @@ BehA.V.I.our and fear are the outcomes of misthought. Correction and healing can
 
 #### expanded
 
-4.&emsp;The correction of fear *is* your responsibility. 
+4. The correction of fear *is* your responsibility. 
 ²When you ask for release from fear, you are implying that it [correction of fear] is not [your responsibility]. 
 3You should ask, instead, for help in the conditions that have brought the fear about. 
 ⁴These conditions [that have brought the fear about] always entail a willingness to be separate. 
@@ -1784,7 +1784,7 @@ BehA.V.I.our and fear are the outcomes of misthought. Correction and healing can
 
 #### substituted
 
-4.&emsp;The correction of fear *is* your responsibility. 
+4. The correction of fear *is* your responsibility. 
 ²When you ask for release from fear, you are implying that correction of fear is not your responsibility. 
 3You should ask, instead, for help in the conditions that have brought the fear about. 
 ⁴The conditions that have brought the fear about always entail a willingness to be separate. 
@@ -1826,7 +1826,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 ## T-2.VI.5
 
 <p class=fip id=p5>
-5.&emsp;Fear is always a sign of strain, arising whenever what you want conflicts with what you do. 
+5. Fear is always a sign of strain, arising whenever what you want conflicts with what you do. 
 ²This situation arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
 3This produces conflicted behA.V.I.our, which is intolerable to you because the part of the mind that wants to do something else is outraged. 
 ⁴Second, you can behave as you think you should, but without entirely wanting to do so. 
@@ -1840,7 +1840,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 
 #### expanded
 
-5.&emsp;Fear is always a sign of strain, [fear] arising whenever what you want conflicts with what you do. 
+5. Fear is always a sign of strain, [fear] arising whenever what you want conflicts with what you do. 
 ²This situation [what you want conflicts with what you do] arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
 3This [choosing to do conflicting things] produces conflicted behA.V.I.our, which [conflicted behA.V.I.our] is intolerable to you because the part of the mind that wants to do something else is outraged. 
 ⁴Second, you can behave as you think you should [behave], but without entirely wanting to do so [behave as you think you should behave]. 
@@ -1853,7 +1853,7 @@ You are willing to be separate. Your mind miscreates. You are fearful. Correct t
 
 #### substituted
 
-5.&emsp;Fear is always a sign of strain; fear arises whenever what you want conflicts with what you do. 
+5. Fear is always a sign of strain; fear arises whenever what you want conflicts with what you do. 
 ²The situation of what you want conflicting with what you do arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
 3Choosing to do conflicting things produces conflicted behA.V.I.our; conflicted behA.V.I.our is intolerable to you because the part of the mind that wants to do something else is outraged. 
 ⁴Second, you can behave as you think you should behave, but without entirely wanting to behave as you think you should behave. 
@@ -1871,7 +1871,7 @@ When mind and behA.V.I.our are out of accord, the result is fear, rage and proje
 ## T-2.VI.6
 
 <p class=fip id=p6>
-6.&emsp;It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this implies a willingness that you have not developed as yet. 
+6. It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 3The strength to do comes from your undivided decision. 
 ⁴There is no strain in doing God’s Will as soon as you recognise that it is also your own. 
@@ -1884,7 +1884,7 @@ When mind and behA.V.I.our are out of accord, the result is fear, rage and proje
 
 #### expanded
 
-6.&emsp;It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this [bringing your mind under my guidance without conscious effort] implies a willingness that you have not developed as yet. 
+6. It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this [bringing your mind under my guidance without conscious effort] implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 3The strength to do comes from your undivided decision. 
 ⁴There is no strain in doing God’s Will as soon as you recognise that it [God’s Will] is also your own [will]. 
@@ -1896,7 +1896,7 @@ When mind and behA.V.I.our are out of accord, the result is fear, rage and proje
 
 #### substituted
 
-6.&emsp;It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but bringing your mind under my guidance without conscious effort implies a willingness that you have not developed as yet. 
+6. It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but bringing your mind under my guidance without conscious effort implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 3The strength to do comes from your undivided decision. 
 ⁴There is no strain in doing God’s Will as soon as you recognise that God’s Will is also your own will. 
@@ -1913,37 +1913,37 @@ God’s Will is your will. Fear is produced in the mind. Correct the conflict in
 ## T-2.VI.7
 
 <p class=fip id=p7>
-7.&emsp;The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
+7. The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
 ²Say to yourself that you must somehow have chosen not to love, or the fear could not have arisen. 
 3Then the whole process of correction becomes nothing more than a series of pragmatic steps in the larger process of accepting the Atonement as the remedy. 
 ⁴These steps may be summarised in this way:<br>
-&emsp;⁵Know first that this is fear.<br>
-&emsp;⁶Fear arises from lack of love.<br>
-&emsp;⁷The only remedy for lack of love is perfect love.<br>
-&emsp;⁸Perfect love is the Atonement.
+ ⁵Know first that this is fear.<br>
+ ⁶Fear arises from lack of love.<br>
+ ⁷The only remedy for lack of love is perfect love.<br>
+ ⁸Perfect love is the Atonement.
 </p>
 
 #### expanded
 
-7.&emsp;The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
+7. The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
 ²Say to yourself that you must somehow have chosen not to love, or the fear could not have arisen. 
 3Then the whole process of correction becomes nothing more than a series of pragmatic steps in the larger process of accepting the Atonement as the remedy. 
 ⁴These steps [in the process of accepting the Atonement] may be summarised in this way:<br>
-&emsp;⁵Know first that this [the conflict] is fear.<br>
-&emsp;⁶Fear arises from lack of love.<br>
-&emsp;⁷The only remedy for lack of love is perfect love.<br>
-&emsp;⁸Perfect love is the Atonement.
+ ⁵Know first that this [the conflict] is fear.<br>
+ ⁶Fear arises from lack of love.<br>
+ ⁷The only remedy for lack of love is perfect love.<br>
+ ⁸Perfect love is the Atonement.
 
 #### substituted
 
-7.&emsp;The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
+7. The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
 ²Say to yourself that you must somehow have chosen not to love, or the fear could not have arisen. 
 3Then the whole process of correction becomes nothing more than a series of pragmatic steps in the larger process of accepting the Atonement as the remedy. 
 ⁴The steps in the process of accepting the Atonement may be summarised in this way:<br>
-&emsp;⁵Know first that the conflict is fear.<br>
-&emsp;⁶Fear arises from lack of love.<br>
-&emsp;⁷The only remedy for lack of love is perfect love.<br>
-&emsp;⁸Perfect love is the Atonement.
+ ⁵Know first that the conflict is fear.<br>
+ ⁶Fear arises from lack of love.<br>
+ ⁷The only remedy for lack of love is perfect love.<br>
+ ⁸Perfect love is the Atonement.
 
 #### simplified
 
@@ -1952,7 +1952,7 @@ These are the steps in accepting the Atonement as the remedy for conflict: Know 
 ## T-2.VI.8
 
 <p class=fip id=p8>
-8.&emsp;I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
+8. I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is re-established by the Atonement. 
 3It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. 
 ⁴You have done something loveless, hA.V.I.ng chosen without love. 
@@ -1965,7 +1965,7 @@ These are the steps in accepting the Atonement as the remedy for conflict: Know 
 
 #### expanded
 
-8.&emsp;I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
+8. I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is re-established by the Atonement. 
 3It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. 
 ⁴You have done something loveless, hA.V.I.ng chosen without love. 
@@ -1977,7 +1977,7 @@ These are the steps in accepting the Atonement as the remedy for conflict: Know 
 
 #### substituted
 
-8.&emsp;I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
+8. I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is re-established by the Atonement. 
 3It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. 
 ⁴You have done something loveless, hA.V.I.ng chosen without love. 
@@ -1994,7 +1994,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 ## T-2.VI.9
 
 <p class=fip id=p9>
-9.&emsp;Everyone experiences fear. 
+9. Everyone experiences fear. 
 ²Yet it would take very little right thinking to realise why fear occurs. 
 3Few appreciate the real power of the mind, and no one remains fully aware of it all the time. 
 ⁴However, if you hope to spare yourself from fear there are some things you must realise, and realise fully. 
@@ -2012,7 +2012,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 
 #### expanded
 
-9.&emsp;Everyone experiences fear. 
+9. Everyone experiences fear. 
 ²Yet it would take very little right thinking to realise why fear occurs. 
 3Few appreciate the real power of the mind, and no one remains fully aware of it [the real power of the mind] all the time. 
 ⁴However, if you hope to spare yourself from fear there are some things you must realise, and realise fully. 
@@ -2029,7 +2029,7 @@ A miracle recognises your true worth. Fear results when you choose without love 
 
 #### substituted
 
-9.&emsp;Everyone experiences fear. 
+9. Everyone experiences fear. 
 ²Yet it would take very little right thinking to realise why fear occurs. 
 3Few appreciate the real power of the mind, and no one remains fully aware of the real power of the mind all the time. 
 ⁴However, if you hope to spare yourself from fear there are some things you must realise, and realise fully. 
@@ -2065,7 +2065,7 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 
 ## T-2.VII.1
 <p class=fip id=p1>
-1.&emsp;You may still complain about fear, but you nevertheless persist in making yourself fearful. 
+1. You may still complain about fear, but you nevertheless persist in making yourself fearful. 
 ²I have already indicated that you cannot ask me to release you from fear. 
 3I know it does not exist, but you do not. 
 ⁴If I intervened between your thoughts and their results, I would be tampering with a basic law of cause and effect; the most fundamental law there is. 
@@ -2079,7 +2079,7 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 
 #### expanded
 
-1.&emsp;You may still complain about fear, but you nevertheless persist in making yourself fearful. 
+1. You may still complain about fear, but you nevertheless persist in making yourself fearful. 
 ²I have already indicated that you cannot ask me to release you from fear. 
 3I know it [fear] does not exist, but you do not [know fear does not exist]. 
 ⁴If I intervened between your thoughts and their [your thoughts’] results, I would be tampering with a basic law of cause and effect; the most fundamental law there is. 
@@ -2092,7 +2092,7 @@ Fear occurs because you do not respect the mind. The mind is very powerful. The 
 
 #### substituted
 
-1.&emsp;You may still complain about fear, but you nevertheless persist in making yourself fearful. 
+1. You may still complain about fear, but you nevertheless persist in making yourself fearful. 
 ²I have already indicated that you cannot ask me to release you from fear. 
 3I know fear does not exist, but you do not know fear does not exist. 
 ⁴If I intervened between your thoughts and your thoughts’ results, I would be tampering with a basic law of cause and effect; the most fundamental law there is. 
@@ -2126,7 +2126,7 @@ You make yourself fearfully by not guarding your thoughts carefully enough. Fear
 ## T-2.VII.2
 
 <p class=fip id=p2>
-2.&emsp;I cannot let you leave your mind unguarded, or you will not be able to help me. 
+2. I cannot let you leave your mind unguarded, or you will not be able to help me. 
 ²Miracle working entails a full realisation of the power of thought in order to avoid miscreation. 
 3Otherwise a miracle will be necessary to set the mind itself straight, a circular process that would not foster the time collapse for which the miracle was intended. 
 ⁴The miracle worker must have genuine respect for true cause and effect as a necessary condition for the miracle to occur.
@@ -2134,14 +2134,14 @@ You make yourself fearfully by not guarding your thoughts carefully enough. Fear
 
 #### expanded
 
-2.&emsp;I cannot let you leave your mind unguarded, or you will not be able to help me. 
+2. I cannot let you leave your mind unguarded, or you will not be able to help me. 
 ²Miracle working entails a full realisation of the power of thought in order to avoid miscreation. 
 3Otherwise a miracle will be necessary to set the mind [mind’s self] straight, a circular process that would not foster the time collapse for which [time collapse] the miracle was intended. 
 ⁴The miracle worker must have genuine respect for true cause and effect as a necessary condition for the miracle to occur.
 
 #### substituted
 
-2.&emsp;I cannot let you leave your mind unguarded, or you will not be able to help me. 
+2. I cannot let you leave your mind unguarded, or you will not be able to help me. 
 ²Miracle working entails a full realisation of the power of thought in order to avoid miscreation. 
 3Otherwise a miracle will be necessary to set the mind straight, a circular process that would not foster the time collapse; the miracle was intended for time collapse. 
 ⁴The miracle worker must have genuine respect for true cause and effect as a necessary condition for the miracle to occur.
@@ -2153,7 +2153,7 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 ## T-2.VII.3
 
 <p class=fip id=p3>
-3.&emsp;Both miracles and fear come from thoughts. 
+3. Both miracles and fear come from thoughts. 
 ²If you are not free to choose one, you would also not be free to choose the other. 
 3By choosing the miracle you *have* rejected fear, if only temporarily. 
 ⁴You have been fearful of everyone and everything. 
@@ -2172,7 +2172,7 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 
 #### expanded
 
-3.&emsp;Both miracles and fear come from thoughts. 
+3. Both miracles and fear come from thoughts. 
 ²If you are not free to choose one, you would also not be free to choose the other. 
 3By choosing the miracle you *have* rejected fear, if only temporarily. 
 ⁴You have been fearful of everyone and everything. 
@@ -2190,7 +2190,7 @@ I need you to guard your mind. An unguarded mind miscreates. A straightened mind
 
 #### substituted
 
-3.&emsp;Both miracles and fear come from thoughts. 
+3. Both miracles and fear come from thoughts. 
 ²If you are not free to choose one, you would also not be free to choose the other. 
 3By choosing the miracle you *have* rejected fear, if only temporarily. 
 ⁴You have been fearful of everyone and everything. 
@@ -2213,7 +2213,7 @@ Miracles come from thoughts. Fear comes from thoughts. You must be free to choos
 ## T-2.VII.4
 
 <p class=fip id=p4>
-4.&emsp;It has already been said that you believe you cannot control fear because you yourself made it, and your belief in it seems to render it out of your control. 
+4. It has already been said that you believe you cannot control fear because you yourself made it, and your belief in it seems to render it out of your control. 
 ²Yet any attempt to resolve the error through attempting the mastery of fear is useless. 
 3In fact, it asserts the power of fear by the very assumption that it need be mastered. 
 ⁴The true resolution rests entirely on mastery through love. 
@@ -2222,7 +2222,7 @@ Miracles come from thoughts. Fear comes from thoughts. You must be free to choos
 
 #### expanded
 
-4.&emsp;It has already been said that you believe you cannot control fear because you yourself made it [fear], and your belief in it [fear] seems to render it [fear] out of your control. 
+4. It has already been said that you believe you cannot control fear because you yourself made it [fear], and your belief in it [fear] seems to render it [fear] out of your control. 
 ²Yet any attempt to resolve the error through attempting the mastery of fear is useless. 
 3In fact, it [attempting the master of fear] asserts the power of fear by the very assumption that it [fear] need be mastered. 
 ⁴The true resolution rests entirely on mastery through love. 
@@ -2230,7 +2230,7 @@ Miracles come from thoughts. Fear comes from thoughts. You must be free to choos
 
 #### substituted
 
-4.&emsp;It has already been said that you believe you cannot control fear because you yourself made fear, and your belief in fear seems to render fear out of your control. 
+4. It has already been said that you believe you cannot control fear because you yourself made fear, and your belief in fear seems to render fear out of your control. 
 ²Yet any attempt to resolve the error through attempting the mastery of fear is useless. 
 3In fact, attempting the master of fear asserts the power of fear by the very assumption that fear need be mastered. 
 ⁴The true resolution rests entirely on mastery through love. 
@@ -2243,7 +2243,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 ## T-2.VII.5
 
 <p class=fip id=p5>
-5.&emsp;Nothing and everything cannot co-exist. 
+5. Nothing and everything cannot co-exist. 
 ²To believe in one is to deny the other. 
 3Fear is really nothing and love is everything. 
 ⁴Whenever light enters darkness, the darkness is abolished. 
@@ -2261,7 +2261,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 
 #### expanded
 
-5.&emsp;Nothing and everything cannot co-exist. 
+5. Nothing and everything cannot co-exist. 
 ²To believe in one is to deny the other. 
 3Fear is really nothing and love is everything. 
 ⁴Whenever light enters darkness, the darkness is abolished. 
@@ -2278,7 +2278,7 @@ Believing in fear seems to make fear out of your control. Controlling fear is no
 
 #### substituted
 
-5.&emsp;Nothing and everything cannot co-exist. 
+5. Nothing and everything cannot co-exist. 
 ²To believe in one is to deny the other. 
 3Fear is really nothing and love is everything. 
 ⁴Whenever light enters darkness, the darkness is abolished. 
@@ -2311,7 +2311,7 @@ There is no fear. There is only love. You must first recognise that you believe 
 
 ## T-2.VII.6
 <p class=fip id=p6>
-6.&emsp;It should especially be noted that God has only *one* Son. 
+6. It should especially be noted that God has only *one* Son. 
 ²If all His creations are His Sons, every one must be an integral part of the whole Sonship. 
 3The Sonship in its Oneness transcends the sum of its parts. 
 ⁴However, this is obscured as long as any of its parts is missing. 
@@ -2324,7 +2324,7 @@ There is no fear. There is only love. You must first recognise that you believe 
 
 #### expanded
 
-6.&emsp;It should especially be noted that God has only *one* Son. 
+6. It should especially be noted that God has only *one* Son. 
 ²If all His [God’s] creations are His [God’s] Sons, every one [son] must be an integral part of the whole Sonship. 
 3The Sonship in its [the Sonship’s] Oneness transcends the sum of its [the Sonship’s] parts. 
 ⁴However, this [the Sonship’s Oneness] is obscured as long as any of its [the Sonship’s] parts is missing. 
@@ -2336,7 +2336,7 @@ There is no fear. There is only love. You must first recognise that you believe 
 
 #### substituted
 
-6.&emsp;It should especially be noted that God has only *one* Son. 
+6. It should especially be noted that God has only *one* Son. 
 ²If all God’s creations are God’s Sons, every son must be an integral part of the whole Sonship. 
 3The Sonship in the Sonship’s Oneness transcends the sum of the Sonship’s parts. 
 ⁴However, the Sonship’s Oneness is obscured as long as any of the Sonship’s parts is missing. 
@@ -2369,7 +2369,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 ## T-2.VII.7
 
 <p class=fip id=p7>
-7.&emsp;I have already briefly spoken about readiness, but some additional points might be helpful here. 
+7. I have already briefly spoken about readiness, but some additional points might be helpful here. 
 ²Readiness is only the prerequisite for accomplishment. 
 3The two should not be confused. 
 ⁴As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but it is by no means necessarily undivided. 
@@ -2382,7 +2382,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 
 #### expanded
 
-7.&emsp;I have already briefly spoken about readiness, but some additional points might be helpful here. 
+7. I have already briefly spoken about readiness, but some additional points might be helpful here. 
 ²Readiness is only the prerequisite for accomplishment. 
 3The two [readiness and accomplishment] should not be confused. 
 ⁴As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but it [the desire to accomplish] is by no means necessarily undivided. 
@@ -2394,7 +2394,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 
 #### substituted
 
-7.&emsp;I have already briefly spoken about readiness, but some additional points might be helpful here. 
+7. I have already briefly spoken about readiness, but some additional points might be helpful here. 
 ²Readiness is only the prerequisite for accomplishment. 
 3Readiness and accomplishment should not be confused. 
 ⁴As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but the desire to accomplish is by no means necessarily undivided. 
@@ -2429,7 +2429,7 @@ Be ready to accomplish. Being ready to accomplish means hA.V.I.ng potential for 
 ## T-2.VIII.1
 
 <p class=fip id=p1>
-1.&emsp;One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
+1. One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
 ²You are apt to forget this when you become egocentric, and this puts you in a position where a belief in magic is virtually inevitable. 
 3Your will to create was given you by your Creator, Who was expressing the same Will in His creation. 
 ⁴Since creative ability rests in the mind, everything you create is necessarily a matter of will. 
@@ -2439,7 +2439,7 @@ Be ready to accomplish. Being ready to accomplish means hA.V.I.ng potential for 
 
 #### expanded
 
-1.&emsp;One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
+1. One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
 ²You are apt to forget this [you did not create yourself] when you become egocentric, and this [forgetting you did not create yourself] puts you in a position where a belief in magic is virtually inevitable. 
 3Your will to create was given you by your Creator, Who [your Creator] was expressing the same Will in His [your-Creator’s] creation. 
 ⁴Since creative ability rests in the mind, everything you create is necessarily a matter of will. 
@@ -2448,7 +2448,7 @@ Be ready to accomplish. Being ready to accomplish means hA.V.I.ng potential for 
 	
 #### substituted
 
-1.&emsp;One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
+1. One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
 ²You are apt to forget you did not create yourself when you become egocentric, and forgetting you did not create yourself puts you in a position where a belief in magic is virtually inevitable. 
 3Your will to create was given you by your Creator; your Creator was expressing the same Will in your-Creator’s creation. 
 ⁴Since creative ability rests in the mind, everything you create is necessarily a matter of will. 
@@ -2474,7 +2474,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 ## T-2.VIII.2
 
 <p class=fip id=p2>
-2.&emsp;The Last Judgement is one of the most threatening ideas in your thinking. 
+2. The Last Judgement is one of the most threatening ideas in your thinking. 
 ²This is because you do not understand it. 
 3Judgement is not an attribute of God. 
 ⁴It was brought into being only after the separation, when it became one of the many learning devices to be built into the overall plan. 
@@ -2486,7 +2486,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 
 #### expanded
 
-2.&emsp;The Last Judgement is one of the most threatening ideas in your thinking. 
+2. The Last Judgement is one of the most threatening ideas in your thinking. 
 ²This [the Last Judgement is threatening] is because you do not understand it [the Last Judegement]. 
 3Judgement is not an attribute of God. 
 ⁴It [judgement] was brought into being only after the separation, when it [judgement] became one of the many learning devices to be built into the overall plan. 
@@ -2497,7 +2497,7 @@ You did not create yourself. If you believe you did create yourself you will bel
 
 #### substituted
 
-2.&emsp;The Last Judgement is one of the most threatening ideas in your thinking. 
+2. The Last Judgement is one of the most threatening ideas in your thinking. 
 ²The Last Judgement is threatening is because you do not understand the Last Judgement. 
 3Judgement is not an attribute of God. 
 ⁴Judgement was brought into being only after the separation, when judgement became one of the many learning devices to be built into the overall plan. 
@@ -2537,7 +2537,7 @@ God does not judge. Judgement is a learning device. The Last Judgement extends o
 ## T-2.VIII.3
 
 <p class=fip id=p3>
-3.&emsp;The Last Judgement is generally thought of as a procedure undertaken by God. 
+3. The Last Judgement is generally thought of as a procedure undertaken by God. 
 ²Actually it will be undertaken by my brothers with my help. 
 3It is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
 ⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgement is to restore right-mindedness to you. 
@@ -2549,7 +2549,7 @@ God does not judge. Judgement is a learning device. The Last Judgement extends o
 
 #### expanded
 
-3.&emsp;The Last Judgement is generally thought of as a procedure undertaken by God. 
+3. The Last Judgement is generally thought of as a procedure undertaken by God. 
 ²Actually it [the Last Judgement] will be undertaken by my brothers with my help. 
 3It [the Last Judgement] is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
 ⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgement is to restore right-mindedness to you. 
@@ -2560,7 +2560,7 @@ God does not judge. Judgement is a learning device. The Last Judgement extends o
 
 #### substituted
 
-3.&emsp;The Last Judgement is generally thought of as a procedure undertaken by God. 
+3. The Last Judgement is generally thought of as a procedure undertaken by God. 
 ²Actually the Last Judgement will be undertaken by my brothers with my help. 
 3The Last Judgement is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
 ⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgement is to restore right-mindedness to you. 
@@ -2592,7 +2592,7 @@ The Last Judgement is the restoration of right-mindedness to all the Sonship.
 ## T-2.VIII.4
 
 <p class=fip id=p4>
-4.&emsp;The first step toward freedom involves a sorting out of the false from the true. 
+4. The first step toward freedom involves a sorting out of the false from the true. 
 ²This is a process of separation in the constructive sense, and reflects the true meaning of the Apocalypse. 
 3Everyone will ultimately look upon his own creations and choose to preserve only what is good, just as God Himself looked upon what He had created and knew that it was good. 
 ⁴At this point, the mind can begin to look with love on its own creations because of their worthiness. 
@@ -2601,7 +2601,7 @@ The Last Judgement is the restoration of right-mindedness to all the Sonship.
 
 #### expanded
 
-4.&emsp;The first step toward freedom involves a sorting out of the false from the true. 
+4. The first step toward freedom involves a sorting out of the false from the true. 
 ²This [sorting out the false from the true] is a process of separation in the constructive sense, and reflects the true meaning of the Apocalypse. 
 3Everyone will ultimately look upon his [one’s] own creations and choose to preserve only what is good, just as God Himself [God’s Self] looked upon what He [God] had created and knew that it [what God had created] was good. 
 ⁴At this point, the mind can begin to look with love on its [the mind’s] own creations because of their [the mind’s creations’] worthiness. 
@@ -2609,7 +2609,7 @@ The Last Judgement is the restoration of right-mindedness to all the Sonship.
 		
 #### substituted
 
-4.&emsp;The first step toward freedom involves a sorting out of the false from the true. 
+4. The first step toward freedom involves a sorting out of the false from the true. 
 ²Sorting out the false from the true is a process of separation in the constructive sense, and reflects the true meaning of the Apocalypse. 
 3Everyone will ultimately look upon one’s own creations and choose to preserve only what is good, just as God looked upon what God had created and knew that what God had created was good. 
 ⁴At this point, the mind can begin to look with love on the mind’s own creations because of the mind’s creations’ worthiness. 
@@ -2634,7 +2634,7 @@ First sort out the false from the true. Sorting out the false from the true is c
 ## T-2.VIII.5
 
 <p class=fip id=p5>
-5.&emsp;The term ‘Last Judgement’ is frightening not only because it has been projected onto God, but also because of the association of ‘last’ with death. 
+5. The term ‘Last Judgement’ is frightening not only because it has been projected onto God, but also because of the association of ‘last’ with death. 
 ²This is an outstanding example of upside-down perception. 
 3If the meaning of the Last Judgement is objectively examined, it is quite apparent that it is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
@@ -2649,7 +2649,7 @@ First sort out the false from the true. Sorting out the false from the true is c
 
 #### expanded
 
-5.&emsp;The term ‘Last Judgement’ is frightening not only because it [the Last Judgement] has been projected onto God, but also because of the association of ‘last’ with death. 
+5. The term ‘Last Judgement’ is frightening not only because it [the Last Judgement] has been projected onto God, but also because of the association of ‘last’ with death. 
 ²This [associating last with death] is an outstanding example of upside-down perception. 
 3If the meaning of the Last Judgement is objectively examined, it is quite apparent that it [the Last Judgement] is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
@@ -2663,7 +2663,7 @@ First sort out the false from the true. Sorting out the false from the true is c
 
 #### substituted
 
-5.&emsp;The term ‘Last Judgement’ is frightening not only because the Last Judgement has been projected onto God, but also because of the association of ‘last’ with death. 
+5. The term ‘Last Judgement’ is frightening not only because the Last Judgement has been projected onto God, but also because of the association of ‘last’ with death. 
 ²Associating last with death is an outstanding example of upside-down perception. 
 3If the meaning of the Last Judgement is objectively examined, it is quite apparent that the Last Judgement is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 

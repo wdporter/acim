@@ -11,7 +11,7 @@ next: T-1.I
 ---
 
 
-1.&emsp;*This is a course in miracles. 
+1. *This is a course in miracles. 
 ²It is a required course. 
 ³Only the time you take it is voluntary. 
 ⁴Free will does not mean that you can establish the curriculum. 
@@ -53,10 +53,10 @@ Love has no opposite.
 
 ---
 
-2.&emsp;*This course can therefore be summed up very simply in this way:*
+2. *This course can therefore be summed up very simply in this way:*
 
 >***²Nothing real can be threatened.  
->³Nothing unreal exists.***
+³Nothing unreal exists.***
 
 *⁴Herein lies the peace of God.*
 
@@ -81,9 +81,3 @@ True peace is knowing this.
 
 ---
 
-<style>
-p>span {
-	font-size: 1rem;
-	line-height: 1.5;
-}
-</style>

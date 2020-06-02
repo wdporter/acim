@@ -11,7 +11,7 @@ prev: T-1.II
 next: T-1.IV
 ---
 
-1.&emsp;I am in charge of the process of Atonement, which I undertook to begin. 
+1. I am in charge of the process of Atonement, which I undertook to begin. 
 ²When you offer a miracle to any of my brothers, you do it to *yourself* and me. 
 ³The reason you come before me is that I do not need miracles for my own Atonement, but I stand at the end in case you fail temporarily. 
 ⁴My part in the Atonement is the cancelling out of all errors that you could not otherwise correct. 
@@ -73,7 +73,7 @@ Miracles are for Atonement.
 
 ---
 
-2.&emsp;“Heaven and earth shall pass away” means that they will not continue to exist as separate states. 
+2. “Heaven and earth shall pass away” means that they will not continue to exist as separate states. 
 ²My word, which is the resurrection and the life, shall not pass away because life is eternal. 
 ³You are the work of God, and His work is wholly lovable and wholly loving. 
 ⁴This is how a man must think of himself in his heart, because this is what he is.
@@ -103,7 +103,7 @@ You are wholly lovable and loving.
 
 ---
 
-3.&emsp;The forgiven are the means of the Atonement. ²Being filled with spirit, they forgive in return. ³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
+3. The forgiven are the means of the Atonement. ²Being filled with spirit, they forgive in return. ³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
 
 
 ::: details Expanded
@@ -118,7 +118,7 @@ The forgiven are able to forgive. Release your brothers by forgiving them.
 
 ---
 
-4.&emsp;I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
+4. I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
 ²You have a role in the Atonement which I will dictate to you. 
 ³Ask me which miracles you should perform. 
 ⁴This spares you needless effort, because you will be acting under direct communication. 
@@ -155,7 +155,7 @@ Follow my guidance.
 
 ---
 
-<a id=5></a>5.&emsp;Error cannot really threaten truth, which can always withstand it. 
+<a id=5></a>5. Error cannot really threaten truth, which can always withstand it. 
 ²Only the error is actually vulnerable. 
 ³You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
 
@@ -216,7 +216,7 @@ Bless others so they may undo their distortions.
 
 ---
 
-6.&emsp;You respond to what you perceive, and as you perceive so shall you behave. 
+6. You respond to what you perceive, and as you perceive so shall you behave. 
 ²The Golden Rule asks you to do unto others as you would have them do unto you. 
 ³This means that the perception of both must be accurate. 
 ⁴The Golden Rule is the rule for appropriate behaviour. 
@@ -255,7 +255,7 @@ Perceive others as holy and you will behave appropriately.
 
 ---
 
-7.&emsp;Miracles arise from a mind that is ready for them. 
+7. Miracles arise from a mind that is ready for them. 
 ²By being united this mind goes out to everyone, even without the awareness of the miracle worker himself. 
 ³The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their Creator. 
 ⁴As an expression of what you truly are, the miracle places the mind in a state of grace. 
@@ -286,7 +286,7 @@ A miracle-ready mind unites all minds with God.
 
 ---
 
-8.&emsp;That the miracle may have effects on your brothers that you may not recognise is not your concern. 
+8. That the miracle may have effects on your brothers that you may not recognise is not your concern. 
 ²The miracle will always bless *you*. 
 ³Miracles you are not asked to perform have not lost their value. 
 ⁴They are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
@@ -316,7 +316,7 @@ I control how miracles are used.
 
 ---
 
-9.&emsp;Miracles are selective only in the sense that they are directed towards those who can use them for themselves. 
+9. Miracles are selective only in the sense that they are directed towards those who can use them for themselves. 
 ²Since this makes it inevitable that they will extend them to others, a strong chain of Atonement is welded. 
 ³However, this selectivity takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. 
 ⁴Since the miracle aims at restoring the awareness of reality, it would not be useful if it were bound by laws that govern the error it aims to correct.

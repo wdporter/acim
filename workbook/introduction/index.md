@@ -11,7 +11,7 @@ prev: T-31.VIII
 next: W-pI.1
 ---
 
-1.&emsp;A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. 
+1. A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. 
 ²Yet it is doing the exercises that will make the goal of the course possible. 
 ³An untrained mind can accomplish nothing. 
 ⁴It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
@@ -49,7 +49,7 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 ---
 
 
-2.&emsp;The exercises are very simple. 
+2. The exercises are very simple. 
 ²They do not require a great deal of time, and it does not matter where you do them. 
 ³They need no preparation. 
 ⁴The training period is one year. 
@@ -119,7 +119,7 @@ Each day also has specific procedures for applying the idea.
 
 ---
 
-4.&emsp;The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
+4. The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
 ²The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
 
 ::: details Expanded
@@ -148,7 +148,7 @@ Your mind will be trained to see everything differently.
 
 ---
 
-5.&emsp;Transfer of training in true perception does not proceed as does transfer of the training of the world. 
+5. Transfer of training in true perception does not proceed as does transfer of the training of the world. 
 ²If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
 ³On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
 
@@ -181,7 +181,7 @@ see commentary for [4:1–2](#w-in-4).
 
 ---
 
-6.&emsp;The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
+6. The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
 ²This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. 
 ³Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. 
 ⁴This will interfere with transfer of training. 
@@ -219,7 +219,7 @@ Making exceptions will intefere with the training.
 
 ---
 
-7.&emsp;The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. 
+7. The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. 
 ²This will require no effort on your part. 
 ³The exercises themselves meet the conditions necessary for this kind of transfer.
 
@@ -247,7 +247,7 @@ The exercises will teach you to include everything and everyone.
 
 ---
 
-8.&emsp;Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. 
+8. Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. 
 ²This does not matter. 
 ³You are merely asked to apply the ideas as you are directed to do. 
 ⁴You are not asked to judge them at all. 
@@ -293,7 +293,7 @@ If you use the ideas, you will see the the ideas are true.
 
 ---
 
-9.&emsp;Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
+9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
 ²Some of them you may actively resist. 
 ³None of this will matter, or decrease their efficacy. 
 ⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. 

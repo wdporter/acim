@@ -11,7 +11,7 @@ prev: T-1.VI
 next: T-2.I
 ---
 
-1.&emsp;Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them to reach your own awareness. 
+1. Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them to reach your own awareness. 
 ²The confusion of miracle impulses with physical impulses is a major perceptual distortion. 
 ³Physical impulses are misdirected miracle impulses. 
 ⁴All real pleasure comes from doing God’s Will. 
@@ -59,7 +59,7 @@ Peace can only be found in doing God’s Will.
 
 ---
 
-2.&emsp;Child of God, you were created to create the good, the beautiful and the holy. 
+2. Child of God, you were created to create the good, the beautiful and the holy. 
 ²Do not forget this. 
 ³The Love of God, for a little while, must still be expressed through one body to another, because vision is still so dim. 
 ⁴You can use your body best to help you enlarge your perception so you can achieve real vision, of which the physical eye is incapable. 
@@ -94,7 +94,7 @@ Then you can ceate the good, the beautiful and the holy.
 
 ---
 
-3.&emsp;Fantasy is a distorted form of vision. 
+3. Fantasy is a distorted form of vision. 
 ²Fantasies of any kind are distortions, because they always involve twisting perception into unreality. 
 ³Actions that stem from distortions are literally the reäctions of those who know not what they do. 
 ⁴Fantasy is an attempt to control reality according to false needs. 
@@ -162,7 +162,7 @@ Release yourself and the whole Sonship from fantasies.
 
 ---
 
-4.&emsp;This is a course in mind training. 
+4. This is a course in mind training. 
 ²All learning involves attention and study at some level. 
 ³Some of the later parts of the course rest too heavily on these earlier sections not to require their careful study. 
 ⁴You will also need them for preparation. 
@@ -213,7 +213,7 @@ Without preparation now you may be fearful later on.
 
 ---
 
-5.&emsp;A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which is often made. 
+5. A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which is often made. 
 ²I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
 ³However, it was also emphasised that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating it. 

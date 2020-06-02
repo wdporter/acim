@@ -11,7 +11,7 @@ prev: T-1.III
 next: T-1.V
 ---
 
-1.&emsp;The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
+1. The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
 ²This step usually entails fear. 
 ³Second, the recognition that there is nothing you want to hide even if you could. 
 ⁴This step brings escape from fear. 
@@ -46,7 +46,7 @@ You will understand peace and joy.
 
 ---
 
-2.&emsp;Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
+2. Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
 ²This deception makes you fearful because you realise in your heart it *is* a deception, and you exert enormous efforts to establish its reality. 
 ³The miracle sets reality where it belongs. 
 ⁴Reality belongs only to spirit, and the miracle acknowledges only truth. 
@@ -99,7 +99,7 @@ The mind becomes invulnerable.
 
 ---
 
-3.&emsp;Darkness is lack of light as sin is lack of love. 
+3. Darkness is lack of light as sin is lack of love. 
 ²It has no unique properties of its own. 
 ³It is an example of the ‘scarcity’ belief, from which only error can proceed. 
 ⁴Truth is always abundant. 
@@ -145,7 +145,7 @@ You don’t need anything else.
 
 ---
 
-4.&emsp;The emptiness engendered by fear must be replaced by forgiveness. 
+4. The emptiness engendered by fear must be replaced by forgiveness. 
 ²That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
 ³I came to fulfill the law by reïnterpreting it. 
 ⁴The law itself, if properly understood, offers only protection. 

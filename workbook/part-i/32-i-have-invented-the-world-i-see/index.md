@@ -12,7 +12,7 @@ prev: W-pI.31
 next: W-pI.33
 ---
 
-1.&emsp;Today we are continuing to develop the theme of cause and effect. 
+1. Today we are continuing to develop the theme of cause and effect. 
 ²You are not the victim of the world you see because you invented it. 
 ³You can give it up as easily as you made it up. 
 ⁴You will see it or not see it, as you wish. 
@@ -45,7 +45,7 @@ You can give the world up, if you choose.
 
 ---
 
-2.&emsp;The idea for today, like the preceding ones, applies to your inner and outer worlds, which are actually the same. 
+2. The idea for today, like the preceding ones, applies to your inner and outer worlds, which are actually the same. 
 ²However, since you see them as different, the practice periods for today will again include two phases, one involving the world you see outside you, and the other the world you see in your mind. 
 ³In today’s exercises, try to introduce the thought that both are in your own imagination.
 
@@ -71,20 +71,20 @@ Both your inner and your outer worlds are in your own imagination
 
 ---
 
-3.&emsp;Again we will begin the practice periods for the morning and evening by repeating the idea for today two or three times while looking around at the world you see as outside yourself. 
+3. Again we will begin the practice periods for the morning and evening by repeating the idea for today two or three times while looking around at the world you see as outside yourself. 
 ²Then close your eyes and look around your inner world. 
 ³Try to treat them both as equally as possible. 
 ⁴Repeat the idea for today unhurriedly as often as you wish, as you watch the images your imagination presents to your awareness.
 
-4.&emsp;For the two longer practice periods three to five minutes are recommended, with not less than three required. 
+4. For the two longer practice periods three to five minutes are recommended, with not less than three required. 
 ²More than five can be utilised, if you find the exercise restful. 
 ³To facilitate this, select a time when few distractions are anticipated, and when you yourself feel reasonably ready.
 
-5.&emsp;These exercises are also to be continued during the day, as often as possible. 
+5. These exercises are also to be continued during the day, as often as possible. 
 ²The shorter applications consist of repeating the idea slowly, as you survey either your inner or outer world. 
 ³It does not matter which you choose.
 
-6.&emsp;The idea for today should also be applied immediately to any situation that may distress you. 
+6. The idea for today should also be applied immediately to any situation that may distress you. 
 ²Apply the idea by telling yourself:
 
 >³I have invented this situation as I see it.

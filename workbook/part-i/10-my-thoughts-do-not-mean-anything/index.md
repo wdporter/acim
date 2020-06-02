@@ -2,37 +2,37 @@
 
 # My thoughts do not mean anything
 
-<a name=w-pi-10-1></a>1.&emsp;This idea applies to all the thoughts of which you are aware, or become aware in the practice periods. ²The reason the idea is applicable to all of them is that they are not your real thoughts. ³We have made this distinction before, and will do so again. ⁴You have no basis for comparison as yet. ⁵When you do, you will have no doubt that what you once believed were your thoughts did not mean anything.
+<a name=w-pi-10-1></a>1. This idea applies to all the thoughts of which you are aware, or become aware in the practice periods. ²The reason the idea is applicable to all of them is that they are not your real thoughts. ³We have made this distinction before, and will do so again. ⁴You have no basis for comparison as yet. ⁵When you do, you will have no doubt that what you once believed were your thoughts did not mean anything.
 
 
 ::: details Expanded
-1.&emsp;This idea applies to all the thoughts of which [thoughts] you are aware, or become aware in the practice periods. ²The reason the idea is applicable to all of them [thoughts] is that they [thoughts] are not your real thoughts. ³We have made this distinction [between your thoughts and your real thoughts] before, and will do so [make the distinction between thoughts and real thoughts] again. ⁴You have no basis for comparison as yet. ⁵When you do [have a basis for comparison], you will have no doubt that what you once believed were your thoughts did not mean anything.
+1. This idea applies to all the thoughts of which [thoughts] you are aware, or become aware in the practice periods. ²The reason the idea is applicable to all of them [thoughts] is that they [thoughts] are not your real thoughts. ³We have made this distinction [between your thoughts and your real thoughts] before, and will do so [make the distinction between thoughts and real thoughts] again. ⁴You have no basis for comparison as yet. ⁵When you do [have a basis for comparison], you will have no doubt that what you once believed were your thoughts did not mean anything.
 :::
 ::: details Substituted
-1.&emsp;This idea applies to all the thoughts; the thoughts you are aware, or become aware in the practice periods. ²The reason the idea is applicable to all thoughts is that thoughts are not your real thoughts. ³We have made this distinction between your thoughts and your real thoughts before, and will make the distinction between thoughts and real thoughts again. ⁴You have no basis for comparison as yet. ⁵When you have a basis for comparison, you will have no doubt that what you once believed were your thoughts did not mean anything.
+1. This idea applies to all the thoughts; the thoughts you are aware, or become aware in the practice periods. ²The reason the idea is applicable to all thoughts is that thoughts are not your real thoughts. ³We have made this distinction between your thoughts and your real thoughts before, and will make the distinction between thoughts and real thoughts again. ⁴You have no basis for comparison as yet. ⁵When you have a basis for comparison, you will have no doubt that what you once believed were your thoughts did not mean anything.
 :::
 ::: details Simplified
 You are not aware of your real thoughts yet.
 :::
 
 
-<a name=w-pi-10-2></a>2.&emsp;This is the second time we have used this kind of idea. ²The form is only slightly different. ³This time the idea is introduced with “My thoughts” instead of “These thoughts”, and no link is made overtly with the things around you. ⁴The emphasis is now on the lack of reality of what you think you think.
+<a name=w-pi-10-2></a>2. This is the second time we have used this kind of idea. ²The form is only slightly different. ³This time the idea is introduced with “My thoughts” instead of “These thoughts”, and no link is made overtly with the things around you. ⁴The emphasis is now on the lack of reality of what you think you think.
 
-<a name=w-pi-10-3></a>3.&emsp;This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their past rather than their present status. ²Now we are emphasising that the presence of these ‘thoughts’ means that you are not thinking. ³This is merely another way of repeating our earlier statement that your mind is really a blank. ⁴To recognise this is to recognise nothingness when you think you see it. ⁵As such, it is the prerequisite for vision.
+<a name=w-pi-10-3></a>3. This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their past rather than their present status. ²Now we are emphasising that the presence of these ‘thoughts’ means that you are not thinking. ³This is merely another way of repeating our earlier statement that your mind is really a blank. ⁴To recognise this is to recognise nothingness when you think you see it. ⁵As such, it is the prerequisite for vision.
 
 
 ::: details Expanded
-3.&emsp;This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their [the-thoughts-of-which-you-are-aware’s] past rather than their [the-thoughts-of-which-you-are-aware’s] present status. ²Now we are emphasising that the presence of these ‘thoughts’ [past thoughts] means that you are not thinking. ³This [past thoughts are not real thoughts] is merely another way of repeating our earlier statement that your mind is really a blank. ⁴To recognise this [your mind is rally a blank] is to recognise nothingness when you think you see it [nothingness?]. ⁵As such, it [recognising nothingness] is the prerequisite for vision.
+3. This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their [the-thoughts-of-which-you-are-aware’s] past rather than their [the-thoughts-of-which-you-are-aware’s] present status. ²Now we are emphasising that the presence of these ‘thoughts’ [past thoughts] means that you are not thinking. ³This [past thoughts are not real thoughts] is merely another way of repeating our earlier statement that your mind is really a blank. ⁴To recognise this [your mind is rally a blank] is to recognise nothingness when you think you see it [nothingness?]. ⁵As such, it [recognising nothingness] is the prerequisite for vision.
 :::
 ::: details Substituted
-3.&emsp;This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed the-thoughts-of-which-you-are-aware’s past rather than the-thoughts-of-which-you-are-aware’s present status. ²Now we are emphasising that the presence of past ‘thoughts’ of which you are aware means that you are not thinking. ³Past thoughts are not real thoughts is merely another way of repeating our earlier statement that your mind is really a blank. ⁴To recognise your mind is rally a blank is to recognise nothingness when you think you see nothingness. ⁵As such, recognising nothingness is the prerequisite for vision.
+3. This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed the-thoughts-of-which-you-are-aware’s past rather than the-thoughts-of-which-you-are-aware’s present status. ²Now we are emphasising that the presence of past ‘thoughts’ of which you are aware means that you are not thinking. ³Past thoughts are not real thoughts is merely another way of repeating our earlier statement that your mind is really a blank. ⁴To recognise your mind is rally a blank is to recognise nothingness when you think you see nothingness. ⁵As such, recognising nothingness is the prerequisite for vision.
 :::
 ::: details Simplified
 Past thoughts are not real thoughts. Past thoughts indicate a blank mind. Seeing a blank mind for what it is is the prerequisite for seeing what really is.
 :::
 
 
-<a name=w-pi-10-4></a>4.&emsp;Close your eyes for these exercises, and introduce them by repeating the idea for today quite slowly to yourself. ²Then add:
+<a name=w-pi-10-4></a>4. Close your eyes for these exercises, and introduce them by repeating the idea for today quite slowly to yourself. ²Then add:
 
 <div class="indented italic">
 
@@ -49,7 +49,7 @@ Past thoughts are not real thoughts. Past thoughts indicate a blank mind. Seeing
 
 </div>
 
-<a name=w-pi-10-5></a>5.&emsp;Today’s thought can obviously serve for any thought that distresses you at any time. ²In addition, five practice periods are recommended, each involving no more than a minute or so of mind searching. ³It is not recommended that this time period be extended, and it should be reduced to half a minute or less if you experience discomfort. ⁴Remember, however, to repeat the idea slowly before applying it specifically, and also to add:
+<a name=w-pi-10-5></a>5. Today’s thought can obviously serve for any thought that distresses you at any time. ²In addition, five practice periods are recommended, each involving no more than a minute or so of mind searching. ³It is not recommended that this time period be extended, and it should be reduced to half a minute or less if you experience discomfort. ⁴Remember, however, to repeat the idea slowly before applying it specifically, and also to add:
 
 <div class="indented italic">
 

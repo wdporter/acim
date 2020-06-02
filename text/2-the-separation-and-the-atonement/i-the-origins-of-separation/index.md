@@ -11,7 +11,7 @@ prev: T-1.VII
 next: T-2.II
 ---
 
-1.&emsp;To extend is a fundamental aspect of God which He gave to His Son. 
+1. To extend is a fundamental aspect of God which He gave to His Son. 
 ²In the creation, God extended Himself to His creations and imbued them with the same loving Will to create. 
 ³You have not only been fully created, but have also been created perfect. 
 ⁴There is no emptiness in you. 
@@ -19,10 +19,10 @@ next: T-2.II
 ⁶No child of God can lose this ability because it is inherent in what he is, but he can use it inappropriately by projecting. 
 ⁷The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill it with your own ideas instead of truth. 
 ⁸This process involves the following steps:  
-&emsp;⁹First, you believe that what God created can be changed by your own mind.  
-&emsp;¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
-&emsp;¹¹Third, you believe that you can distort the creations of God, including yourself.  
-&emsp;¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
+ ⁹First, you believe that what God created can be changed by your own mind.  
+ ¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
+ ¹¹Third, you believe that you can distort the creations of God, including yourself.  
+ ¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
 
 ::: details Expanded
 
@@ -34,10 +34,10 @@ To extend is a fundamental aspect of God which He [God] gave to His [God’s] So
 ⁶No child of God can lose this [creative] ability because it [creative ability] is inherent in what he [a child of God] is, but he [a child of God] can use it [creative ability] inappropriately by projecting. 
 ⁷The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill it [emptiness or lack] with your own ideas instead of truth. 
 ⁸This process [believing you can fill lack with your own ideas of truth] involves the following steps:  
-&emsp;⁹First, you believe that what God created can be changed by your own mind.  
-&emsp;¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
-&emsp;¹¹Third, you believe that you can distort the creations of God, including yourself.  
-&emsp;¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
+ ⁹First, you believe that what God created can be changed by your own mind.  
+ ¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
+ ¹¹Third, you believe that you can distort the creations of God, including yourself.  
+ ¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
 
 :::
 
@@ -51,10 +51,10 @@ To extend is a fundamental aspect of God which God gave to God’s Son.
 ⁶No child of God can lose this creative ability because creative ability is inherent in what a child of God is, but a child of God can use creative ability inappropriately by projecting. 
 ⁷The inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth. 
 ⁸Believing you can fill lack with your own ideas of truth involves the following steps:  
-&emsp;⁹First, you believe that what God created can be changed by your own mind.  
-&emsp;¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
-&emsp;¹¹Third, you believe that you can distort the creations of God, including yourself.  
-&emsp;¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
+ ⁹First, you believe that what God created can be changed by your own mind.  
+ ¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
+ ¹¹Third, you believe that you can distort the creations of God, including yourself.  
+ ¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
 
 :::
 
@@ -84,7 +84,7 @@ Your projections make distortions.
 
 ---
 
-2.&emsp;These related distortions represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
+2. These related distortions represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
 ²None of this existed before the separation, nor does it actually exist now. 
 ³Everything God created is like Him. 
 ⁴Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from Him. 
@@ -127,7 +127,7 @@ You can create just as God creates.
 
 ---
 
-3.&emsp;The Garden of Eden, or the preseparation condition, was a state of mind in which nothing was needed. 
+3. The Garden of Eden, or the preseparation condition, was a state of mind in which nothing was needed. 
 ²When Adam listened to the ‘lies of the serpent’, all he heard was untruth. 
 ³You do not have to continue to believe what is not true unless you choose to do so. 
 ⁴All that can literally disappear in the twinkling of an eye because it is merely a misperception. 
@@ -180,7 +180,7 @@ You can extend the truth.
 
 ---
 
-4.&emsp;All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
+4. All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to do this. 
 ³Here is the real basis for your escape from fear. 
 ⁴The escape is brought about by your acceptance of the Atonement, which enables you to realise that your errors never really occurred. 
@@ -236,7 +236,7 @@ You are free.
 
 ---
 
-5.&emsp;Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. 
+5. Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. 
 ²It makes no distinctions among misperceptions. 
 ³Its sole concern is to distinguish between truth on the one hand, and error on the other. 
 ⁴Some miracles may seem to be of greater magnitude than others. 

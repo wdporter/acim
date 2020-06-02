@@ -27,7 +27,7 @@ Perfect love casts out fear.
 If fear exists,  
 Then there is not perfect love.  
 
-&emsp;&emsp;But:  
+  But:  
 
 Only perfect love exists.  
 If there is fear,  

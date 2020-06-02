@@ -13,7 +13,7 @@ prev: W-pI.2
 next: W-pI.4
 ---
 
-1.&emsp;Apply this idea in the same way as the previous ones, without making distinctions of any kind. 
+1. Apply this idea in the same way as the previous ones, without making distinctions of any kind. 
 ²Whatever you see becomes a proper subject for applying the idea. 
 ³Be sure that you do not question the suitability of anything for application of the idea. 
 ⁴These are not exercises in judgement. 
@@ -21,7 +21,7 @@ next: W-pI.4
 ⁶Some of the things you see may have emotionally-charged meaning for you. 
 ⁷Try to lay such feelings aside, and merely use these things exactly as you would anything else.
 
-2.&emsp;The point of the exercises is to help you clear your mind of all past associations, to see things exactly as they appear to you now, and to realise how little you really understand about them. 
+2. The point of the exercises is to help you clear your mind of all past associations, to see things exactly as they appear to you now, and to realise how little you really understand about them. 
 ²It is therefore essential that you keep a perfectly open mind, unhampered by judgement, in selecting the things to which the idea for the day is to be applied. 
 ³For this purpose one thing is like another: equally suitable and therefore equally useful.
 

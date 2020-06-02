@@ -16,7 +16,7 @@
 ## T-4.I.1
 
 <p class=fip id=p1>
-1.&emsp;A good teacher clarifies his own ideas and strengthens them by teaching them. 
+1. A good teacher clarifies his own ideas and strengthens them by teaching them. 
 <sup>2</sup>Teacher and pupil are alike in the learning process. 
 <sup>3</sup>They are in the same order of learning, and unless they share their lessons conviction will be lacking. 
 <sup>4</sup>A good teacher must believe in the ideas he teaches, but he must meet another condition: he must believe in the students to whom he offers the ideas.
@@ -24,14 +24,14 @@
 
 #### expanded
 
-1.&emsp;A good teacher clarifies his [teacher’s] own ideas and strengthens them [teacher’s own ideas] by teaching them [teacher’s own ideas]. 
+1. A good teacher clarifies his [teacher’s] own ideas and strengthens them [teacher’s own ideas] by teaching them [teacher’s own ideas]. 
 <sup>2</sup>Teacher and pupil are alike in the learning process. 
 <sup>3</sup>They [teacher and pupil] are in the same order of learning, and unless they [teacher and pupil] share their [teacher’s-and-pupil’s] lessons conviction will be lacking. 
 <sup>4</sup>A good teacher must believe in the ideas he [teacher] teaches, but he [teacher] must meet another condition: he [teacher] must believe in the students to whom he [teacher] offers the ideas.
 
 #### substituted
 
-1.&emsp;A good teacher clarifies teacher’s own ideas and strengthens teacher’s own ideas by teaching teacher’s own ideas. 
+1. A good teacher clarifies teacher’s own ideas and strengthens teacher’s own ideas by teaching teacher’s own ideas. 
 <sup>2</sup>Teacher and pupil are alike in the learning process. 
 <sup>3</sup>Teacher and pupil are in the same order of learning, and unless teacher and pupil share teacher’s-and-pupil’s lessons conviction will be lacking. 
 <sup>4</sup>A good teacher must believe in the ideas teacher teaches, but teacher must meet another condition: teacher must believe in the students to whom teacher offers the ideas.
@@ -43,7 +43,7 @@ Lessons are shared between teachers and pupils. Teachers and pupils must believe
 ## T-4.I.2
 
 <p class=fip id=p2>
-2.&emsp;Many stand guard over their ideas because they want to protect their thought systems as they are, and learning means change. 
+2. Many stand guard over their ideas because they want to protect their thought systems as they are, and learning means change. 
 <sup>2</sup>Change is always fearful to the separated, because they cannot conceive of it as a move towards healing the separation. 
 <sup>3</sup>They always perceive it as a move toward further separation, because the separation was their first experience of change. 
 <sup>4</sup>You believe that if you allow no change to enter into your ego you will find peace. 
@@ -61,7 +61,7 @@ Lessons are shared between teachers and pupils. Teachers and pupils must believe
 
 #### expanded
 
-2.&emsp;Many stand guard over their [many’s] ideas because they [many] want to protect their [many’s] thought systems as they [many] are, and learning means change. 
+2. Many stand guard over their [many’s] ideas because they [many] want to protect their [many’s] thought systems as they [many] are, and learning means change. 
 <sup>2</sup>Change is always fearful to the separated, because they [the seperated] cannot conceive of it [change] as a move towards healing the separation. 
 <sup>3</sup>They [the seperated] always perceive it [change] as a move toward further separation, because the separation was their [the seperated’s] first experience of change. 
 <sup>4</sup>You believe that if you allow no change to enter into your ego you will find peace. 
@@ -78,7 +78,7 @@ Lessons are shared between teachers and pupils. Teachers and pupils must believe
 
 #### substituted
 
-2.&emsp;Many stand guard over many’s ideas because they many want to protect many’s thought systems as many are, and learning means change. 
+2. Many stand guard over many’s ideas because they many want to protect many’s thought systems as many are, and learning means change. 
 <sup>2</sup>Change is always fearful to the separated, because the seperated cannot conceive of it change as a move towards healing the separation. 
 <sup>3</sup>The seperated always perceive it change as a move toward further separation, because the separation was the seperated’s first experience of change. 
 <sup>4</sup>You believe that if you allow no change to enter into your ego you will find peace. 
@@ -100,7 +100,7 @@ Changing your thought system is needed to heal the separation. Change is fearful
 ## T-4.I.3
 
 <p class=fip id=p3>
-3.&emsp;Spirit need not be taught, but the ego must be. 
+3. Spirit need not be taught, but the ego must be. 
 <sup>2</sup>Learning is ultimately perceived as frightening because it leads to the relinquishment, not the destruction, of the ego to the light of spirit. 
 <sup>3</sup>This is the change the ego must fear, because it does not share my charity. 
 <sup>4</sup>My lesson was like yours, and because I learned it I can teach it. 
@@ -110,7 +110,7 @@ Changing your thought system is needed to heal the separation. Change is fearful
 
 #### expanded
 
-3.&emsp;Spirit need not be taught, but the ego must be [taught]. 
+3. Spirit need not be taught, but the ego must be [taught]. 
 <sup>2</sup>Learning is ultimately perceived as frightening because it [learning] leads to the relinquishment, not the destruction, of the ego to the light of spirit. 
 <sup>3</sup>This [relinquishment of the ego] is the change the ego must fear, because it [the ego] does not share my charity. 
 <sup>4</sup>My lesson was like yours [your lesson], and because I learned it [my lesson] I can teach it [my lesson]. 
@@ -119,7 +119,7 @@ Changing your thought system is needed to heal the separation. Change is fearful
 
 #### substituted
 
-3.&emsp;Spirit need not be taught, but the ego must be taught. 
+3. Spirit need not be taught, but the ego must be taught. 
 <sup>2</sup>Learning is ultimately perceived as frightening because learning leads to the relinquishment, not the destruction, of the ego to the light of spirit. 
 <sup>3</sup>Relinquishment of the ego is the change the ego must fear, because the ego does not share my charity. 
 <sup>4</sup>My lesson was like your lesson, and because I learned my lesson I can teach my lesson. 
@@ -133,7 +133,7 @@ The ego must be relinquished. The ego responds with fear.
 ## T-4.I.4
 
 <p class=fip id=p4>
-4.&emsp;Teaching and learning are your greatest strengths now, because they enable you to change your mind and help others to change theirs. 
+4. Teaching and learning are your greatest strengths now, because they enable you to change your mind and help others to change theirs. 
 <sup>2</sup>Refusing to change your mind will not prove that the separation has not occurred. 
 <sup>3</sup>The dreamer who doubts the reality of his dream while he is still dreaming is not really healing his split mind. 
 <sup>4</sup>You dream of a separated ego and believe in a world that rests upon it. 
@@ -144,7 +144,7 @@ The ego must be relinquished. The ego responds with fear.
 
 #### expanded
 
-4.&emsp;Teaching and learning are your greatest strengths now, because they [teaching and learning] enable you to change your mind and help others to change theirs [others’ minds]. 
+4. Teaching and learning are your greatest strengths now, because they [teaching and learning] enable you to change your mind and help others to change theirs [others’ minds]. 
 <sup>2</sup>Refusing to change your mind will not prove that the separation has not occurred. 
 <sup>3</sup>The dreamer who doubts the reality of his [dreamer’s] dream while he [dreamer] is still dreaming is not really healing his [dreamer’s] split mind. 
 <sup>4</sup>You dream of a separated ego and believe in a world that rests upon it [a separated ego]. 
@@ -154,7 +154,7 @@ The ego must be relinquished. The ego responds with fear.
 
 #### substituted
 
-4.&emsp;Teaching and learning are your greatest strengths now, because teaching and learning enable you to change your mind and help others to change others’ minds. 
+4. Teaching and learning are your greatest strengths now, because teaching and learning enable you to change your mind and help others to change others’ minds. 
 <sup>2</sup>Refusing to change your mind will not prove that the separation has not occurred. 
 <sup>3</sup>The dreamer who doubts the reality of dreamer’s dream while dreamer is still dreaming is not really healing dreamer’s split mind. 
 <sup>4</sup>You dream of a separated ego and believe in a world that rests upon a separated ego. 
@@ -169,7 +169,7 @@ You need to learn to heal your split mind. Your split mind dreams of a separated
 ## T-4.I.5
 
 <p class=fip id=p5>
-5.&emsp;Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
+5. Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
 <sup>2</sup>This [to be not needed] is the one true goal of the teacher. 
 <sup>3</sup>It is impossible to convince the ego of this [the true goal is to be not needed], because it [being not needed] goes against all of its [ego’s] own laws. 
 <sup>4</sup>But remember that laws are set up to protect the continuity of the system in which [system] the lawmaker believes. 
@@ -180,7 +180,7 @@ You need to learn to heal your split mind. Your split mind dreams of a separated
 
 #### expanded
 
-5.&emsp;Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
+5. Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
 <sup>2</sup>This [to be not needed] is the one true goal of the teacher. 
 <sup>3</sup>It is impossible to convince the ego of this [the true goal is to be not needed], because it [being not needed] goes against all of its [ego’s] own laws. 
 <sup>4</sup>But remember that laws are set up to protect the continuity of the system in which [system] the lawmaker believes. 
@@ -190,7 +190,7 @@ You need to learn to heal your split mind. Your split mind dreams of a separated
 
 #### substituted
 
-5.&emsp;Every good teacher hopes to give teacher’s students so much of teacher’s own learning that teacher’s students will one day no longer need teacher. 
+5. Every good teacher hopes to give teacher’s students so much of teacher’s own learning that teacher’s students will one day no longer need teacher. 
 <sup>2</sup>To be not needed is the one true goal of the teacher. 
 <sup>3</sup>It is impossible to convince the ego the true goal is to be not needed, because being not needed goes against all of ego’s own laws. 
 <sup>4</sup>But remember that laws are set up to protect the continuity of the system, the system the lawmaker believes. 
@@ -205,7 +205,7 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 ## T-4.I.6
 
 <p class=fip id=p6>
-6.&emsp;Egos can clash in any situation, but spirit cannot clash at all. 
+6. Egos can clash in any situation, but spirit cannot clash at all. 
 <sup>2</sup>If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 <sup>3</sup>I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 <sup>4</sup>This is the opposite of the ego-oriented teacher’s goal. 
@@ -216,7 +216,7 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 
 #### expanded
 
-6.&emsp;Egos can clash in any situation, but spirit cannot clash at all. 
+6. Egos can clash in any situation, but spirit cannot clash at all. 
 <sup>2</sup>If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 <sup>3</sup>I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 <sup>4</sup>This [absolving you from the need for a teacher] is the opposite of the ego-oriented teacher’s goal. 
@@ -226,7 +226,7 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 
 #### substituted
 
-6.&emsp;Egos can clash in any situation, but spirit cannot clash at all. 
+6. Egos can clash in any situation, but spirit cannot clash at all. 
 <sup>2</sup>If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 <sup>3</sup>I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 <sup>4</sup>Absolving you from the need for a teacher is the opposite of the ego-oriented teacher’s goal. 
@@ -249,7 +249,7 @@ Perceiving larger egos creates extra anxiety. When an ego perceive other egos, t
 ## T-4.I.7
 
 <p class=fip id=p7>
-7.&emsp;Your worth is not established by teaching or learning. 
+7. Your worth is not established by teaching or learning. 
 <sup>2</sup>Your worth is established by God. 
 <sup>3</sup>As long as you dispute this everything you do will be fearful, particularly any situation that lends itself to the belief in superiority and inferiority. 
 <sup>4</sup>Teachers must be patient and repeat their lessons until they are learned. 
@@ -263,7 +263,7 @@ Perceiving larger egos creates extra anxiety. When an ego perceive other egos, t
 
 #### expanded
 
-7.&emsp;Your worth is not established by teaching or learning. 
+7. Your worth is not established by teaching or learning. 
 <sup>2></sup>Your worth is established by God. 
 <sup>3></sup>As long as you dispute this [that your worth is established by God] everything you do will be fearful, particularly any situation that lends itself [situation’s self] to the belief in superiority and inferiority. 
 <sup>4></sup>Teachers must be patient and repeat their [teacher’s] lessons until they [teacher’s lessons] are learned. 
@@ -276,7 +276,7 @@ Perceiving larger egos creates extra anxiety. When an ego perceive other egos, t
 
 #### substituted
 
-7.&emsp;Your worth is not established by teaching or learning. 
+7. Your worth is not established by teaching or learning. 
 <sup>2></sup>Your worth is established by God. 
 <sup>3></sup>As long as you dispute that your worth is established by God everything you do will be fearful, particularly any situation that lends situation’s self to the belief in superiority and inferiority. 
 <sup>4></sup>Teachers must be patient and repeat teacher’s lessons until teacher’s lessons are learned. 
@@ -294,7 +294,7 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 ## T-4.I.8
 
 <p class=fip id=p8>
-8.&emsp;The ego tries to exploit all situations into forms of praise for itself in order to overcome its doubts. 
+8. The ego tries to exploit all situations into forms of praise for itself in order to overcome its doubts. 
 <sup>2</sup>It will remain doubtful as long as you believe in its existence. 
 <sup>3</sup>You who made it cannot trust it, because in your right mind you realise it is not real. 
 <sup>4</sup>The only sane solution is not to try to change reality, which is indeed a fearful attempt, but to accept it as it is. 
@@ -305,7 +305,7 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 
 #### expanded
 
-8.&emsp;The ego tries to exploit all situations into forms of praise for itself [the-ego’s-self] in order to overcome its [the-ego’s] doubts. 
+8. The ego tries to exploit all situations into forms of praise for itself [the-ego’s-self] in order to overcome its [the-ego’s] doubts. 
 <sup>2</sup>It [the ego] will remain doubtful as long as you believe in its [the-ego’s] existence. 
 <sup>3</sup>You who made it [the ego] cannot trust it [the ego], because in your right mind you realise it [the ego] is not real. 
 <sup>4</sup>The only sane solution is not to try to change reality, which [trying to change reality] is indeed a fearful attempt, but to accept it [reality] as it [reality] is. 
@@ -315,7 +315,7 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 
 #### substituted
 
-8.&emsp;The ego tries to exploit all situations into forms of praise for the-ego’s-self in order to overcome the-ego’s doubts. 
+8. The ego tries to exploit all situations into forms of praise for the-ego’s-self in order to overcome the-ego’s doubts. 
 <sup>2</sup>The ego will remain doubtful as long as you believe in the-ego’s existence. 
 <sup>3</sup>You who made the ego cannot trust the ego, because in your right mind you realise the ego is not real. 
 <sup>4</sup>The only sane solution is not to try to change reality, trying to change reality is indeed a fearful attempt, but to accept reality as reality is. 
@@ -338,7 +338,7 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 ## T-4.I.9
 
 <p class=fip id=p9>
-9.&emsp;God is not the author of fear. 
+9. God is not the author of fear. 
 <sup>2</sup>You are. 
 <sup>3</sup>You have chosen to create unlike Him, and have therefore made fear for yourself. 
 <sup>4</sup>You are not at peace because you are not fulfilling your function. 
@@ -353,7 +353,7 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 
 #### expanded
 
-9.&emsp;God is not the author of fear. 
+9. God is not the author of fear. 
 <sup>2</sup>You are [the author of fear]. 
 <sup>3</sup>You have chosen to create unlike Him [God], and have therefore made fear for yourself. 
 <sup>4</sup>You are not at peace because you are not fulfilling your function. 
@@ -367,7 +367,7 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 
 #### substituted
 
-9.&emsp;God is not the author of fear. 
+9. God is not the author of fear. 
 <sup>2</sup>You are the author of fear. 
 <sup>3</sup>You have chosen to create unlike God, and have therefore made fear for yourself. 
 <sup>4</sup>You are not at peace because you are not fulfilling your function. 
@@ -394,7 +394,7 @@ You create fear by choosing to create unlike God. It is unbelievable that you co
 ## T-4.I.10
 
 <p class=fip id=p10>
-10.&emsp;The ego is afraid of the spirit’s joy, because once you have experienced it you will withdraw all protection from the ego, and become totally without investment in fear. 
+10. The ego is afraid of the spirit’s joy, because once you have experienced it you will withdraw all protection from the ego, and become totally without investment in fear. 
 <sup>2</sup>Your investment is great now because fear is a witness to the separation, and your ego rejoices when you witness to it. 
 <sup>3</sup>Leave it behind! 
 <sup>4</sup>Do not listen to it and do not preserve it. 
@@ -405,7 +405,7 @@ You create fear by choosing to create unlike God. It is unbelievable that you co
 
 #### expanded
 
-10.&emsp;The ego is afraid of the spirit’s joy, because once you have experienced it [the spirit’s joy] you will withdraw all protection from the ego, and become totally without investment in fear. 
+10. The ego is afraid of the spirit’s joy, because once you have experienced it [the spirit’s joy] you will withdraw all protection from the ego, and become totally without investment in fear. 
 <sup>2</sup>Your investment is great now because fear is a witness to the separation, and your ego rejoices when you witness to it [the separation]. 
 <sup>3</sup>Leave it [the ego] behind! 
 <sup>4</sup>Do not listen to it [the ego] and do not preserve it [the ego]. 
@@ -415,7 +415,7 @@ You create fear by choosing to create unlike God. It is unbelievable that you co
 
 #### substituted
 
-10.&emsp;The ego is afraid of the spirit’s joy, because once you have experienced the spirit’s joy you will withdraw all protection from the ego, and become totally without investment in fear. 
+10. The ego is afraid of the spirit’s joy, because once you have experienced the spirit’s joy you will withdraw all protection from the ego, and become totally without investment in fear. 
 <sup>2</sup>Your investment is great now because fear is a witness to the separation, and your ego rejoices when you witness to the separation. 
 <sup>3</sup>Leave the ego behind! 
 <sup>4</sup>Do not listen to the ego and do not preserve the ego. 
@@ -430,7 +430,7 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 ## T-4.I.11
 
 <p class=fip id=p11>
-11.&emsp;The ego has built a shabby and unsheltering home for you, because it cannot build otherwise. 
+11. The ego has built a shabby and unsheltering home for you, because it cannot build otherwise. 
 <sup>2</sup>Do not try to make this impoverished house stand. 
 <sup>3</sup>Its weakness is your strength. 
 <sup>4</sup>Only God could make a home that is worthy of His creations, who have chosen to leave it empty by their own dispossession. 
@@ -441,7 +441,7 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 
 #### expanded
 
-11.&emsp;The ego has built a shabby and unsheltering home for you, because it [the ego] cannot build otherwise [than shabby and unsheltering]. 
+11. The ego has built a shabby and unsheltering home for you, because it [the ego] cannot build otherwise [than shabby and unsheltering]. 
 <sup>2</sup>Do not try to make this [the ego’s] impoverished house stand. 
 <sup>3</sup>Its [the-ego’s-house’s] weakness is your strength. 
 <sup>4</sup>Only God could make a home that is worthy of His [God’s] creations, who [God’s-creations] have chosen to leave it [God’s-home] empty by their [God’s-creations’] own dispossession. 
@@ -451,7 +451,7 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 
 #### substituted
 
-11.&emsp;The ego has built a shabby and unsheltering home for you, because the ego cannot build other than shabby and unsheltering. 
+11. The ego has built a shabby and unsheltering home for you, because the ego cannot build other than shabby and unsheltering. 
 <sup>2</sup>Do not try to make the ego’s impoverished house stand. 
 <sup>3</sup>The-ego’s-house’s weakness is your strength. 
 <sup>4</sup>Only God could make a home that is worthy of God’s creations, God’s-creations have chosen to leave God’s-home empty by God’s-creations’ own dispossession. 
@@ -474,7 +474,7 @@ The ego’s house is shabby, unsheltering and impoverished. Only the home God ma
 ## T-4.I.12
 
 <p class=fip id=p12>
-12.&emsp; Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both. 
+12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both. 
 <sup>2</sup>Humility is a lesson for the ego, not for the spirit. 
 <sup>3</sup>Spirit is beyond humility, because it recognises its radiance and gladly sheds its light everywhere. 
 <sup>4</sup>The meek shall inherit the earth because their egos are humble, and this gives them truer perception. 
@@ -484,7 +484,7 @@ The ego’s house is shabby, unsheltering and impoverished. Only the home God ma
 
 #### expanded
 
-12.&emsp; Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both [yourself and others]. 
+12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both [yourself and others]. 
 <sup>2</sup>Humility is a lesson for the ego, not [a lesson] for the spirit. 
 <sup>3</sup>Spirit is beyond humility, because it [spirit] recognises its [spirit’s] radiance and gladly sheds its [spirit’s] light everywhere. 
 <sup>4</sup>The meek shall inherit the earth because their [the meek’s] egos are humble, and this [having a humble ego] gives them [the meek] truer perception. 
@@ -493,7 +493,7 @@ The ego’s house is shabby, unsheltering and impoverished. Only the home God ma
 
 #### substituted
 
-12.&emsp; Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of yourself and others. 
+12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of yourself and others. 
 <sup>2</sup>Humility is a lesson for the ego, not a lesson for the spirit. 
 <sup>3</sup>Spirit is beyond humility, because spirit recognises spirit’s radiance and gladly sheds spirit’s light everywhere. 
 <sup>4</sup>The meek shall inherit the earth because the meek’s egos are humble, and having a humble ego gives the meek truer perception. 
@@ -507,7 +507,7 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 ## T-4.I.13
 
 <p class=fip id=p13>
-13.&emsp;I will substitute for your ego if you wish, but never for your spirit. 
+13. I will substitute for your ego if you wish, but never for your spirit. 
 <sup>2</sup>A father can safely leave a child with an elder brother who has shown himself responsible, but this involves no confusion about the child’s origin. 
 <sup>3</sup>The brother can protect the child’s body and his ego, but he does not confuse himself with the father because he does this. 
 <sup>4</sup>I can be entrusted with your body and your ego only because this enables you not to be concerned with them, and lets me teach you their unimportance. 
@@ -525,7 +525,7 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 #### expanded
 
 <p>
-13.&emsp;I will substitute for your ego if you wish, but never [will i substitute] for your spirit. 
+13. I will substitute for your ego if you wish, but never [will i substitute] for your spirit. 
 <sup>2</sup>A father can safely leave a child with an elder brother who has shown himself [elder-brother’s-self] responsible, but this [leaving a child with an elder brother] involves no confusion about the child’s origin. 
 <sup>3</sup>The brother can protect the child’s body and his [the child’s] ego, but he [the brother] does not confuse himself [the-brother’s-self] with the father because he [the brother] does this [protects the child’s body and ego]. 
 <sup>4</sup>I can be entrusted with your body and your ego only because this [being entrusted with your body and ego] enables you not to be concerned with them [your body and ego], and lets me teach you their [your-body’s-and-ego’s] unimportance. 
@@ -543,7 +543,7 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 #### substituted
 
 <p>
-13.&emsp;I will substitute for your ego if you wish, but never will i substitute for your spirit. 
+13. I will substitute for your ego if you wish, but never will i substitute for your spirit. 
 <sup>2</sup>A father can safely leave a child with an elder brother who has shown elder-brother’s-self responsible, but leaving a child with an elder brother involves no confusion about the child’s origin. 
 <sup>3</sup>The brother can protect the child’s body and the child’s ego, but the brother does not confuse the-brother’s-self with the father (because the brother  protects the child’s body and ego). 
 <sup>4</sup>I can be entrusted with your body and your ego only because, being entrusted with your body and ego, enables you not to be concerned with your body and ego, and lets me teach you your-body’s-and-ego’s unimportance. 
@@ -567,7 +567,7 @@ I am an elder brother to you. I can teach you the body and ego are unimportant. 
 ## T-4.II.1
 
 <p class=fip id=p1>
-1.&emsp;It is reasonable to ask how the mind could ever have made the ego. 
+1. It is reasonable to ask how the mind could ever have made the ego. 
 <sup>2</sup>In fact, it is the best question you could ask. 
 <sup>3</sup>There is, however, no point in giving an answer in terms of the past because the past does not matter, and history would not exist if the same errors were not being repeated in the present. 
 <sup>4</sup>Abstract thought applies to knowledge because knowledge is completely impersonal, and examples are irrelevant to its understanding. 
@@ -576,7 +576,7 @@ I am an elder brother to you. I can teach you the body and ego are unimportant. 
 
 #### expanded
 
-1.&emsp;It is reasonable to ask how the mind could ever have made the ego. 
+1. It is reasonable to ask how the mind could ever have made the ego. 
 <sup>2</sup>In fact, it [how the mind could have made the ego?] is the best question you could ask. 
 <sup>3</sup>There is, however, no point in giving an answer in terms of the past because the past does not matter, and history would not exist if the same errors were not being repeated in the present. 
 <sup>4</sup>Abstract thought applies to knowledge because knowledge is completely impersonal, and examples are irrelevant to its [knowledge’s] understanding. 
@@ -584,7 +584,7 @@ I am an elder brother to you. I can teach you the body and ego are unimportant. 
 
 #### substituted
 
-1.&emsp;It is reasonable to ask how the mind could ever have made the ego. 
+1. It is reasonable to ask how the mind could ever have made the ego. 
 <sup>2</sup>In fact, how the mind could have made the ego? is the best question you could ask. 
 <sup>3</sup>There is, however, no point in giving an answer in terms of the past because the past does not matter, and history would not exist if the same errors were not being repeated in the present. 
 <sup>4</sup>Abstract thought applies to knowledge because knowledge is completely impersonal, and examples are irrelevant to knowledge’s understanding. 
@@ -604,7 +604,7 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 ## T-4.II.2
 
 <p class=fip id=p2>
-2.&emsp;Everyone makes an ego or a self for himself, which is subject to enormous variation because of its instability. 
+2. Everyone makes an ego or a self for himself, which is subject to enormous variation because of its instability. 
 <sup>2</sup>He also makes an ego for everyone else he perceives, which is equally variable. 
 <sup>3</sup>Their interaction is a process that alters both, because they were not made by or with the Unalterable. 
 <sup>4</sup>It is important to realise that this alteration can and does occur as readily when the interaction takes place in the mind as when it involves physical proximity. 
@@ -614,7 +614,7 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 
 #### expanded
 
-2.&emsp;Everyone makes an ego or a self for himself [one’s-self], which is subject to enormous variation because of its [ego’s] instability. 
+2. Everyone makes an ego or a self for himself [one’s-self], which is subject to enormous variation because of its [ego’s] instability. 
 <sup>2</sup>He [everyone] also makes an ego for everyone else he [everyone] perceives, which [others’ ego] is equally variable. 
 <sup>3</sup>Their [one’s-ego’s-and-others’-ego’s] interaction is a process that alters both [one’s-ego-and-others’-ego], because they [one’s-ego-and-others’-ego] were not made by or with the Unalterable. 
 <sup>4</sup>It is important to realise that this alteration [egos being altered by interacting with each other] can and does occur as readily when the interaction takes place in the mind as when it [the interaction] involves physical proximity. 
@@ -623,7 +623,7 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 
 #### substituted
 
-2.&emsp;Everyone makes an ego or a self for one’s-self, which is subject to enormous variation because of ego’s instability. 
+2. Everyone makes an ego or a self for one’s-self, which is subject to enormous variation because of ego’s instability. 
 <sup>2</sup>Everyone also makes an ego for everyone else everyone perceives; others’ ego is equally variable. 
 <sup>3</sup>One’s-ego’s-and-others’-ego’s interaction is a process that alters one’s-ego-and-others’-ego, because one’s-ego-and-others’-ego were not made by or with the Unalterable. 
 <sup>4</sup>It is important to realise that egos being altered by interacting with each other, can and does occur as readily when the interaction takes place in the mind as when the interaction involves physical proximity. 
@@ -644,7 +644,7 @@ You make an ego for yourself. And you make an ego for everyone you perceive. Ego
 ## T-4.II.3
 
 <p class=fip id=p3>
-3.&emsp;Your own state of mind is a good example of how the ego was made. 
+3. Your own state of mind is a good example of how the ego was made. 
 <sup>2</sup>When you threw knowledge away it is as if you never had it. 
 <sup>3</sup>This is so apparent that one need only recognise it to see that it does happen. 
 <sup>4</sup>If this occurs in the present, why is it surprising that it occurred in the past? 
@@ -654,7 +654,7 @@ You make an ego for yourself. And you make an ego for everyone you perceive. Ego
 
 #### expanded
 
-3.&emsp;Your own state of mind is a good example of how the ego was made. 
+3. Your own state of mind is a good example of how the ego was made. 
 <sup>2</sup>When you threw knowledge away it is as if you never had it [knowledge]. 
 <sup>3</sup>This [that you threw knowledge away] is so apparent that one need only recognise it [that you threw knowledge away] to see that it [throwing knowledge away] does happen. 
 <sup>4</sup>If this [throwing knowledge away] occurs in the present, why is it surprising that it [throwing knowledge away] occurred in the past? 
@@ -663,7 +663,7 @@ You make an ego for yourself. And you make an ego for everyone you perceive. Ego
 
 #### substituted
 
-3.&emsp;Your own state of mind is a good example of how the ego was made. 
+3. Your own state of mind is a good example of how the ego was made. 
 <sup>2</sup>When you threw knowledge away it is as if you never had knowledge. 
 <sup>3</sup>That you threw knowledge away is so apparent that one need only recognise that you threw knowledge away, to see that throwing knowledge away does happen. 
 <sup>4</sup>If throwing knowledge away occurs in the present, why is it surprising that throwing knowledge away occurred in the past? 
@@ -677,7 +677,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 ## T-4.II.4
 
 <p class=fip id=p4>
-4.&emsp;Think of the love of animals for their offspring, and the need they feel to protect them. 
+4. Think of the love of animals for their offspring, and the need they feel to protect them. 
 <sup>2</sup>That is because they regard them as part of themselves. 
 <sup>3</sup>No one dismisses something he considers part of himself. 
 <sup>4</sup>You react to your ego much as God does to His creations: with love, protection and charity. 
@@ -692,7 +692,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 
 #### expanded
 
-4.&emsp;Think of the love of animals for their [animals’] offspring, and the need they [animals] feel to protect them [animals’ offspring]. 
+4. Think of the love of animals for their [animals’] offspring, and the need they [animals] feel to protect them [animals’ offspring]. 
 <sup>2</sup>That [animals feel a need to protect animals’ offspring] is because they [animals] regard them [animals’ offspring] as part of themselves [animals’-selves]. 
 <sup>3</sup>No one dismisses something he [one] considers part of himself [one’s-self]. 
 <sup>4</sup>You react to your ego much as God does to His [God’s] creations: with love, protection and charity. 
@@ -706,7 +706,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 
 #### substituted
 
-4.&emsp;Think of the love of animals for animals’ offspring, and the need animals feel to protect animals’ offspring. 
+4. Think of the love of animals for animals’ offspring, and the need animals feel to protect animals’ offspring. 
 <sup>2</sup>Animals feel a need to protect animals’ offspring because animals regard animals’ offspring as part of animals’-selves. 
 <sup>3</sup>No one dismisses something one considers part of one’s-self. 
 <sup>4</sup>You react to your ego much as God does to God’s creations: with love, protection and charity. 
@@ -725,7 +725,7 @@ You love what you create. You consider what you create part of your self. What d
 ## T-4.II.5
 
 <p class=fip id=p5>
-5.&emsp;Undermining the ego’s thought system must be perceived as painful, even though this is anything but true. 
+5. Undermining the ego’s thought system must be perceived as painful, even though this is anything but true. 
 <sup>2</sup>Babies scream in rage if you take away a knife or scissors, although they may well harm themselves if you do not. 
 <sup>3</sup>In this sense you are still a baby. 
 <sup>4</sup>You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
@@ -737,7 +737,7 @@ You love what you create. You consider what you create part of your self. What d
 
 #### expanded
 
-5.&emsp;Undermining the ego’s thought system must be perceived as painful, even though this [it being painful to undermine the ego’s thought system] is anything but true. 
+5. Undermining the ego’s thought system must be perceived as painful, even though this [it being painful to undermine the ego’s thought system] is anything but true. 
 <sup>2</sup>Babies scream in rage if you take away a knife or scissors, although they [babies] may well harm themselves [babies’-selves] if you do not [take away a knife or scissors]. 
 <sup>3</sup>In this sense [that you scream in rage when something harmful is taken from you] you are still a baby. 
 <sup>4</sup>You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
@@ -748,7 +748,7 @@ You love what you create. You consider what you create part of your self. What d
 
 #### substituted
 
-5.&emsp;Undermining the ego’s thought system must be perceived as painful, even though it being painful to undermine the ego’s thought system, is anything but true. 
+5. Undermining the ego’s thought system must be perceived as painful, even though it being painful to undermine the ego’s thought system, is anything but true. 
 <sup>2</sup>Babies scream in rage if you take away a knife or scissors, although babies may well harm babies’-selves if you do not take away a knife or scissors. 
 <sup>3</sup>In the sense that you scream in rage when something harmful is taken from you, you are still a baby. 
 <sup>4</sup>You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
@@ -776,7 +776,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 ## T-4.II.6
 
 <p class=fip id=p6>
-6.&emsp;Only those who have a real and lasting sense of abundance can be truly charitable. 
+6. Only those who have a real and lasting sense of abundance can be truly charitable. 
 <sup>2</sup>This is obvious when you consider what is involved. 
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
@@ -789,7 +789,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 
 #### expanded
 
-6.&emsp;Only those who have a real and lasting sense of abundance can be truly charitable. 
+6. Only those who have a real and lasting sense of abundance can be truly charitable. 
 <sup>2</sup>This [only those who have abundance are charitable] is obvious when you consider what is involved. 
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it [whatever you give]. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
@@ -801,7 +801,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 
 #### substituted
 
-6.&emsp;Only those who have a real and lasting sense of abundance can be truly charitable. 
+6. Only those who have a real and lasting sense of abundance can be truly charitable. 
 <sup>2</sup>Only those who have abundance are charitable, is obvious when you consider what is involved. 
 <sup>3</sup>To the ego, to give anything implies that you will have to do without whatever you give. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
@@ -824,7 +824,7 @@ If you have a sense of abundance you can give with true charity. Ego giving is g
 ## T-4.II.7
 
 <p class=fip id=p7>
-7.&emsp;The ego literally lives by comparisons. 
+7. The ego literally lives by comparisons. 
 <sup>2</sup>Equality is beyond its grasp, and charity becomes impossible. 
 <sup>3</sup>The ego never gives out of abundance, because it was made as a substitute for it. 
 <sup>4</sup>That is why the concept of ‘getting’ arose in the ego’s thought system. 
@@ -837,7 +837,7 @@ If you have a sense of abundance you can give with true charity. Ego giving is g
 
 #### expanded
 
-7.&emsp;The ego literally lives by comparisons. 
+7. The ego literally lives by comparisons. 
 <sup>2</sup>Equality is beyond its [the-ego’s] grasp, and charity becomes impossible. 
 <sup>3</sup>The ego never gives out of abundance, because it [the ego] was made as a substitute for it [abundance]. 
 <sup>4</sup>That is why the concept of ‘getting’ arose in the ego’s thought system. 
@@ -849,7 +849,7 @@ If you have a sense of abundance you can give with true charity. Ego giving is g
 
 #### substituted
 
-7.&emsp;The ego literally lives by comparisons. 
+7. The ego literally lives by comparisons. 
 <sup>2</sup>Equality is beyond the-ego’s grasp, and charity becomes impossible. 
 <sup>3</sup>The ego never gives out of abundance, because the ego was made as a substitute for abundance. 
 <sup>4</sup>That is why the concept of ‘getting’ arose in the ego’s thought system. 
@@ -866,7 +866,7 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 ## T-4.II.8
 
 <p class=fip id=p8>
-8.&emsp;The ego believes it is completely on its own, which is merely another way of describing how it thinks it originated. 
+8. The ego believes it is completely on its own, which is merely another way of describing how it thinks it originated. 
 <sup>2</sup>This is such a fearful state that it can only turn to other egos and try to unite with them in a feeble attempt at identification, or attack them in an equally feeble show of strength. 
 <sup>3</sup>It is not free, however, to open the premise to question, because the premise is its foundation. 
 <sup>4</sup>The ego is the mind’s belief that it is completely on its own. 
@@ -882,7 +882,7 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 
 #### expanded
 
-8.&emsp;The ego believes it [the ego] is completely on its [the-ego’s] own, which is merely another way of describing how it [the ego] thinks it [the ego] originated. 
+8. The ego believes it [the ego] is completely on its [the-ego’s] own, which is merely another way of describing how it [the ego] thinks it [the ego] originated. 
 <sup>2</sup>This [the ego believing the ego is on the-ego’s own] is such a fearful state that it [the ego] can only turn to other egos and try to unite with them [other egos] in a feeble attempt at identification, or attack them [other egos] in an equally feeble show of strength. 
 <sup>3</sup>It [the ego] is not free, however, to open the premise to question, because the premise is its [the-ego’s] foundation. 
 <sup>4</sup>The ego is the mind’s belief that it [the mind] is completely on its [the-mind’s] own. 
@@ -897,7 +897,7 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 
 #### substituted
 
-8.&emsp;The ego believes the ego is completely on the-ego’s own, which is merely another way of describing how the ego thinks the ego originated. 
+8. The ego believes the ego is completely on the-ego’s own, which is merely another way of describing how the ego thinks the ego originated. 
 <sup>2</sup>The ego believing the ego is on the-ego’s own is such a fearful state that the ego can only turn to other egos and try to unite with other egos in a feeble attempt at identification, or attack other egos in an equally feeble show of strength. 
 <sup>3</sup>The ego is not free, however, to open the premise to question, because the premise is the-ego’s foundation. 
 <sup>4</sup>The ego is the mind’s belief that the mind is completely on the-mind’s own. 
@@ -924,7 +924,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 ## T-4.II.9
 
 <p class=fip id=p9>
-9.&emsp;Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself. 
+9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself. 
 <sup>2</sup>Mythological systems generally include some account of ‘the creation,’ and associate this with its particular form of magic. 
 <sup>3</sup>The so-called ‘battle for survival’ is only the ego’s struggle to preserve itself, and its interpretation of its own beginning. 
 <sup>4</sup>This beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before that point in time. 
@@ -935,7 +935,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 
 #### expanded
 
-9.&emsp;Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself [the-ego’s-self]. 
+9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself [the-ego’s-self]. 
 <sup>2</sup>Mythological systems generally include some account of ‘the creation,’ and associate this [an account of the creation] with its [the-mythological-system’s] particular form of magic. 
 <sup>3</sup>The so-called ‘battle for survival’ is only the ego’s struggle to preserve itself [the-ego’s-self], and its [the-ego’s] interpretation of its [the-ego’s] own beginning. 
 <sup>4</sup>This [the ego’s] beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before that [physical birth] point in time. 
@@ -945,7 +945,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 
 #### substituted
 
-9.&emsp;Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to the-ego’s-self. 
+9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to the-ego’s-self. 
 <sup>2</sup>Mythological systems generally include some account of ‘the creation,’ and associate an account of the creation with the-mythological-system’s particular form of magic. 
 <sup>3</sup>The so-called ‘battle for survival’ is only the ego’s struggle to preserve the-ego’s-self, and the-ego’s interpretation of the-ego’s own beginning. 
 <sup>4</sup>The ego’s beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before the point in time of physical birth. 
@@ -960,7 +960,7 @@ Spirit does not need salvation for any reason.
 ## T-4.II.10
 
 <p class=fip id=p10>
-10.&emsp;Salvation is nothing more than ‘right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than ‘right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
 <sup>2</sup>Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 <sup>3</sup>The ego cannot survive without judgement, and is laid aside accordingly. 
 <sup>4</sup>The mind then has only one direction in which it can move. 
@@ -969,7 +969,7 @@ Spirit does not need salvation for any reason.
 
 #### expanded
 
-10.&emsp;Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
 <sup>2</sup>Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 <sup>3</sup>The ego cannot survive without judgement, and is laid aside accordingly. 
 <sup>4</sup>The mind then has only one direction in which it [the mind] can move. 
@@ -977,7 +977,7 @@ Spirit does not need salvation for any reason.
 
 #### substituted
 
-10.&emsp;Salvation is nothing more than ‘right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than ‘right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
 <sup>2</sup>Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 <sup>3</sup>The ego cannot survive without judgement, and is laid aside accordingly. 
 <sup>4</sup>The mind then has only one direction in which the mind can move. 
@@ -990,7 +990,7 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 ## T-4.II.11
 
 <p class=fip id=p11>
-11.&emsp;It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
 <sup>2</sup>It is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it. 
 <sup>3</sup>The whole value of right perception lies in the inevitable realisation that <em>all</em> perception is unnecessary. 
 <sup>4</sup>This removes the block entirely. 
@@ -1007,7 +1007,7 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 
 #### expanded
 
-11.&emsp;It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
 <sup>2</sup>It [correcting perception] is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it [knowledge]. 
 <sup>3</sup>The whole value of right perception lies in the inevitable realisation that <em>all</em> perception is unnecessary. 
 <sup>4</sup>This [realising all perception is unecessary] removes the block [to knowledge] entirely. 
@@ -1023,7 +1023,7 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 
 #### substituted
 
-11.&emsp;It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
 <sup>2</sup>Correcting perception is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards knowledge. 
 <sup>3</sup>The whole value of right perception lies in the inevitable realisation that <em>all</em> perception is unnecessary. 
 <sup>4</sup>Realising all perception is unecessary removes the block to knowledge entirely. 
@@ -1056,7 +1056,7 @@ Correct perception to be free of misperception. The use accurate perception to g
 ## T-4.III.1
 
 <p class=fip id=p1>
-1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
 <sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
@@ -1075,7 +1075,7 @@ Correct perception to be free of misperception. The use accurate perception to g
 
 #### expanded
 
-1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
 <sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
@@ -1094,7 +1094,7 @@ Correct perception to be free of misperception. The use accurate perception to g
 
 #### substituted
 
-1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
 <sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
@@ -1125,7 +1125,7 @@ The Kingdom of Heaven is you, because God created you. The kingdom you made is a
 ## T-4.III.2
 
 <p class=fip id=p2>
-2.&emsp;This is written in the form of a prayer because it is useful in moments of temptation. 
+2. This is written in the form of a prayer because it is useful in moments of temptation. 
 <sup>2</sup>It is a declaration of independence. 
 <sup>3</sup>You will find it very helpful if you understand it fully. 
 <sup>4</sup>The reason you need my help is because you have denied your own Guide and therefore need guidance. 
@@ -1135,7 +1135,7 @@ The Kingdom of Heaven is you, because God created you. The kingdom you made is a
 
 #### expanded
 
-2.&emsp;This [“The Kingdom is perfectly united and perfectly protected…” etc.] is written in the form of a prayer because it [the prayer] is useful in moments of temptation. 
+2. This [“The Kingdom is perfectly united and perfectly protected…” etc.] is written in the form of a prayer because it [the prayer] is useful in moments of temptation. 
 <sup>2</sup>It [the prayer] is a declaration of independence. 
 <sup>3</sup>You will find it [the prayer] very helpful if you understand it [the prayer] fully. 
 <sup>4</sup>The reason you need my help is because you have denied your own Guide and therefore need guidance. 
@@ -1144,7 +1144,7 @@ The Kingdom of Heaven is you, because God created you. The kingdom you made is a
 
 #### substituted
 
-2.&emsp;“The Kingdom is perfectly united and perfectly protected…” etc. is written in the form of a prayer because the prayer is useful in moments of temptation. 
+2. “The Kingdom is perfectly united and perfectly protected…” etc. is written in the form of a prayer because the prayer is useful in moments of temptation. 
 <sup>2</sup>The prayer is a declaration of independence. 
 <sup>3</sup>You will find the prayer very helpful if you understand the prayer fully. 
 <sup>4</sup>The reason you need my help is because you have denied your own Guide and therefore need guidance. 
@@ -1158,7 +1158,7 @@ The prayer above is useful in temptation. Try to understand the prayer. You need
 ## T-4.III.3
 
 <p class=fip id=p3>
-3.&emsp;It is surely apparent by now why the ego regards spirit as its ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as its ‘enemy’. 
 <sup>2</sup>The ego arose from the separation, and its continued existence depends on your continuing belief in the separation. 
 <sup>3</sup>The ego must offer you some sort of reward for maintaining this belief. 
 <sup>4</sup>All it can offer is a sense of temporary existence, which begins with its own beginning and ends with its own ending. 
@@ -1170,7 +1170,7 @@ The prayer above is useful in temptation. Try to understand the prayer. You need
 
 #### expanded
 
-3.&emsp;It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘enemy’. 
 <sup>2</sup>The ego arose from the separation, and its [the-ego’s] continued existence depends on your continuing belief in the separation. 
 <sup>3</sup>The ego must offer you some sort of reward for maintaining this belief [in the separation]. 
 <sup>4</sup>All it [the ego] can offer is a sense of temporary existence, which begins with its [the-ego’s] own beginning and ends with its [the-ego’s] own ending. 
@@ -1181,7 +1181,7 @@ The prayer above is useful in temptation. Try to understand the prayer. You need
 
 #### substituted
 
-3.&emsp;It is surely apparent by now why the ego regards spirit as the-ego’s ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as the-ego’s ‘enemy’. 
 <sup>2</sup>The ego arose from the separation, and the-ego’s continued existence depends on your continuing belief in the separation. 
 <sup>3</sup>The ego must offer you some sort of reward for maintaining belief in the separation. 
 <sup>4</sup>All the ego can offer is a sense of temporary existence, which (existence) begins with the-ego’s own beginning and ends with the-ego’s own ending. 
@@ -1197,7 +1197,7 @@ The ego arose from belief in separation. The ego is maintained by belief in sepa
 ## T-4.III.4
 
 <p class=fip id=p4>
-4.&emsp;You who identify with your ego cannot believe God loves you. 
+4. You who identify with your ego cannot believe God loves you. 
 <sup>2</sup>You do not love what you made, and what you made does not love you. 
 <sup>3</sup>Being made out of the denial of the Father, the ego has no allegiance to its maker. 
 <sup>4</sup>You cannot conceive of the real relationship that exists between God and His creations because of your hatred for the self you made. 
@@ -1209,7 +1209,7 @@ The ego arose from belief in separation. The ego is maintained by belief in sepa
 
 #### expanded
 
-4.&emsp;You who identify with your ego cannot believe God loves you. 
+4. You who identify with your ego cannot believe God loves you. 
 <sup>2</sup>You do not love what you made, and what you made does not love you. 
 <sup>3</sup>Being made out of the denial of the Father, the ego has no allegiance to its [the-ego’s] maker. 
 <sup>4</sup>You cannot conceive of the real relationship that exists between God and His [God’s] creations because of your hatred for the self you made. 
@@ -1220,7 +1220,7 @@ The ego arose from belief in separation. The ego is maintained by belief in sepa
 
 #### substituted
 
-4.&emsp;You who identify with your ego cannot believe God loves you. 
+4. You who identify with your ego cannot believe God loves you. 
 <sup>2</sup>You do not love what you made, and what you made does not love you. 
 <sup>3</sup>Being made out of the denial of the Father, the ego has no allegiance to the-ego’s maker. 
 <sup>4</sup>You cannot conceive of the real relationship that exists between God and God’s creations because of your hatred for the self you made. 
@@ -1236,7 +1236,7 @@ You want to love the ego because you made the ego. But at the same time you hate
 ## T-4.III.5
 
 <p class=fip id=p5>
-5.&emsp;There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it again. 
+5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it again. 
 <sup>2</sup>It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
 <sup>3</sup>The Bible gives many references to the immeasurable gifts which are for you, but for which you must ask. 
 <sup>4</sup>This is not a condition as the ego sets conditions. 
@@ -1245,7 +1245,7 @@ You want to love the ego because you made the ego. But at the same time you hate
 
 #### expanded
 
-5.&emsp;There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it [the experience] again. 
+5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it [the experience] again. 
 <sup>2</sup>It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
 <sup>3</sup>The Bible gives many references to the immeasurable gifts which are for you, but for which [gifts] you must ask. 
 <sup>4</sup>This [the condition that you must ask] is not a condition as the ego sets conditions. 
@@ -1253,7 +1253,7 @@ You want to love the ego because you made the ego. But at the same time you hate
 
 #### substituted
 
-5.&emsp;There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide the experience again. 
+5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide the experience again. 
 <sup>2</sup>It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
 <sup>3</sup>The Bible gives many references to the immeasurable gifts which are for you, but, for gifts, you must ask. 
 <sup>4</sup>The condition, that you must ask, is not a condition as the ego sets conditions. 
@@ -1266,7 +1266,7 @@ The experience is God is hidden by your belief in darkness. Ask and it will be g
 ## T-4.III.6
 
 <p class=fip id=p6>
-6.&emsp;No force except your own will is strong enough or worthy enough to guide you. 
+6. No force except your own will is strong enough or worthy enough to guide you. 
 <sup>2</sup>In this you are as free as God, and must remain so forever. 
 <sup>3</sup>Let us ask the Father in my name to keep you mindful of His Love for you and yours for Him. 
 <sup>4</sup>He has never failed to answer this request, because it asks only for what He has already willed. 
@@ -1276,7 +1276,7 @@ The experience is God is hidden by your belief in darkness. Ask and it will be g
 
 #### expanded
 
-6.&emsp;No force except your own will is strong enough or worthy enough to guide you. 
+6. No force except your own will is strong enough or worthy enough to guide you. 
 <sup>2</sup>In this [only your own will is strong enough for you] you are as free as God, and must remain so [as free as God] forever. 
 <sup>3</sup>Let us ask the Father in my name to keep you mindful of His [the Father’s] Love for you and yours [your love] for Him [God]. 
 <sup>4</sup>He [God] has never failed to answer this request [to keep you mindful of God’s love for you], because it [the request] asks only for what He [God] has already willed. 
@@ -1285,7 +1285,7 @@ The experience is God is hidden by your belief in darkness. Ask and it will be g
 
 #### substituted
 
-6.&emsp;No force except your own will is strong enough or worthy enough to guide you. 
+6. No force except your own will is strong enough or worthy enough to guide you. 
 <sup>2</sup>In that only your own will is strong enough for you, you are as free as God, and must remain as free as God forever. 
 <sup>3</sup>Let us ask the Father in my name to keep you mindful of the Father’s Love for you and your love for God. 
 <sup>4</sup>God has never failed to answer the request to keep you mindful of God’s Love for you, because the request asks only for what God has already willed. 
@@ -1299,16 +1299,16 @@ Your will is free. Ask to be kept mindful of God’s Love for you. God has alrea
 ## T-4.III.7
 
 <p class=fip id=p7>
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. <sup>8</sup>I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
+7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. <sup>8</sup>I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 </p>
 
 #### expanded
 
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it [the wall]. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around the wall]. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not [wait] in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
+7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it [the wall]. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around the wall]. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not [wait] in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 
 #### substituted
 
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around the wall. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to step around the wall. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not wait in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
+7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around the wall. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to step around the wall. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not wait in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 
 #### simplified
 
@@ -1329,7 +1329,7 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 ## T-4.III.8
 
 <p class=fip id=p8>
-8.&emsp;Watch carefully and see what it is you are really asking for. 
+8. Watch carefully and see what it is you are really asking for. 
 <sup>2</sup>Be very honest with yourself in this, for we must hide nothing from each other. 
 <sup>3</sup>If you will really try to do this, you have taken the first step toward preparing your mind for the Holy One to enter. 
 <sup>4</sup>We will prepare for this together, for once He has come, you will be ready to help me make other minds ready for Him. 
@@ -1338,7 +1338,7 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 
 #### expanded
 
-8.&emsp;Watch carefully and see what it is you are really asking for. 
+8. Watch carefully and see what it is you are really asking for. 
 <sup>2</sup>Be very honest with yourself in this [seeing what you are really asking for], for we must hide nothing from each other. 
 <sup>3</sup>If you will really try to do this [seeing what you are really asking for], you have taken the first step toward preparing your mind for the Holy One to enter. 
 <sup>4</sup>We will prepare for this [the Holy One to enter your mind] together, for once He [the Holy One] has come, you will be ready to help me make other minds ready for Him [the Holy One]. 
@@ -1346,7 +1346,7 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 
 #### substituted
 
-8.&emsp;Watch carefully and see what it is you are really asking for. 
+8. Watch carefully and see what it is you are really asking for. 
 <sup>2</sup>Be very honest with yourself in seeing what you are really asking for, for we must hide nothing from each other. 
 <sup>3</sup>If you will really try to see what you are really asking for, you have taken the first step toward preparing your mind for the Holy One to enter. 
 <sup>4</sup>We will prepare for the Holy One to enter your mind together, for once the Holy One has come, you will be ready to help me make other minds ready for the Holy One. 
@@ -1382,7 +1382,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 ## T-4.III.9
 
 <p class=fip id=p9>
-9.&emsp; In your own mind, though denied by the ego, is the declaration of your release. 
+9.  In your own mind, though denied by the ego, is the declaration of your release. 
 <sup>2</sup><em>God has given you everything</em>. 
 <sup>3</sup>This one fact means the ego does not exist, and this makes it profoundly afraid. 
 <sup>4</sup>In the ego’s language, ‘to have’ and ‘to be’ are different, but they are identical to the Holy Spirit. 
@@ -1393,7 +1393,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 
 #### expanded
 
-9.&emsp; In your own mind, though denied by the ego, is the declaration of your release. 
+9.  In your own mind, though denied by the ego, is the declaration of your release. 
 <sup>2</sup><em>God has given you everything</em>. 
 <sup>3</sup>This one fact [that God has given you everything] means the ego does not exist, and this [the ego not existing] makes it [the ego] profoundly afraid. 
 <sup>4</sup>In the ego’s language, ‘to have’ and ‘to be’ are different, but they [to have and to be] are identical to the Holy Spirit. 
@@ -1403,7 +1403,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 
 #### substituted
 
-9.&emsp; In your own mind, though denied by the ego, is the declaration of your release. 
+9.  In your own mind, though denied by the ego, is the declaration of your release. 
 <sup>2</sup><em>God has given you everything</em>. 
 <sup>3</sup>The one fact that God has given you everything, means the ego does not exist, and the ego not existing, makes the ego profoundly afraid. 
 <sup>4</sup>In the ego’s language, ‘to have’ and ‘to be’ are different, but to have and to be are identical to the Holy Spirit. 
@@ -1418,7 +1418,7 @@ God has already given you everything. What you have is what you are. The ego bel
 ## T-4.III.10
 
 <p class=fip id=p10>
-10.&emsp;The calm being of God’s Kingdom, which in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
+10. The calm being of God’s Kingdom, which in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
 <sup>2</sup>The ego is desperate because it opposes literally invincible odds, whether you are asleep or awake. 
 <sup>3</sup>Consider how much vigilance you have been willing to exert to protect your ego, and how little to protect your right mind. 
 <sup>4</sup>Who but the insane would undertake to believe what is not true, and then protect this belief at the cost of truth?
@@ -1426,14 +1426,14 @@ God has already given you everything. What you have is what you are. The ego bel
 
 #### expanded
 
-10.&emsp;The calm being of God’s Kingdom, which [calm being] in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
+10. The calm being of God’s Kingdom, which [calm being] in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
 <sup>2</sup>The ego is desperate because it [the ego] opposes literally invincible odds, whether you are asleep or awake. 
 <sup>3</sup>Consider how much vigilance you have been willing to exert to protect your ego, and how little [vigilance] to protect your right mind. 
 <sup>4</sup>Who but the insane would undertake to believe what is not true, and then protect this belief [in what is not true] at the cost of truth?
 
 #### substituted
 
-10.&emsp;The calm being of God’s Kingdom, calm being in your sane mind is perfectly conscious, calm being is ruthlessly banished from the part of the mind the ego rules. 
+10. The calm being of God’s Kingdom, calm being in your sane mind is perfectly conscious, calm being is ruthlessly banished from the part of the mind the ego rules. 
 <sup>2</sup>The ego is desperate because the ego opposes literally invincible odds, whether you are asleep or awake. 
 <sup>3</sup>Consider how much vigilance you have been willing to exert to protect your ego, and how little vigilance to protect your right mind. 
 <sup>4</sup>Who but the insane would undertake to believe what is not true, and then protect this belief in what is not true at the cost of truth?
@@ -1447,7 +1447,7 @@ God’s Kingdom is calm being. In your sane mind you are aware of calm being. Th
 ## T-4.in.1
 
 <p class=fip id=p1>
-1.&emsp;The Bible says that you should go with a brother twice as far as he asks. 
+1. The Bible says that you should go with a brother twice as far as he asks. 
 <sup>2</sup>It certainly does not suggest that you set him back on his journey. 
 <sup>3</sup>Devotion to a brother cannot set you back either. 
 <sup>4</sup>It can lead only to mutual progress. 
@@ -1459,7 +1459,7 @@ God’s Kingdom is calm being. In your sane mind you are aware of calm being. Th
 
 #### expanded
 
-1.&emsp;The Bible says that you should go with a brother twice as far as he [a brother] asks. 
+1. The Bible says that you should go with a brother twice as far as he [a brother] asks. 
 <sup>2</sup>It [the Bible] certainly does not suggest that you set him [a brother] back on his [a brother’s] journey. 
 <sup>3</sup>Devotion to a brother cannot set you back either. 
 <sup>4</sup>It [devotion to a brother] can lead only to mutual progress. 
@@ -1470,7 +1470,7 @@ God’s Kingdom is calm being. In your sane mind you are aware of calm being. Th
 
 #### substituted
 
-1.&emsp;The Bible says that you should go with a brother twice as far as a brother asks. 
+1. The Bible says that you should go with a brother twice as far as a brother asks. 
 <sup>2</sup>The Bible certainly does not suggest that you set a brother back on a brother’s journey. 
 <sup>3</sup>Devotion to a brother cannot set you back either. 
 <sup>4</sup>Devotion to a brother can lead only to mutual progress. 
@@ -1486,7 +1486,7 @@ Be devoted to your brother and you will both progress. Devotion will inspire you
 ## T-4.in.2
 
 <p class=fip id=p2>
-2.&emsp;You can speak from the spirit or from the ego, as you choose. 
+2. You can speak from the spirit or from the ego, as you choose. 
 <sup>2</sup>If you speak from spirit you have chosen to “Be still and know that I am God”. 
 <sup>3</sup>These words are inspired because they reflect knowledge. 
 <sup>4</sup>If you speak from the ego you are disclaiming knowledge instead of affirming it, and are thus dis-spiriting yourself. 
@@ -1496,7 +1496,7 @@ Be devoted to your brother and you will both progress. Devotion will inspire you
 
 #### expanded
 
-2.&emsp;You can speak from the spirit or from the ego, as you choose. 
+2. You can speak from the spirit or from the ego, as you choose. 
 <sup>2</sup>If you speak from spirit you have chosen to “Be still and know that I am God”. 
 <sup>3</sup>These words [“Be still and know that I am God”] are inspired because they [the words “Be still and know that I am God”] reflect knowledge. 
 <sup>4</sup>If you speak from the ego you are disclaiming knowledge instead of affirming it [knowledge], and are thus dis-spiriting yourself. 
@@ -1505,7 +1505,7 @@ Be devoted to your brother and you will both progress. Devotion will inspire you
 
 #### substituted
 
-2.&emsp;You can speak from the spirit or from the ego, as you choose. 
+2. You can speak from the spirit or from the ego, as you choose. 
 <sup>2</sup>If you speak from spirit you have chosen to “Be still and know that I am God”. 
 <sup>3</sup>The word “Be still and know that I am God” are inspired because the words “Be still and know that I am God” reflect knowledge. 
 <sup>4</sup>If you speak from the ego you are disclaiming knowledge instead of affirming knowledge, and are thus dis-spiriting yourself. 
@@ -1519,7 +1519,7 @@ Speak from the spirit. “Be still and know that I am God”. That is knowledge.
 ## T-4.in.3
 
 <p class=fip id=p3>
-3.&emsp;The journey to the cross should be the last “useless journey”. 
+3. The journey to the cross should be the last “useless journey”. 
 <sup>2</sup>Do not dwell upon it, but dismiss it as accomplished. 
 <sup>3</sup>If you can accept it as your own last useless journey, you are also free to join my resurrection. 
 <sup>4</sup>Until you do so your life is indeed wasted. 
@@ -1534,7 +1534,7 @@ Speak from the spirit. “Be still and know that I am God”. That is knowledge.
 
 #### expanded
 
-3.&emsp;The journey to the cross should be the last “useless journey”. 
+3. The journey to the cross should be the last “useless journey”. 
 <sup>2</sup>Do not dwell upon it [the journey to the cross], but dismiss it [the journey to the cross] as accomplished. 
 <sup>3</sup>If you can accept it [the journey to the cross] as your own last useless journey, you are also free to join my resurrection. 
 <sup>4</sup>Until you do so [join my resurrection] your life is indeed wasted. 
@@ -1548,7 +1548,7 @@ Speak from the spirit. “Be still and know that I am God”. That is knowledge.
 
 #### substituted
 
-3.&emsp;The journey to the cross should be the last “useless journey”. 
+3. The journey to the cross should be the last “useless journey”. 
 <sup>2</sup>Do not dwell upon the journey to the cross, but dismiss the journey to the cross as accomplished. 
 <sup>3</sup>If you can accept the journey to the cross as your own last useless journey, you are also free to join my resurrection. 
 <sup>4</sup>Until you join my resurrection your life is indeed wasted. 
@@ -1583,7 +1583,7 @@ The journey to the cross is the last useless journey. The journey to the cross h
 ## T-4.IV.1
 
 <p class=fip id=p1>
-1.&emsp;If you cannot hear the Voice for God, it is because you do not choose to listen. 
+1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
 <sup>2</sup>That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
 <sup>3</sup>Yet this is what you want. 
 <sup>4</sup>This is what you are fighting to keep, and what you are vigilant to save. 
@@ -1595,7 +1595,7 @@ The journey to the cross is the last useless journey. The journey to the cross h
 
 #### expanded
 
-1.&emsp;If you cannot hear the Voice for God, it is because you do not choose to listen. 
+1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
 <sup>2</sup>That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
 <sup>3</sup>Yet this [listening to your ego] is what you want. 
 <sup>4</sup>This [your ego] is what you are fighting to keep, and what you are vigilant to save. 
@@ -1606,7 +1606,7 @@ The journey to the cross is the last useless journey. The journey to the cross h
 
 #### substituted
 
-1.&emsp;If you cannot hear the Voice for God, it is because you do not choose to listen. 
+1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
 <sup>2</sup>That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
 <sup>3</sup>Yet listening to your ego is what you want. 
 <sup>4</sup>Your ego is what you are fighting to keep, and what you are vigilant to save. 
@@ -1624,7 +1624,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 ## T-4.IV.2
 
 <p class=fip id=p2>
-2.&emsp;I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you <em>can</em> change your mind. 
+2. I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you <em>can</em> change your mind. 
 <sup>2</sup>When your mood tells you that you have chosen wrongly, and this is so whenever you are not joyous, then <em>know this need not be</em> 
 <sup>3</sup>In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 <sup>4</sup>Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -1637,7 +1637,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 
 #### expanded
 
-2.&emsp;I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
+2. I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
 <sup>2</sup>When your mood tells you that you have chosen wrongly, and this [you choosing wrongly] is so whenever you are not joyous, then <em>know this [choosing wrongly] need not be</em> 
 <sup>3</sup>In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 <sup>4</sup>Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -1649,7 +1649,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 
 #### substituted
 
-2.&emsp;I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
+2. I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
 <sup>2</sup>When your mood tells you that you have chosen wrongly, and you choosing wrongly is so whenever you are not joyous, then <em>know choosing wrongly need not be</em> 
 <sup>3</sup>In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 <sup>4</sup>Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -1678,15 +1678,15 @@ You can change your mind. When you are not joyous you have chosen wrongly. Choos
 ## T-4.IV.3
 
 <p class=fip id=p3>
-3.&emsp;When you are sad, *know this need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.</p>
+3. When you are sad, *know this need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.</p>
 
 #### expanded
 
-3.&emsp;When you are sad, *know this [being sad] need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.
+3. When you are sad, *know this [being sad] need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.
 
 #### substituted
 
-3.&emsp;When you are sad, *know that being sad need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. 
+3. When you are sad, *know that being sad need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. 
 <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.
 
 #### simplified
@@ -1698,18 +1698,18 @@ You do not need to be sad. You can decide not to feel deprived.
 ## T-4.IV.4
 
 <p class=fip id=p4>
-4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
+4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
 <sup>2</sup>You can be as vigilant against the ego’s dictates as for them.
 </p>
 
 #### expanded
 
-4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
+4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
 <sup>2</sup>You can be as vigilant against the ego’s dictates as for them [the-ego’s-dictates].
 
 #### substituted
 
-4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
+4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
 <sup>2</sup>You can be as vigilant against the ego’s dictates as for the-ego’s-dictates.
 
 #### simplified
@@ -1721,7 +1721,7 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 ## T-4.IV.5
 
 <p class=fip id=p5>
-5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not. 
+5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not. 
 <sup>2</sup>Leave the ‘sins’ of the ego to me. 
 <sup>3</sup>That is what Atonement is for. 
 <sup>4</sup>But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
@@ -1731,7 +1731,7 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 
 #### expanded
 
-5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not [violated the laws of God]. 
+5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not [violated the laws of God]. 
 <sup>2</sup>Leave the ‘sins’ of the ego to me. 
 <sup>3</sup>That [leaving the sins of the ego to me] is what Atonement is for. 
 <sup>4</sup>But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
@@ -1740,7 +1740,7 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 
 #### substituted
 
-5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not violated the laws of God. 
+5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not violated the laws of God. 
 <sup>2</sup>Leave the ‘sins’ of the ego to me. 
 <sup>3</sup>Leaving the sins of the ego to me is what Atonement is for. 
 <sup>4</sup>But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
@@ -1756,7 +1756,7 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 ## T-4.IV.6
 
 <p class=fip id=p6>
-6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by it. 
+6. Watch your mind for the temptations of the ego, and do not be deceived by it. 
 <sup>2</sup>It offers you nothing. 
 <sup>3</sup>When you have given up this voluntary dis-spiriting, you will see how your mind can focus and rise above fatigue and heal. 
 <sup>4</sup>Yet you are not sufficiently vigilant against the demands of the ego to disengage yourself. 
@@ -1765,7 +1765,7 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 
 #### expanded
 
-6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by it [the ego]. 
+6. Watch your mind for the temptations of the ego, and do not be deceived by it [the ego]. 
 <sup>2</sup>It [the ego] offers you nothing. 
 <sup>3</sup>When you have given up this voluntary dis-spiriting, you will see how your mind can focus and rise above fatigue and heal. 
 <sup>4</sup>Yet you are not sufficiently vigilant against the demands of the ego to disengage yourself. 
@@ -1773,7 +1773,7 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 
 #### substituted
 
-6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by the ego. 
+6. Watch your mind for the temptations of the ego, and do not be deceived by the ego. 
 <sup>2</sup>The ego offers you nothing. 
 <sup>3</sup>When you have given up this voluntary dis-spiriting, you will see how your mind can focus and rise above fatigue and heal. 
 <sup>4</sup>Yet you are not sufficiently vigilant against the demands of the ego to disengage yourself. 
@@ -1788,7 +1788,7 @@ Do not be deceived by the ego. The ego tempts you but the ego offers nothing. Th
 ## T-4.IV.7
 
 <p class=fip id=p7>
-7.&emsp;The habit of engaging with God and His creations is easily made if you actively refuse to let your mind slip away. 
+7. The habit of engaging with God and His creations is easily made if you actively refuse to let your mind slip away. 
 <sup>2</sup>The problem is not one of concentration; it is the belief that no one, including yourself, is worth consistent effort. 
 <sup>3</sup>Side with me consistently against this deception, and do not permit this shabby belief to pull you back. 
 <sup>4</sup>The disheartened are useless to themselves and to me, but only the ego can *be* disheartened.
@@ -1796,14 +1796,14 @@ Do not be deceived by the ego. The ego tempts you but the ego offers nothing. Th
 
 #### expanded
 
-7.&emsp;The habit of engaging with God and His [God’s] creations is easily made if you actively refuse to let your mind slip away. 
+7. The habit of engaging with God and His [God’s] creations is easily made if you actively refuse to let your mind slip away. 
 <sup>2</sup>The problem is not one of concentration; it [the problem] is the belief that no one, including yourself, is worth consistent effort. 
 <sup>3</sup>Side with me consistently against this deception [that no one is worth consistent effort], and do not permit this shabby belief [that no one is worth consistent effort] to pull you back. 
 <sup>4</sup>The disheartened are useless to themselves and [useless] to me, but only the ego can *be* disheartened.
 
 #### substituted
 
-7.&emsp;The habit of engaging with God and God’s creations is easily made if you actively refuse to let your mind slip away. 
+7. The habit of engaging with God and God’s creations is easily made if you actively refuse to let your mind slip away. 
 <sup>2</sup>The problem is not one of concentration; the problem is the belief that no one, including yourself, is worth consistent effort. 
 <sup>3</sup>Side with me consistently against the deception that no one is worth consistent effort, and do not permit the shabby belief that no one is worth consistent effort to pull you back. 
 <sup>4</sup>The disheartened are useless to themselves and useless to me, but only the ego can *be* disheartened.
@@ -1817,7 +1817,7 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 ## T-4.IV.8
 
 <p class=fip id=p8>
-8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many of them you have refused? 
+8. Have you really considered how many opportunities you have had to gladden yourself, and how many of them you have refused? 
 <sup>2</sup>There is no limit to the power of a Son of God, but he can limit the expression of his power as much as he chooses. 
 <sup>3</sup>Your mind and mine can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 <sup>4</sup>Do not settle for anything less than this, and refuse to accept anything but this as your goal. 
@@ -1831,7 +1831,7 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 
 #### expanded
 
-8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many of them [opportunities to gladden yourself] you have refused? 
+8. Have you really considered how many opportunities you have had to gladden yourself, and how many of them [opportunities to gladden yourself] you have refused? 
 <sup>2</sup>There is no limit to the power of a Son of God, but he [a Son of God] can limit the expression of his [a-Son-of-God’s] power as much as he [a Son of God] chooses. 
 <sup>3</sup>Your mind and mine [my mind] can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 <sup>4</sup>Do not settle for anything less than this [the strength of God], and refuse to accept anything but this [the strength of God] as your goal. 
@@ -1844,7 +1844,7 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 
 #### substituted
 
-8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused? 
+8. Have you really considered how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused? 
 <sup>2</sup>There is no limit to the power of a Son of God, but a Son of God can limit the expression of a-Son-of-God’s power as much as a Son of God chooses. 
 <sup>3</sup>Your mind and my mind can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 <sup>4</sup>Do not settle for anything less than the strength of God, and refuse to accept anything but the strength of God as your goal. 
@@ -1875,7 +1875,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
 ## T-4.IV.9
 
 <p class=fip id=p9>
-9.&emsp;You are a mirror of truth, in which God Himself shines in perfect light. 
+9. You are a mirror of truth, in which God Himself shines in perfect light. 
 <sup>2</sup>To the ego’s dark glass you need but say, “I will not look there because I know these images are not true”. 
 <sup>3</sup>Then let the Holy One shine on you in peace, knowing that this and only this must be. 
 <sup>4</sup>His Mind shone on you in your creation and brought your mind into being. 
@@ -1885,7 +1885,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
 
 #### expanded
 
-9.&emsp;You are a mirror of truth, in which [mirror] God Himself [God’s-Self] shines in perfect light. 
+9. You are a mirror of truth, in which [mirror] God Himself [God’s-Self] shines in perfect light. 
 <sup>2</sup>To the ego’s dark glass you need but [only] say, “I will not look there [the ego’s dark glass] because I know these [ego’s] images are not true”. 
 <sup>3</sup>Then let the Holy One shine on you in peace, knowing that this [the Holy one shining on you in peace] and only this [the Holy one shining on you in peace] must be. 
 <sup>4</sup>His [the-Holy-One’s] Mind shone on you in your creation and brought your mind into being. 
@@ -1894,7 +1894,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
 
 #### substituted
 
-9.&emsp;You are a mirror of truth; in a mirror of truth God’s-Self shines in perfect light. 
+9. You are a mirror of truth; in a mirror of truth God’s-Self shines in perfect light. 
 <sup>2</sup>To the ego’s dark glass you need only say, “I will not look at the ego’s dark glass, because I know the ego’s images are not true”. 
 <sup>3</sup>Then let the Holy One shine on you in peace, knowing that the Holy one shining on you in peace must be, and only the Holy one shining on you in peace must be. 
 <sup>4</sup>The-Holy-One’s Mind shone on you in your creation and brought your mind into being. 
@@ -1909,7 +1909,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 ## T-4.IV.10
 
 <p class=fip id=p10>
-10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
+10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 <sup>2</sup>The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 <sup>3</sup>I was created like you in the First, and I have called you to join with me in the Second. 
 <sup>4</sup>I am in charge of the Second Coming, and my judgement, which is used only for protection, cannot be wrong because it never attacks. 
@@ -1922,7 +1922,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 
 #### expanded
 
-10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
+10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 <sup>2</sup>The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 <sup>3</sup>I was created like you in the First [Coming], and I have called you to join with me in the Second [Coming]. 
 <sup>4</sup>I am in charge of the Second Coming, and my judgement, which [judgement] is used only for protection, cannot be wrong because it [my judgement] never attacks. 
@@ -1934,7 +1934,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 
 #### substituted
 
-10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
+10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 <sup>2</sup>The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 <sup>3</sup>I was created like you in the First Coming, and I have called you to join with me in the Second Coming. 
 <sup>4</sup>I am in charge of the Second Coming; my judgement is used only for protection; my judgement cannot be wrong because my judgement never attacks. 
@@ -1963,7 +1963,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 ## T-4.IV.11
 
 <p class=fip id=p11>
-11.&emsp;I do not attack your ego. 
+11. I do not attack your ego. 
 <sup>2</sup>I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego does with your lower mind, which is its home. 
 <sup>3</sup>I am your vigilance in this, because you are too confused to recognise your own hope. 
 <sup>4</sup>I am not mistaken. 
@@ -1979,7 +1979,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 
 #### expanded
 
-11.&emsp;I do not attack your ego. 
+11. I do not attack your ego. 
 <sup>2</sup>I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego does [work] with your lower mind, which [mind] is its [your ego’s] home. 
 <sup>3</sup>I am your vigilance in this [working with your mind], because you are too confused to recognise your own hope. 
 <sup>4</sup>I am not mistaken. 
@@ -1994,7 +1994,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 
 #### substituted
 
-11.&emsp;I do not attack your ego. 
+11. I do not attack your ego. 
 <sup>2</sup>I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego works with your lower mind, lower mind is your ego’s home. 
 <sup>3</sup>I am your vigilance in working with your mind, because you are too confused to recognise your own hope. 
 <sup>4</sup>I am not mistaken. 
@@ -2032,7 +2032,7 @@ I do not attack your ego. I help you keep vigilance in working with your higher 
 ## T-4.I.1
 
 <p class=fip id=p1>
-1.&emsp;A good teacher clarifies his own ideas and strengthens them by teaching them. 
+1. A good teacher clarifies his own ideas and strengthens them by teaching them. 
 <sup>2</sup>Teacher and pupil are alike in the learning process. 
 <sup>3</sup>They are in the same order of learning, and unless they share their lessons conviction will be lacking. 
 <sup>4</sup>A good teacher must believe in the ideas he teaches, but he must meet another condition: he must believe in the students to whom he offers the ideas.
@@ -2040,14 +2040,14 @@ I do not attack your ego. I help you keep vigilance in working with your higher 
 
 #### expanded
 
-1.&emsp;A good teacher clarifies his [teacher’s] own ideas and strengthens them [teacher’s own ideas] by teaching them [teacher’s own ideas]. 
+1. A good teacher clarifies his [teacher’s] own ideas and strengthens them [teacher’s own ideas] by teaching them [teacher’s own ideas]. 
 <sup>2</sup>Teacher and pupil are alike in the learning process. 
 <sup>3</sup>They [teacher and pupil] are in the same order of learning, and unless they [teacher and pupil] share their [teacher’s-and-pupil’s] lessons conviction will be lacking. 
 <sup>4</sup>A good teacher must believe in the ideas he [teacher] teaches, but he [teacher] must meet another condition: he [teacher] must believe in the students to whom he [teacher] offers the ideas.
 
 #### substituted
 
-1.&emsp;A good teacher clarifies teacher’s own ideas and strengthens teacher’s own ideas by teaching teacher’s own ideas. 
+1. A good teacher clarifies teacher’s own ideas and strengthens teacher’s own ideas by teaching teacher’s own ideas. 
 <sup>2</sup>Teacher and pupil are alike in the learning process. 
 <sup>3</sup>Teacher and pupil are in the same order of learning, and unless teacher and pupil share teacher’s-and-pupil’s lessons conviction will be lacking. 
 <sup>4</sup>A good teacher must believe in the ideas teacher teaches, but teacher must meet another condition: teacher must believe in the students to whom teacher offers the ideas.
@@ -2059,7 +2059,7 @@ Lessons are shared between teachers and pupils. Teachers and pupils must believe
 ## T-4.I.2
 
 <p class=fip id=p2>
-2.&emsp;Many stand guard over their ideas because they want to protect their thought systems as they are, and learning means change. 
+2. Many stand guard over their ideas because they want to protect their thought systems as they are, and learning means change. 
 <sup>2</sup>Change is always fearful to the separated, because they cannot conceive of it as a move towards healing the separation. 
 <sup>3</sup>They always perceive it as a move toward further separation, because the separation was their first experience of change. 
 <sup>4</sup>You believe that if you allow no change to enter into your ego you will find peace. 
@@ -2077,7 +2077,7 @@ Lessons are shared between teachers and pupils. Teachers and pupils must believe
 
 #### expanded
 
-2.&emsp;Many stand guard over their [many’s] ideas because they [many] want to protect their [many’s] thought systems as they [many] are, and learning means change. 
+2. Many stand guard over their [many’s] ideas because they [many] want to protect their [many’s] thought systems as they [many] are, and learning means change. 
 <sup>2</sup>Change is always fearful to the separated, because they [the seperated] cannot conceive of it [change] as a move towards healing the separation. 
 <sup>3</sup>They [the seperated] always perceive it [change] as a move toward further separation, because the separation was their [the seperated’s] first experience of change. 
 <sup>4</sup>You believe that if you allow no change to enter into your ego you will find peace. 
@@ -2094,7 +2094,7 @@ Lessons are shared between teachers and pupils. Teachers and pupils must believe
 
 #### substituted
 
-2.&emsp;Many stand guard over many’s ideas because they many want to protect many’s thought systems as many are, and learning means change. 
+2. Many stand guard over many’s ideas because they many want to protect many’s thought systems as many are, and learning means change. 
 <sup>2</sup>Change is always fearful to the separated, because the seperated cannot conceive of it change as a move towards healing the separation. 
 <sup>3</sup>The seperated always perceive it change as a move toward further separation, because the separation was the seperated’s first experience of change. 
 <sup>4</sup>You believe that if you allow no change to enter into your ego you will find peace. 
@@ -2116,7 +2116,7 @@ Changing your thought system is needed to heal the separation. Change is fearful
 ## T-4.I.3
 
 <p class=fip id=p3>
-3.&emsp;Spirit need not be taught, but the ego must be. 
+3. Spirit need not be taught, but the ego must be. 
 <sup>2</sup>Learning is ultimately perceived as frightening because it leads to the relinquishment, not the destruction, of the ego to the light of spirit. 
 <sup>3</sup>This is the change the ego must fear, because it does not share my charity. 
 <sup>4</sup>My lesson was like yours, and because I learned it I can teach it. 
@@ -2126,7 +2126,7 @@ Changing your thought system is needed to heal the separation. Change is fearful
 
 #### expanded
 
-3.&emsp;Spirit need not be taught, but the ego must be [taught]. 
+3. Spirit need not be taught, but the ego must be [taught]. 
 <sup>2</sup>Learning is ultimately perceived as frightening because it [learning] leads to the relinquishment, not the destruction, of the ego to the light of spirit. 
 <sup>3</sup>This [relinquishment of the ego] is the change the ego must fear, because it [the ego] does not share my charity. 
 <sup>4</sup>My lesson was like yours [your lesson], and because I learned it [my lesson] I can teach it [my lesson]. 
@@ -2135,7 +2135,7 @@ Changing your thought system is needed to heal the separation. Change is fearful
 
 #### substituted
 
-3.&emsp;Spirit need not be taught, but the ego must be taught. 
+3. Spirit need not be taught, but the ego must be taught. 
 <sup>2</sup>Learning is ultimately perceived as frightening because learning leads to the relinquishment, not the destruction, of the ego to the light of spirit. 
 <sup>3</sup>Relinquishment of the ego is the change the ego must fear, because the ego does not share my charity. 
 <sup>4</sup>My lesson was like your lesson, and because I learned my lesson I can teach my lesson. 
@@ -2149,7 +2149,7 @@ The ego must be relinquished. The ego responds with fear.
 ## T-4.I.4
 
 <p class=fip id=p4>
-4.&emsp;Teaching and learning are your greatest strengths now, because they enable you to change your mind and help others to change theirs. 
+4. Teaching and learning are your greatest strengths now, because they enable you to change your mind and help others to change theirs. 
 <sup>2</sup>Refusing to change your mind will not prove that the separation has not occurred. 
 <sup>3</sup>The dreamer who doubts the reality of his dream while he is still dreaming is not really healing his split mind. 
 <sup>4</sup>You dream of a separated ego and believe in a world that rests upon it. 
@@ -2160,7 +2160,7 @@ The ego must be relinquished. The ego responds with fear.
 
 #### expanded
 
-4.&emsp;Teaching and learning are your greatest strengths now, because they [teaching and learning] enable you to change your mind and help others to change theirs [others’ minds]. 
+4. Teaching and learning are your greatest strengths now, because they [teaching and learning] enable you to change your mind and help others to change theirs [others’ minds]. 
 <sup>2</sup>Refusing to change your mind will not prove that the separation has not occurred. 
 <sup>3</sup>The dreamer who doubts the reality of his [dreamer’s] dream while he [dreamer] is still dreaming is not really healing his [dreamer’s] split mind. 
 <sup>4</sup>You dream of a separated ego and believe in a world that rests upon it [a separated ego]. 
@@ -2170,7 +2170,7 @@ The ego must be relinquished. The ego responds with fear.
 
 #### substituted
 
-4.&emsp;Teaching and learning are your greatest strengths now, because teaching and learning enable you to change your mind and help others to change others’ minds. 
+4. Teaching and learning are your greatest strengths now, because teaching and learning enable you to change your mind and help others to change others’ minds. 
 <sup>2</sup>Refusing to change your mind will not prove that the separation has not occurred. 
 <sup>3</sup>The dreamer who doubts the reality of dreamer’s dream while dreamer is still dreaming is not really healing dreamer’s split mind. 
 <sup>4</sup>You dream of a separated ego and believe in a world that rests upon a separated ego. 
@@ -2185,7 +2185,7 @@ You need to learn to heal your split mind. Your split mind dreams of a separated
 ## T-4.I.5
 
 <p class=fip id=p5>
-5.&emsp;Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
+5. Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
 <sup>2</sup>This [to be not needed] is the one true goal of the teacher. 
 <sup>3</sup>It is impossible to convince the ego of this [the true goal is to be not needed], because it [being not needed] goes against all of its [ego’s] own laws. 
 <sup>4</sup>But remember that laws are set up to protect the continuity of the system in which [system] the lawmaker believes. 
@@ -2196,7 +2196,7 @@ You need to learn to heal your split mind. Your split mind dreams of a separated
 
 #### expanded
 
-5.&emsp;Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
+5. Every good teacher hopes to give his [teacher’s] students so much of his [teacher’s] own learning that they [teacher’s students] will one day no longer need him [teacher]. 
 <sup>2</sup>This [to be not needed] is the one true goal of the teacher. 
 <sup>3</sup>It is impossible to convince the ego of this [the true goal is to be not needed], because it [being not needed] goes against all of its [ego’s] own laws. 
 <sup>4</sup>But remember that laws are set up to protect the continuity of the system in which [system] the lawmaker believes. 
@@ -2206,7 +2206,7 @@ You need to learn to heal your split mind. Your split mind dreams of a separated
 
 #### substituted
 
-5.&emsp;Every good teacher hopes to give teacher’s students so much of teacher’s own learning that teacher’s students will one day no longer need teacher. 
+5. Every good teacher hopes to give teacher’s students so much of teacher’s own learning that teacher’s students will one day no longer need teacher. 
 <sup>2</sup>To be not needed is the one true goal of the teacher. 
 <sup>3</sup>It is impossible to convince the ego the true goal is to be not needed, because being not needed goes against all of ego’s own laws. 
 <sup>4</sup>But remember that laws are set up to protect the continuity of the system, the system the lawmaker believes. 
@@ -2221,7 +2221,7 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 ## T-4.I.6
 
 <p class=fip id=p6>
-6.&emsp;Egos can clash in any situation, but spirit cannot clash at all. 
+6. Egos can clash in any situation, but spirit cannot clash at all. 
 <sup>2</sup>If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 <sup>3</sup>I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 <sup>4</sup>This is the opposite of the ego-oriented teacher’s goal. 
@@ -2232,7 +2232,7 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 
 #### expanded
 
-6.&emsp;Egos can clash in any situation, but spirit cannot clash at all. 
+6. Egos can clash in any situation, but spirit cannot clash at all. 
 <sup>2</sup>If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 <sup>3</sup>I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 <sup>4</sup>This [absolving you from the need for a teacher] is the opposite of the ego-oriented teacher’s goal. 
@@ -2242,7 +2242,7 @@ The ego makes laws that enable the ego to protect itself. You do not have to obe
 
 #### substituted
 
-6.&emsp;Egos can clash in any situation, but spirit cannot clash at all. 
+6. Egos can clash in any situation, but spirit cannot clash at all. 
 <sup>2</sup>If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 <sup>3</sup>I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 <sup>4</sup>Absolving you from the need for a teacher is the opposite of the ego-oriented teacher’s goal. 
@@ -2265,7 +2265,7 @@ Perceiving larger egos creates extra anxiety. When an ego perceive other egos, t
 ## T-4.I.7
 
 <p class=fip id=p7>
-7.&emsp;Your worth is not established by teaching or learning. 
+7. Your worth is not established by teaching or learning. 
 <sup>2</sup>Your worth is established by God. 
 <sup>3</sup>As long as you dispute this everything you do will be fearful, particularly any situation that lends itself to the belief in superiority and inferiority. 
 <sup>4</sup>Teachers must be patient and repeat their lessons until they are learned. 
@@ -2279,7 +2279,7 @@ Perceiving larger egos creates extra anxiety. When an ego perceive other egos, t
 
 #### expanded
 
-7.&emsp;Your worth is not established by teaching or learning. 
+7. Your worth is not established by teaching or learning. 
 <sup>2></sup>Your worth is established by God. 
 <sup>3></sup>As long as you dispute this [that your worth is established by God] everything you do will be fearful, particularly any situation that lends itself [situation’s self] to the belief in superiority and inferiority. 
 <sup>4></sup>Teachers must be patient and repeat their [teacher’s] lessons until they [teacher’s lessons] are learned. 
@@ -2292,7 +2292,7 @@ Perceiving larger egos creates extra anxiety. When an ego perceive other egos, t
 
 #### substituted
 
-7.&emsp;Your worth is not established by teaching or learning. 
+7. Your worth is not established by teaching or learning. 
 <sup>2></sup>Your worth is established by God. 
 <sup>3></sup>As long as you dispute that your worth is established by God everything you do will be fearful, particularly any situation that lends situation’s self to the belief in superiority and inferiority. 
 <sup>4></sup>Teachers must be patient and repeat teacher’s lessons until teacher’s lessons are learned. 
@@ -2310,7 +2310,7 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 ## T-4.I.8
 
 <p class=fip id=p8>
-8.&emsp;The ego tries to exploit all situations into forms of praise for itself in order to overcome its doubts. 
+8. The ego tries to exploit all situations into forms of praise for itself in order to overcome its doubts. 
 <sup>2</sup>It will remain doubtful as long as you believe in its existence. 
 <sup>3</sup>You who made it cannot trust it, because in your right mind you realise it is not real. 
 <sup>4</sup>The only sane solution is not to try to change reality, which is indeed a fearful attempt, but to accept it as it is. 
@@ -2321,7 +2321,7 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 
 #### expanded
 
-8.&emsp;The ego tries to exploit all situations into forms of praise for itself [the-ego’s-self] in order to overcome its [the-ego’s] doubts. 
+8. The ego tries to exploit all situations into forms of praise for itself [the-ego’s-self] in order to overcome its [the-ego’s] doubts. 
 <sup>2</sup>It [the ego] will remain doubtful as long as you believe in its [the-ego’s] existence. 
 <sup>3</sup>You who made it [the ego] cannot trust it [the ego], because in your right mind you realise it [the ego] is not real. 
 <sup>4</sup>The only sane solution is not to try to change reality, which [trying to change reality] is indeed a fearful attempt, but to accept it [reality] as it [reality] is. 
@@ -2331,7 +2331,7 @@ Your worth does not depend on what you learn or what you teach. God establishes 
 
 #### substituted
 
-8.&emsp;The ego tries to exploit all situations into forms of praise for the-ego’s-self in order to overcome the-ego’s doubts. 
+8. The ego tries to exploit all situations into forms of praise for the-ego’s-self in order to overcome the-ego’s doubts. 
 <sup>2</sup>The ego will remain doubtful as long as you believe in the-ego’s existence. 
 <sup>3</sup>You who made the ego cannot trust the ego, because in your right mind you realise the ego is not real. 
 <sup>4</sup>The only sane solution is not to try to change reality, trying to change reality is indeed a fearful attempt, but to accept reality as reality is. 
@@ -2354,7 +2354,7 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 ## T-4.I.9
 
 <p class=fip id=p9>
-9.&emsp;God is not the author of fear. 
+9. God is not the author of fear. 
 <sup>2</sup>You are. 
 <sup>3</sup>You have chosen to create unlike Him, and have therefore made fear for yourself. 
 <sup>4</sup>You are not at peace because you are not fulfilling your function. 
@@ -2369,7 +2369,7 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 
 #### expanded
 
-9.&emsp;God is not the author of fear. 
+9. God is not the author of fear. 
 <sup>2</sup>You are [the author of fear]. 
 <sup>3</sup>You have chosen to create unlike Him [God], and have therefore made fear for yourself. 
 <sup>4</sup>You are not at peace because you are not fulfilling your function. 
@@ -2383,7 +2383,7 @@ You made the ego. The ego is not real. Accept reality. Reality is: God is Real, 
 
 #### substituted
 
-9.&emsp;God is not the author of fear. 
+9. God is not the author of fear. 
 <sup>2</sup>You are the author of fear. 
 <sup>3</sup>You have chosen to create unlike God, and have therefore made fear for yourself. 
 <sup>4</sup>You are not at peace because you are not fulfilling your function. 
@@ -2410,7 +2410,7 @@ You create fear by choosing to create unlike God. It is unbelievable that you co
 ## T-4.I.10
 
 <p class=fip id=p10>
-10.&emsp;The ego is afraid of the spirit’s joy, because once you have experienced it you will withdraw all protection from the ego, and become totally without investment in fear. 
+10. The ego is afraid of the spirit’s joy, because once you have experienced it you will withdraw all protection from the ego, and become totally without investment in fear. 
 <sup>2</sup>Your investment is great now because fear is a witness to the separation, and your ego rejoices when you witness to it. 
 <sup>3</sup>Leave it behind! 
 <sup>4</sup>Do not listen to it and do not preserve it. 
@@ -2421,7 +2421,7 @@ You create fear by choosing to create unlike God. It is unbelievable that you co
 
 #### expanded
 
-10.&emsp;The ego is afraid of the spirit’s joy, because once you have experienced it [the spirit’s joy] you will withdraw all protection from the ego, and become totally without investment in fear. 
+10. The ego is afraid of the spirit’s joy, because once you have experienced it [the spirit’s joy] you will withdraw all protection from the ego, and become totally without investment in fear. 
 <sup>2</sup>Your investment is great now because fear is a witness to the separation, and your ego rejoices when you witness to it [the separation]. 
 <sup>3</sup>Leave it [the ego] behind! 
 <sup>4</sup>Do not listen to it [the ego] and do not preserve it [the ego]. 
@@ -2431,7 +2431,7 @@ You create fear by choosing to create unlike God. It is unbelievable that you co
 
 #### substituted
 
-10.&emsp;The ego is afraid of the spirit’s joy, because once you have experienced the spirit’s joy you will withdraw all protection from the ego, and become totally without investment in fear. 
+10. The ego is afraid of the spirit’s joy, because once you have experienced the spirit’s joy you will withdraw all protection from the ego, and become totally without investment in fear. 
 <sup>2</sup>Your investment is great now because fear is a witness to the separation, and your ego rejoices when you witness to the separation. 
 <sup>3</sup>Leave the ego behind! 
 <sup>4</sup>Do not listen to the ego and do not preserve the ego. 
@@ -2446,7 +2446,7 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 ## T-4.I.11
 
 <p class=fip id=p11>
-11.&emsp;The ego has built a shabby and unsheltering home for you, because it cannot build otherwise. 
+11. The ego has built a shabby and unsheltering home for you, because it cannot build otherwise. 
 <sup>2</sup>Do not try to make this impoverished house stand. 
 <sup>3</sup>Its weakness is your strength. 
 <sup>4</sup>Only God could make a home that is worthy of His creations, who have chosen to leave it empty by their own dispossession. 
@@ -2457,7 +2457,7 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 
 #### expanded
 
-11.&emsp;The ego has built a shabby and unsheltering home for you, because it [the ego] cannot build otherwise [than shabby and unsheltering]. 
+11. The ego has built a shabby and unsheltering home for you, because it [the ego] cannot build otherwise [than shabby and unsheltering]. 
 <sup>2</sup>Do not try to make this [the ego’s] impoverished house stand. 
 <sup>3</sup>Its [the-ego’s-house’s] weakness is your strength. 
 <sup>4</sup>Only God could make a home that is worthy of His [God’s] creations, who [God’s-creations] have chosen to leave it [God’s-home] empty by their [God’s-creations’] own dispossession. 
@@ -2467,7 +2467,7 @@ Do not witness to separation. Do not preserve the ego. Listen to God. Release yo
 
 #### substituted
 
-11.&emsp;The ego has built a shabby and unsheltering home for you, because the ego cannot build other than shabby and unsheltering. 
+11. The ego has built a shabby and unsheltering home for you, because the ego cannot build other than shabby and unsheltering. 
 <sup>2</sup>Do not try to make the ego’s impoverished house stand. 
 <sup>3</sup>The-ego’s-house’s weakness is your strength. 
 <sup>4</sup>Only God could make a home that is worthy of God’s creations, God’s-creations have chosen to leave God’s-home empty by God’s-creations’ own dispossession. 
@@ -2490,7 +2490,7 @@ The ego’s house is shabby, unsheltering and impoverished. Only the home God ma
 ## T-4.I.12
 
 <p class=fip id=p12>
-12.&emsp; Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both. 
+12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both. 
 <sup>2</sup>Humility is a lesson for the ego, not for the spirit. 
 <sup>3</sup>Spirit is beyond humility, because it recognises its radiance and gladly sheds its light everywhere. 
 <sup>4</sup>The meek shall inherit the earth because their egos are humble, and this gives them truer perception. 
@@ -2500,7 +2500,7 @@ The ego’s house is shabby, unsheltering and impoverished. Only the home God ma
 
 #### expanded
 
-12.&emsp; Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both [yourself and others]. 
+12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both [yourself and others]. 
 <sup>2</sup>Humility is a lesson for the ego, not [a lesson] for the spirit. 
 <sup>3</sup>Spirit is beyond humility, because it [spirit] recognises its [spirit’s] radiance and gladly sheds its [spirit’s] light everywhere. 
 <sup>4</sup>The meek shall inherit the earth because their [the meek’s] egos are humble, and this [having a humble ego] gives them [the meek] truer perception. 
@@ -2509,7 +2509,7 @@ The ego’s house is shabby, unsheltering and impoverished. Only the home God ma
 
 #### substituted
 
-12.&emsp; Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of yourself and others. 
+12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of yourself and others. 
 <sup>2</sup>Humility is a lesson for the ego, not a lesson for the spirit. 
 <sup>3</sup>Spirit is beyond humility, because spirit recognises spirit’s radiance and gladly sheds spirit’s light everywhere. 
 <sup>4</sup>The meek shall inherit the earth because the meek’s egos are humble, and having a humble ego gives the meek truer perception. 
@@ -2523,7 +2523,7 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 ## T-4.I.13
 
 <p class=fip id=p13>
-13.&emsp;I will substitute for your ego if you wish, but never for your spirit. 
+13. I will substitute for your ego if you wish, but never for your spirit. 
 <sup>2</sup>A father can safely leave a child with an elder brother who has shown himself responsible, but this involves no confusion about the child’s origin. 
 <sup>3</sup>The brother can protect the child’s body and his ego, but he does not confuse himself with the father because he does this. 
 <sup>4</sup>I can be entrusted with your body and your ego only because this enables you not to be concerned with them, and lets me teach you their unimportance. 
@@ -2541,7 +2541,7 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 #### expanded
 
 <p>
-13.&emsp;I will substitute for your ego if you wish, but never [will i substitute] for your spirit. 
+13. I will substitute for your ego if you wish, but never [will i substitute] for your spirit. 
 <sup>2</sup>A father can safely leave a child with an elder brother who has shown himself [elder-brother’s-self] responsible, but this [leaving a child with an elder brother] involves no confusion about the child’s origin. 
 <sup>3</sup>The brother can protect the child’s body and his [the child’s] ego, but he [the brother] does not confuse himself [the-brother’s-self] with the father because he [the brother] does this [protects the child’s body and ego]. 
 <sup>4</sup>I can be entrusted with your body and your ego only because this [being entrusted with your body and ego] enables you not to be concerned with them [your body and ego], and lets me teach you their [your-body’s-and-ego’s] unimportance. 
@@ -2559,7 +2559,7 @@ Your ego cannot save you or others. Your spirit can do everything to save yourse
 #### substituted
 
 <p>
-13.&emsp;I will substitute for your ego if you wish, but never will i substitute for your spirit. 
+13. I will substitute for your ego if you wish, but never will i substitute for your spirit. 
 <sup>2</sup>A father can safely leave a child with an elder brother who has shown elder-brother’s-self responsible, but leaving a child with an elder brother involves no confusion about the child’s origin. 
 <sup>3</sup>The brother can protect the child’s body and the child’s ego, but the brother does not confuse the-brother’s-self with the father (because the brother  protects the child’s body and ego). 
 <sup>4</sup>I can be entrusted with your body and your ego only because, being entrusted with your body and ego, enables you not to be concerned with your body and ego, and lets me teach you your-body’s-and-ego’s unimportance. 
@@ -2583,7 +2583,7 @@ I am an elder brother to you. I can teach you the body and ego are unimportant. 
 ## T-4.II.1
 
 <p class=fip id=p1>
-1.&emsp;It is reasonable to ask how the mind could ever have made the ego. 
+1. It is reasonable to ask how the mind could ever have made the ego. 
 <sup>2</sup>In fact, it is the best question you could ask. 
 <sup>3</sup>There is, however, no point in giving an answer in terms of the past because the past does not matter, and history would not exist if the same errors were not being repeated in the present. 
 <sup>4</sup>Abstract thought applies to knowledge because knowledge is completely impersonal, and examples are irrelevant to its understanding. 
@@ -2592,7 +2592,7 @@ I am an elder brother to you. I can teach you the body and ego are unimportant. 
 
 #### expanded
 
-1.&emsp;It is reasonable to ask how the mind could ever have made the ego. 
+1. It is reasonable to ask how the mind could ever have made the ego. 
 <sup>2</sup>In fact, it [how the mind could have made the ego?] is the best question you could ask. 
 <sup>3</sup>There is, however, no point in giving an answer in terms of the past because the past does not matter, and history would not exist if the same errors were not being repeated in the present. 
 <sup>4</sup>Abstract thought applies to knowledge because knowledge is completely impersonal, and examples are irrelevant to its [knowledge’s] understanding. 
@@ -2600,7 +2600,7 @@ I am an elder brother to you. I can teach you the body and ego are unimportant. 
 
 #### substituted
 
-1.&emsp;It is reasonable to ask how the mind could ever have made the ego. 
+1. It is reasonable to ask how the mind could ever have made the ego. 
 <sup>2</sup>In fact, how the mind could have made the ego? is the best question you could ask. 
 <sup>3</sup>There is, however, no point in giving an answer in terms of the past because the past does not matter, and history would not exist if the same errors were not being repeated in the present. 
 <sup>4</sup>Abstract thought applies to knowledge because knowledge is completely impersonal, and examples are irrelevant to knowledge’s understanding. 
@@ -2620,7 +2620,7 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 ## T-4.II.2
 
 <p class=fip id=p2>
-2.&emsp;Everyone makes an ego or a self for himself, which is subject to enormous variation because of its instability. 
+2. Everyone makes an ego or a self for himself, which is subject to enormous variation because of its instability. 
 <sup>2</sup>He also makes an ego for everyone else he perceives, which is equally variable. 
 <sup>3</sup>Their interaction is a process that alters both, because they were not made by or with the Unalterable. 
 <sup>4</sup>It is important to realise that this alteration can and does occur as readily when the interaction takes place in the mind as when it involves physical proximity. 
@@ -2630,7 +2630,7 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 
 #### expanded
 
-2.&emsp;Everyone makes an ego or a self for himself [one’s-self], which is subject to enormous variation because of its [ego’s] instability. 
+2. Everyone makes an ego or a self for himself [one’s-self], which is subject to enormous variation because of its [ego’s] instability. 
 <sup>2</sup>He [everyone] also makes an ego for everyone else he [everyone] perceives, which [others’ ego] is equally variable. 
 <sup>3</sup>Their [one’s-ego’s-and-others’-ego’s] interaction is a process that alters both [one’s-ego-and-others’-ego], because they [one’s-ego-and-others’-ego] were not made by or with the Unalterable. 
 <sup>4</sup>It is important to realise that this alteration [egos being altered by interacting with each other] can and does occur as readily when the interaction takes place in the mind as when it [the interaction] involves physical proximity. 
@@ -2639,7 +2639,7 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 
 #### substituted
 
-2.&emsp;Everyone makes an ego or a self for one’s-self, which is subject to enormous variation because of ego’s instability. 
+2. Everyone makes an ego or a self for one’s-self, which is subject to enormous variation because of ego’s instability. 
 <sup>2</sup>Everyone also makes an ego for everyone else everyone perceives; others’ ego is equally variable. 
 <sup>3</sup>One’s-ego’s-and-others’-ego’s interaction is a process that alters one’s-ego-and-others’-ego, because one’s-ego-and-others’-ego were not made by or with the Unalterable. 
 <sup>4</sup>It is important to realise that egos being altered by interacting with each other, can and does occur as readily when the interaction takes place in the mind as when the interaction involves physical proximity. 
@@ -2660,7 +2660,7 @@ You make an ego for yourself. And you make an ego for everyone you perceive. Ego
 ## T-4.II.3
 
 <p class=fip id=p3>
-3.&emsp;Your own state of mind is a good example of how the ego was made. 
+3. Your own state of mind is a good example of how the ego was made. 
 <sup>2</sup>When you threw knowledge away it is as if you never had it. 
 <sup>3</sup>This is so apparent that one need only recognise it to see that it does happen. 
 <sup>4</sup>If this occurs in the present, why is it surprising that it occurred in the past? 
@@ -2670,7 +2670,7 @@ You make an ego for yourself. And you make an ego for everyone you perceive. Ego
 
 #### expanded
 
-3.&emsp;Your own state of mind is a good example of how the ego was made. 
+3. Your own state of mind is a good example of how the ego was made. 
 <sup>2</sup>When you threw knowledge away it is as if you never had it [knowledge]. 
 <sup>3</sup>This [that you threw knowledge away] is so apparent that one need only recognise it [that you threw knowledge away] to see that it [throwing knowledge away] does happen. 
 <sup>4</sup>If this [throwing knowledge away] occurs in the present, why is it surprising that it [throwing knowledge away] occurred in the past? 
@@ -2679,7 +2679,7 @@ You make an ego for yourself. And you make an ego for everyone you perceive. Ego
 
 #### substituted
 
-3.&emsp;Your own state of mind is a good example of how the ego was made. 
+3. Your own state of mind is a good example of how the ego was made. 
 <sup>2</sup>When you threw knowledge away it is as if you never had knowledge. 
 <sup>3</sup>That you threw knowledge away is so apparent that one need only recognise that you threw knowledge away, to see that throwing knowledge away does happen. 
 <sup>4</sup>If throwing knowledge away occurs in the present, why is it surprising that throwing knowledge away occurred in the past? 
@@ -2693,7 +2693,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 ## T-4.II.4
 
 <p class=fip id=p4>
-4.&emsp;Think of the love of animals for their offspring, and the need they feel to protect them. 
+4. Think of the love of animals for their offspring, and the need they feel to protect them. 
 <sup>2</sup>That is because they regard them as part of themselves. 
 <sup>3</sup>No one dismisses something he considers part of himself. 
 <sup>4</sup>You react to your ego much as God does to His creations: with love, protection and charity. 
@@ -2708,7 +2708,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 
 #### expanded
 
-4.&emsp;Think of the love of animals for their [animals’] offspring, and the need they [animals] feel to protect them [animals’ offspring]. 
+4. Think of the love of animals for their [animals’] offspring, and the need they [animals] feel to protect them [animals’ offspring]. 
 <sup>2</sup>That [animals feel a need to protect animals’ offspring] is because they [animals] regard them [animals’ offspring] as part of themselves [animals’-selves]. 
 <sup>3</sup>No one dismisses something he [one] considers part of himself [one’s-self]. 
 <sup>4</sup>You react to your ego much as God does to His [God’s] creations: with love, protection and charity. 
@@ -2722,7 +2722,7 @@ Your state of mind is a state of throwing knowledge away. You threw knowledge aw
 
 #### substituted
 
-4.&emsp;Think of the love of animals for animals’ offspring, and the need animals feel to protect animals’ offspring. 
+4. Think of the love of animals for animals’ offspring, and the need animals feel to protect animals’ offspring. 
 <sup>2</sup>Animals feel a need to protect animals’ offspring because animals regard animals’ offspring as part of animals’-selves. 
 <sup>3</sup>No one dismisses something one considers part of one’s-self. 
 <sup>4</sup>You react to your ego much as God does to God’s creations: with love, protection and charity. 
@@ -2741,7 +2741,7 @@ You love what you create. You consider what you create part of your self. What d
 ## T-4.II.5
 
 <p class=fip id=p5>
-5.&emsp;Undermining the ego’s thought system must be perceived as painful, even though this is anything but true. 
+5. Undermining the ego’s thought system must be perceived as painful, even though this is anything but true. 
 <sup>2</sup>Babies scream in rage if you take away a knife or scissors, although they may well harm themselves if you do not. 
 <sup>3</sup>In this sense you are still a baby. 
 <sup>4</sup>You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
@@ -2753,7 +2753,7 @@ You love what you create. You consider what you create part of your self. What d
 
 #### expanded
 
-5.&emsp;Undermining the ego’s thought system must be perceived as painful, even though this [it being painful to undermine the ego’s thought system] is anything but true. 
+5. Undermining the ego’s thought system must be perceived as painful, even though this [it being painful to undermine the ego’s thought system] is anything but true. 
 <sup>2</sup>Babies scream in rage if you take away a knife or scissors, although they [babies] may well harm themselves [babies’-selves] if you do not [take away a knife or scissors]. 
 <sup>3</sup>In this sense [that you scream in rage when something harmful is taken from you] you are still a baby. 
 <sup>4</sup>You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
@@ -2764,7 +2764,7 @@ You love what you create. You consider what you create part of your self. What d
 
 #### substituted
 
-5.&emsp;Undermining the ego’s thought system must be perceived as painful, even though it being painful to undermine the ego’s thought system, is anything but true. 
+5. Undermining the ego’s thought system must be perceived as painful, even though it being painful to undermine the ego’s thought system, is anything but true. 
 <sup>2</sup>Babies scream in rage if you take away a knife or scissors, although babies may well harm babies’-selves if you do not take away a knife or scissors. 
 <sup>3</sup>In the sense that you scream in rage when something harmful is taken from you, you are still a baby. 
 <sup>4</sup>You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
@@ -2792,7 +2792,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 ## T-4.II.6
 
 <p class=fip id=p6>
-6.&emsp;Only those who have a real and lasting sense of abundance can be truly charitable. 
+6. Only those who have a real and lasting sense of abundance can be truly charitable. 
 <sup>2</sup>This is obvious when you consider what is involved. 
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
@@ -2805,7 +2805,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 
 #### expanded
 
-6.&emsp;Only those who have a real and lasting sense of abundance can be truly charitable. 
+6. Only those who have a real and lasting sense of abundance can be truly charitable. 
 <sup>2</sup>This [only those who have abundance are charitable] is obvious when you consider what is involved. 
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it [whatever you give]. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
@@ -2817,7 +2817,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 
 #### substituted
 
-6.&emsp;Only those who have a real and lasting sense of abundance can be truly charitable. 
+6. Only those who have a real and lasting sense of abundance can be truly charitable. 
 <sup>2</sup>Only those who have abundance are charitable, is obvious when you consider what is involved. 
 <sup>3</sup>To the ego, to give anything implies that you will have to do without whatever you give. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
@@ -2840,7 +2840,7 @@ If you have a sense of abundance you can give with true charity. Ego giving is g
 ## T-4.II.7
 
 <p class=fip id=p7>
-7.&emsp;The ego literally lives by comparisons. 
+7. The ego literally lives by comparisons. 
 <sup>2</sup>Equality is beyond its grasp, and charity becomes impossible. 
 <sup>3</sup>The ego never gives out of abundance, because it was made as a substitute for it. 
 <sup>4</sup>That is why the concept of ‘getting’ arose in the ego’s thought system. 
@@ -2853,7 +2853,7 @@ If you have a sense of abundance you can give with true charity. Ego giving is g
 
 #### expanded
 
-7.&emsp;The ego literally lives by comparisons. 
+7. The ego literally lives by comparisons. 
 <sup>2</sup>Equality is beyond its [the-ego’s] grasp, and charity becomes impossible. 
 <sup>3</sup>The ego never gives out of abundance, because it [the ego] was made as a substitute for it [abundance]. 
 <sup>4</sup>That is why the concept of ‘getting’ arose in the ego’s thought system. 
@@ -2865,7 +2865,7 @@ If you have a sense of abundance you can give with true charity. Ego giving is g
 
 #### substituted
 
-7.&emsp;The ego literally lives by comparisons. 
+7. The ego literally lives by comparisons. 
 <sup>2</sup>Equality is beyond the-ego’s grasp, and charity becomes impossible. 
 <sup>3</sup>The ego never gives out of abundance, because the ego was made as a substitute for abundance. 
 <sup>4</sup>That is why the concept of ‘getting’ arose in the ego’s thought system. 
@@ -2882,7 +2882,7 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 ## T-4.II.8
 
 <p class=fip id=p8>
-8.&emsp;The ego believes it is completely on its own, which is merely another way of describing how it thinks it originated. 
+8. The ego believes it is completely on its own, which is merely another way of describing how it thinks it originated. 
 <sup>2</sup>This is such a fearful state that it can only turn to other egos and try to unite with them in a feeble attempt at identification, or attack them in an equally feeble show of strength. 
 <sup>3</sup>It is not free, however, to open the premise to question, because the premise is its foundation. 
 <sup>4</sup>The ego is the mind’s belief that it is completely on its own. 
@@ -2898,7 +2898,7 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 
 #### expanded
 
-8.&emsp;The ego believes it [the ego] is completely on its [the-ego’s] own, which is merely another way of describing how it [the ego] thinks it [the ego] originated. 
+8. The ego believes it [the ego] is completely on its [the-ego’s] own, which is merely another way of describing how it [the ego] thinks it [the ego] originated. 
 <sup>2</sup>This [the ego believing the ego is on the-ego’s own] is such a fearful state that it [the ego] can only turn to other egos and try to unite with them [other egos] in a feeble attempt at identification, or attack them [other egos] in an equally feeble show of strength. 
 <sup>3</sup>It [the ego] is not free, however, to open the premise to question, because the premise is its [the-ego’s] foundation. 
 <sup>4</sup>The ego is the mind’s belief that it [the mind] is completely on its [the-mind’s] own. 
@@ -2913,7 +2913,7 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 
 #### substituted
 
-8.&emsp;The ego believes the ego is completely on the-ego’s own, which is merely another way of describing how the ego thinks the ego originated. 
+8. The ego believes the ego is completely on the-ego’s own, which is merely another way of describing how the ego thinks the ego originated. 
 <sup>2</sup>The ego believing the ego is on the-ego’s own is such a fearful state that the ego can only turn to other egos and try to unite with other egos in a feeble attempt at identification, or attack other egos in an equally feeble show of strength. 
 <sup>3</sup>The ego is not free, however, to open the premise to question, because the premise is the-ego’s foundation. 
 <sup>4</sup>The ego is the mind’s belief that the mind is completely on the-mind’s own. 
@@ -2940,7 +2940,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 ## T-4.II.9
 
 <p class=fip id=p9>
-9.&emsp;Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself. 
+9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself. 
 <sup>2</sup>Mythological systems generally include some account of ‘the creation,’ and associate this with its particular form of magic. 
 <sup>3</sup>The so-called ‘battle for survival’ is only the ego’s struggle to preserve itself, and its interpretation of its own beginning. 
 <sup>4</sup>This beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before that point in time. 
@@ -2951,7 +2951,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 
 #### expanded
 
-9.&emsp;Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself [the-ego’s-self]. 
+9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself [the-ego’s-self]. 
 <sup>2</sup>Mythological systems generally include some account of ‘the creation,’ and associate this [an account of the creation] with its [the-mythological-system’s] particular form of magic. 
 <sup>3</sup>The so-called ‘battle for survival’ is only the ego’s struggle to preserve itself [the-ego’s-self], and its [the-ego’s] interpretation of its [the-ego’s] own beginning. 
 <sup>4</sup>This [the ego’s] beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before that [physical birth] point in time. 
@@ -2961,7 +2961,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 
 #### substituted
 
-9.&emsp;Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to the-ego’s-self. 
+9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to the-ego’s-self. 
 <sup>2</sup>Mythological systems generally include some account of ‘the creation,’ and associate an account of the creation with the-mythological-system’s particular form of magic. 
 <sup>3</sup>The so-called ‘battle for survival’ is only the ego’s struggle to preserve the-ego’s-self, and the-ego’s interpretation of the-ego’s own beginning. 
 <sup>4</sup>The ego’s beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before the point in time of physical birth. 
@@ -2976,7 +2976,7 @@ Spirit does not need salvation for any reason.
 ## T-4.II.10
 
 <p class=fip id=p10>
-10.&emsp;Salvation is nothing more than ‘right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than ‘right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
 <sup>2</sup>Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 <sup>3</sup>The ego cannot survive without judgement, and is laid aside accordingly. 
 <sup>4</sup>The mind then has only one direction in which it can move. 
@@ -2985,7 +2985,7 @@ Spirit does not need salvation for any reason.
 
 #### expanded
 
-10.&emsp;Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
 <sup>2</sup>Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 <sup>3</sup>The ego cannot survive without judgement, and is laid aside accordingly. 
 <sup>4</sup>The mind then has only one direction in which it [the mind] can move. 
@@ -2993,7 +2993,7 @@ Spirit does not need salvation for any reason.
 
 #### substituted
 
-10.&emsp;Salvation is nothing more than ‘right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than ‘right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
 <sup>2</sup>Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 <sup>3</sup>The ego cannot survive without judgement, and is laid aside accordingly. 
 <sup>4</sup>The mind then has only one direction in which the mind can move. 
@@ -3006,7 +3006,7 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 ## T-4.II.11
 
 <p class=fip id=p11>
-11.&emsp;It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
 <sup>2</sup>It is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it. 
 <sup>3</sup>The whole value of right perception lies in the inevitable realisation that <em>all</em> perception is unnecessary. 
 <sup>4</sup>This removes the block entirely. 
@@ -3023,7 +3023,7 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 
 #### expanded
 
-11.&emsp;It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
 <sup>2</sup>It [correcting perception] is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it [knowledge]. 
 <sup>3</sup>The whole value of right perception lies in the inevitable realisation that <em>all</em> perception is unnecessary. 
 <sup>4</sup>This [realising all perception is unecessary] removes the block [to knowledge] entirely. 
@@ -3039,7 +3039,7 @@ Salvation is right-mindedness. Right mindedness is not the One-mindedness of the
 
 #### substituted
 
-11.&emsp;It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
 <sup>2</sup>Correcting perception is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards knowledge. 
 <sup>3</sup>The whole value of right perception lies in the inevitable realisation that <em>all</em> perception is unnecessary. 
 <sup>4</sup>Realising all perception is unecessary removes the block to knowledge entirely. 
@@ -3072,7 +3072,7 @@ Correct perception to be free of misperception. The use accurate perception to g
 ## T-4.III.1
 
 <p class=fip id=p1>
-1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
 <sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
@@ -3091,7 +3091,7 @@ Correct perception to be free of misperception. The use accurate perception to g
 
 #### expanded
 
-1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
 <sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
@@ -3110,7 +3110,7 @@ Correct perception to be free of misperception. The use accurate perception to g
 
 #### substituted
 
-1.&emsp;It is hard to understand what “The Kingdom of Heaven is within you” really means. 
+1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 <sup>2</sup>“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
 <sup>3</sup>The word ‘within’ is unnecessary. 
 <sup>4</sup>The Kingdom of Heaven <em>is</em> you. 
@@ -3141,7 +3141,7 @@ The Kingdom of Heaven is you, because God created you. The kingdom you made is a
 ## T-4.III.2
 
 <p class=fip id=p2>
-2.&emsp;This is written in the form of a prayer because it is useful in moments of temptation. 
+2. This is written in the form of a prayer because it is useful in moments of temptation. 
 <sup>2</sup>It is a declaration of independence. 
 <sup>3</sup>You will find it very helpful if you understand it fully. 
 <sup>4</sup>The reason you need my help is because you have denied your own Guide and therefore need guidance. 
@@ -3151,7 +3151,7 @@ The Kingdom of Heaven is you, because God created you. The kingdom you made is a
 
 #### expanded
 
-2.&emsp;This [“The Kingdom is perfectly united and perfectly protected…” etc.] is written in the form of a prayer because it [the prayer] is useful in moments of temptation. 
+2. This [“The Kingdom is perfectly united and perfectly protected…” etc.] is written in the form of a prayer because it [the prayer] is useful in moments of temptation. 
 <sup>2</sup>It [the prayer] is a declaration of independence. 
 <sup>3</sup>You will find it [the prayer] very helpful if you understand it [the prayer] fully. 
 <sup>4</sup>The reason you need my help is because you have denied your own Guide and therefore need guidance. 
@@ -3160,7 +3160,7 @@ The Kingdom of Heaven is you, because God created you. The kingdom you made is a
 
 #### substituted
 
-2.&emsp;“The Kingdom is perfectly united and perfectly protected…” etc. is written in the form of a prayer because the prayer is useful in moments of temptation. 
+2. “The Kingdom is perfectly united and perfectly protected…” etc. is written in the form of a prayer because the prayer is useful in moments of temptation. 
 <sup>2</sup>The prayer is a declaration of independence. 
 <sup>3</sup>You will find the prayer very helpful if you understand the prayer fully. 
 <sup>4</sup>The reason you need my help is because you have denied your own Guide and therefore need guidance. 
@@ -3174,7 +3174,7 @@ The prayer above is useful in temptation. Try to understand the prayer. You need
 ## T-4.III.3
 
 <p class=fip id=p3>
-3.&emsp;It is surely apparent by now why the ego regards spirit as its ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as its ‘enemy’. 
 <sup>2</sup>The ego arose from the separation, and its continued existence depends on your continuing belief in the separation. 
 <sup>3</sup>The ego must offer you some sort of reward for maintaining this belief. 
 <sup>4</sup>All it can offer is a sense of temporary existence, which begins with its own beginning and ends with its own ending. 
@@ -3186,7 +3186,7 @@ The prayer above is useful in temptation. Try to understand the prayer. You need
 
 #### expanded
 
-3.&emsp;It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘enemy’. 
 <sup>2</sup>The ego arose from the separation, and its [the-ego’s] continued existence depends on your continuing belief in the separation. 
 <sup>3</sup>The ego must offer you some sort of reward for maintaining this belief [in the separation]. 
 <sup>4</sup>All it [the ego] can offer is a sense of temporary existence, which begins with its [the-ego’s] own beginning and ends with its [the-ego’s] own ending. 
@@ -3197,7 +3197,7 @@ The prayer above is useful in temptation. Try to understand the prayer. You need
 
 #### substituted
 
-3.&emsp;It is surely apparent by now why the ego regards spirit as the-ego’s ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as the-ego’s ‘enemy’. 
 <sup>2</sup>The ego arose from the separation, and the-ego’s continued existence depends on your continuing belief in the separation. 
 <sup>3</sup>The ego must offer you some sort of reward for maintaining belief in the separation. 
 <sup>4</sup>All the ego can offer is a sense of temporary existence, which (existence) begins with the-ego’s own beginning and ends with the-ego’s own ending. 
@@ -3213,7 +3213,7 @@ The ego arose from belief in separation. The ego is maintained by belief in sepa
 ## T-4.III.4
 
 <p class=fip id=p4>
-4.&emsp;You who identify with your ego cannot believe God loves you. 
+4. You who identify with your ego cannot believe God loves you. 
 <sup>2</sup>You do not love what you made, and what you made does not love you. 
 <sup>3</sup>Being made out of the denial of the Father, the ego has no allegiance to its maker. 
 <sup>4</sup>You cannot conceive of the real relationship that exists between God and His creations because of your hatred for the self you made. 
@@ -3225,7 +3225,7 @@ The ego arose from belief in separation. The ego is maintained by belief in sepa
 
 #### expanded
 
-4.&emsp;You who identify with your ego cannot believe God loves you. 
+4. You who identify with your ego cannot believe God loves you. 
 <sup>2</sup>You do not love what you made, and what you made does not love you. 
 <sup>3</sup>Being made out of the denial of the Father, the ego has no allegiance to its [the-ego’s] maker. 
 <sup>4</sup>You cannot conceive of the real relationship that exists between God and His [God’s] creations because of your hatred for the self you made. 
@@ -3236,7 +3236,7 @@ The ego arose from belief in separation. The ego is maintained by belief in sepa
 
 #### substituted
 
-4.&emsp;You who identify with your ego cannot believe God loves you. 
+4. You who identify with your ego cannot believe God loves you. 
 <sup>2</sup>You do not love what you made, and what you made does not love you. 
 <sup>3</sup>Being made out of the denial of the Father, the ego has no allegiance to the-ego’s maker. 
 <sup>4</sup>You cannot conceive of the real relationship that exists between God and God’s creations because of your hatred for the self you made. 
@@ -3252,7 +3252,7 @@ You want to love the ego because you made the ego. But at the same time you hate
 ## T-4.III.5
 
 <p class=fip id=p5>
-5.&emsp;There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it again. 
+5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it again. 
 <sup>2</sup>It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
 <sup>3</sup>The Bible gives many references to the immeasurable gifts which are for you, but for which you must ask. 
 <sup>4</sup>This is not a condition as the ego sets conditions. 
@@ -3261,7 +3261,7 @@ You want to love the ego because you made the ego. But at the same time you hate
 
 #### expanded
 
-5.&emsp;There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it [the experience] again. 
+5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it [the experience] again. 
 <sup>2</sup>It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
 <sup>3</sup>The Bible gives many references to the immeasurable gifts which are for you, but for which [gifts] you must ask. 
 <sup>4</sup>This [the condition that you must ask] is not a condition as the ego sets conditions. 
@@ -3269,7 +3269,7 @@ You want to love the ego because you made the ego. But at the same time you hate
 
 #### substituted
 
-5.&emsp;There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide the experience again. 
+5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide the experience again. 
 <sup>2</sup>It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
 <sup>3</sup>The Bible gives many references to the immeasurable gifts which are for you, but, for gifts, you must ask. 
 <sup>4</sup>The condition, that you must ask, is not a condition as the ego sets conditions. 
@@ -3282,7 +3282,7 @@ The experience is God is hidden by your belief in darkness. Ask and it will be g
 ## T-4.III.6
 
 <p class=fip id=p6>
-6.&emsp;No force except your own will is strong enough or worthy enough to guide you. 
+6. No force except your own will is strong enough or worthy enough to guide you. 
 <sup>2</sup>In this you are as free as God, and must remain so forever. 
 <sup>3</sup>Let us ask the Father in my name to keep you mindful of His Love for you and yours for Him. 
 <sup>4</sup>He has never failed to answer this request, because it asks only for what He has already willed. 
@@ -3292,7 +3292,7 @@ The experience is God is hidden by your belief in darkness. Ask and it will be g
 
 #### expanded
 
-6.&emsp;No force except your own will is strong enough or worthy enough to guide you. 
+6. No force except your own will is strong enough or worthy enough to guide you. 
 <sup>2</sup>In this [only your own will is strong enough for you] you are as free as God, and must remain so [as free as God] forever. 
 <sup>3</sup>Let us ask the Father in my name to keep you mindful of His [the Father’s] Love for you and yours [your love] for Him [God]. 
 <sup>4</sup>He [God] has never failed to answer this request [to keep you mindful of God’s love for you], because it [the request] asks only for what He [God] has already willed. 
@@ -3301,7 +3301,7 @@ The experience is God is hidden by your belief in darkness. Ask and it will be g
 
 #### substituted
 
-6.&emsp;No force except your own will is strong enough or worthy enough to guide you. 
+6. No force except your own will is strong enough or worthy enough to guide you. 
 <sup>2</sup>In that only your own will is strong enough for you, you are as free as God, and must remain as free as God forever. 
 <sup>3</sup>Let us ask the Father in my name to keep you mindful of the Father’s Love for you and your love for God. 
 <sup>4</sup>God has never failed to answer the request to keep you mindful of God’s Love for you, because the request asks only for what God has already willed. 
@@ -3315,16 +3315,16 @@ Your will is free. Ask to be kept mindful of God’s Love for you. God has alrea
 ## T-4.III.7
 
 <p class=fip id=p7>
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. <sup>8</sup>I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
+7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. <sup>8</sup>I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 </p>
 
 #### expanded
 
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it [the wall]. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around the wall]. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not [wait] in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
+7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around it [the wall]. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around the wall]. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not [wait] in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 
 #### substituted
 
-7.&emsp;It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around the wall. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to step around the wall. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not wait in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
+7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. <sup>2</sup>You retain thousands of little scraps of fear that prevent the Holy One from entering. <sup>3</sup>Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. <sup>4</sup>No one can see through a wall, but I can step around the wall. <sup>5</sup>Watch your mind for the scraps of fear, or you will be unable to ask me to step around the wall. <sup>6</sup>I can help you only as our Father created us. <sup>7</sup>I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. <sup>8</sup>I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. <sup>9</sup>Because I wait in love and not wait in impatience, you will surely ask me truly. <sup>10</sup>I will come in response to a single unequivocal call.
 
 #### simplified
 
@@ -3345,7 +3345,7 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 ## T-4.III.8
 
 <p class=fip id=p8>
-8.&emsp;Watch carefully and see what it is you are really asking for. 
+8. Watch carefully and see what it is you are really asking for. 
 <sup>2</sup>Be very honest with yourself in this, for we must hide nothing from each other. 
 <sup>3</sup>If you will really try to do this, you have taken the first step toward preparing your mind for the Holy One to enter. 
 <sup>4</sup>We will prepare for this together, for once He has come, you will be ready to help me make other minds ready for Him. 
@@ -3354,7 +3354,7 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 
 #### expanded
 
-8.&emsp;Watch carefully and see what it is you are really asking for. 
+8. Watch carefully and see what it is you are really asking for. 
 <sup>2</sup>Be very honest with yourself in this [seeing what you are really asking for], for we must hide nothing from each other. 
 <sup>3</sup>If you will really try to do this [seeing what you are really asking for], you have taken the first step toward preparing your mind for the Holy One to enter. 
 <sup>4</sup>We will prepare for this [the Holy One to enter your mind] together, for once He [the Holy One] has come, you will be ready to help me make other minds ready for Him [the Holy One]. 
@@ -3362,7 +3362,7 @@ You must give up your ideas that oppose knowledge. Your ideas are like a wall th
 
 #### substituted
 
-8.&emsp;Watch carefully and see what it is you are really asking for. 
+8. Watch carefully and see what it is you are really asking for. 
 <sup>2</sup>Be very honest with yourself in seeing what you are really asking for, for we must hide nothing from each other. 
 <sup>3</sup>If you will really try to see what you are really asking for, you have taken the first step toward preparing your mind for the Holy One to enter. 
 <sup>4</sup>We will prepare for the Holy One to enter your mind together, for once the Holy One has come, you will be ready to help me make other minds ready for the Holy One. 
@@ -3398,7 +3398,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 ## T-4.III.9
 
 <p class=fip id=p9>
-9.&emsp; In your own mind, though denied by the ego, is the declaration of your release. 
+9.  In your own mind, though denied by the ego, is the declaration of your release. 
 <sup>2</sup><em>God has given you everything</em>. 
 <sup>3</sup>This one fact means the ego does not exist, and this makes it profoundly afraid. 
 <sup>4</sup>In the ego’s language, ‘to have’ and ‘to be’ are different, but they are identical to the Holy Spirit. 
@@ -3409,7 +3409,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 
 #### expanded
 
-9.&emsp; In your own mind, though denied by the ego, is the declaration of your release. 
+9.  In your own mind, though denied by the ego, is the declaration of your release. 
 <sup>2</sup><em>God has given you everything</em>. 
 <sup>3</sup>This one fact [that God has given you everything] means the ego does not exist, and this [the ego not existing] makes it [the ego] profoundly afraid. 
 <sup>4</sup>In the ego’s language, ‘to have’ and ‘to be’ are different, but they [to have and to be] are identical to the Holy Spirit. 
@@ -3419,7 +3419,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 
 #### substituted
 
-9.&emsp; In your own mind, though denied by the ego, is the declaration of your release. 
+9.  In your own mind, though denied by the ego, is the declaration of your release. 
 <sup>2</sup><em>God has given you everything</em>. 
 <sup>3</sup>The one fact that God has given you everything, means the ego does not exist, and the ego not existing, makes the ego profoundly afraid. 
 <sup>4</sup>In the ego’s language, ‘to have’ and ‘to be’ are different, but to have and to be are identical to the Holy Spirit. 
@@ -3434,7 +3434,7 @@ God has already given you everything. What you have is what you are. The ego bel
 ## T-4.III.10
 
 <p class=fip id=p10>
-10.&emsp;The calm being of God’s Kingdom, which in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
+10. The calm being of God’s Kingdom, which in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
 <sup>2</sup>The ego is desperate because it opposes literally invincible odds, whether you are asleep or awake. 
 <sup>3</sup>Consider how much vigilance you have been willing to exert to protect your ego, and how little to protect your right mind. 
 <sup>4</sup>Who but the insane would undertake to believe what is not true, and then protect this belief at the cost of truth?
@@ -3442,14 +3442,14 @@ God has already given you everything. What you have is what you are. The ego bel
 
 #### expanded
 
-10.&emsp;The calm being of God’s Kingdom, which [calm being] in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
+10. The calm being of God’s Kingdom, which [calm being] in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
 <sup>2</sup>The ego is desperate because it [the ego] opposes literally invincible odds, whether you are asleep or awake. 
 <sup>3</sup>Consider how much vigilance you have been willing to exert to protect your ego, and how little [vigilance] to protect your right mind. 
 <sup>4</sup>Who but the insane would undertake to believe what is not true, and then protect this belief [in what is not true] at the cost of truth?
 
 #### substituted
 
-10.&emsp;The calm being of God’s Kingdom, calm being in your sane mind is perfectly conscious, calm being is ruthlessly banished from the part of the mind the ego rules. 
+10. The calm being of God’s Kingdom, calm being in your sane mind is perfectly conscious, calm being is ruthlessly banished from the part of the mind the ego rules. 
 <sup>2</sup>The ego is desperate because the ego opposes literally invincible odds, whether you are asleep or awake. 
 <sup>3</sup>Consider how much vigilance you have been willing to exert to protect your ego, and how little vigilance to protect your right mind. 
 <sup>4</sup>Who but the insane would undertake to believe what is not true, and then protect this belief in what is not true at the cost of truth?
@@ -3463,7 +3463,7 @@ God’s Kingdom is calm being. In your sane mind you are aware of calm being. Th
 ## T-4.in.1
 
 <p class=fip id=p1>
-1.&emsp;The Bible says that you should go with a brother twice as far as he asks. 
+1. The Bible says that you should go with a brother twice as far as he asks. 
 <sup>2</sup>It certainly does not suggest that you set him back on his journey. 
 <sup>3</sup>Devotion to a brother cannot set you back either. 
 <sup>4</sup>It can lead only to mutual progress. 
@@ -3475,7 +3475,7 @@ God’s Kingdom is calm being. In your sane mind you are aware of calm being. Th
 
 #### expanded
 
-1.&emsp;The Bible says that you should go with a brother twice as far as he [a brother] asks. 
+1. The Bible says that you should go with a brother twice as far as he [a brother] asks. 
 <sup>2</sup>It [the Bible] certainly does not suggest that you set him [a brother] back on his [a brother’s] journey. 
 <sup>3</sup>Devotion to a brother cannot set you back either. 
 <sup>4</sup>It [devotion to a brother] can lead only to mutual progress. 
@@ -3486,7 +3486,7 @@ God’s Kingdom is calm being. In your sane mind you are aware of calm being. Th
 
 #### substituted
 
-1.&emsp;The Bible says that you should go with a brother twice as far as a brother asks. 
+1. The Bible says that you should go with a brother twice as far as a brother asks. 
 <sup>2</sup>The Bible certainly does not suggest that you set a brother back on a brother’s journey. 
 <sup>3</sup>Devotion to a brother cannot set you back either. 
 <sup>4</sup>Devotion to a brother can lead only to mutual progress. 
@@ -3502,7 +3502,7 @@ Be devoted to your brother and you will both progress. Devotion will inspire you
 ## T-4.in.2
 
 <p class=fip id=p2>
-2.&emsp;You can speak from the spirit or from the ego, as you choose. 
+2. You can speak from the spirit or from the ego, as you choose. 
 <sup>2</sup>If you speak from spirit you have chosen to “Be still and know that I am God”. 
 <sup>3</sup>These words are inspired because they reflect knowledge. 
 <sup>4</sup>If you speak from the ego you are disclaiming knowledge instead of affirming it, and are thus dis-spiriting yourself. 
@@ -3512,7 +3512,7 @@ Be devoted to your brother and you will both progress. Devotion will inspire you
 
 #### expanded
 
-2.&emsp;You can speak from the spirit or from the ego, as you choose. 
+2. You can speak from the spirit or from the ego, as you choose. 
 <sup>2</sup>If you speak from spirit you have chosen to “Be still and know that I am God”. 
 <sup>3</sup>These words [“Be still and know that I am God”] are inspired because they [the words “Be still and know that I am God”] reflect knowledge. 
 <sup>4</sup>If you speak from the ego you are disclaiming knowledge instead of affirming it [knowledge], and are thus dis-spiriting yourself. 
@@ -3521,7 +3521,7 @@ Be devoted to your brother and you will both progress. Devotion will inspire you
 
 #### substituted
 
-2.&emsp;You can speak from the spirit or from the ego, as you choose. 
+2. You can speak from the spirit or from the ego, as you choose. 
 <sup>2</sup>If you speak from spirit you have chosen to “Be still and know that I am God”. 
 <sup>3</sup>The word “Be still and know that I am God” are inspired because the words “Be still and know that I am God” reflect knowledge. 
 <sup>4</sup>If you speak from the ego you are disclaiming knowledge instead of affirming knowledge, and are thus dis-spiriting yourself. 
@@ -3535,7 +3535,7 @@ Speak from the spirit. “Be still and know that I am God”. That is knowledge.
 ## T-4.in.3
 
 <p class=fip id=p3>
-3.&emsp;The journey to the cross should be the last “useless journey”. 
+3. The journey to the cross should be the last “useless journey”. 
 <sup>2</sup>Do not dwell upon it, but dismiss it as accomplished. 
 <sup>3</sup>If you can accept it as your own last useless journey, you are also free to join my resurrection. 
 <sup>4</sup>Until you do so your life is indeed wasted. 
@@ -3550,7 +3550,7 @@ Speak from the spirit. “Be still and know that I am God”. That is knowledge.
 
 #### expanded
 
-3.&emsp;The journey to the cross should be the last “useless journey”. 
+3. The journey to the cross should be the last “useless journey”. 
 <sup>2</sup>Do not dwell upon it [the journey to the cross], but dismiss it [the journey to the cross] as accomplished. 
 <sup>3</sup>If you can accept it [the journey to the cross] as your own last useless journey, you are also free to join my resurrection. 
 <sup>4</sup>Until you do so [join my resurrection] your life is indeed wasted. 
@@ -3564,7 +3564,7 @@ Speak from the spirit. “Be still and know that I am God”. That is knowledge.
 
 #### substituted
 
-3.&emsp;The journey to the cross should be the last “useless journey”. 
+3. The journey to the cross should be the last “useless journey”. 
 <sup>2</sup>Do not dwell upon the journey to the cross, but dismiss the journey to the cross as accomplished. 
 <sup>3</sup>If you can accept the journey to the cross as your own last useless journey, you are also free to join my resurrection. 
 <sup>4</sup>Until you join my resurrection your life is indeed wasted. 
@@ -3599,7 +3599,7 @@ The journey to the cross is the last useless journey. The journey to the cross h
 ## T-4.IV.1
 
 <p class=fip id=p1>
-1.&emsp;If you cannot hear the Voice for God, it is because you do not choose to listen. 
+1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
 <sup>2</sup>That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
 <sup>3</sup>Yet this is what you want. 
 <sup>4</sup>This is what you are fighting to keep, and what you are vigilant to save. 
@@ -3611,7 +3611,7 @@ The journey to the cross is the last useless journey. The journey to the cross h
 
 #### expanded
 
-1.&emsp;If you cannot hear the Voice for God, it is because you do not choose to listen. 
+1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
 <sup>2</sup>That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
 <sup>3</sup>Yet this [listening to your ego] is what you want. 
 <sup>4</sup>This [your ego] is what you are fighting to keep, and what you are vigilant to save. 
@@ -3622,7 +3622,7 @@ The journey to the cross is the last useless journey. The journey to the cross h
 
 #### substituted
 
-1.&emsp;If you cannot hear the Voice for God, it is because you do not choose to listen. 
+1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
 <sup>2</sup>That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
 <sup>3</sup>Yet listening to your ego is what you want. 
 <sup>4</sup>Your ego is what you are fighting to keep, and what you are vigilant to save. 
@@ -3640,7 +3640,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 ## T-4.IV.2
 
 <p class=fip id=p2>
-2.&emsp;I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you <em>can</em> change your mind. 
+2. I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you <em>can</em> change your mind. 
 <sup>2</sup>When your mood tells you that you have chosen wrongly, and this is so whenever you are not joyous, then <em>know this need not be</em> 
 <sup>3</sup>In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 <sup>4</sup>Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -3653,7 +3653,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 
 #### expanded
 
-2.&emsp;I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
+2. I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
 <sup>2</sup>When your mood tells you that you have chosen wrongly, and this [you choosing wrongly] is so whenever you are not joyous, then <em>know this [choosing wrongly] need not be</em> 
 <sup>3</sup>In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 <sup>4</sup>Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -3665,7 +3665,7 @@ You listen to your ego, rather than listen to God. You are trying to save your e
 
 #### substituted
 
-2.&emsp;I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
+2. I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you <em>can</em> change your mind. 
 <sup>2</sup>When your mood tells you that you have chosen wrongly, and you choosing wrongly is so whenever you are not joyous, then <em>know choosing wrongly need not be</em> 
 <sup>3</sup>In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 <sup>4</sup>Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -3694,15 +3694,15 @@ You can change your mind. When you are not joyous you have chosen wrongly. Choos
 ## T-4.IV.3
 
 <p class=fip id=p3>
-3.&emsp;When you are sad, *know this need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.</p>
+3. When you are sad, *know this need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.</p>
 
 #### expanded
 
-3.&emsp;When you are sad, *know this [being sad] need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.
+3. When you are sad, *know this [being sad] need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.
 
 #### substituted
 
-3.&emsp;When you are sad, *know that being sad need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. 
+3. When you are sad, *know that being sad need not be*. <sup>2</sup>Depression comes from a sense of being deprived of something you want and do not have. 
 <sup>3</sup>Remember that you are deprived of nothing except by your own decisions, and then decide otherwise.
 
 #### simplified
@@ -3714,18 +3714,18 @@ You do not need to be sad. You can decide not to feel deprived.
 ## T-4.IV.4
 
 <p class=fip id=p4>
-4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
+4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
 <sup>2</sup>You can be as vigilant against the ego’s dictates as for them.
 </p>
 
 #### expanded
 
-4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
+4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
 <sup>2</sup>You can be as vigilant against the ego’s dictates as for them [the-ego’s-dictates].
 
 #### substituted
 
-4.&emsp;When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
+4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
 <sup>2</sup>You can be as vigilant against the ego’s dictates as for the-ego’s-dictates.
 
 #### simplified
@@ -3737,7 +3737,7 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 ## T-4.IV.5
 
 <p class=fip id=p5>
-5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not. 
+5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not. 
 <sup>2</sup>Leave the ‘sins’ of the ego to me. 
 <sup>3</sup>That is what Atonement is for. 
 <sup>4</sup>But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
@@ -3747,7 +3747,7 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 
 #### expanded
 
-5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not [violated the laws of God]. 
+5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not [violated the laws of God]. 
 <sup>2</sup>Leave the ‘sins’ of the ego to me. 
 <sup>3</sup>That [leaving the sins of the ego to me] is what Atonement is for. 
 <sup>4</sup>But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
@@ -3756,7 +3756,7 @@ You do not need to be anxious. The ego is capricious. Be vigilant aganst what th
 
 #### substituted
 
-5.&emsp;When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not violated the laws of God. 
+5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not violated the laws of God. 
 <sup>2</sup>Leave the ‘sins’ of the ego to me. 
 <sup>3</sup>Leaving the sins of the ego to me is what Atonement is for. 
 <sup>4</sup>But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
@@ -3772,7 +3772,7 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 ## T-4.IV.6
 
 <p class=fip id=p6>
-6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by it. 
+6. Watch your mind for the temptations of the ego, and do not be deceived by it. 
 <sup>2</sup>It offers you nothing. 
 <sup>3</sup>When you have given up this voluntary dis-spiriting, you will see how your mind can focus and rise above fatigue and heal. 
 <sup>4</sup>Yet you are not sufficiently vigilant against the demands of the ego to disengage yourself. 
@@ -3781,7 +3781,7 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 
 #### expanded
 
-6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by it [the ego]. 
+6. Watch your mind for the temptations of the ego, and do not be deceived by it [the ego]. 
 <sup>2</sup>It [the ego] offers you nothing. 
 <sup>3</sup>When you have given up this voluntary dis-spiriting, you will see how your mind can focus and rise above fatigue and heal. 
 <sup>4</sup>Yet you are not sufficiently vigilant against the demands of the ego to disengage yourself. 
@@ -3789,7 +3789,7 @@ The ego has violated the laws of God. But you have not violated the laws of God.
 
 #### substituted
 
-6.&emsp;Watch your mind for the temptations of the ego, and do not be deceived by the ego. 
+6. Watch your mind for the temptations of the ego, and do not be deceived by the ego. 
 <sup>2</sup>The ego offers you nothing. 
 <sup>3</sup>When you have given up this voluntary dis-spiriting, you will see how your mind can focus and rise above fatigue and heal. 
 <sup>4</sup>Yet you are not sufficiently vigilant against the demands of the ego to disengage yourself. 
@@ -3804,7 +3804,7 @@ Do not be deceived by the ego. The ego tempts you but the ego offers nothing. Th
 ## T-4.IV.7
 
 <p class=fip id=p7>
-7.&emsp;The habit of engaging with God and His creations is easily made if you actively refuse to let your mind slip away. 
+7. The habit of engaging with God and His creations is easily made if you actively refuse to let your mind slip away. 
 <sup>2</sup>The problem is not one of concentration; it is the belief that no one, including yourself, is worth consistent effort. 
 <sup>3</sup>Side with me consistently against this deception, and do not permit this shabby belief to pull you back. 
 <sup>4</sup>The disheartened are useless to themselves and to me, but only the ego can *be* disheartened.
@@ -3812,14 +3812,14 @@ Do not be deceived by the ego. The ego tempts you but the ego offers nothing. Th
 
 #### expanded
 
-7.&emsp;The habit of engaging with God and His [God’s] creations is easily made if you actively refuse to let your mind slip away. 
+7. The habit of engaging with God and His [God’s] creations is easily made if you actively refuse to let your mind slip away. 
 <sup>2</sup>The problem is not one of concentration; it [the problem] is the belief that no one, including yourself, is worth consistent effort. 
 <sup>3</sup>Side with me consistently against this deception [that no one is worth consistent effort], and do not permit this shabby belief [that no one is worth consistent effort] to pull you back. 
 <sup>4</sup>The disheartened are useless to themselves and [useless] to me, but only the ego can *be* disheartened.
 
 #### substituted
 
-7.&emsp;The habit of engaging with God and God’s creations is easily made if you actively refuse to let your mind slip away. 
+7. The habit of engaging with God and God’s creations is easily made if you actively refuse to let your mind slip away. 
 <sup>2</sup>The problem is not one of concentration; the problem is the belief that no one, including yourself, is worth consistent effort. 
 <sup>3</sup>Side with me consistently against the deception that no one is worth consistent effort, and do not permit the shabby belief that no one is worth consistent effort to pull you back. 
 <sup>4</sup>The disheartened are useless to themselves and useless to me, but only the ego can *be* disheartened.
@@ -3833,7 +3833,7 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 ## T-4.IV.8
 
 <p class=fip id=p8>
-8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many of them you have refused? 
+8. Have you really considered how many opportunities you have had to gladden yourself, and how many of them you have refused? 
 <sup>2</sup>There is no limit to the power of a Son of God, but he can limit the expression of his power as much as he chooses. 
 <sup>3</sup>Your mind and mine can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 <sup>4</sup>Do not settle for anything less than this, and refuse to accept anything but this as your goal. 
@@ -3847,7 +3847,7 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 
 #### expanded
 
-8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many of them [opportunities to gladden yourself] you have refused? 
+8. Have you really considered how many opportunities you have had to gladden yourself, and how many of them [opportunities to gladden yourself] you have refused? 
 <sup>2</sup>There is no limit to the power of a Son of God, but he [a Son of God] can limit the expression of his [a-Son-of-God’s] power as much as he [a Son of God] chooses. 
 <sup>3</sup>Your mind and mine [my mind] can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 <sup>4</sup>Do not settle for anything less than this [the strength of God], and refuse to accept anything but this [the strength of God] as your goal. 
@@ -3860,7 +3860,7 @@ Do not let your mind slip away. You are worth the effort. Be consistent against 
 
 #### substituted
 
-8.&emsp;Have you really considered how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused? 
+8. Have you really considered how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused? 
 <sup>2</sup>There is no limit to the power of a Son of God, but a Son of God can limit the expression of a-Son-of-God’s power as much as a Son of God chooses. 
 <sup>3</sup>Your mind and my mind can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 <sup>4</sup>Do not settle for anything less than the strength of God, and refuse to accept anything but the strength of God as your goal. 
@@ -3891,7 +3891,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
 ## T-4.IV.9
 
 <p class=fip id=p9>
-9.&emsp;You are a mirror of truth, in which God Himself shines in perfect light. 
+9. You are a mirror of truth, in which God Himself shines in perfect light. 
 <sup>2</sup>To the ego’s dark glass you need but say, “I will not look there because I know these images are not true”. 
 <sup>3</sup>Then let the Holy One shine on you in peace, knowing that this and only this must be. 
 <sup>4</sup>His Mind shone on you in your creation and brought your mind into being. 
@@ -3901,7 +3901,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
 
 #### expanded
 
-9.&emsp;You are a mirror of truth, in which [mirror] God Himself [God’s-Self] shines in perfect light. 
+9. You are a mirror of truth, in which [mirror] God Himself [God’s-Self] shines in perfect light. 
 <sup>2</sup>To the ego’s dark glass you need but [only] say, “I will not look there [the ego’s dark glass] because I know these [ego’s] images are not true”. 
 <sup>3</sup>Then let the Holy One shine on you in peace, knowing that this [the Holy one shining on you in peace] and only this [the Holy one shining on you in peace] must be. 
 <sup>4</sup>His [the-Holy-One’s] Mind shone on you in your creation and brought your mind into being. 
@@ -3910,7 +3910,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
 
 #### substituted
 
-9.&emsp;You are a mirror of truth; in a mirror of truth God’s-Self shines in perfect light. 
+9. You are a mirror of truth; in a mirror of truth God’s-Self shines in perfect light. 
 <sup>2</sup>To the ego’s dark glass you need only say, “I will not look at the ego’s dark glass, because I know the ego’s images are not true”. 
 <sup>3</sup>Then let the Holy One shine on you in peace, knowing that the Holy one shining on you in peace must be, and only the Holy one shining on you in peace must be. 
 <sup>4</sup>The-Holy-One’s Mind shone on you in your creation and brought your mind into being. 
@@ -3925,7 +3925,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 ## T-4.IV.10
 
 <p class=fip id=p10>
-10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
+10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 <sup>2</sup>The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 <sup>3</sup>I was created like you in the First, and I have called you to join with me in the Second. 
 <sup>4</sup>I am in charge of the Second Coming, and my judgement, which is used only for protection, cannot be wrong because it never attacks. 
@@ -3938,7 +3938,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 
 #### expanded
 
-10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
+10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 <sup>2</sup>The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 <sup>3</sup>I was created like you in the First [Coming], and I have called you to join with me in the Second [Coming]. 
 <sup>4</sup>I am in charge of the Second Coming, and my judgement, which [judgement] is used only for protection, cannot be wrong because it [my judgement] never attacks. 
@@ -3950,7 +3950,7 @@ God’s Self shines through you. Do not look at the ego’s images. God brought 
 
 #### substituted
 
-10.&emsp;The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
+10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 <sup>2</sup>The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 <sup>3</sup>I was created like you in the First Coming, and I have called you to join with me in the Second Coming. 
 <sup>4</sup>I am in charge of the Second Coming; my judgement is used only for protection; my judgement cannot be wrong because my judgement never attacks. 
@@ -3979,7 +3979,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 ## T-4.IV.11
 
 <p class=fip id=p11>
-11.&emsp;I do not attack your ego. 
+11. I do not attack your ego. 
 <sup>2</sup>I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego does with your lower mind, which is its home. 
 <sup>3</sup>I am your vigilance in this, because you are too confused to recognise your own hope. 
 <sup>4</sup>I am not mistaken. 
@@ -3995,7 +3995,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 
 #### expanded
 
-11.&emsp;I do not attack your ego. 
+11. I do not attack your ego. 
 <sup>2</sup>I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego does [work] with your lower mind, which [mind] is its [your ego’s] home. 
 <sup>3</sup>I am your vigilance in this [working with your mind], because you are too confused to recognise your own hope. 
 <sup>4</sup>I am not mistaken. 
@@ -4010,7 +4010,7 @@ The First Coming of Christ was when the Son of God was created. The Second Comin
 
 #### substituted
 
-11.&emsp;I do not attack your ego. 
+11. I do not attack your ego. 
 <sup>2</sup>I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego works with your lower mind, lower mind is your ego’s home. 
 <sup>3</sup>I am your vigilance in working with your mind, because you are too confused to recognise your own hope. 
 <sup>4</sup>I am not mistaken. 
@@ -4037,7 +4037,7 @@ I do not attack your ego. I help you keep vigilance in working with your higher 
 ## T-4.V.1
 
 <p class=fip id=p1>
-1.&emsp;All things work together for good. 
+1. All things work together for good. 
 <sup>2</sup>There are no exceptions except in the ego’s judgement. 
 <sup>3</sup>The ego exerts maximal vigilance about what it permits into awareness, and this is not the way a balanced mind holds together. 
 <sup>4</sup>The ego is thrown further off balance because it keeps its primary motivation from your awareness, and raises control rather than sanity to predominance. 
@@ -4047,7 +4047,7 @@ I do not attack your ego. I help you keep vigilance in working with your higher 
 
 #### expanded
 
-1.&emsp;All things work together for good. 
+1. All things work together for good. 
 <sup>2</sup>There are no exceptions except in the ego’s judgement. 
 <sup>3</sup>The ego exerts maximal vigilance about what it [the ego] permits into awareness, and this [exerting maximal vigilance] is not the way a balanced mind holds together. 
 <sup>4</sup>The ego is thrown further off balance because it [the ego] keeps its [the-ego’s] primary motivation from your awareness, and raises control rather than sanity to predominance. 
@@ -4057,7 +4057,7 @@ I do not attack your ego. I help you keep vigilance in working with your higher 
 
 #### substituted
 
-1.&emsp;All things work together for good. 
+1. All things work together for good. 
 <sup>2</sup>There are no exceptions except in the ego’s judgement. 
 <sup>3</sup>The ego exerts maximal vigilance about what the ego permits into awareness, and exerting maximal vigilance is not the way a balanced mind holds together. 
 <sup>4</sup>The ego is thrown further off balance because the ego keeps the-ego’s primary motivation from your awareness, and raises control rather than sanity to predominance. 
@@ -4290,7 +4290,7 @@ The ego loves to stay busy with non-essential tangential issues. The ego does no
 ## T-4.VI.1
 
 <p class=fip id=p1>
-1.&emsp;The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it is. 
+1. The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it is. 
 <sup>2</sup>Only your allegiance to it gives the ego any power over you. 
 <sup>3</sup>I have spoken of the ego as if it were a separate thing, acting on its own. 
 <sup>4</sup>This was necessary to persuade you that you cannot dismiss it lightly, and must realise how much of your thinking is ego-directed. 
@@ -4301,7 +4301,7 @@ The ego loves to stay busy with non-essential tangential issues. The ego does no
 
 #### expanded
 
-1.&emsp;The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it [the situation] is. 
+1. The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it [the situation] is. 
 <sup>2</sup>Only your allegiance to it [the ego] gives the ego any power over you. 
 <sup>3</sup>I have spoken of the ego as if it [the ego] were a separate thing, acting on its [the-ego’s] own. 
 <sup>4</sup>This [speaking of the ego as if the ego were a separate thing] was necessary to persuade you that you cannot dismiss it [the ego] lightly, and must realise how much of your thinking is ego-directed. 
@@ -4311,7 +4311,7 @@ The ego loves to stay busy with non-essential tangential issues. The ego does no
 
 #### substituted
 
-1.&emsp;The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as the situation is. 
+1. The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as the situation is. 
 <sup>2</sup>Only your allegiance to the ego gives the ego any power over you. 
 <sup>3</sup>I have spoken of the ego as if the ego were a separate thing, acting on the-ego’s own. 
 <sup>4</sup>Sspeaking of the ego as if the ego were a separate thing, was necessary to persuade you that you cannot dismiss the ego lightly, and must realise how much of your thinking is ego-directed. 
@@ -4338,7 +4338,7 @@ Do not associate yourself with the ego. It is not easy to dismiss the ego. The e
 ## T-4.VI.2
 
 <p class=fip id=p2>
-2.&emsp;In learning to escape from illusions, your debt to your brother is something you must never forget. 
+2. In learning to escape from illusions, your debt to your brother is something you must never forget. 
 <sup>2</sup>It is the same debt that you owe to me. 
 <sup>3</sup>Whenever you act egotistically towards another, you are throwing away the graciousness of your indebtedness and the holy perception it would produce. 
 <sup>4</sup>The term ‘holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
@@ -4347,7 +4347,7 @@ Do not associate yourself with the ego. It is not easy to dismiss the ego. The e
 
 #### expanded
 
-2.&emsp;In learning to escape from illusions, your debt to your brother is something you must never forget. 
+2. In learning to escape from illusions, your debt to your brother is something you must never forget. 
 <sup>2</sup>It [your debt to your brother] is the same debt that you owe to me. 
 <sup>3</sup>Whenever you act egotistically towards another, you are throwing away the graciousness of your indebtedness and the holy perception it [the graciousness of your indebtedness] would produce. 
 <sup>4</sup>The term ‘holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
@@ -4355,7 +4355,7 @@ Do not associate yourself with the ego. It is not easy to dismiss the ego. The e
 
 #### substituted
 
-2.&emsp;In learning to escape from illusions, your debt to your brother is something you must never forget. 
+2. In learning to escape from illusions, your debt to your brother is something you must never forget. 
 <sup>2</sup>Your debt to your brother is the same debt that you owe to me. 
 <sup>3</sup>Whenever you act egotistically towards another, you are throwing away the graciousness of your indebtedness and the holy perception the graciousness of your indebtedness would produce. 
 <sup>4</sup>The term ‘holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
@@ -4368,7 +4368,7 @@ When you learn to escape from illusions, you will owe a debt to me and to all yo
 ## T-4.VI.3
 
 <p class=fip id=p3>
-3.&emsp;You have very little trust in me as yet, but it will increase as you turn more and more often to me instead of to your ego for guidance. 
+3. You have very little trust in me as yet, but it will increase as you turn more and more often to me instead of to your ego for guidance. 
 <sup>2</sup>The results will convince you increasingly that this choice is the only sane one you can make. 
 <sup>3</sup>No one who learns from experience that one choice brings peace and joy while another brings chaos and disaster needs additional convincing. 
 <sup>4</sup>Learning through rewards is more effective than learning through pain, because pain is an ego illusion, and can never induce more than a temporary effect. 
@@ -4380,7 +4380,7 @@ When you learn to escape from illusions, you will owe a debt to me and to all yo
 
 #### expanded
 
-3.&emsp;You have very little trust in me as yet, but it [trust in me] will increase as you turn more and more often to me instead of [turning] to your ego for guidance. 
+3. You have very little trust in me as yet, but it [trust in me] will increase as you turn more and more often to me instead of [turning] to your ego for guidance. 
 <sup>2</sup>The results [of trusting in me] will convince you increasingly that this choice [to trust in me] is the only sane one [choice] you can make. 
 <sup>3</sup>No one who learns from experience that one choice brings peace and joy while another [choice] brings chaos and disaster needs additional convincing. 
 <sup>4</sup>Learning through rewards is more effective than learning through pain, because pain is an ego illusion, and [pain] can never induce more than a temporary effect. 
@@ -4391,7 +4391,7 @@ When you learn to escape from illusions, you will owe a debt to me and to all yo
 
 #### substituted
 
-3.&emsp;You have very little trust in me as yet, but trust in me will increase as you turn more and more often to me instead of turning to your ego for guidance. 
+3. You have very little trust in me as yet, but trust in me will increase as you turn more and more often to me instead of turning to your ego for guidance. 
 <sup>2</sup>The results of trusting in me will convince you increasingly that the choice to trust in me is the only sane choice you can make. 
 <sup>3</sup>No one who learns from experience that one choice brings peace and joy, while another choice brings chaos and disaster, needs additional convincing. 
 <sup>4</sup>Learning through rewards is more effective than learning through pain, because pain is an ego illusion, and pain can never induce more than a temporary effect. 
@@ -4415,7 +4415,7 @@ The more you trust in me, the more you learn it is insane not to trust me. Trust
 ## T-4.VI.4
 
 <p class=fip id=p4>
-4.&emsp;The ego and the spirit do not know each other. 
+4. The ego and the spirit do not know each other. 
 <sup>2</sup>The separated mind cannot maintain the separation except by dissociating. 
 <sup>3</sup>Having done this, it denies all truly natural impulses, not because the ego is a separate thing, but because you want to believe that <em>you</em> are. 
 <sup>4</sup>The ego is a device for maintaining this belief, but it is still only your decision to use the device that enables it to endure.
@@ -4423,14 +4423,14 @@ The more you trust in me, the more you learn it is insane not to trust me. Trust
 
 #### expanded
 
-4.&emsp;The ego and the spirit do not know each other. 
+4. The ego and the spirit do not know each other. 
 <sup>2</sup>The separated mind cannot maintain the separation except by dissociating. 
 <sup>3</sup>Having done this [disocciated], it [the separated mind] denies all truly natural impulses, not because the ego is a separate thing, but because you want to believe that <em>you</em> are [a separate thing]. 
 <sup>4</sup>The ego is a device for maintaining this belief [that you are a separate thing], but it is still only your decision to use the device that enables it [the ego as device] to endure.
 
 #### substituted
 
-4.&emsp;The ego and the spirit do not know each other. 
+4. The ego and the spirit do not know each other. 
 <sup>2</sup>The separated mind cannot maintain the separation except by dissociating. 
 <sup>3</sup>Having disocciated, the separated mind denies all truly natural impulses, not because the ego is a separate thing, but because you want to believe that <em>you</em> are [a separate thing]. 
 <sup>4</sup>The ego is a device for maintaining the belief that you are a separate thing, but it is still only your decision to use the device that enables the ego as device to endure.
@@ -4442,7 +4442,7 @@ You maintain the separated mind by disocciating from the spirit. The ego is what
 ## T-4.VI.5
 
 <p class=fip id=p5>
-5.&emsp;How can you teach someone the value of something he has deliberately thrown away? 
+5. How can you teach someone the value of something he has deliberately thrown away? 
 <sup>2</sup>He must have thrown it away because he did not value it. 
 <sup>3</sup>You can only show him how miserable he is without it, and slowly bring it nearer so he can learn how his misery lessens as he approaches it. 
 <sup>4</sup>This teaches him to associate his misery with its absence, and the opposite of misery with its presence. 
@@ -4454,7 +4454,7 @@ You maintain the separated mind by disocciating from the spirit. The ego is what
 
 #### expanded
 
-5.&emsp;How can you teach someone the value of something he [someone] has deliberately thrown away? 
+5. How can you teach someone the value of something he [someone] has deliberately thrown away? 
 <sup>2</sup>He [the thrower] must have thrown it [the thing] away because he [the thrower] did not value it [the thing]. 
 <sup>3</sup>You can only show him [the thrower] how miserable he [the thrower] is without it [the thing], and slowly bring the thing nearer so he [the thrower] can learn how his [the-thrower’s] misery lessens as he [the thrower] approaches it [the thing]. 
 <sup>4</sup>This [showing the thrower’s misery] teaches him [the thrower] to associate his [the-thrower’s] misery with its [the-thing’s] absence, and the opposite of misery with its [the-thing’s] presence. 
@@ -4465,7 +4465,7 @@ You maintain the separated mind by disocciating from the spirit. The ego is what
 
 #### substituted
 
-5.&emsp;How can you teach someone the value of something someone has deliberately thrown away? 
+5. How can you teach someone the value of something someone has deliberately thrown away? 
 <sup>2</sup>The thrower must have thrown the thing away because the thrower did not value the thing. 
 <sup>3</sup>You can only show the thrower how miserable the thrower is without the thing, and slowly bring the thing nearer so the thrower can learn how the-thrower’s misery lessens as the thrower approaches the thing. 
 <sup>4</sup>Showing the thrower’s misery teaches the thrower to associate his the-thrower’s misery with the-thing’s absence, and the opposite of misery with the-thing’s presence. 
@@ -4481,7 +4481,7 @@ You did not value spirit so you threw spirit away. Without spirit you are misera
 ## T-4.VI.6
 
 <p class=fip id=p6>
-6.&emsp;My trust in you is greater than yours in me at the moment, but it will not always be that way. 
+6. My trust in you is greater than yours in me at the moment, but it will not always be that way. 
 <sup>2</sup>Your mission is very simple. 
 <sup>3</sup>You are asked to live so as to demonstrate that you are not an ego, and I do not choose God’s channels wrongly. 
 <sup>4</sup>The Holy One shares my trust, and accepts my Atonement decisions because my will is never out of accord with His. 
@@ -4492,7 +4492,7 @@ You did not value spirit so you threw spirit away. Without spirit you are misera
 
 #### expanded
 
-6.&emsp;My trust in you is greater than yours [trust] in me at the moment, but it will not always be that way. 
+6. My trust in you is greater than yours [trust] in me at the moment, but it will not always be that way. 
 <sup>2</sup>Your mission is very simple. 
 <sup>3</sup>You are asked to live so as to demonstrate that you are not an ego, and I do not choose God’s channels wrongly. 
 <sup>4</sup>The Holy One shares my trust, and accepts my Atonement decisions because my will is never out of accord with His [the-Holy-One’s-will]. 
@@ -4502,7 +4502,7 @@ You did not value spirit so you threw spirit away. Without spirit you are misera
 
 #### substituted
 
-6.&emsp;My trust in you is greater than your trust in me at the moment, but it will not always be that way. 
+6. My trust in you is greater than your trust in me at the moment, but it will not always be that way. 
 <sup>2</sup>Your mission is very simple. 
 <sup>3</sup>You are asked to live so as to demonstrate that you are not an ego, and I do not choose God’s channels wrongly. 
 <sup>4</sup>The Holy One shares my trust, and accepts my Atonement decisions because my will is never out of accord with the-Holy-One’s-will. 
@@ -4517,7 +4517,7 @@ I trust you now and you will learn to trust me more. Your mission is to live so 
 ## T-4.VI.7
 
 <p class=fip id=p7>
-7.&emsp;I will go with you to the Holy One, and through my perception He can bridge the little gap. 
+7. I will go with you to the Holy One, and through my perception He can bridge the little gap. 
 <sup>2</sup>Your gratitude to your brother is the only gift I want. 
 <sup>3</sup>I will bring it to God for you, knowing that to know your brother <em>is</em> to know God. 
 <sup>4</sup>If you are grateful to your brother, you are grateful to God for what He created. 
@@ -4529,7 +4529,7 @@ I trust you now and you will learn to trust me more. Your mission is to live so 
 
 #### expanded
 
-7.&emsp;I will go with you to the Holy One, and through my perception He [the Holy One] can bridge the little gap. 
+7. I will go with you to the Holy One, and through my perception He [the Holy One] can bridge the little gap. 
 <sup>2</sup>Your gratitude to your brother is the only gift I want. 
 <sup>3</sup>I will bring it [your gratitude] to God for you, knowing that to know your brother <em>is</em> to know God. 
 <sup>4</sup>If you are grateful to your brother, you are grateful to God for what He [God] created. 
@@ -4540,7 +4540,7 @@ I trust you now and you will learn to trust me more. Your mission is to live so 
 
 #### substituted
 
-7.&emsp;I will go with you to the Holy One, and through my perception the Holy One can bridge the little gap. 
+7. I will go with you to the Holy One, and through my perception the Holy One can bridge the little gap. 
 <sup>2</sup>Your gratitude to your brother is the only gift I want. 
 <sup>3</sup>I will bring your gratitude to God for you, knowing that to know your brother <em>is</em> to know God. 
 <sup>4</sup>If you are grateful to your brother, you are grateful to God for what God created. 
@@ -4556,7 +4556,7 @@ God created your brothers. Be grateful to God for what God created.
 ## T-4.VI.8
 
 <p class=fip id=p8>
-8.&emsp;As you come closer to a brother you approach me, and as you withdraw from him I become distant to you. 
+8. As you come closer to a brother you approach me, and as you withdraw from him I become distant to you. 
 <sup>2</sup>Salvation is a collaborative venture. 
 <sup>3</sup>It cannot be undertaken successfully by those who disengage themselves from the Sonship, because they are disengaging themselves from me. 
 <sup>4</sup>God will come to you only as you will give Him to your brothers. 
@@ -4566,7 +4566,7 @@ God created your brothers. Be grateful to God for what God created.
 
 #### expanded
 
-8.&emsp;As you come closer to a brother you approach me, and as you withdraw from him [a brother] I become distant to you. 
+8. As you come closer to a brother you approach me, and as you withdraw from him [a brother] I become distant to you. 
 <sup>2</sup>Salvation is a collaborative venture. 
 <sup>3</sup>It [salvation] cannot be undertaken successfully by those who disengage themselves from the Sonship, because they [disengagers] are disengaging themselves [disengager’s-selves] from me. 
 <sup>4</sup>God will come to you only as you will give Him [God] to your brothers. 
@@ -4575,7 +4575,7 @@ God created your brothers. Be grateful to God for what God created.
 
 #### substituted
 
-8.&emsp;As you come closer to a brother you approach me, and as you withdraw from a brother I become distant to you. 
+8. As you come closer to a brother you approach me, and as you withdraw from a brother I become distant to you. 
 <sup>2</sup>Salvation is a collaborative venture. 
 <sup>3</sup>Salvation cannot be undertaken successfully by those who disengage themselves from the Sonship, because disengagers are disengaging disengager’s-selves from me. 
 <sup>4</sup>God will come to you only as you will give God to your brothers. 
@@ -4597,7 +4597,7 @@ Engaging yourself with the Sonship in engaging yourself with me. God comes to yo
 ## T-4.VII.1
 
 <p class=fip id=p1>
-1.&emsp;It is clear that while the content of any particular ego illusion does not matter, its correction is more helpful in a specific context. 
+1. It is clear that while the content of any particular ego illusion does not matter, its correction is more helpful in a specific context. 
 <sup>2</sup>Ego illusions are quite specific, although the mind is naturally abstract. 
 <sup>3</sup>Part of the mind becomes concrete, however, when it splits. 
 <sup>4</sup>The concrete part believes in the ego, because the ego depends on the concrete. 
@@ -4606,7 +4606,7 @@ Engaging yourself with the Sonship in engaging yourself with me. God comes to yo
 
 #### expanded
 
-1.&emsp;It is clear that while the content of any particular ego illusion does not matter, its [an-ego-illusion’s] correction is more helpful in a specific context. 
+1. It is clear that while the content of any particular ego illusion does not matter, its [an-ego-illusion’s] correction is more helpful in a specific context. 
 <sup>2</sup>Ego illusions are quite specific, although the mind is naturally abstract. 
 <sup>3</sup>Part of the mind becomes concrete, however, when it [the mind] splits. 
 <sup>4</sup>The concrete part [of the mind] believes in the ego, because the ego depends on the concrete. 
@@ -4614,7 +4614,7 @@ Engaging yourself with the Sonship in engaging yourself with me. God comes to yo
 
 #### substituted
 
-1.&emsp;It is clear that while the content of any particular ego illusion does not matter, an-ego-illusion’s correction is more helpful in a specific context. 
+1. It is clear that while the content of any particular ego illusion does not matter, an-ego-illusion’s correction is more helpful in a specific context. 
 <sup>2</sup>Ego illusions are quite specific, although the mind is naturally abstract. 
 <sup>3</sup>Part of the mind becomes concrete, however, when the mind splits. 
 <sup>4</sup>The concrete part of the mind believes in the ego, because the ego depends on the concrete. 
@@ -4635,7 +4635,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 ## T-4.VII.2
 
 <p class=fip id=p2>
-2.&emsp;Everything the ego perceives is a separate whole, without the relationships that imply being. 
+2. Everything the ego perceives is a separate whole, without the relationships that imply being. 
 <sup>2</sup>The ego is thus against communication, except insofar as it is utilised to establish separateness rather than to abolish it. 
 <sup>3</sup>The communication system of the ego is based on its own thought system, as is everything else it dictates. 
 <sup>4</sup>Its communication is controlled by its need to protect itself, and it will disrupt communication when it experiences threat. 
@@ -4646,7 +4646,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 
 #### expanded
 
-2.&emsp;Everything the ego perceives is a separate whole, without the relationships that imply being. 
+2. Everything the ego perceives is a separate whole, without the relationships that imply being. 
 <sup>2</sup>The ego is thus against communication, except insofar as it [communication] is utilised to establish separateness rather than to abolish it [separateness]. 
 <sup>3</sup>The communication system of the ego is based on its [the-ego’s] own thought system, as is everything else it [the ego] dictates. 
 <sup>4</sup>Its [the-ego’s] communication is controlled by its [the-ego’s] need to protect itself [the-ego’s-self], and it [the ego] will disrupt communication when it [the ego] experiences threat. 
@@ -4656,7 +4656,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 
 #### substituted
 
-2.&emsp;Everything the ego perceives is a separate whole, without the relationships that imply being. 
+2. Everything the ego perceives is a separate whole, without the relationships that imply being. 
 <sup>2</sup>The ego is thus against communication, except insofar as communication is utilised to establish separateness rather than to abolish separateness. 
 <sup>3</sup>The communication system of the ego is based on the-ego’s own thought system, as is everything else the ego dictates. 
 <sup>4</sup>The-ego’s communication is controlled by the-ego’s need to protect the-ego’s-self, and the ego will disrupt communication when the ego experiences threat. 
@@ -4671,7 +4671,7 @@ The ego perceives everything as separate. The ego uses communication to establis
 ## T-4.VII.3
 
 <p class=fip id=p3>
-3.&emsp;In contrast, spirit reacts in the same way to everything it knows is true, and does not respond at all to anything else. 
+3. In contrast, spirit reacts in the same way to everything it knows is true, and does not respond at all to anything else. 
 <sup>2</sup>Nor does it make any attempt to establish what is true. 
 <sup>3</sup>It knows that what is true is everything that God created. 
 <sup>4</sup>It is in complete and direct communication with every aspect of creation, because it is in complete and direct communication with its Creator. 
@@ -4687,7 +4687,7 @@ The ego perceives everything as separate. The ego uses communication to establis
 
 #### expanded
 
-3.&emsp;In contrast, spirit reacts in the same way to everything it [spirit] knows is true, and does not respond at all to anything else. 
+3. In contrast, spirit reacts in the same way to everything it [spirit] knows is true, and does not respond at all to anything else. 
 <sup>2</sup>Nor does it [spirit] make any attempt to establish what is true. 
 <sup>3</sup>It [spirit] knows that what is true is everything that God created. 
 <sup>4</sup>It [spirit] is in complete and direct communication with every aspect of creation, because it [spirit] is in complete and direct communication with its [spirit’s] Creator. 
@@ -4702,7 +4702,7 @@ The ego perceives everything as separate. The ego uses communication to establis
 
 #### substituted
 
-3.&emsp;In contrast, spirit reacts in the same way to everything spirit knows is true, and does not respond at all to anything else. 
+3. In contrast, spirit reacts in the same way to everything spirit knows is true, and does not respond at all to anything else. 
 <sup>2</sup>Nor does spirit make any attempt to establish what is true. 
 <sup>3</sup>Spirit knows that what is true is everything that God created. 
 <sup>4</sup>Spirit is in complete and direct communication with every aspect of creation, because spirit is in complete and direct communication with spirit’s Creator. 
@@ -4722,7 +4722,7 @@ Spirit communicates with all aspects of creation. God creates by communication a
 ## T-4.VII.4
 
 <p class=fip id=p4>
-4.&emsp;Existence as well as being rest on communication. 
+4. Existence as well as being rest on communication. 
 <sup>2</sup>Existence, however, is specific in how, what and with whom communication is judged to be worth undertaking. 
 <sup>3</sup>Being is completely without these distinctions. 
 <sup>4</sup>It is a state in which the mind is in communication with everything that is real. 
@@ -4734,7 +4734,7 @@ Spirit communicates with all aspects of creation. God creates by communication a
 
 #### expanded
 
-4.&emsp;Existence as well as being rest on communication. 
+4. Existence as well as being rest on communication. 
 <sup>2</sup>Existence, however, is specific in how, what and with whom communication is judged to be worth undertaking. 
 <sup>3</sup>Being is completely without these distinctions. 
 <sup>4</sup>It [being] is a state in which [state] the mind is in communication with everything that is real. 
@@ -4745,7 +4745,7 @@ Spirit communicates with all aspects of creation. God creates by communication a
 
 #### substituted
 
-4.&emsp;Existence as well as being rest on communication. 
+4. Existence as well as being rest on communication. 
 <sup>2</sup>Existence, however, is specific in how, what and with whom communication is judged to be worth undertaking. 
 <sup>3</sup>Being is completely without these distinctions. 
 <sup>4</sup>Being is a state, in state the mind is in communication with everything that is real. 
@@ -4769,7 +4769,7 @@ Existence is specific in how it communicates. Being is in communication with eve
 ## T-4.VII.5
 
 <p class=fip id=p5>
-5.&emsp;God, Who encompasses all being, created beings who have everything individually, but who want to share it to increase their joy. 
+5. God, Who encompasses all being, created beings who have everything individually, but who want to share it to increase their joy. 
 <sup>2</sup>Nothing real can be increased except by sharing. 
 <sup>3</sup>That is why God created you. 
 <sup>4</sup>Divine Abstraction takes joy in sharing. 
@@ -4781,7 +4781,7 @@ Existence is specific in how it communicates. Being is in communication with eve
 
 #### expanded
 
-5.&emsp;God, Who encompasses all being, created beings who have everything individually, but who [created beings] want to share it [everything they have] to increase their [created-beings’] joy. 
+5. God, Who encompasses all being, created beings who have everything individually, but who [created beings] want to share it [everything they have] to increase their [created-beings’] joy. 
 <sup>2</sup>Nothing real can be increased except by sharing. 
 <sup>3</sup>That is why God created you. 
 <sup>4</sup>Divine Abstraction takes joy in sharing. 
@@ -4792,7 +4792,7 @@ Existence is specific in how it communicates. Being is in communication with eve
 
 #### substituted
 
-5.&emsp;God, Who encompasses all being, created beings who have everything individually, but created beings want to share everything they have to increase created-beings’ joy. 
+5. God, Who encompasses all being, created beings who have everything individually, but created beings want to share everything they have to increase created-beings’ joy. 
 <sup>2</sup>Nothing real can be increased except by sharing. 
 <sup>3</sup>That is why God created you. 
 <sup>4</sup>Divine Abstraction takes joy in sharing. 
@@ -4808,7 +4808,7 @@ God creates being who have everything. God’s created beings want to share. Sha
 ## T-4.VII.6
 
 <p class=fip id=p6>
-6.&emsp;The Bible repeatedly states that you should praise God. 
+6. The Bible repeatedly states that you should praise God. 
 <sup>2</sup>This hardly means that you should tell Him how wonderful He is. 
 <sup>3</sup>He has no ego with which to accept such praise, and no perception with which to judge it. 
 <sup>4</sup>But unless you take your part in the creation, His joy is not complete because yours is incomplete. 
@@ -4819,7 +4819,7 @@ God creates being who have everything. God’s created beings want to share. Sha
 
 #### expanded
 
-6.&emsp;The Bible repeatedly states that you should praise God. 
+6. The Bible repeatedly states that you should praise God. 
 <sup>2</sup>This [praising God] hardly means that you should tell Him [God] how wonderful He [God] is. 
 <sup>3</sup>He [God] has no ego with which [ego] to accept such praise [as how wonderful God is], and no perception with which [perception] to judge it [praise such as how wonderful God is]. 
 <sup>4</sup>But unless you take your part in the creation, His [God’s] joy is not complete because yours [joy] is incomplete. 
@@ -4829,7 +4829,7 @@ God creates being who have everything. God’s created beings want to share. Sha
 
 #### substituted
 
-6.&emsp;The Bible repeatedly states that you should praise God. 
+6. The Bible repeatedly states that you should praise God. 
 <sup>2</sup>Praising God hardly means that you should tell God how wonderful God is. 
 <sup>3</sup>God has no ego, no ego to accept such praise as how wonderful God is, and no perception to judge praise such as how wonderful God is. 
 <sup>4</sup>But unless you take your part in the creation, God’s joy is not complete because your joy is incomplete. 
@@ -4852,7 +4852,7 @@ Praising God means to take your part in the creation. Taking your part in creati
 ## T-4.VII.7
 
 <p class=fip id=p7>
-7.&emsp;God has kept your Kingdom for you, but He cannot share His joy with you until you know it with your whole mind. 
+7. God has kept your Kingdom for you, but He cannot share His joy with you until you know it with your whole mind. 
 <sup>2</sup>Revelation is not enough, because it is only communication <em>from</em> God. 
 <sup>3</sup>God does not need revelation returned to Him, which would clearly be impossible, but He does want it brought to others. 
 <sup>4</sup>This cannot be done with the actual revelation; its content cannot be expressed, because it is intensely personal to the mind that receives it. 
@@ -4861,7 +4861,7 @@ Praising God means to take your part in the creation. Taking your part in creati
 
 #### expanded
 
-7.&emsp;God has kept your Kingdom for you, but He [God] cannot share His [God’s] joy with you until you know it [God’s-joy] with your whole mind. 
+7. God has kept your Kingdom for you, but He [God] cannot share His [God’s] joy with you until you know it [God’s-joy] with your whole mind. 
 <sup>2</sup>Revelation is not enough, because it [revelation] is only communication <em>from</em> God. 
 <sup>3</sup>God does not need revelation returned to Him [Gpd], which would clearly be impossible, but He [God] does want it [revelation] brought to others. 
 <sup>4</sup>This [bringing revelation to others] cannot be done with the actual revelation; its [the-actual-revelation’s] content cannot be expressed, because it [the-actual-revelation] is intensely personal to the mind that receives it [the revelation]. 
@@ -4869,7 +4869,7 @@ Praising God means to take your part in the creation. Taking your part in creati
 
 #### substituted
 
-7.&emsp;God has kept your Kingdom for you, but God cannot share God’s joy with you until you know God’s-joy with your whole mind. 
+7. God has kept your Kingdom for you, but God cannot share God’s joy with you until you know God’s-joy with your whole mind. 
 <sup>2</sup>Revelation is not enough, because revelation is only communication <em>from</em> God. 
 <sup>3</sup>God does not need revelation returned to Gpd, which would clearly be impossible, but God does want revelation brought to others. 
 <sup>4</sup>Bringing revelation to others cannot be done with the actual revelation; the-actual-revelation’s content cannot be expressed, because the-actual-revelation is intensely personal to the mind that receives the revelation. 
