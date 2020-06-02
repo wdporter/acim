@@ -14,7 +14,8 @@ layout: mylayout.njk
 </nav>
 
 <main>
-<h2>{{ reference }} {{ lessontitle }}</h2>
+<h2>LESSON {{lessonNumber}}</h2>
+<h3>{% if lessonTitle %}{{lessonTitle}}{% else %}{{title}}.{% endif %}</h3>
 
 {{ content | safe }}
 </main>
