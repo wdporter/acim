@@ -20,7 +20,9 @@ next: W-pI.6
 ⁵However, until you learn that form does not matter, each form becomes a proper subject for the exercises for the day. 
 ⁶Applying the same idea to each of them separately is the first step in ultimately recognising they are all the same.
 
-::: details Expanded
+::: details Annotations
+
+##### Expanded
 
 This idea, like the preceding one [idea], can be used with any person, situation or event you think is causing you pain. 
 ²Apply it [this idea] specifically to whatever you believe is the cause of your upset, using the description of the feeling in whatever term seems accurate to you. 
@@ -28,9 +30,7 @@ This idea, like the preceding one [idea], can be used with any person, situation
 ⁵However, until you learn that form does not matter, each form [of upset] becomes a proper subject for the exercises for the day. 
 ⁶Applying the same idea to each of them [form of upset] separately is the first step in ultimately recognising they [forms of upset] are all the same.
 
-:::
-
-::: details Substituted
+##### Substituted
 
 This idea, like the preceding idea, can be used with any person, situation or event you think is causing you pain. 
 ²Apply this idea specifically to whatever you believe is the cause of your upset, using the description of the feeling in whatever term seems accurate to you. 
@@ -39,18 +39,16 @@ This idea, like the preceding idea, can be used with any person, situation or ev
 ⁵However, until you learn that form does not matter, each form of upset becomes a proper subject for the exercises for the day. 
 ⁶Applying the same idea to each form of upset separately is the first step in ultimately recognising forms of upset are all the same.
 
-:::
-
-::: details Simplified
+##### Simplified
 
 Upsets may seem to have different forms. 
 Upsets are all the same.
 
-:::
-
 <!--::: details Commentary
 Through the dynamic of projection, the ego continually seeks to have us believe our problems are outside us in the world of the body — our own or others’. Thus we believe that what upsets us are problems perceived as external to us, beyound our control, for which we must find solutions. As long as we believe in the ego’s seductive smokescreens, the true source of the problem — our misthoughts — remains beyond recognition and therefore beyond correction. (Wapnick, F.A.J., p.67)
 ::: -->
+
+:::
 
 ---
 

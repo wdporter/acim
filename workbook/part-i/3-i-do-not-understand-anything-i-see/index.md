@@ -25,23 +25,21 @@ next: W-pI.4
 ²It is therefore essential that you keep a perfectly open mind, unhampered by judgement, in selecting the things to which the idea for the day is to be applied. 
 ³For this purpose one thing is like another: equally suitable and therefore equally useful.
 
-::: details Expanded
+::: details Annotations
+
+##### Expanded
 
 The point of the exercises is to help you clear your mind of all past associations, to see things exactly as they [things] appear to you now, and to realise how little you really understand about them [things]. 
 ²It is therefore essential that you keep a perfectly open mind, unhampered by judgement, in selecting the things to which [things] the idea for the day is to be applied. 
 ³For this purpose [applying the idea] one thing is like another [thing]: equally suitable and therefore equally useful.
 
-:::
-
-::: details Substituted
+##### Substituted
 
 The point of the exercises is to help you clear your mind of all past associations, to see things exactly as things appear to you now, and to realise how little you really understand about things. 
 ²It is therefore essential that you keep a perfectly open mind, unhampered by judgement, in selecting the things; the things the idea for the day is to be applied. 
 ³For the purpose of applying the idea one thing is like another thing: equally suitable and therefore equally useful.
 
-:::
-
-::: details Simplified
+#####  Simplified
 
 The point is to see things exactly as they are. 
 Do not judge anything you see.
