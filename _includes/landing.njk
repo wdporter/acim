@@ -10,7 +10,7 @@ layout: mylayout.njk
 
 {% set navPages = collections.all | eleventyNavigation(reference) %}
 <ul>
-{%- for entry in navPages %}
+{%- for entry in navPages -%}
   <li><a href="{{ entry.url | url }}">{{ entry.title }}</a>
-{%- endfor %}
+{%- endfor -%}
 </ul>
