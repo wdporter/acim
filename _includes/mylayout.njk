@@ -9,13 +9,14 @@ title: Home
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
 	<title>{{ reference }} {{ title }} — {{ sitetitle }}</title>
 {% set css %}
-	{% include "new.css" %}
-	{% include "theme.css" %}
+	{% include "css/new.css" %}
+	{% include "css/theme.css" %}
 {% endset %}
 <style>{{ css | cssmin | safe }}</style>
-<link rel="stylesheet" href="https://fonts.xz.style/serve/open-sans.css">
-{#- <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css"> 
+<link rel="stylesheet" href="https://fonts.xz.style/serve/roboto-slab.css">
 <link rel="stylesheet" href="https://fonts.xz.style/serve/roboto.css">
+{#- <link rel="stylesheet" href="https://fonts.xz.style/serve/open-sans.css">
+<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css"> 
 -#}
 <body>
 	<header>

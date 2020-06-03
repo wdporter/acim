@@ -1,0 +1,107 @@
+:root {
+	--nc-font-sans: "Roboto", "Verdana", sans-serif; /* "Inter", "Roboto" */
+	--nc-font-serif: "Roboto Slab", "Georgia", serif; 
+}
+
+body {
+	border-radius: initial;
+	font-size: 1rem;
+}
+
+h1,
+h2,
+h3 {
+	color: var(--nc-tx-1);
+	padding-bottom: .25rem;
+	margin-bottom: .5rem;
+	border-bottom: 1px solid var(--nc-bg-2);
+}
+
+h2, h3 {
+	line-height: 1.25;
+}
+
+
+footer {
+	background: var(--nc-bg-2);
+	border-top: 1px solid var(--nc-bg-3);
+	padding: 2rem 1.5rem;
+	
+	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
+
+	margin: 2rem calc(0px - (50vw - 50%)) -2rem;
+
+	/* Shorthand for:
+
+	margin-top: -2rem;
+	margin-bottom: 2rem;
+
+	margin-left: calc(0px - (50vw - 50%));
+	margin-right: calc(0px - (50vw - 50%)); */
+	
+	padding-left: calc(50vw - 50%);
+	padding-right: calc(50vw - 50%);
+
+	text-align: center;
+}
+
+@media only screen and (min-device-width: 500px) { 
+	div.indented, div.indent {
+		margin-left: 4rem;
+		margin-right: 4rem;
+	}
+}
+
+body > nav {
+	font-size: .8rem;
+}
+
+body > nav ul {
+	list-style-type: none;
+	padding-left: initial;
+}
+
+body > nav li {
+	display: inline;
+}
+
+body > nav li + li::before {
+	content: "→";
+}
+
+header > nav ul {
+	list-style-type: none;
+	margin-bottom: initial;
+	padding-left: initial;
+}
+
+header > nav li {
+	display: inline;
+}
+
+header > nav li + li::before {
+	content: " ◆ ";
+}
+
+
+blockquote {
+	padding: 1em 4em;
+	background: initial;
+	border-left: initial;
+	font-style: italic;
+}
+
+details  {
+	margin-bottom: initial;
+}
+
+summary {
+	font-weight: initial;
+}
+
+p {
+	font-family: var(--nc-font-serif);
+}
+footer p {
+	font-family: var(--nc-font-sans);
+}
