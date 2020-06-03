@@ -1,9 +1,8 @@
 ---
 layout: mylayout.njk
 ---
-{% include "breadcrumb.njk" %}
 
-<main>
+{% include "breadcrumb.njk" %}
 
 <h2>{{ title | upper }}</h2>
 
@@ -15,5 +14,3 @@ layout: mylayout.njk
   <li><a href="{{ entry.url | url }}">{{ entry.title }}</a>
 {%- endfor %}
 </ul>
-
-</main>

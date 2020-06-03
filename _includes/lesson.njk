@@ -4,12 +4,9 @@ layout: mylayout.njk
 
 {% include "breadcrumb.njk" %}
 
-<main>
 <h2>LESSON {{lessonNumber}}</h2>
 <h3>{% if lessonTitle %}{{lessonTitle}}{% else %}{{title}}.{% endif %}</h3>
 
 {{ content | safe }}
-</main>
-
 
 {% include "prevnext.njk" %}

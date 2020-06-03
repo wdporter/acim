@@ -4,8 +4,6 @@ layout: mylayout.njk
 
 {% include "breadcrumb.njk" %}
 
-<main>
-
 <h2>{{ reference }} {{ title | upper }}</h2>
 
 <h3> Contents </h3>
@@ -16,5 +14,3 @@ layout: mylayout.njk
   <li><a href="{{ entry.url | url }}">{{ entry.title }}</a>
 {%- endfor %}
 </ul>
-
-</main>

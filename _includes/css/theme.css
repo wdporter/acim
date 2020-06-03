@@ -52,20 +52,20 @@ footer {
 	}
 }
 
-body > nav {
+main > nav {
 	font-size: .8rem;
 }
 
-body > nav ul {
+main > nav ul {
 	list-style-type: none;
 	padding-left: initial;
 }
 
-body > nav li {
+main > nav li {
 	display: inline;
 }
 
-body > nav li + li::before {
+main > nav li + li::before {
 	content: "→";
 }
 
