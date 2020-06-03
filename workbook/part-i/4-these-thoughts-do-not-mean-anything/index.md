@@ -101,7 +101,7 @@ Only what is inside you can be meaningful.
 5. You can also use the idea for a particular thought that you recognise as harmful. 
 ²This practice is useful, but is not a substitute for the more random procedures to be followed for the exercises. 
 ³Do not, however, examine your mind for more than a minute or so. 
-⁴You are too inexperienced as yet to avoid a tendency to become pointlessly preoccupied.
+⁴You are too inexperienced as yet to avoid a tendency to become pointlessly preöccupied.
 
 6. Further, since these exercises are the first of their kind, you may find the suspension of judgement in connection with thoughts particularly difficult. 
 ²Do not repeat these exercises more than three or four times during the day. 

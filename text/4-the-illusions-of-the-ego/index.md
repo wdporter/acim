@@ -781,7 +781,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 <sup>5</sup>‘Giving to get’ is an inescapable law of the ego, which always evaluates itself in relation to other egos. 
-<sup>6</sup>It is therefore continually preoccupied with the belief in scarcity that gave rise to it. 
+<sup>6</sup>It is therefore continually preöccupied with the belief in scarcity that gave rise to it. 
 <sup>7</sup>Its whole perception of other egos as real is only an attempt to convince itself that <em>it</em> is real. 
 <sup>8</sup>‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself into accepting its reality, and is therefore temporarily less predatory. 
 <sup>9</sup>This ‘self-esteem’ is always vulnerable to stress, a term which refers to any perceived threat to the ego’s existence.
@@ -794,7 +794,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it [whatever you give]. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 <sup>5</sup>‘Giving to get’ is an inescapable law of the ego, which always evaluates itself [ego’s-self] in relation to other egos. 
-<sup>6</sup>It [the ego] is therefore continually preoccupied with the belief in scarcity that gave rise to it [the ego]. 
+<sup>6</sup>It [the ego] is therefore continually preöccupied with the belief in scarcity that gave rise to it [the ego]. 
 <sup>7</sup>Its [the-ego’s] whole perception of other egos as real is only an attempt to convince itself [the-ego’s-self] that <em>it [the ego]</em> is real. 
 <sup>8</sup>‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself [the-ego’s-self] into accepting its [the-ego’s] reality, and is therefore temporarily less predatory. 
 <sup>9</sup>This ‘self-esteem’ is always vulnerable to stress, a term which [term] refers to any perceived threat to the ego’s existence.
@@ -806,7 +806,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 <sup>3</sup>To the ego, to give anything implies that you will have to do without whatever you give. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 <sup>5</sup>‘Giving to get’ is an inescapable law of the ego, which always evaluates ego’s-self in relation to other egos. 
-<sup>6</sup>The ego is therefore continually preoccupied with the belief in scarcity that gave rise to the ego. 
+<sup>6</sup>The ego is therefore continually preöccupied with the belief in scarcity that gave rise to the ego. 
 <sup>7</sup>The-ego’s whole perception of other egos as real is only an attempt to convince the-ego’s-self that <em>the ego</em> is real. 
 <sup>8</sup>‘Self-esteem’ in ego terms means nothing more than that the ego has deluded the-ego’s-self into accepting the-ego’s reality, and is therefore temporarily less predatory. 
 <sup>9</sup>This ‘self-esteem’ is always vulnerable to stress; the term stress refers to any perceived threat to the ego’s existence.
@@ -2797,7 +2797,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 <sup>5</sup>‘Giving to get’ is an inescapable law of the ego, which always evaluates itself in relation to other egos. 
-<sup>6</sup>It is therefore continually preoccupied with the belief in scarcity that gave rise to it. 
+<sup>6</sup>It is therefore continually preöccupied with the belief in scarcity that gave rise to it. 
 <sup>7</sup>Its whole perception of other egos as real is only an attempt to convince itself that <em>it</em> is real. 
 <sup>8</sup>‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself into accepting its reality, and is therefore temporarily less predatory. 
 <sup>9</sup>This ‘self-esteem’ is always vulnerable to stress, a term which refers to any perceived threat to the ego’s existence.
@@ -2810,7 +2810,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 <sup>3</sup>To the ego, to give anything implies that you will have to do without it [whatever you give]. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 <sup>5</sup>‘Giving to get’ is an inescapable law of the ego, which always evaluates itself [ego’s-self] in relation to other egos. 
-<sup>6</sup>It [the ego] is therefore continually preoccupied with the belief in scarcity that gave rise to it [the ego]. 
+<sup>6</sup>It [the ego] is therefore continually preöccupied with the belief in scarcity that gave rise to it [the ego]. 
 <sup>7</sup>Its [the-ego’s] whole perception of other egos as real is only an attempt to convince itself [the-ego’s-self] that <em>it [the ego]</em> is real. 
 <sup>8</sup>‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself [the-ego’s-self] into accepting its [the-ego’s] reality, and is therefore temporarily less predatory. 
 <sup>9</sup>This ‘self-esteem’ is always vulnerable to stress, a term which [term] refers to any perceived threat to the ego’s existence.
@@ -2822,7 +2822,7 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 <sup>3</sup>To the ego, to give anything implies that you will have to do without whatever you give. 
 <sup>4</sup>When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 <sup>5</sup>‘Giving to get’ is an inescapable law of the ego, which always evaluates ego’s-self in relation to other egos. 
-<sup>6</sup>The ego is therefore continually preoccupied with the belief in scarcity that gave rise to the ego. 
+<sup>6</sup>The ego is therefore continually preöccupied with the belief in scarcity that gave rise to the ego. 
 <sup>7</sup>The-ego’s whole perception of other egos as real is only an attempt to convince the-ego’s-self that <em>the ego</em> is real. 
 <sup>8</sup>‘Self-esteem’ in ego terms means nothing more than that the ego has deluded the-ego’s-self into accepting the-ego’s reality, and is therefore temporarily less predatory. 
 <sup>9</sup>This ‘self-esteem’ is always vulnerable to stress; the term stress refers to any perceived threat to the ego’s existence.
@@ -4239,7 +4239,7 @@ Do not seek blindly for protection, because you might not recognise protection. 
 <sup>3</sup>The ego compromises with the issue of the eternal, just as it does with all issues touching on the real question in any way. 
 <sup>4</sup>By becoming involved with tangential issues, it hopes to hide the real question and keep it out of mind. 
 <sup>5</sup>The ego’s characteristic busyness with nonessentials is for precisely that purpose. 
-<sup>6</sup>Preoccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+<sup>6</sup>preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
 <sup>7</sup>In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
 <sup>8</sup>This is the question that *you* must learn to ask in connection with everything. 
 <sup>9</sup>What is the purpose? 
@@ -4254,7 +4254,7 @@ Do not seek blindly for protection, because you might not recognise protection. 
 <sup>3</sup>The ego compromises with the issue of the eternal, just as it [the ego] does [compromises] with all issues touching on the real question in any way. 
 <sup>4</sup>By becoming involved with tangential issues, it [the ego] hopes to hide the real question and keep it [the real question] out of mind. 
 <sup>5</sup>The ego’s characteristic busyness with non-essentials is for precisely that purpose [keeping the real question out of mind]. 
-<sup>6</sup>Preoccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+<sup>6</sup>preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
 <sup>7</sup>In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
 <sup>8</sup>This is the question that *you* must learn to ask in connection with everything. 
 <sup>9</sup>What is the purpose? 
@@ -4268,7 +4268,7 @@ Do not seek blindly for protection, because you might not recognise protection. 
 <sup>3</sup>The ego compromises with the issue of the eternal, just as the ego compromises with all issues touching on the real question in any way. 
 <sup>4</sup>By becoming involved with tangential issues, the ego hopes to hide the real question and keep the real question out of mind. 
 <sup>5</sup>The ego’s characteristic busyness with non-essentials is for precisely the purpose of keeping the real question out of mind. 
-<sup>6</sup>Preoccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+<sup>6</sup>preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
 <sup>7</sup>In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
 <sup>8</sup>This is the question that *you* must learn to ask in connection with everything. 
 <sup>9</sup>What is the purpose? 
