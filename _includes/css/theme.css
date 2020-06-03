@@ -80,6 +80,15 @@ main > nav li {
 	display: inline;
 }
 
+header h1 a {
+	text-decoration: none;
+}
+
+header h1 a, header h1 a:active, header h1 a:visited {
+	color: var(--nc-tx-1)
+}
+
+
 main > nav li + li::before {
 	content: "→";
 }
