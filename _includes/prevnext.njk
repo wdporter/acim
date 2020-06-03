@@ -1,4 +1,4 @@
-<div style=overflow:auto>
+<section>
 {%- set navPages = collections.all | eleventyNavigation -%}
 
 {%- macro renderNavListItem(entry) -%}
@@ -15,4 +15,4 @@
 {%- endmacro %}
 
 {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
-</div>
+</section>

@@ -129,3 +129,6 @@ article p {
 	font-family: var(--nc-font-serif);
 }
 
+section { 
+	overflow:auto
+}
