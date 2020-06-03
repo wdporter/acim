@@ -6,6 +6,6 @@
     <a href="{{ entry.url | url }}">{{ entry.title }}</a>
 {%- endfor %}
   <li>
-    {{reference}} {{ title }}
+    {% if reference | length > 1  %}{{reference}}{%endif%} {{ title }}
 </ul>
 </nav>

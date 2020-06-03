@@ -1,19 +1,7 @@
 ---
 layout: mylayout.njk
 ---
-<nav>
-{% set navPages = collections.all | eleventyNavigationBreadcrumb(reference) %}
-<ul>
-{%- for entry in navPages %}
-  <li>
-    <a href="{{ entry.url | url }}">{{ entry.title }}</a>
-{%- endfor %}
-  <li>
-    {{ title }}
-</ul>
-</nav>
-
-
+{% include "breadcrumb.njk" %}
 
 <main>
 
