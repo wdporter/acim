@@ -2,6 +2,16 @@
 	--nc-font-sans: "Roboto", "Verdana", sans-serif; /* "Inter", "Roboto" */
 	--nc-font-serif: "Roboto Slab", "Georgia", serif; 
 }
+@media (prefers-color-scheme: dark) {
+	:root {
+		--nc-tx-1: #eeedf0;/*#ffffff*/
+		--nc-tx-2: #dddce9;/*#eeeeee*/
+		--nc-bg-1: #012456;/*#000000;*/
+		--nc-bg-2: #123567;/*#111111;*/
+		--nc-bg-3: #234678;/*#222222;*/
+	}
+}
+
 
 body {
 	border-radius: initial;
@@ -29,7 +39,7 @@ footer {
 	
 	/* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
 
-	margin: 2rem calc(0px - (50vw - 50%)) -2rem;
+	margin: 2rem calc(0px - (50vw - 50%)) - 2rem;
 
 	/* Shorthand for:
 
