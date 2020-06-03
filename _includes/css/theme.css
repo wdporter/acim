@@ -67,19 +67,6 @@ footer {
 	}
 }
 
-main > nav {
-	font-size: .8rem;
-}
-
-main > nav ul {
-	list-style-type: none;
-	padding-left: initial;
-}
-
-main > nav li {
-	display: inline;
-}
-
 header h1 a {
 	text-decoration: none;
 }
@@ -88,10 +75,6 @@ header h1 a, header h1 a:active, header h1 a:visited {
 	color: var(--nc-tx-1)
 }
 
-
-main > nav li + li::before {
-	content: "→";
-}
 
 header > nav ul {
 	list-style-type: none;
@@ -106,6 +89,25 @@ header > nav li {
 header > nav li + li::before {
 	content: " ◆ ";
 }
+
+
+main > nav {
+	font-size: .8rem;
+}
+
+main > nav ul {
+	list-style-type: none;
+	padding-left: initial;
+}
+
+main > nav li {
+	display: inline;
+}
+
+main > nav li + li::before {
+	content: "→";
+}
+
 
 
 blockquote {
@@ -127,6 +129,3 @@ article p {
 	font-family: var(--nc-font-serif);
 }
 
-footer p {
-	font-family: var(--nc-font-sans);
-}
