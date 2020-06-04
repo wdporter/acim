@@ -36,6 +36,10 @@ h2, h3 {
 	line-height: 1.25;
 }
 
+h3 {
+	margin-bottom: 1rem;
+}
+
 
 footer {
 	background: var(--nc-bg-2);
