@@ -218,13 +218,12 @@ The mind becomes more sensitive to error and pain.
 ¹¹God is lonely without His Sons, and they are lonely without Him. 
 ¹²They must learn to look upon the world as a means of healing the separation. 
 ¹³The Atonement is the guarantee that they will ultimately succeed.
-</p>
 
-#### expanded
+::: details Expanded
 
 5. The children of God are entitled to the perfect comfort that comes from perfect trust. 
-²Until they [the children of God] achieve this [perfect comfort], they [the children of God] waste  themselves [the children-of-God’s selves] and their [the children-of-God’s] true creative powers on useless attempts to make themselves [the children-of-God’s selves] more comfortable by inappropriate means. 
-3But the real means are already provided, and do not involve any effort at all on their [the children-of-God’s] part. 
+²Until they [the children of God] achieve this [perfect comfort], they [the children of God] waste themselves [the children-of-God’s selves] and their [the children-of-God’s] true creative powers on useless attempts to make themselves [the children-of-God’s selves] more comfortable by inappropriate means. 
+³But the real means are already provided, and do not involve any effort at all on their [the children-of-God’s] part. 
 ⁴The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. 
 ⁵It [the altar of God] was created perfect and is entirely worthy of receiving perfection. 
 ⁶God and His [God’s] creations are completely dependent on Each Other. 
@@ -236,11 +235,13 @@ The mind becomes more sensitive to error and pain.
 ¹²They [God’s Sons] must learn to look upon the world as a means of healing the separation. 
 ¹³The Atonement is the guarantee that they [God’s Sons] will ultimately succeed.
 
-#### substituted
+:::
+
+::: details Substituted
 
 5. The children of God are entitled to the perfect comfort that comes from perfect trust. 
 ²Until the children of God achieve perfect comfort, the children of God waste the children-of-God’s selves and the children-of-God’s true creative powers on useless attempts to make the children-of-God’s selves more comfortable by inappropriate means. 
-3But the real means are already provided, and do not involve any effort at all on the children-of-God’s part. 
+³But the real means are already provided, and do not involve any effort at all on the children-of-God’s part. 
 ⁴The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. 
 ⁵The altar of God was created perfect and is entirely worthy of receiving perfection. 
 ⁶God and God’s creations are completely dependent on Each Other. 
@@ -252,22 +253,22 @@ The mind becomes more sensitive to error and pain.
 ¹²God’s Sons must learn to look upon the world as a means of healing the separation. 
 ¹³The Atonement is the guarantee that God’s Sons will ultimately succeed.
 
-#### simplified
+:::
 
-The children of God are entitled to perfect comfort *[i.e. in peace and free of pain —Ed.].* God gives what is needed for our comfort. Being afraid is being lonely. The separation will be healed. The world is a means of healing the separation. 
+::: details Simplified
 
-<!-- 
-#### commentary
+The children of God are entitled to perfect comfort *[i.e. in peace and free of pain —Ed.].* 
+God gives what is needed for our comfort. 
+Being afraid is being lonely. 
+The separation will be healed. 
+The world is a means of healing the separation. 
 
-:::tip
-(11) God, of course, cannot weep or be lonely, but these references reflect both His love for us and the Holy Spirit’s desire that we return to our Father and be free from the pain of believing we are still separate from Him. (Wapnick, F.A.J., p.215.) (see [T-5.VII.4:5]("text/5-healing-and-wholeness/vii-the-decision-for-god#p4))
-:::	
+:::
 
-:::tip
-(11) Clearly, since God is abstract and does not have a body, He does not get lonely, nor weep; as He is the All, He cannot be incomplete. Further, the very idea that He could be any of these things clearly implies that the separation of His Son from Himself has actually happened, and this of course is directly antithetical to the Course’s teachings. The point that is being made, therefore, has to be understood on the level of the *content* of God’s love for His children (itself of course an anthropocentric metaphor), expressd through the *form* of an earthly father’s love for his child. Since we are still very much children in the spiritual life —  “You are very new in the ways of salvation” ([T-17.V.9:1](/text/17-forgiveness-and-the-holy-relationship/v-the-healed-relationship#p9)), *A Course in Miracles* tells us — the Course’s use of language at this level is more than appropriate. (Wapnick, L.D.N.C., p. 608.) (see also [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4), [T-7.VII.10:7](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p10), [T-9.VII.8:2](/text/9-the-acceptance-of-the-atonement/vii-the-two-evaluations#p8), [T-19.II.2:7](/text/19-the-attainment-of-peace-/ii-sin-versus-error#p2))
-::: 
--->
+<!-- #### commentary :::tip (11) God, of course, cannot weep or be lonely, but these references reflect both His love for us and the Holy Spirit’s desire that we return to our Father and be free from the pain of believing we are still separate from Him. (Wapnick, F.A.J., p.215.) (see [T-5.VII.4:5]("text/5-healing-and-wholeness/vii-the-decision-for-god#p4)) :::	
+:::tip (11) Clearly, since God is abstract and does not have a body, He does not get lonely, nor weep; as He is the All, He cannot be incomplete. Further, the very idea that He could be any of these things clearly implies that the separation of His Son from Himself has actually happened, and this of course is directly antithetical to the Course’s teachings. The point that is being made, therefore, has to be understood on the level of the *content* of God’s love for His children (itself of course an anthropocentric metaphor), expressd through the *form* of an earthly father’s love for his child. Since we are still very much children in the spiritual life —  “You are very new in the ways of salvation” ([T-17.V.9:1](/text/17-forgiveness-and-the-holy-relationship/v-the-healed-relationship#p9)), *A Course in Miracles* tells us — the Course’s use of language at this level is more than appropriate. (Wapnick, L.D.N.C., p. 608.) (see also [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4), [T-7.VII.10:7](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p10), [T-9.VII.8:2](/text/9-the-acceptance-of-the-atonement/vii-the-two-evaluations#p8), [T-19.II.2:7](/text/19-the-attainment-of-peace-/ii-sin-versus-error#p2)) ::: -->
 
+---
 
 # T-2.IV Healing as Release from Fear
 
