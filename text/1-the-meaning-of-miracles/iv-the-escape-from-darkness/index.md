@@ -44,8 +44,6 @@ You will understand peace and joy.
 
 :::
 
----
-
 2. Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
 ²This deception makes you fearful because you realise in your heart it *is* a deception, and you exert enormous efforts to establish its reality. 
 ³The miracle sets reality where it belongs. 
@@ -97,8 +95,6 @@ The mind becomes invulnerable.
 
 :::
 
----
-
 3. Darkness is lack of light as sin is lack of love. 
 ²It has no unique properties of its own. 
 ³It is an example of the ‘scarcity’ belief, from which only error can proceed. 
@@ -143,8 +139,6 @@ You don’t need anything else.
 (4) Until the moment of birth, the fetus has little or no awareness of itself as a separate being. It does not desire, since its basic physiological needs are met by and through the mother. In this respect, and this respect only, life in the womb is similar to the state of paradise described in the second chapter of Genesis where Adam wanted for nothing, all having been given by God, reflecting what *A Course in Miracles* refers to as the principle of abundance. In a state without lack there can be no sense of separation or “otherness”. (Wapnick, A.A.C., p.100.) 
 ::: -->
 
----
-
 4. The emptiness engendered by fear must be replaced by forgiveness. 
 ²That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
 ³I came to fulfill the law by reïnterpreting it. 
@@ -182,4 +176,3 @@ Forgiveness replaces fear. There is no death. The law was for protection. There 
 
 :::
 
----

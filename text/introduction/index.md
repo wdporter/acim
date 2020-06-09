@@ -51,8 +51,6 @@ But love is all-encompassing.
 Love has no opposite.
 :::
 
----
-
 2. *This course can therefore be summed up very simply in this way:*
 
 >***²Nothing real can be threatened.  
@@ -78,6 +76,4 @@ The real is that which can’t be threatened because it cannot change.
 Anything that can change doesn’t actually exist. 
 True peace is knowing this.
 :::
-
----
 

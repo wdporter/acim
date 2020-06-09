@@ -45,5 +45,3 @@ The point is to see things exactly as they are.
 Do not judge anything you see.
 
 :::
-
----

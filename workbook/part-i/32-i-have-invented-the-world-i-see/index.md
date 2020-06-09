@@ -20,7 +20,7 @@ next: W-pI.33
 
 ::: details Annotations
 
-<h5>Expanded</h5>
+##### Expanded
 
 Today we are continuing to develop the theme of cause and effect. 
 ²You are not the victim of the world you see because you invented it [the world you see]. 
@@ -28,7 +28,7 @@ Today we are continuing to develop the theme of cause and effect.
 ⁴You will see it [the world you see] or not see it [the world you see], as you wish. 
 ⁵While you want it [the world you see] you will see it [the world you see]; when you no longer want it [the world you see],  it [the world you see] will not be there for you to see.
 
-<h5>Substituted</h5>
+##### Substituted
 
 Today we are continuing to develop the theme of cause and effect. 
 ²You are not the victim of the world you see because you invented the-world-you-see. 
@@ -36,14 +36,12 @@ Today we are continuing to develop the theme of cause and effect.
 ⁴You will see the-world-you-see or not see the-world-you-see, as you wish. 
 ⁵While you want the-world-you-see you will see it the-world-you-see; when you no longer want it the-world-you-see,  it the-world-you-see will not be there for you to see.
 
-<h5>Simplified</h5>
+##### Simplified
 
 You invented the world you see. 
 You can give the world up, if you choose.
 
 :::
-
----
 
 2. The idea for today, like the preceding ones, applies to your inner and outer worlds, which are actually the same. 
 ²However, since you see them as different, the practice periods for today will again include two phases, one involving the world you see outside you, and the other the world you see in your mind. 
@@ -51,25 +49,23 @@ You can give the world up, if you choose.
 
 ::: details Annotations
 
-<h5>Expanded</h5>
+##### Expanded
 
 The idea for today, like the preceding ones [ideas], applies to your inner and outer worlds, which are actually the same. 
 ²However, since you see them [your inner and outer worlds] as different, the practice periods for today will again include two phases, one [phase] involving the world you see outside you, and the other [phase] the world you see in your mind. 
 ³In today’s exercises, try to introduce the thought that both [inner and outer worlds] are in your own imagination.
 
-<h5>Substituted</h5>
+##### Substituted
 
 The idea for today, like the preceding ideas, applies to your inner and outer worlds, which are actually the same. 
 ²However, since you see your inner and outer worlds as different, the practice periods for today will again include two phases, one phase involving the world you see outside you, and the other phase the world you see in your mind. 
 ³In today’s exercises, try to introduce the thought that both inner and outer worlds are in your own imagination.
 
-<h5>Simplified</h5>
+##### Simplified
 
 Both your inner and your outer worlds are in your own imagination
 
 :::
-
----
 
 3. Again we will begin the practice periods for the morning and evening by repeating the idea for today two or three times while looking around at the world you see as outside yourself. 
 ²Then close your eyes and look around your inner world. 
@@ -88,5 +84,3 @@ Both your inner and your outer worlds are in your own imagination
 ²Apply the idea by telling yourself:
 
 >³I have invented this situation as I see it.
-
----

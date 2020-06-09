@@ -44,8 +44,6 @@ This is the basis for forgiveness.
 
 :::
 
----
-
 2. The practice periods for today’s idea are to be undertaken somewhat differently from the previous ones. 
 ²Begin with your eyes closed, and repeat the idea slowly to yourself. 
 ³Then open your eyes and look about, near and far, up and down, — anywhere. 
@@ -60,5 +58,3 @@ This is the basis for forgiveness.
 4. Three practice periods today will probably be sufficient. 
 ²However, if there is little or no uneasiness and an inclination to do more, as many as five may be undertaken. 
 ³More than this is not recommended.
-
----

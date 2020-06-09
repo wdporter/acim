@@ -67,8 +67,6 @@ The body is a learning device for the mind.
 <!-- ##### commentary :::tip (³–11) … elaborates on … this theme of the inherent non-existence of the split mind and body. The acceptance of this truth *is* the acceptance of the Atonement, and is the basis of all healing. (Wapnick, A.A.C., 2³2.) :::
 :::tip (³–11) Therefore the miracle would undo the heart of the ego’s strategy by undoing the Son’s level confusion of believing his problem was in the body, rather than in his mind’s decision to turn away from the truth of his Identity as spirit. (Wapnick, A.A.C., 2³³.) (c/f [5](#p5), [15:1–2](#p15)). :::  -->
 
----
-
 2. Magic is the mindless or the miscreative use of mind. 
 ²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so. 
 ³The very fact that you are afraid makes your mind vulnerable to miscreation. 
@@ -106,8 +104,6 @@ Do not use the mind to heal if there is fear or egocentricity.
 
 <!--  ##### commentary :::tip (2) see [T-2.IV.4:6](/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear#p4). :::  -->
 
----
-
 3. I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. 
 ²The right-minded neither exalt nor depreciate the mind of the miracle worker or the miracle receiver. 
 ³However, as a correction, the miracle need not await the right-mindedness of the receiver. 
@@ -142,8 +138,6 @@ The miracle restores right-mindedness.
 The miracle worker needs to be right-minded.
 
 :::
-
----
 
 4. The healer who relies on his own readiness is endangering his understanding. 
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in mine. 
@@ -180,8 +174,6 @@ Fear is the result of not accepting the Atonement.
 Healing restores right-mindedness. 
 
 :::
-
----
 
 5. *The sole responsibility of the miracle worker is to accept the Atonement for himself.*
 ²This means you recognise that mind is the only creative level, and that its errors are healed by the Atonement. 
@@ -230,8 +222,6 @@ Healing your mind will heal other minds.
 :::tip (1) Our one responsibility then is to change our minds and accept the truth about who we are: the sinless Son of God. It is this shift that Jesus refers to in *A Course in Miracles* when he re-iterates our “sole responsibility”… (Wapnick, A.A.C., p. 205.)
 :::  -->
 
----
-
 6. It should be emphasised again that the body does not learn any more than it creates. 
 ²As a learning device it merely follows the learner, but if it is falsely endowed with self-initiative, it becomes a serious obstruction to the very learning it should facilitate. 
 ³Only the mind is capable of illumination. 
@@ -268,8 +258,6 @@ The body helps the mind to learn.
 Look beyond the body to the light.
 
 :::
-
----
 
 7. Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. 
 ²This often entails fear, because you are afraid of what your spiritual sight will show you. 
@@ -319,8 +307,6 @@ Atonement brings correction.
 
 :::
 
----
-
 8. The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. 
 ²What the physical eye sees is not corrective, nor can error be corrected by any device that can be seen physically. 
 ³As long as you believe in what your physical sight tells you, your attempts at correction will be misdirected. 
@@ -353,8 +339,6 @@ Do not try to heal anything your physical eye sees.
 Do not be afraid to look at your own defiled altar.  
 
 :::
-
----
 
 9. Healing is an ability that developed after the separation, before which it was unnecessary. 
 ²Like all aspects of the belief in space and time, it is temporary. 
@@ -396,8 +380,6 @@ Charity is the healing you can do in a limited form of right-mindedness.
 In a limited form of right-mindedness, you can see the perfection in others while not seeing the perfection in yourself.
 
 :::
-
----
 
 10. Charity is a way of looking at another as if he had already gone far beyond his actual accomplishments in time. 
 ²Since his own thinking is faulty he cannot see the Atonement for himself, or he would have no need of charity. 
@@ -442,8 +424,6 @@ The miracle shortens time.
 
 :::
 
----
-
 ### A. Special Principles of Miracle Workers
 
 11. (1) The miracle abolishes the need for lower-order concerns. 
@@ -473,8 +453,6 @@ I will help you to adjust.
 
 :::
 
----
-
 12. (2) A clear distinction between what is created and what is made is essential. 
 ²All forms of healing rest on this fundamental correction in level perception.
 
@@ -498,8 +476,6 @@ Healing rests on you distinguishing between what is created and what is made.
 
 :::
 
----
-
 13. (3) Never confuse right- and wrong-mindedness. 
 ²Responding to any form of error with anything except a desire to heal is an expression of this confusion.
 
@@ -522,8 +498,6 @@ Healing rests on you distinguishing between what is created and what is made.
 Right mind responds to error with a desire to heal.
 
 :::
-
----
 
 14. (4) The miracle is always a denial of this error and an affirmation of the truth. 
 ²Only right-mindedness can correct in a way that has any real effect. 
@@ -558,8 +532,6 @@ Wrong-mindedness causes projection.
 
 :::
 
----
-
 15. (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until this has occurred healing cannot be understood. 
 ³Forgiveness is an empty gesture unless it entails correction. 
@@ -589,8 +561,6 @@ Right-mindedness forgives with correction and healing.
 Forgiving without correction is judgemental.
 
 :::
-
----
 
 16. (6) Miracle-minded forgiveness is correction. 
 ²It has no element of judgement at all. 
@@ -626,8 +596,6 @@ Forgiving without correction is judgemental.
 Miracles mindedness forgives regardless of consequences.
 
 :::
-
----
 
 17. (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
 ²My request “Do this in remembrance of me” is the appeal for coöperation from miracle workers. 
@@ -669,8 +637,6 @@ One-mindedness is timelessness.
 One-mindedness is directed by God. 
 
 :::
-
----
 
 18. (8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:
 
@@ -714,6 +680,4 @@ Be content.
 Be healed and heal.
 
 :::
-
----
 

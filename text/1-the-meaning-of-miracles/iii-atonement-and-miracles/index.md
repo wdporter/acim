@@ -71,8 +71,6 @@ Miracles are for Atonement.
 (1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, F.A.J., p.293.)
 ::: -->
 
----
-
 2. “Heaven and earth shall pass away” means that they will not continue to exist as separate states. 
 ²My word, which is the resurrection and the life, shall not pass away because life is eternal. 
 ³You are the work of God, and His work is wholly lovable and wholly loving. 
@@ -101,7 +99,6 @@ You are the work of God.
 You are wholly lovable and loving.
 :::
 
----
 
 3. The forgiven are the means of the Atonement. ²Being filled with spirit, they forgive in return. ³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
 
@@ -116,7 +113,6 @@ The forgiven are the means of the Atonement. ²Being filled with spirit, the for
 The forgiven are able to forgive. Release your brothers by forgiving them.
 :::
 
----
 
 4. I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
 ²You have a role in the Atonement which I will dictate to you. 
@@ -153,7 +149,6 @@ Ask me what miracle to do.
 Follow my guidance.
 :::
 
----
 
 <a id=5></a>5. Error cannot really threaten truth, which can always withstand it. 
 ²Only the error is actually vulnerable. 
@@ -214,8 +209,6 @@ Bless others so they may undo their distortions.
 (4–6) We live always in the grace of God’s freely given love. What Jesus taught during his earthly life is what he teaches now in the Course. (Wapnick, F.A.J., p.216.)
 ::: -->
 
----
-
 6. You respond to what you perceive, and as you perceive so shall you behave. 
 ²The Golden Rule asks you to do unto others as you would have them do unto you. 
 ³This means that the perception of both must be accurate. 
@@ -253,8 +246,6 @@ Perceive others as holy and you will behave appropriately.
 “Do unto others as you would have others do unto you”, but what if you hate yourself? The Golden rule is descriptive, not prescriptive. Perceive yourself and others correctly and the right behaviour will naturally follow. (–Ed.)
 :::
 
----
-
 7. Miracles arise from a mind that is ready for them. 
 ²By being united this mind goes out to everyone, even without the awareness of the miracle worker himself. 
 ³The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their Creator. 
@@ -284,8 +275,6 @@ Miracles arise from a mind that is ready for miracles.
 A miracle-ready mind unites all minds with God.
 :::
 
----
-
 8. That the miracle may have effects on your brothers that you may not recognise is not your concern. 
 ²The miracle will always bless *you*. 
 ³Miracles you are not asked to perform have not lost their value. 
@@ -314,8 +303,6 @@ You are blessed by your own miracles.
 I control how miracles are used.
 :::
 
----
-
 9. Miracles are selective only in the sense that they are directed towards those who can use them for themselves. 
 ²Since this makes it inevitable that they will extend them to others, a strong chain of Atonement is welded. 
 ³However, this selectivity takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. 
@@ -340,4 +327,3 @@ Miracles are given to those who can use miracles.
 Those who can use miracles will extend miracles to others.
 :::
 
----

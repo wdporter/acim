@@ -49,8 +49,6 @@ You do not understand yet.
 
 :::
 
----
-
 2. It is difficult for the untrained mind to believe that what it seems to picture is not there. 
 ²This idea can be quite disturbing, and may meet with active resistance in any number of forms. 
 ³Yet that does not preclude applying it. 
@@ -81,8 +79,6 @@ Try to apply the idea regardless of how much resistance you meet. Each small ste
 
 :::
 
----
-
 3. These exercises, for which three or four practice periods are sufficient, involve looking about you and applying the idea for the day to whatever you see, remembering the need for its indiscriminate application, and the essential rule of excluding nothing. 
 ²For example:
 
@@ -99,5 +95,3 @@ Try to apply the idea regardless of how much resistance you meet. Each small ste
 5. It is emphasised again that while complete inclusion should not be attempted, specific exclusion must be avoided. 
 ²Be sure you are honest with yourself in making this distinction. 
 ³You may be tempted to obscure it.
-
----

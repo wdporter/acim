@@ -48,8 +48,6 @@ You think, and then you see what you think — rather than seeing what’s reall
 
 :::
 
----
-
 2. This introductory idea to the process of image making that you call seeing will not have much meaning for you. 
 ²You will begin to understand it when you have seen little edges of light around the same familiar objects which you see now. 
 ³That is the beginning of real vision. 
@@ -75,8 +73,6 @@ This introductory idea to the process of image making that you call seeing will 
 Real vision begins when edges of light begun to be seen
 
 :::
-
----
 
 3. As we go along, you may have many ‘light episodes’. 
 ²They [light episodes] may take many different forms, some of them [forms] quite unexpected. 
@@ -106,8 +102,6 @@ The lessons will bring you to knowledge.
 
 :::
 
----
-
 4. In practicing the idea for today, repeat it first to yourself, and then apply it to whatever you see around you, using its name and letting your eyes rest on it as you say:
 
 >²This _____ is an image that I have made.  
@@ -121,5 +115,3 @@ The lessons will bring you to knowledge.
 ²Less than a minute will do for the practice periods, if you begin to feel uneasy. 
 ³Do not have more than three application periods for today's idea unless you feel completely comfortable with it, and do not exceed four. 
 ⁴However, the idea can be applied as needed throughout the day.
-
----

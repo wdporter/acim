@@ -64,8 +64,6 @@ The purpose of A Course in Miracles is to train you to think in a miracle-minded
 :::tip (4–5) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.2³8.) see [T-2.VI.1:4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict#p1), [T-2.VI.4:1–4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict#p4). :::
 :::tip (4–6) Jesus is exhorting his students to pay careful attention to their mind’s decision to be unhappy, and to correct that *cause*, rather than continually seeking his help in remedying the *effect*, which ultimately makes no sense at all. (Wapnick, FCTL, p. 6.)  ::: -->
 
----
-
 2. I cannot let you leave your mind unguarded, or you will not be able to help me. 
 ²Miracle working entails a full realisation of the power of thought in order to avoid miscreation. 
 ³Otherwise a miracle will be necessary to set the mind itself straight, a circular process that would not foster the time collapse for which the miracle was intended. 
@@ -99,8 +97,6 @@ Miracles collapse time.
 A straightened mind respects cause and effect. 
 
 :::
-
----
 
 3. Both miracles and fear come from thoughts. 
 ²If you are not free to choose one, you would also not be free to choose the other. 
@@ -172,8 +168,6 @@ Pain causes miscreation.
 
 :::
 
----
-
 4. It has already been said that you believe you cannot control fear because you yourself made it, and your belief in it seems to render it out of your control. 
 ²Yet any attempt to resolve the error through attempting the mastery of fear is useless. 
 ³In fact, it asserts the power of fear by the very assumption that it need be mastered. 
@@ -207,8 +201,6 @@ Controlling fear is not the answer.
 Fear is resolved by love. 
 
 :::
-
----
 
 5. Nothing and everything cannot coëxist. 
 ²To believe in one is to deny the other. 
@@ -280,8 +272,6 @@ Time is the gap that enables you to recognise the belief in separation before yo
 :::tip (14) … [the Course’s] central teaching is to forgive the world, being grateful for its capacity of being a classroom in which we can accept Jesus’s gift of forgiveness. (Wapnick, A.A.C., p. ³00.) :::
  -->
 
----
-
 6. It should especially be noted that God has only *one* Son. 
 ²If all His creations are His Sons, every one must be an integral part of the whole Sonship. 
 ³The Sonship in its Oneness transcends the sum of its parts. 
@@ -338,8 +328,6 @@ The conflict is between there being only one Son while the Son has many parts. I
 <!-- :::tip (1–³) Similarly, the Course talks about the Great Rays (not Ray), which are the extensions of the light of God, similar to the rays of light that emanate from the sun. … we may yet state that Christ consists of infinite Rays (Sons of God), all perfectly united and indivisible; however, we clearly are not speaking here of personal individuality as we experience it in the world. (Wapnick, L.D.N.C., p. 449.) (Wapnick’s qualification appears unwarranted, but is somewhat Expanded on in A.A.C., pp. 9–10. —Ed.) :::
 :::tip (³) …one cannot appreciate the pure wholeness and oneness of Christ by simply adding up the billions and billions of fragments that the world thinks is the Son of God, as if the Sonship were like a huge pie, a quantifiable entity consisting of a certain amount of separated fragments. (Wapnick, FCTL, p. 67.) ::: -->
 
----
-
 7. I have already briefly spoken about readiness, but some additional points might be helpful here. 
 ²Readiness is only the prerequisite for accomplishment. 
 ³The two should not be confused. 
@@ -392,4 +380,3 @@ I control time and space.
 :::tip (9) …when we turn our minds over to him, his love can then direct us within the illusory world of time and space to learn our lessons of forgiveness through the miracle. (Wapnick, A.V.I., p.129.) :::
 :::tip (9) …time is not linear, space is not real, and that if we let him teach us his lesson we could learn very quickly. (Wapnick, A.V.I., p.152.) ::: -->
 
----

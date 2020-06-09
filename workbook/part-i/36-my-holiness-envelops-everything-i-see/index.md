@@ -53,8 +53,6 @@ You are part of God so you are sinless.
 
 :::
 
----
-
 2. Four three-to-five-minute practice periods are required for today. 
 ²Try to distribute them fairly evenly, and make the shorter applications frequently, to protect your protection throughout the day. 
 ³The longer practice periods should take this form:
@@ -75,5 +73,3 @@ You are part of God so you are sinless.
 
 4. For the shorter exercise periods, close your eyes and repeat the idea; look about you as you repeat it again; and conclude with one more repetition with your eyes closed. 
 ²All applications should, of course, be made quite slowly, as effortlessly and unhurriedly as possible.
-
----

@@ -40,8 +40,6 @@ The world is meaningless
 
 :::
 
----
-
 2. These exercises are done with eyes open. 
 ²Look around you, this time quite slowly. 
 ³Try to pace yourself so that the slow shifting of your glance from one thing to another involves a fairly constant time interval. 
@@ -112,11 +110,7 @@ See the words of God written on the world.
 
 :::
 
----
-
 6. Three or four times is enough for practicing the idea for today. 
 ²Nor should the practice periods exceed a minute. 
 ³You may find even this too long. 
 ⁴Terminate the exercises whenever you experience a sense of strain.
-
----

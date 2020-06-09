@@ -56,8 +56,6 @@ You want only real thoughts.
 
 :::
 
----
-
 3. This is a major exercise, and will be repeated from time to time in somewhat different form. 
 ²The aim here is to train you in the first steps toward the goal of separating the meaningless from the meaningful. 
 ³It is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within. 
@@ -86,8 +84,6 @@ Only what is inside you can be meaningful.
 
 :::
 
----
-
 4. In using your thoughts for application of the idea for today, identify each thought by the central figure or event it contains; for example:
 
 >²This thought about ____ does not mean anything.  
@@ -102,5 +98,3 @@ Only what is inside you can be meaningful.
 6. Further, since these exercises are the first of their kind, you may find the suspension of judgement in connection with thoughts particularly difficult. 
 ²Do not repeat these exercises more than three or four times during the day. 
 ³We will return to them later.
-
----

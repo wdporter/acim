@@ -61,8 +61,6 @@ The Atonement makes miracles possible.
 (³–4) And yet Chapter 27 speaks of “a miracle of healing” ([T-27.II.5:2](/text/27-the-healing-of-the-dream/ii-the-fear-of-healing#p5)). The apparent inconsistency is resloved by recognising that in the first reference [ie this paragraph] Jesus is emphasising that the miracle is a means, while healing is the result. This teaching purpose was not present later in the text, and so the more poetic expression, “a miracle of healing” could be used. (Wapnick, L.D.N.C., p.609.)
 :::  -->
 
----
-
 2. A major step in the Atonement plan is to undo error at all levels. 
 ²Sickness or ‘not-right-mindedness’ is the result of level confusion, because it always entails the belief that what is amiss on one level can adversely affect another. 
 ³We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they occur. 
@@ -114,8 +112,6 @@ The body responds to errors in the mind.
 <!-- ##### commentary :::tip Sickness is no different from any other form in the world that reflects the ego’s purpose. … The physical world is nothing but the projection of the underlying thought of separation. Thus, the body merely carries out the wishes of the mind, having no power within itself. (Wapnick, F.A.J., p.76.)
 :::
 :::tip …the Son’s mistake of confusing the levels of the mind and body, and his believing that the body can cause pain, indeed, that the body can do anything at all. It is the belief that it can that Jesus equates with magic, the ego’s tactic to confuse the Son as to where the problem and solution truly are. … it is not only the body that does nothing, but the separated mind as well; it has not really created “beyond itself”, as the ego has claimed. (Wapnick, A.A.C., p. 2³1, 2³2.) ::: -->
-
----
 
 3. Only the mind can create because spirit has already been created, and the body is a learning device for the mind. 
 ²Learning devices are not lessons in themselves. 
@@ -197,8 +193,6 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 :::tip (12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reïnforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, L.D.N.C., p. 56³.) :::
 :::tip (12)The more ascetically successful aspirants are, the more they are deluded into believing that they have actually accomplished something (by “denying the unmindful”), while all the time their unconscious guilt remains safe and secure in their minds, behind the body’ armour and therefore requiring still greater effort to undo. (Wapnick, A.A.C., p. 29³.) ::: -->
 
----
-
 4. All material means that you accept as remedies for bodily ills are restatements of magic principles. 
 ²This is the first step in believing that the body makes its own illness. 
 ³It is a second misstep to attempt to heal it through non-creative agents. 
@@ -254,8 +248,6 @@ Using material means in this case is not a bad thing.
 :::tip (4) If a person’s fear level is too great to abandon the ego’s investment in guilt, seeking healing through the love of the Holy Spirit would merely re-inforece the underlying fear of this love. (Wapnick, F.A.J., p.78.) :::
 ::: tip(6) As we all have experienced, magic *does* work at its own level. … Although it is not a mistake to use such agents [ie medicine or surgery], it *is* a mistake to ascribe healing properties to them, for they do not remove the causes that brought on the symptom. To believe that magic heals closes off the power of the miracle to undo the guilt that *is* the cause of sickness, “protecting” the guilt from healing by refusing to recognise its existence. (Wapnick, F.A.J., p.78–79.) see [T-2.V.2:2](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker#p2). :::  -->
 
----
-
 5. The value of the Atonement does not lie in the manner in which it is expressed. 
 ²In fact, if it is used truly, it will inevitably be expressed in whatever way is most helpful to the receiver. 
 ³This means that a miracle, to attain its full efficacy, must be expressed in a language that the recipient can understand without fear. 
@@ -295,6 +287,4 @@ Miracles express the Atonement in whatever way is most helpful to the receiver.
 :::tip (4–6) *A Course in Miracles* has been written at a level we can understand and use. (Wapnick, L.D.N.C., p.512.) :::
 :::tip The importance of the form of help lies in the *purpose* for which it is used. …the Course is coming to meet a specific need that we have now, but it is not the highest level of communication of which we are capable. … it is the highest level that we can accept at this point in human history, when we are still so pre-occupied with fundamental ego self-centredness, greed, attainment of pleasure and rampant specialness. Jesus very specifically meets us where we are, and provides us with his gentle coprrection of forgiveness to help us along our journey home. (Wapnick, A.V.I., p.124.) :::
 :::tip Jesus’ own Course [is] the perfect example of the principles he was teaching his students; his words not being “the highest level of communication” of which his students are capable of understanding, but certainly the highest level that they can tolerate in their fearful state. (Wapnick, FCTL, p. 94.) ::: -->
-
----
 

@@ -54,8 +54,6 @@ In revelation you understand creation.
 You act according to your beliefs.
 :::
 
----
-
 2. Revelation is intensely personal and cannot be meaningfully translated. 
 ²That is why any attempt to describe it in words is impossible. 
 ³Revelation induces only experience. 
@@ -91,7 +89,7 @@ Revelation cannot be spoken about.
 Miracles are useful actions for others, until you are ready for revelation.
 :::
 
----
+
 
 3. Awe should be reserved for revelation, to which it is perfectly and correctly applicable. 
 ²It is not appropriate for miracles because a state of awe is worshipful, implying that one of a lesser order stands before his Creator. 
@@ -163,7 +161,7 @@ You have the potential to be like me.
 (13) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego… Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, F.A.J., p.286.)
 ::: -->
 
----
+
 
 4. “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement is more meaningful in terms of a vertical rather than a horizontal axis. 
@@ -209,7 +207,6 @@ I stand between you and God. I bridge the distance between you and God. I am you
 (7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, excep tthat God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, A.V.I., p.99).
 ::: -->
 
----
 
 5. Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
 ²I can thus bring down to them more than they can draw down to themselves. 
@@ -239,7 +236,6 @@ I know when you are ready for revelation.
 I bring revelation to you through the Holy Spirit.
 :::
 
----
 
 6. The miracle minimises the need for time. 
 ²In the longitudinal or horizontal plane the recognition of the equality of the members of the Sonship appears to involve almost endless time. 
@@ -292,4 +288,3 @@ Giver and receiver are equal.
 (7) *A Course in Miracles* talks a great deal about saving time. In fact, many times it talks about saving thousands of years. We are still talking about, in the world’s illusion of time, a considerable amount of time. The reason I am emphasising this is that I do not want you to feel guilty if you still have problems as you keep working with the Course. The real goal on the practical level of the Course is not to be free of problems, but to recognise what they are, and then to recognise within ourselves the means of undoing them. (Wapnick, A.T.G., p. 81.)
 ::: -->
 
----

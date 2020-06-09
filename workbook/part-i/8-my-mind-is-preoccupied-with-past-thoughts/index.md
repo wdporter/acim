@@ -47,8 +47,6 @@ If you see only the past, you cannot understand anything in the present.
 
 :::
 
----
-
 2. The one wholly true thought one can hold about the past is that it is not here. 
 ²To think about it at all is therefore to think about illusions. 
 ³Very few have realised what is actually entailed in picturing the past or in anticipating the future. 
@@ -76,8 +74,6 @@ Your mind is blank when you think about past and/or future.
 
 :::
 
----
-
 3. The purpose of the exercises for today is to begin to train your mind to recognise when it is not really thinking at all. 
 ²While thoughtless ideas preöccupy your mind, the truth is blocked. 
 ³Recognising that your mind has been merely blank, rather than believing that it is filled with real ideas, is the first step to opening the way to vision.
@@ -101,8 +97,6 @@ Thinking about past and future blocks the truth.
 
 :::
 
----
-
 4. The exercises for today should be done with eyes closed. 
 ²This is because you actually cannot see anything, and it is easier to recognise that no matter how vividly you may picture a thought, you are not seeing anything. 
 ³With as little investment as possible, search your mind for the usual minute or so, merely noting the thoughts you find there. 
@@ -122,5 +116,3 @@ and so on, concluding at the end of the mind-searching period with:
 6. This can be done four or five times during the day, unless you find it irritates you. 
 ²If you find it trying, three or four times is sufficient. 
 ³You might find it helpful, however, to include your irritation, or any emotion that the idea for today may induce, in the mind searching itself.
-
----

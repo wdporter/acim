@@ -51,8 +51,6 @@ The reason for all the preceding ideas is that you see only the past.
 
 :::
 
----
-
 2. Old ideas about time are very difficult to change, because everything you believe is rooted in time, and depends on your not learning these new ideas about it. 
 ²Yet that is precisely why you need new ideas about time. 
 ³This first time idea is not really so strange as it may sound at first.
@@ -77,7 +75,6 @@ Everything you believe depends on your ideas about time. You need new ideas abou
 
 :::
 
----
 
 3. Look at a cup, for example. 
 ²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
@@ -113,8 +110,6 @@ Look at a cup, for example.
 Your experiences and knowledge depend on your past experiences.
 
 :::
-
----
 
 4. Look about you. 
 ²This is equally true of whatever you look at. 

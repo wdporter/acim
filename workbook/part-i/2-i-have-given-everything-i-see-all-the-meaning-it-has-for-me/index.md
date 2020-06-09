@@ -25,5 +25,3 @@ next: W-pI.3
 ³Try to apply the exercise with equal ease to a body or a button, a fly or a floor, an arm or an apple. 
 ⁴The sole criterion for applying the idea to anything is merely that your eyes have lighted on it. 
 ⁵Make no attempt to include anything particular, but be sure that nothing is specifically excluded.
-
----

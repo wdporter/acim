@@ -57,8 +57,6 @@ Peace can only be found in doing God’s Will.
 (4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/#t-19-iv-a-17), [/text/19-the-attainment-of-peace/#t-19-iv-b-p12](t-19-iv-b-12). (Wapnick, A.A.C., p. 105.)
 ::: -->
 
----
-
 2. Child of God, you were created to create the good, the beautiful and the holy. 
 ²Do not forget this. 
 ³The Love of God, for a little while, must still be expressed through one body to another, because vision is still so dim. 
@@ -91,8 +89,6 @@ Learn to use the body to enlarge your perception.
 Then you can ceate the good, the beautiful and the holy.
 
 :::
-
----
 
 3. Fantasy is a distorted form of vision. 
 ²Fantasies of any kind are distortions, because they always involve twisting perception into unreality. 
@@ -160,8 +156,6 @@ Release yourself and the whole Sonship from fantasies.
 
 :::
 
----
-
 4. This is a course in mind training. 
 ²All learning involves attention and study at some level. 
 ³Some of the later parts of the course rest too heavily on these earlier sections not to require their careful study. 
@@ -210,8 +204,6 @@ Without preparation now you may be fearful later on.
 
 (4) …many students emphasise the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, F.C.T.L., p.171.)
 ::: -->
-
----
 
 5. A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which is often made. 
 ²I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
@@ -271,4 +263,3 @@ Later steps in the course involve a direct approach to God.
 (para 4–5) In the last two paragraphs of the first chapter of the text, we read of the need to go very slowly and carefully through all of the material, including the first four chapters. If we do not, we will not be prepared for what will come later, and we will become afraid of it. (Wapnick, A.T.G., p.107.)
 ::: -->
 
----

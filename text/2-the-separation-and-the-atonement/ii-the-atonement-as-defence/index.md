@@ -75,8 +75,6 @@ Do not allow anything not of God to affect you.
 (11–2:5) … the two uses of denial: the ego’s need to deny the guilt it has first made real, as opposed to the Holy Spirit’s denial of the ego’s denial of truth. The Holy Spirit denies the reality of the ego’s story of sin, guilt and fear, and denies that the ego has indeed changed our reality as God’s Son. (Wapnick, A.V.I., p.84.) 
 ::: -->
 
----
-
 2. True denial is a powerful protective device. 
 ²You can and should deny any belief that error can hurt you. 
 ³This kind of denial is not a concealment but a correction. 
@@ -116,8 +114,6 @@ True denial is protection from error.
 In the right mind you create truly. 
 
 :::
-
----
 
 3. You can defend truth as well as error. 
 ²The means are easier to understand after the value of the goal is firmly established. 
@@ -165,8 +161,6 @@ The means will follow.
 By this you save time.
 
 :::
-
----
 
 4. The Atonement is the only defence that cannot be used destructively because it is not a device you made. 
 ²The Atonement *principle* was in effect long before the Atonement began. 
@@ -218,8 +212,6 @@ You are healed by the Atonement.
 (2–5) …the separated world needed a concrete manifestation of this [Atonement] principle, for while the Atonement came into existence with the creation of the Holy Spirit ([T-5.I.5:2](/text/5-healing-and-wholeness#t-5-i-5)), some figure within the Son’s dream had to represent it for us. The life of Jesus was this “act of love”, for he was the “thought” within the separated mind that first remembered its relationship with God and Identity as Christ (along with the rest of the Sonship). (Wapnick, L.D.N.C., p.514.) 
 ::: -->
 
----
-
 5. The Atonement was built into the space–time belief to set a limit on the need for the belief itself, and ultimately to make learning complete. 
 ²The Atonement is the final lesson. 
 ³Learning itself, like the classrooms in which it occurs, is temporary. 
@@ -266,8 +258,6 @@ Keep learning to improve your perceptions until the Atonement is fully learnt.
 
 (4–8) Learning cannot exist in Heaven, where there is only perfection. Learning is required only in this world. … Once we have totally learned our lessons, all that remains in our minds is the pure experience of our oneness with Christ and with God. Until that time, however, learning is necessary to help us unlearn the ego’s thought system of differences. (Wapnick, A.V.I., p.131.)
 ::: -->
-
----
 
 6. Evolution is a process in which you seem to proceed from one degree to the next. 
 ²You correct your previous missteps by stepping forward. 
@@ -330,8 +320,6 @@ When the separation occurred … ever since we have walked … away from God. Th
 (6–10) If we think of the Atonement as the Holy Spirit, we can see Him standing outside of time with us (the observer), awaiting our decision to awaken from the dream. (Wapnick, A.V.I., p.133.) 
 ::: -->
 
----
-
 7. The Atonement is a total commitment. 
 ²You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. 
 ³It is hard to believe a defence that cannot attack is the best defence. 
@@ -374,4 +362,3 @@ You protect yourself and others by using the Atonement as defence.
 
 :::
 
----

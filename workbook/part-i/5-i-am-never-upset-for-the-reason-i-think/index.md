@@ -50,8 +50,6 @@ Through the dynamic of projection, the ego continually seeks to have us believe 
 
 :::
 
----
-
 2. When using the idea for today for a specific perceived cause of an upset in any form, use both the name of the form in which you see the upset, and the cause which you ascribe to it. ²For example:
 
 >³I am not angry at _____ for the reason I think.  
@@ -81,5 +79,3 @@ Through the dynamic of projection, the ego continually seeks to have us believe 
 ⁵I am not depressed about _____ for the reason I think.
 
 ⁶Three or four times during the day is enough.
-
----

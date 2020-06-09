@@ -43,8 +43,6 @@ You think you are perceiving things that have no meaning.
 
 :::
 
----
-
 2. Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
 ²It represents a situation in which God and the ego ‘challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 ³The ego rushes in frantically to establish its own ideas there, fearful that the void may otherwise be used to demonstrate its own impotence and unreality. 
@@ -74,8 +72,6 @@ The ego is afraid, because the void shows the ego is impotent and unreal.
 
 :::
 
----
-
 3. It is essential, therefore, that you learn to recognise the meaningless, and accept it without fear. 
 ²If you are fearful, it is certain that you will endow the world with attributes that it does not possess, and crowd it with images that do not exist. 
 ³To the ego illusions are safety devices, as they must also be to you who equate yourself with the ego.
@@ -101,8 +97,6 @@ If you are fearful, you will use illusions to feel safe.
 
 :::
 
----
-
 4. The exercises for today, which should be done about three or four times for not more than a minute or so at most each time, are to be practiced in a somewhat different way from the preceding ones. 
 ²With eyes closed, repeat today’s idea to yourself. 
 ³Then open your eyes, and look about you slowly, saying:
@@ -122,5 +116,3 @@ If you are fearful, you will use illusions to feel safe.
 6. This is our first attempt at stating an explicit cause and effect relationship of a kind which you are very inexperienced in recognising. 
 ²Do not dwell on the concluding statement, and try not even to think of it except during the practice periods. 
 ³That will suffice at present.
-
----

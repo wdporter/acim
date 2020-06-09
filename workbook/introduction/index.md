@@ -46,9 +46,6 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 (4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, F.C.T.L., p.17)
 ::: -->
 
----
-
-
 2. The exercises are very simple. 
 ²They do not require a great deal of time, and it does not matter where you do them. 
 ³They need no preparation. 
@@ -86,8 +83,6 @@ Only do one exercise a day.
 
 :::
 
----
-
 The workbook is divided into two main sections, the first dealing with the undoing of the way you see now, and the second with the acquisition of true perception. 
 ²With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. 
 ³This is followed by a description of the specific procedures by which the idea for the day is to be applied.
@@ -117,8 +112,6 @@ Each day also has specific procedures for applying the idea.
 
 :::
 
----
-
 4. The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
 ²The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
 
@@ -145,8 +138,6 @@ Your mind will be trained to see everything differently.
 <!--::: details Commentary
 (1–2 and 5:1–2) …it is the Course’s uncompromising metaphysical absoluteness that is deeply problematic for many people. One of its stated goals, therefore, is to effect a total transfer of learning, for “the impariment of the ability to generalise is a crucial learning failure” ([T-12.V.6:4](/text/12-the-holy-spirits-curriculum#t-12-v-6)). (Wapnick, L.D.N.C., p.595; F.C.T.L, p.154)
 ::: -->
-
----
 
 5. Transfer of training in true perception does not proceed as does transfer of the training of the world. 
 ²If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
@@ -178,8 +169,6 @@ But not if you hold any exceptions.
 <!-- ::: details Commentary
 see commentary for [4:1–2](#w-in-4).
 ::: -->
-
----
 
 6. The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
 ²This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. 
@@ -217,8 +206,6 @@ Making exceptions will intefere with the training.
 
 :::
 
----
-
 7. The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. 
 ²This will require no effort on your part. 
 ³The exercises themselves meet the conditions necessary for this kind of transfer.
@@ -244,8 +231,6 @@ The overall aim of the exercises is to increase your ability to extend the ideas
 The exercises will teach you to include everything and everyone. 
 
 :::
-
----
 
 8. Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. 
 ²This does not matter. 
@@ -291,8 +276,6 @@ If you use the ideas, you will see the the ideas are true.
 (3, 5, 9:4) The introduction to the workbook highlights the important place that *using* the Course’s ideas has in the curriculum (Wapnick, F.C.T.L., p.25)
 ::: -->
 
----
-
 9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
 ²Some of them you may actively resist. 
 ³None of this will matter, or decrease their efficacy. 
@@ -326,4 +309,3 @@ You only need to use the ideas.
 
 :::
 
----

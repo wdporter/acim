@@ -44,8 +44,6 @@ What God made does exist.
 
 :::
 
----
-
 2. The exercises for today are to be practiced with eyes closed throughout. 
 ²The mind-searching period should be short, a minute at most. 
 ³Do not have more than three practice periods with today's idea unless you find them comfortable. 
@@ -89,5 +87,3 @@ What God made does exist.
 
 >⁴God did not create a meaningless world. 
 ⁵He did not create [specify the situation which is disturbing you], and so it is not real.
-
----

@@ -82,8 +82,6 @@ Your projections make distortions.
 (9–2:1) …the entire ego thought system of betrayal and murder that begins with the insane thought that the reality of Christ must be sacrificed for the survival of the separated self. …this entire thought system is fabricated by the ego, wherein it substitutes its made-up version of the separated relationship between God and His Son for the truth of Their unity. Thus it achieves the goal of preserving its own existence. (Wapnick, A.A.C., p. ³5.)
 ::: -->
 
----
-
 2. These related distortions represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
 ²None of this existed before the separation, nor does it actually exist now. 
 ³Everything God created is like Him. 
@@ -125,7 +123,6 @@ You can create just as God creates.
 
 :::
 
----
 
 3. The Garden of Eden, or the preseparation condition, was a state of mind in which nothing was needed. 
 ²When Adam listened to the ‘lies of the serpent’, all he heard was untruth. 
@@ -177,8 +174,6 @@ You can wake up any time.
 You can extend the truth.
 
 :::
-
----
 
 4. All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to do this. 
@@ -234,8 +229,6 @@ You are free.
 (6–9) The world was comfortably asleep, dreaming its dream of separation, individuality and specialness. Suddenly, like a telephone ringing outside the dream, Jesus appeared. His very presence stated the following: this world of time and space is a dream that in truth is already over; it is possible to awaken from this dream by listening to my words and following my example; and the many gods you believe in are not true because the real God is One of total Oneness and Love. (Wapnick, A.A.C., p.209.)
 ::: -->
 
----
-
 5. Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. 
 ²It makes no distinctions among misperceptions. 
 ³Its sole concern is to distinguish between truth on the one hand, and error on the other. 
@@ -288,6 +281,4 @@ Whatever lies you may believe are of no concern to the miracle; the miracle can 
 The miracle heals all misperceptions. Health is inner peace. With health you can accept miracles and correct errors.
 
 :::
-
----
 

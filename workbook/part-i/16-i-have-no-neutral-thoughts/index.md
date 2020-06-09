@@ -50,8 +50,6 @@ Thoughts create their own likeness.
 
 :::
 
----
-
 2. There is no more self-contradictory concept than that of ‘idle thoughts’. 
 ²What gives rise to the perception of a whole world can hardly be called idle. 
 ³Every thought you have contributes to truth or to illusion; either it extends the truth or it multiplies illusions. 
@@ -79,8 +77,6 @@ Every thought gives rise to a whole world.
 The world can be a world of truth or a world of illusions.
 
 :::
-
----
 
 3. Besides your recognising that thoughts are never idle, salvation requires that you also recognise that every thought you have brings either peace or war; either love or fear. 
 ²A neutral result is impossible because a neutral thought is impossible. 
@@ -111,8 +107,6 @@ All fear thoughts are destructive and unreal.
 
 :::
 
----
-
 4. In applying the idea for today, search your mind for a minute or so with eyes closed, and actively seek not to overlook any ‘little’ thought that may tend to elude the search. 
 ²This is quite difficult until you get used to it. 
 ³You will find that it is still hard for you not to make artificial distinctions. 
@@ -131,7 +125,3 @@ All fear thoughts are destructive and unreal.
 6. Four or five practice periods are recommended, if you find them relatively effortless. 
 ²If strain is experienced, three will be enough. 
 ³The length of the exercise period should also be reduced if there is discomfort.
-
----
-
-

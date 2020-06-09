@@ -64,8 +64,6 @@ Forgive yourself and see yourself truly.
 (3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, L.D.N.C., p.488.; c/f A.A.C., p.123.)
 ::: -->
 
----
-
 2. A sense of separation from God is the only lack you really need correct. 
 ²This sense of separation would never have arisen if you had not distorted your perception of truth, and had thus perceived yourself as lacking. 
 ³The idea of order of needs arose because, having made this fundamental error, you had already fragmented yourself into levels with different needs. 
@@ -102,8 +100,6 @@ Act only to restore oneness with God. God is all you need.
 [You only need God, but the moment you see yourself as lacking something, lacking *anything*, a sense of separation from God is introduced. This is the error to be undone. —Ed.]
 
 ::: 
-
----
 
 3. The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its own level before the error of perceiving levels at all can be corrected. 
 ²You cannot behave effectively while you function on different levels. 
@@ -144,8 +140,6 @@ Then you can correct the error of separation.
 <!--::: details Commentary
 (5–4:1) The purpose of the world is to correct our belief about the reality of space and time. (Wapnick, A.V.I., p. 247.)
 ::: -->
-
----
 
 4. The real purpose of this world is to use it to correct your unbelief. 
 ²You can never control the effects of fear yourself, because you made fear, and you believe in what you made. 
@@ -188,8 +182,6 @@ You can correct the world you made.
 <!-- ::: details Commentary 
 The course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely. (Wapnick, L.D.N.C., p.575–576.)
 :::	-->
-
----
 
 5. All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. 
 ²To whatever extent you are willing to submit your beliefs to this test, to that extent are your perceptions corrected. 
@@ -261,4 +253,3 @@ God only creates love.
 (4) In the presence of God’s Love all fear automatically disappears. (Wapnick, A.V.I., p.96.)
 ::: -->
 
----

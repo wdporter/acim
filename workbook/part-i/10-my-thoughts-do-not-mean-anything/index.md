@@ -43,8 +43,6 @@ You are not aware of your real thoughts yet.
 
 :::
 
----
-
 2. This is the second time we have used this kind of idea. 
 ²The form is only slightly different. 
 ³This time the idea is introduced with “My thoughts” instead of “These thoughts”, and no link is made overtly with the things around you. 
@@ -82,8 +80,6 @@ Seeing a blank mind for what it is is the prerequisite for seeing what really is
 
 :::
 
----
-
 4. Close your eyes for these exercises, and introduce them by repeating the idea for today quite slowly to yourself. 
 ²Then add:
 
@@ -103,5 +99,3 @@ Seeing a blank mind for what it is is the prerequisite for seeing what really is
 ⁴Remember, however, to repeat the idea slowly before applying it specifically, and also to add:
 
 >⁵This idea will help to release me from all that I now believe
-
----

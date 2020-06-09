@@ -40,8 +40,6 @@ Vision will show you that you are very holy.
 
 :::
 
----
-
 2. You will believe that you are part of where you think you are. 
 ²That is because you surround yourself with the environment you want. 
 ³And you want it to protect the image of yourself that you have made. 
@@ -80,8 +78,6 @@ You cannot have true vision through the image you have of yourself.
 
 :::
 
----
-
 3. The idea for today presents a very different view of yourself. 
 ²By establishing your Source it establishes your Identity, and it describes you as you must really be in truth. 
 ³We will use a somewhat different kind of application for today's idea because the emphasis for today is on the perceiver, rather than on what he perceives.
@@ -105,8 +101,6 @@ The idea for today presents a very different view of yourself.
 You true identity is that your mind is part of God’s and that you are very holy.
 
 :::
-
----
 
 4. For each of the three five-minute practice periods today, begin by repeating today’s idea to yourself, and then close your eyes and search your mind for the various kinds of descriptive terms in which you see yourself. 
 ²Include all the ego-based attributes which you ascribe to yourself, positive or negative, desirable or undesirable, grandiose or debased. 
@@ -145,5 +139,3 @@ You true identity is that your mind is part of God’s and that you are very hol
 
 9. As often as possible during the day, pick up a specific attribute or attributes you are ascribing to yourself at the time and apply the idea for today to them, adding the idea in the form stated above to each of them. 
 ²If nothing particular occurs to you, merely repeat the idea to yourself, with closed eyes.
-
----

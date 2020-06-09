@@ -46,8 +46,6 @@ Your thinking causes reality.
 
 :::
 
----
-
 2. In applying today’s idea, say to yourself, with eyes open:
 
 >²I see no neutral things because I have no neutral thoughts.
@@ -67,5 +65,3 @@ Your thinking causes reality.
 
 4. Three or four specific practice periods are recommended, and no less than three are required for maximum benefit, even if you experience resistance. 
 ²However, if you do, the length of the practice period may be reduced to less than the minute or so that is otherwise recommended.
-
-

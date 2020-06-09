@@ -46,5 +46,3 @@ next: W-pI.2
 ::: details Note
 Keep the lesson to a minute — but you can go longer if you feel like you are hurrying up the lesson in order to keep it under a minute.
 ::: -->
-
----

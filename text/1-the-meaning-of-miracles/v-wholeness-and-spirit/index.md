@@ -96,8 +96,6 @@ Every collapse brings everyone closer to knowledge of oneness.
 (1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, A.V.I., p.129.)
 ::: -->
 
----
-
 3. When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
 ³All His children have His total Love, and all His gifts are freely given to everyone alike. 
@@ -157,8 +155,6 @@ Distorted perceptions create distorted relationships.
 (6) The true teacher of God … is not one with a *special* mission, nor a *special* gift to give others *special* messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in reïnforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
 ::: -->
 
----
-
 4. Ultimately, every member of the family of God must return. 
 ²The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. 
 ³“God is not mocked” is not a warning but a reässurance. 
@@ -193,8 +189,6 @@ Ultimately, every member of the family of God must return.
 All of God’s creations are holy. The miracles calls every member of the family of God to return to a state of completion and abundance.
 
 :::
-
----
 
 5. Whatever is true is eternal, and cannot change or be changed. 
 ²Spirit is therefore unalterable because it is already perfect, but the mind can elect what it chooses to serve. 
@@ -235,8 +229,6 @@ Or the mind can become a tyrant and imprison you.
 
 :::
 
----
-
 6. The miracle is a sign that the mind has chosen to be led by me in Christ’s service. 
 ²The abundance of Christ is the natural result of choosing to follow Him. 
 ³All shallow roots must be uprooted, because they are not deep enough to sustain you. 
@@ -276,4 +268,3 @@ The abundance of Christ will keep you stable.
 
 :::
 
----

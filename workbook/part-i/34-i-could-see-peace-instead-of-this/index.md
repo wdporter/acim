@@ -38,8 +38,6 @@ Peaceful perceptions arise from peace of mind.
 
 :::
 
----
-
 2. Three longer practice periods are required for today’s exercises. 
 ²One in the morning and one in the evening are advised, with an additional one to be undertaken at any time in between that seems most conducive to readiness. 
 ³All applications should be done with your eyes closed. 

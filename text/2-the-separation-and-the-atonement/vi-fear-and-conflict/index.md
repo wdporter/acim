@@ -60,8 +60,6 @@ Let me guide your mind.
 :::tip (³) Jesus discusses our need to turn over to him all that does not matter, placing our egos under his control, so that he may then guide us in what does matter. (Wapnick, A.V.I., p.129.) :::
 :::tip (4–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, L.D.N.C., p.507 and paraphrased A.A.C., p.17³.) (see [para. 4:1–5](#p4)) :::  -->
 
----
-
 2. I do not foster level confusion, but you must choose to correct it. 
 ²You would not excuse insane behaviour on your part by saying you could not help it. 
 ³Why should you condone insane thinking? 
@@ -113,8 +111,6 @@ Fear and insane behaviour are the results of your own thinking.
 
 :::
 
----
-
 3. It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 ³That is why you feel responsible for it. 
@@ -159,8 +155,6 @@ Your mind needs guidance.
 <!--  ##### commentary :::tip (1, 4, 6–7) …controlling one’s actions is not sufficient to achieve real peace. Controlling one’s behaviour, while often a step in the right direction as it can reflect a desire to change one’s mind, still does not change the thoughts of guilt, which merely become strengthened, through their denial. (Wapnick, F.A.J., p.109–110.) :::
 :::tip(4, 6) Our basic problem is the decision to see ourselves separated from God and thus unloved by Him, not what the world would identify as problems. It is this decision that must be changed. The correction for this error must occur in the place where it was made: in our minds, not in the world. (Wapnick, F.A.J., p.2³8.)
 ::: -->
-
----
 
 4. The correction of fear *is* your responsibility. 
 ²When you ask for release from fear, you are implying that it is not. 
@@ -222,8 +216,6 @@ Correct the error by making choices in accord with my choices.
 :::tip (6) …the curriculum of *A Course in Miracles* is a lifelong one, helping its students to embark on a journey that requires great diligence and consistent application. … One of the important messages to be learned from the text is the respect we should accord our ego thought system, not because it is true, but because we believe in it. Thus we can also state that the process of learning the Course involves growing in the discernment of knowing to which voice we are listening. (Wapnick, L.D.N.C., p.604.)
 ::: -->
 
----
-
 5. Fear is always a sign of strain, arising whenever what you want conflicts with what you do. 
 ²This situation arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
 ³This produces conflicted behaviour, which is intolerable to you because the part of the mind that wants to do something else is outraged. 
@@ -272,8 +264,6 @@ Correcting behaviour cannot obliterate fear.
 
 :::
 
----
-
 6. It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 ³The strength to do comes from your undivided decision. 
@@ -320,8 +310,6 @@ Correct the conflict in your mind by unifying your will with God’s Will.
 
 :::
 
----
-
 7. The first corrective step in undoing the error is to know first that the conflict is an expression of fear. 
 ²Say to yourself that you must somehow have chosen not to love, or the fear could not have arisen. 
 ³Then the whole process of correction becomes nothing more than a series of pragmatic steps in the larger process of accepting the Atonement as the remedy. 
@@ -365,8 +353,6 @@ The only remedy for lack of love is perfect love.
 Perfect love is the Atonement. 
 
 :::
-
----
 
 8. I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is reëstablished by the Atonement. 
@@ -414,8 +400,6 @@ The Atonement is the remedy for fear. The Atonement reëstablishes your true wor
 True healing occurs by accepting the remedy. 
 
 :::
-
----
 
 9. Everyone experiences fear. 
 ²Yet it would take very little right thinking to realise why fear occurs. 
@@ -482,6 +466,4 @@ All thinking produces some form.
 
 <!-- ##### commentary :::tip (14) …a helpful metaphor is the decision maker (observer) as the part of our minds that chooses to review the ego’s movie (wrong mind) or the Holy Spirit’s correction (right mind). Remember that the entire movie *including* the correction has already been filmed, and encompasses the world of evolution, spanning billions of years. Within this gigantic epic  is an *almost* infinite number of segments or video tapes, each corresponding to the epxression of a thought. (Wapnick, A.V.I., p.10.) :::
 :::tip (14) …it means that the thoughts of [for example] shooting your wife, of putting the revolver down, or of doing something else entirely, have already happened. Thus you are not really having a new thought, but merely accessing different thoughts in your mind. Therefore, you are re-experiencing a thought that you once had. This is a mind-boggling idea, but it is the key to understanding what *A Course in Miracles* says about time. (Wapnick, A.V.I., p.19.) ::: -->
-
----
 
