@@ -1,7 +1,7 @@
 ---
 layout: home.njk
 title: Home
-reference: H
+reference: 
 eleventyNavigation:
   key: H
   title: Home
