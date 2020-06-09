@@ -14,54 +14,54 @@
 
 <p id=p1 class=fip>
 1. Healing is a thought by which two minds perceive their oneness and become glad. 
-<sup>2</sup>This gladness calls to every part of the Sonship to rejoice with them, and lets God go out into them and through them. 
-<sup>3</sup>Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
-<sup>4</sup>If you do not choose to be wholly joyous, your mind cannot have what it does not choose to be. 
-<sup>5</sup>Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
-<sup>6</sup>The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
-<sup>7</sup>To spirit getting is meaningless and giving is all. 
-<sup>8</sup>Having everything, spirit holds everything by giving it, and thus creates as the Father created. 
-<sup>9</sup>While this kind of thinking is totally alien to having things, even to the lower mind it is quite comprehensible in connection with ideas. 
-<sup>10</sup>If you share a physical possession, you do divide its ownership. 
-<sup>11</sup>If you share an idea, however, you do not lessen it. 
-<sup>12</sup>All of it is still yours although all of it has been given away. 
-<sup>13</sup>Further, if the one to whom you give it accepts it as his, he reïnforces it in your mind and thus increases it. 
-<sup>14</sup>If you can accept the concept that the world is one of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
+²This gladness calls to every part of the Sonship to rejoice with them, and lets God go out into them and through them. 
+³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
+⁴If you do not choose to be wholly joyous, your mind cannot have what it does not choose to be. 
+⁵Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁷To spirit getting is meaningless and giving is all. 
+⁸Having everything, spirit holds everything by giving it, and thus creates as the Father created. 
+⁹While this kind of thinking is totally alien to having things, even to the lower mind it is quite comprehensible in connection with ideas. 
+¹⁰If you share a physical possession, you do divide its ownership. 
+¹¹If you share an idea, however, you do not lessen it. 
+¹²All of it is still yours although all of it has been given away. 
+¹³Further, if the one to whom you give it accepts it as his, he reïnforces it in your mind and thus increases it. 
+¹⁴If you can accept the concept that the world is one of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 </p>
 
 #### expanded
 
 1. Healing is a thought by which [thought] two minds perceive their [two-mind’s] oneness and become glad. 
-<sup>2</sup>This gladness [of perceiving oneness] calls to every part of the Sonship to rejoice with them [the two minds], and lets God go out into them [the two minds ] and through them [the two minds]. 
-<sup>3</sup>Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
-<sup>4</sup>If you do not choose to be wholly joyous, your mind cannot have what it [your mind] does not choose to be. 
-<sup>5</sup>Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
-<sup>6</sup>The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
-<sup>7</sup>To spirit getting is meaningless and giving is all. 
-<sup>8</sup>Having everything, spirit holds everything by giving it [everything], and thus creates as the Father created. 
-<sup>9</sup>While this kind of thinking [holding by giving] is totally alien to having things, even to the lower mind it [thinking holding is giving] is quite comprehensible in connection with ideas. 
-<sup>10</sup>If you share a physical possession, you do divide its [a-physical-possession’s] ownership. 
-<sup>11</sup>If you share an idea, however, you do not lessen it [the idea]. 
-<sup>12</sup>All of it [the idea] is still yours although all of it [the idea] has been given away. 
-<sup>13</sup>Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reïnforces it [the idea] in your mind and thus increases it [the idea]. 
-<sup>14</sup>If you can accept the concept that the world is one [a world] of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
+²This gladness [of perceiving oneness] calls to every part of the Sonship to rejoice with them [the two minds], and lets God go out into them [the two minds ] and through them [the two minds]. 
+³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
+⁴If you do not choose to be wholly joyous, your mind cannot have what it [your mind] does not choose to be. 
+⁵Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁷To spirit getting is meaningless and giving is all. 
+⁸Having everything, spirit holds everything by giving it [everything], and thus creates as the Father created. 
+⁹While this kind of thinking [holding by giving] is totally alien to having things, even to the lower mind it [thinking holding is giving] is quite comprehensible in connection with ideas. 
+¹⁰If you share a physical possession, you do divide its [a-physical-possession’s] ownership. 
+¹¹If you share an idea, however, you do not lessen it [the idea]. 
+¹²All of it [the idea] is still yours although all of it [the idea] has been given away. 
+¹³Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reïnforces it [the idea] in your mind and thus increases it [the idea]. 
+¹⁴If you can accept the concept that the world is one [a world] of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 #### substituted
 
 1. Healing is a thought, by thought two minds perceive two-mind’s oneness and become glad. 
-<sup>2</sup>The gladness of perceiving oneness calls to every part of the Sonship to rejoice with the two minds, and lets God go out into the two minds and through them [the two minds]. 
-<sup>3</sup>Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
-<sup>4</sup>If you do not choose to be wholly joyous, your mind cannot have what your mind does not choose to be. 
-<sup>5</sup>Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
-<sup>6</sup>The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
-<sup>7</sup>To spirit getting is meaningless and giving is all. 
-<sup>8</sup>Having everything, spirit holds everything by giving everything, and thus creates as the Father created. 
-<sup>9</sup>While the kind of thinking that holding is giving, is totally alien to having things, even to the lower mind, the thinking that holding is giving, is quite comprehensible in connection with ideas. 
-<sup>10</sup>If you share a physical possession, you do divide a-physical-possession’s ownership. 
-<sup>11</sup>If you share an idea, however, you do not lessen the idea. 
-<sup>12</sup>All of the idea is still yours although all of the idea has been given away. 
-<sup>13</sup>Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reïnforces the idea in your mind and thus increases the idea. 
-<sup>14</sup>If you can accept the concept that the world is a world of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
+²The gladness of perceiving oneness calls to every part of the Sonship to rejoice with the two minds, and lets God go out into the two minds and through them [the two minds]. 
+³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
+⁴If you do not choose to be wholly joyous, your mind cannot have what your mind does not choose to be. 
+⁵Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁷To spirit getting is meaningless and giving is all. 
+⁸Having everything, spirit holds everything by giving everything, and thus creates as the Father created. 
+⁹While the kind of thinking that holding is giving, is totally alien to having things, even to the lower mind, the thinking that holding is giving, is quite comprehensible in connection with ideas. 
+¹⁰If you share a physical possession, you do divide a-physical-possession’s ownership. 
+¹¹If you share an idea, however, you do not lessen the idea. 
+¹²All of the idea is still yours although all of the idea has been given away. 
+¹³Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reïnforces the idea in your mind and thus increases the idea. 
+¹⁴If you can accept the concept that the world is a world of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 #### simplified
 
@@ -71,27 +71,27 @@ When two minds perceive their oneness they become glad and are healed. Everythin
 
 <p id=p2 class=fip>
 2. Let us start our process of re-awakening with just a few simple concepts:
-<span class=course-quote><sup>2</sup>Thoughts increase by being given away. <br>
-<sup>3</sup>The more who believe in them the stronger they become. <br>
-<sup>4</sup>Everything is an idea. <br>
-<sup>5</sup>How, then, can giving and losing be associated?</span>
+<span class=course-quote>²Thoughts increase by being given away. <br>
+³The more who believe in them the stronger they become. <br>
+⁴Everything is an idea. <br>
+⁵How, then, can giving and losing be associated?</span>
 </p>
 
 #### expanded
 
 2. Let us start our process of re-awakening with just a few simple concepts:
-<span class=course-quote><sup>2</sup>Thoughts increase by being given away. <br>
-<sup>3</sup>The more who believe in them [thoughts] the stronger they [thoughts] become. <br>
-<sup>4</sup>Everything is an idea. <br>
-<sup>5</sup>How, then, can giving and losing be associated?</span>
+<span class=course-quote>²Thoughts increase by being given away. <br>
+³The more who believe in them [thoughts] the stronger they [thoughts] become. <br>
+⁴Everything is an idea. <br>
+⁵How, then, can giving and losing be associated?</span>
 
 #### substituted
 
 2. Let us start our process of re-awakening with just a few simple concepts:
-<span class=course-quote><sup>2</sup>Thoughts increase by being given away. <br>
-<sup>3</sup>The more who believe in thoughts the stronger thoughts become. <br>
-<sup>4</sup>Everything is an idea. <br>
-<sup>5</sup>How, then, can giving and losing be associated?</span>
+<span class=course-quote>²Thoughts increase by being given away. <br>
+³The more who believe in thoughts the stronger thoughts become. <br>
+⁴Everything is an idea. <br>
+⁵How, then, can giving and losing be associated?</span>
 
 #### simplified
 
@@ -101,30 +101,30 @@ Giving and losing can’t be associated because thoughts become stronger when gi
 
 <p id=p3 class=fip>
 3. This is the invitation to the Holy Spirit. 
-<sup>2</sup>I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him to you only at your own invitation. 
-<sup>3</sup>The Holy Spirit is in your right mind, as He was in mine. 
-<sup>4</sup>The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this as a blessing. 
-<sup>5</sup>It is the blessing of miracle-mindedness. 
-<sup>6</sup>It asks that you may think as I thought, joining with me in Christ thinking.
+²I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him to you only at your own invitation. 
+³The Holy Spirit is in your right mind, as He was in mine. 
+⁴The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this as a blessing. 
+⁵It is the blessing of miracle-mindedness. 
+⁶It asks that you may think as I thought, joining with me in Christ thinking.
 </p>
 
 #### expanded
 
 3. This is the invitation to the Holy Spirit. 
-<sup>2</sup>I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him [the Holy Spirit] to you only at your own invitation. 
-<sup>3</sup>The Holy Spirit is in your right mind, as He [the Holy Spirit] was in mine [my right mind]. 
-<sup>4</sup>The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this [saying] as a blessing. 
-<sup>5</sup>It [this saying] is the blessing of miracle-mindedness. 
-<sup>6</sup>It [this saying] asks that you may think as I thought, joining with me in Christ thinking.
+²I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him [the Holy Spirit] to you only at your own invitation. 
+³The Holy Spirit is in your right mind, as He [the Holy Spirit] was in mine [my right mind]. 
+⁴The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this [saying] as a blessing. 
+⁵It [this saying] is the blessing of miracle-mindedness. 
+⁶It [this saying] asks that you may think as I thought, joining with me in Christ thinking.
 
 #### substituted
 
 3. This is the invitation to the Holy Spirit. 
-<sup>2</sup>I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring the Holy Spirit to you only at your own invitation. 
-<sup>3</sup>The Holy Spirit is in your right mind, as the Holy Spirit was in my right mind. 
-<sup>4</sup>The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this saying as a blessing. 
-<sup>5</sup>This saying is the blessing of miracle-mindedness. 
-<sup>6</sup>This saying asks that you may think as I thought, joining with me in Christ thinking.
+²I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring the Holy Spirit to you only at your own invitation. 
+³The Holy Spirit is in your right mind, as the Holy Spirit was in my right mind. 
+⁴The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this saying as a blessing. 
+⁵This saying is the blessing of miracle-mindedness. 
+⁶This saying asks that you may think as I thought, joining with me in Christ thinking.
 
 #### simplified
 
@@ -140,45 +140,45 @@ Ur-text/HLC/Original edition, for sentence 3, has “The Holy Spirit is nothing 
 
 <p id=p4 class=fip>
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
-<sup>2</sup>He is referred to as the Healer, the Comforter and the Guide. 
-<sup>3</sup>He is also described as something ‘separate’, apart from the Father and from the Son. 
-<sup>4</sup>I myself said, “If I go I will send you another Comforter and he will abide with you”. 
-<sup>5</sup>His symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
-<sup>6</sup>As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this Inspiration is for all. 
-<sup>7</sup>I could not have It myself without knowing this. 
-<sup>8</sup>The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He calls it forth; or better, allows it to come. 
-<sup>9</sup>I have spoken before of the higher or ‘true’ perception, which is so near to truth that God Himself can flow across the little gap. 
-<sup>10</sup>Knowledge is always ready to flow everywhere, but it cannot oppose. 
-<sup>11</sup>Therefore you can obstruct it, although you can never lose it.
+²He is referred to as the Healer, the Comforter and the Guide. 
+³He is also described as something ‘separate’, apart from the Father and from the Son. 
+⁴I myself said, “If I go I will send you another Comforter and he will abide with you”. 
+⁵His symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
+⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this Inspiration is for all. 
+⁷I could not have It myself without knowing this. 
+⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He calls it forth; or better, allows it to come. 
+⁹I have spoken before of the higher or ‘true’ perception, which is so near to truth that God Himself can flow across the little gap. 
+¹⁰Knowledge is always ready to flow everywhere, but it cannot oppose. 
+¹¹Therefore you can obstruct it, although you can never lose it.
 </p>
 
 #### expanded
 
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
-<sup>2</sup>He [the Holy Spirit] is referred to as the Healer, the Comforter and the Guide. 
-<sup>3</sup>He [the Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
-<sup>4</sup>I myself said, “If I go I will send you another Comforter and he [the other Comforter] will abide with you”. 
-<sup>5</sup>His [the-Holy-Spirit’s] symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
-<sup>6</sup>As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this [the Universal] Inspiration is for all. 
-<sup>7</sup>I could not have It [the Universal Inspiration] myself without knowing this [the Universal Inspiration is for all]. 
-<sup>8</sup>The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He [the Holy Spirit] calls it [knowledge] forth; or better, allows it [knowledge] to come. 
-<sup>9</sup>I have spoken before of the higher or ‘true’ perception, which [perception] is so near to truth that God Himself [God’s-self] can flow across the little gap. 
-<sup>10</sup>Knowledge is always ready to flow everywhere, but it [knowledge] cannot oppose. 
-<sup>11</sup>Therefore you can obstruct it [knowledge], although you can never lose it [knowledge].
+²He [the Holy Spirit] is referred to as the Healer, the Comforter and the Guide. 
+³He [the Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
+⁴I myself said, “If I go I will send you another Comforter and he [the other Comforter] will abide with you”. 
+⁵His [the-Holy-Spirit’s] symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
+⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this [the Universal] Inspiration is for all. 
+⁷I could not have It [the Universal Inspiration] myself without knowing this [the Universal Inspiration is for all]. 
+⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He [the Holy Spirit] calls it [knowledge] forth; or better, allows it [knowledge] to come. 
+⁹I have spoken before of the higher or ‘true’ perception, which [perception] is so near to truth that God Himself [God’s-self] can flow across the little gap. 
+¹⁰Knowledge is always ready to flow everywhere, but it [knowledge] cannot oppose. 
+¹¹Therefore you can obstruct it [knowledge], although you can never lose it [knowledge].
 
 #### substituted
 
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
-<sup>2</sup>The Holy Spirit is referred to as the Healer, the Comforter and the Guide. 
-<sup>3</sup>Tthe Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
-<sup>4</sup>I myself said, “If I go I will send you another Comforter and the other Comforter will abide with you”. 
-<sup>5</sup>The-Holy-Spirit’s symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
-<sup>6</sup>As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that the Universal Inspiration is for all. 
-<sup>7</sup>I could not have the Universal Inspiration myself without knowing the Universal Inspiration is for all. 
-<sup>8</sup>The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that the Holy Spirit calls knowledge forth; or better, allows it knowledge to come. 
-<sup>9</sup>I have spoken before of the higher or ‘true’ perception, true perception is so near to truth that God God’s-self can flow across the little gap. 
-<sup>10</sup>Knowledge is always ready to flow everywhere, but knowledge cannot oppose. 
-<sup>11</sup>Therefore you can obstruct knowledge, although you can never lose knowledge.
+²The Holy Spirit is referred to as the Healer, the Comforter and the Guide. 
+³Tthe Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
+⁴I myself said, “If I go I will send you another Comforter and the other Comforter will abide with you”. 
+⁵The-Holy-Spirit’s symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
+⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that the Universal Inspiration is for all. 
+⁷I could not have the Universal Inspiration myself without knowing the Universal Inspiration is for all. 
+⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that the Holy Spirit calls knowledge forth; or better, allows it knowledge to come. 
+⁹I have spoken before of the higher or ‘true’ perception, true perception is so near to truth that God God’s-self can flow across the little gap. 
+¹⁰Knowledge is always ready to flow everywhere, but knowledge cannot oppose. 
+¹¹Therefore you can obstruct knowledge, although you can never lose knowledge.
 
 #### simplified
 
@@ -189,33 +189,33 @@ The Holy Spirit has a symbolic function in this world. The function can be inter
 
 <p id=p5 class=fip>
 5. The Holy Spirit is the Christ Mind which is aware of the knowledge that lies beyond perception. 
-<sup>2</sup>He came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
-<sup>3</sup>Before that there was no need for healing, for no one was comfortless. 
-<sup>4</sup>The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
-<sup>5</sup>When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
-<sup>6</sup>But what God creates is eternal. 
-<sup>7</sup>The Holy Spirit will remain with the Sons of God, to bless their creations and keep them in the light of joy.
+²He came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
+³Before that there was no need for healing, for no one was comfortless. 
+⁴The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
+⁵When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
+⁶But what God creates is eternal. 
+⁷The Holy Spirit will remain with the Sons of God, to bless their creations and keep them in the light of joy.
 </p>
 
 #### expanded
 
 5. The Holy Spirit is the Christ Mind which [Christ Mind] is aware of the knowledge that lies beyond perception. 
-<sup>2</sup>He [the Holy Spirit] came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
-<sup>3</sup>Before that [the separation] there was no need for healing, for no one was comfortless. 
-<sup>4</sup>The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
-<sup>5</sup>When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
-<sup>6</sup>But what God creates is eternal. 
-<sup>7</sup>The Holy Spirit will remain with the Sons of God, to bless their [the-Sons-of-God’s] creations and keep them [the Sons of God] in the light of joy.
+²He [the Holy Spirit] came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
+³Before that [the separation] there was no need for healing, for no one was comfortless. 
+⁴The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
+⁵When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
+⁶But what God creates is eternal. 
+⁷The Holy Spirit will remain with the Sons of God, to bless their [the-Sons-of-God’s] creations and keep them [the Sons of God] in the light of joy.
 
 #### substituted
 
 5. The Holy Spirit is the Christ Mind — the Christ Mind is aware of the knowledge that lies beyond perception. 
-<sup>2</sup>The Holy Spirit came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
-<sup>3</sup>Before the separation there was no need for healing, for no one was comfortless. 
-<sup>4</sup>The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
-<sup>5</sup>When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
-<sup>6</sup>But what God creates is eternal. 
-<sup>7</sup>The Holy Spirit will remain with the Sons of God, to bless the-Sons-of-God’s creations and keep the Sons of God in the light of joy.
+²The Holy Spirit came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
+³Before the separation there was no need for healing, for no one was comfortless. 
+⁴The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
+⁵When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
+⁶But what God creates is eternal. 
+⁷The Holy Spirit will remain with the Sons of God, to bless the-Sons-of-God’s creations and keep the Sons of God in the light of joy.
 
 #### simplified
 
@@ -225,30 +225,30 @@ The Holy Spirit is the Christ Mind. The Christ Mind is aware there is knowledge 
 
 <p id=p6 class=fip>
 6. God honoured even the miscreations of His children because they had made them. 
-<sup>2</sup>But He also blessed His children with a way of thinking that could raise their perceptions so high they could reach almost back to Him. 
-<sup>3</sup>The Holy Spirit is the Mind of the Atonement. 
-<sup>4</sup>He represents a state of mind close enough to One-mindedness that transfer to it is at last possible. 
-<sup>5</sup>Perception is not knowledge, but it can be transferred to knowledge, or cross over into it. 
-<sup>6</sup>It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+²But He also blessed His children with a way of thinking that could raise their perceptions so high they could reach almost back to Him. 
+³The Holy Spirit is the Mind of the Atonement. 
+⁴He represents a state of mind close enough to One-mindedness that transfer to it is at last possible. 
+⁵Perception is not knowledge, but it can be transferred to knowledge, or cross over into it. 
+⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
 </p>
 
 #### expanded
 
 6. God honoured even the miscreations of His [God’s] children because they [God’s-children] had made them [miscreations]. 
-<sup>2</sup>But He [God] also blessed His [God’s] children with a way of thinking that could raise their [God’s-children’s] perceptions so high they [God’s-children] could reach almost back to Him [God]. 
-<sup>3</sup>The Holy Spirit is the Mind of the Atonement. 
-<sup>4</sup>He [the Holy Spirit] represents a state of mind close enough to One-mindedness that transfer to it [One-mindedness] is at last possible. 
-<sup>5</sup>Perception is not knowledge, but it [perception] can be transferred to knowledge, or cross over into it [knowledge]. 
-<sup>6</sup>It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+²But He [God] also blessed His [God’s] children with a way of thinking that could raise their [God’s-children’s] perceptions so high they [God’s-children] could reach almost back to Him [God]. 
+³The Holy Spirit is the Mind of the Atonement. 
+⁴He [the Holy Spirit] represents a state of mind close enough to One-mindedness that transfer to it [One-mindedness] is at last possible. 
+⁵Perception is not knowledge, but it [perception] can be transferred to knowledge, or cross over into it [knowledge]. 
+⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
 
 #### substituted
 
 6. God honoured even the miscreations of God’s children because God’s-children had made miscreations. 
-<sup>2</sup>But God also blessed God’s children with a way of thinking that could raise their God’s-children’s perceptions so high God’s-children could reach almost back to God. 
-<sup>3</sup>The Holy Spirit is the Mind of the Atonement. 
-<sup>4</sup>The Holy Spirit represents a state of mind close enough to One-mindedness that transfer to One-mindedness is at last possible. 
-<sup>5</sup>Perception is not knowledge, but perception can be transferred to knowledge, or cross over into knowledge. 
-<sup>6</sup>It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+²But God also blessed God’s children with a way of thinking that could raise their God’s-children’s perceptions so high God’s-children could reach almost back to God. 
+³The Holy Spirit is the Mind of the Atonement. 
+⁴The Holy Spirit represents a state of mind close enough to One-mindedness that transfer to One-mindedness is at last possible. 
+⁵Perception is not knowledge, but perception can be transferred to knowledge, or cross over into knowledge. 
+⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
 
 #### simplified
 
@@ -258,30 +258,30 @@ God honours his children’s miscreations by sending the Holy Spirit amongst the
 
 <p id=p7 class=fip>
 7. The Holy Spirit, the shared Inspiration of all the Sonship, induces a kind of perception in which many elements are like those in the Kingdom of Heaven itself:<br> 
- <sup>2</sup>First, its universality is perfectly clear, and no one who attains it could believe for one instant that sharing it involves anything but gain.<br> 
- <sup>3</sup>Second, it is incapable of attack and is therefore truly open. 
-<sup>4</sup>This means that although it does not engender knowledge, it does not obstruct it in any way.<br> 
- <sup>5</sup>Finally, it points the way beyond the healing that it brings, and leads the mind beyond its own integration toward the paths of creation. 
-<sup>6</sup>It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
+ ²First, its universality is perfectly clear, and no one who attains it could believe for one instant that sharing it involves anything but gain.<br> 
+ ³Second, it is incapable of attack and is therefore truly open. 
+⁴This means that although it does not engender knowledge, it does not obstruct it in any way.<br> 
+ ⁵Finally, it points the way beyond the healing that it brings, and leads the mind beyond its own integration toward the paths of creation. 
+⁶It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
 </p>
 
 #### expanded
 
 7. The Holy Spirit, the shared Inspiration of all the Sonship, induces a kind of perception in which many elements are like those [elements] in the Kingdom of Heaven itself [Kingdom-of-Heaven’s-self]:<br> 
- <sup>2</sup>First, its [Inspired-perception’s] universality is perfectly clear, and no one who attains it [Inspired perception] could believe for one instant that sharing it [Inspired perception] involves anything but gain.<br> 
- <sup>3</sup>Second, it [Inspired perception] is incapable of attack and is therefore truly open. 
-<sup>4</sup>This [Inspired perception is incapable of attack] means that although it [Inspired perception] does not engender knowledge, it [Inspired perception] does not obstruct it [knowledge] in any way.<br> 
- <sup>5</sup>Finally, it [Inspired perception] points the way beyond the healing that it [Inspired perception] brings, and leads the mind beyond its [the mind’s] own integration toward the paths of creation. 
-<sup>6</sup>It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
+ ²First, its [Inspired-perception’s] universality is perfectly clear, and no one who attains it [Inspired perception] could believe for one instant that sharing it [Inspired perception] involves anything but gain.<br> 
+ ³Second, it [Inspired perception] is incapable of attack and is therefore truly open. 
+⁴This [Inspired perception is incapable of attack] means that although it [Inspired perception] does not engender knowledge, it [Inspired perception] does not obstruct it [knowledge] in any way.<br> 
+ ⁵Finally, it [Inspired perception] points the way beyond the healing that it [Inspired perception] brings, and leads the mind beyond its [the mind’s] own integration toward the paths of creation. 
+⁶It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
 
 #### substituted
 
 7. The Holy Spirit, the shared Inspiration of all the Sonship, induces a kind of perception in which many elements are like elements in the Kingdom of Heaven Kingdom-of-Heaven’s-self:<br> 
- <sup>2</sup>First, Inspired-perception’s universality is perfectly clear, and no one who attains Inspired perception could believe for one instant that sharing Inspired perception involves anything but gain.<br> 
- <sup>3</sup>Second, Inspired perception is incapable of attack and is therefore truly open. 
-<sup>4</sup>Inspired perception is incapable of attack, means that although Inspired perception does not engender knowledge, Inspired perception does not obstruct knowledge in any way.<br> 
- <sup>5</sup>Finally, Inspired perception points the way beyond the healing that Inspired perception brings, and leads the mind beyond the mind’s own integration toward the paths of creation. 
-<sup>6</sup>It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
+ ²First, Inspired-perception’s universality is perfectly clear, and no one who attains Inspired perception could believe for one instant that sharing Inspired perception involves anything but gain.<br> 
+ ³Second, Inspired perception is incapable of attack and is therefore truly open. 
+⁴Inspired perception is incapable of attack, means that although Inspired perception does not engender knowledge, Inspired perception does not obstruct knowledge in any way.<br> 
+ ⁵Finally, Inspired perception points the way beyond the healing that Inspired perception brings, and leads the mind beyond the mind’s own integration toward the paths of creation. 
+⁶It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
 
 #### simplified
 
@@ -292,33 +292,33 @@ The Holy Spirit is the shared Inspiration of all the Sonship. Anyone who has Ins
 
 <p class=fip id=p1>
 1. Healing is not creating; it is reparation. 
-<sup>2</sup>The Holy Spirit promotes healing by looking beyond it to what the children of God were before healing was needed, and will be when they have been healed. 
-<sup>3</sup>This alteration of the time sequence should be quite familiar, because it is very similar to the shift in the perception of time that the miracle introduces. 
-<sup>4</sup>The Holy Spirit is the motivation for miracle-mindedness; the decision to heal the separation by letting it go. 
-<sup>5</sup>Your will is still in you because God placed it in your mind, and although you can keep it asleep you cannot obliterate it. 
-<sup>6</sup>God Himself keeps your will alive by transmitting it from His Mind to yours as long as there is time. 
-<sup>7</sup>The miracle itself is a reflection of this union of Will between Father and Son.
+²The Holy Spirit promotes healing by looking beyond it to what the children of God were before healing was needed, and will be when they have been healed. 
+³This alteration of the time sequence should be quite familiar, because it is very similar to the shift in the perception of time that the miracle introduces. 
+⁴The Holy Spirit is the motivation for miracle-mindedness; the decision to heal the separation by letting it go. 
+⁵Your will is still in you because God placed it in your mind, and although you can keep it asleep you cannot obliterate it. 
+⁶God Himself keeps your will alive by transmitting it from His Mind to yours as long as there is time. 
+⁷The miracle itself is a reflection of this union of Will between Father and Son.
 </p>
 
 #### expanded
 
 1. Healing is not creating; it [healing] is reparation. 
-<sup>2</sup>The Holy Spirit promotes healing by looking beyond it [healing] to what the children of God were before healing was needed, and will be when they [the children of God] have been healed. 
-<sup>3</sup>This alteration of the time sequence should be quite familiar, because it [this alteration of the time sequence] is very similar to the shift in the perception of time that the miracle introduces. 
-<sup>4</sup>The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting it [separation] go. 
-<sup>5</sup>Your will is still in you because God placed it [your will] in your mind, and although you can keep it [your will] asleep you cannot obliterate it [your will]. 
-<sup>6</sup>God Himself [God’s-self] keeps your will alive by transmitting it [your will] from His [God’s] Mind to yours [mind] as long as there is time. 
-<sup>7</sup>The miracle itself [miracle’s-self] is a reflection of this union of Will between Father and Son.
+²The Holy Spirit promotes healing by looking beyond it [healing] to what the children of God were before healing was needed, and will be when they [the children of God] have been healed. 
+³This alteration of the time sequence should be quite familiar, because it [this alteration of the time sequence] is very similar to the shift in the perception of time that the miracle introduces. 
+⁴The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting it [separation] go. 
+⁵Your will is still in you because God placed it [your will] in your mind, and although you can keep it [your will] asleep you cannot obliterate it [your will]. 
+⁶God Himself [God’s-self] keeps your will alive by transmitting it [your will] from His [God’s] Mind to yours [mind] as long as there is time. 
+⁷The miracle itself [miracle’s-self] is a reflection of this union of Will between Father and Son.
 
 #### substituted
 
 1. Healing is not creating; it is reparation. 
-<sup>2</sup>The Holy Spirit promotes healing by looking beyond healing to what the children of God were before healing was needed, and will be when the children of God have been healed. 
-<sup>3</sup>This alteration of the time sequence should be quite familiar, because this alteration of the time sequence is very similar to the shift in the perception of time that the miracle introduces. 
-<sup>4</sup>The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting separation go. 
-<sup>5</sup>Your will is still in you because God placed your will in your mind, and although you can keep your will asleep you cannot obliterate your will. 
-<sup>6</sup>God God’s-self keeps your will alive by transmitting your will from His God’s Mind to your mind as long as there is time. 
-<sup>7</sup>The miracle miracle’s-self is a reflection of this union of Will between Father and Son.
+²The Holy Spirit promotes healing by looking beyond healing to what the children of God were before healing was needed, and will be when the children of God have been healed. 
+³This alteration of the time sequence should be quite familiar, because this alteration of the time sequence is very similar to the shift in the perception of time that the miracle introduces. 
+⁴The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting separation go. 
+⁵Your will is still in you because God placed your will in your mind, and although you can keep your will asleep you cannot obliterate your will. 
+⁶God God’s-self keeps your will alive by transmitting your will from His God’s Mind to your mind as long as there is time. 
+⁷The miracle miracle’s-self is a reflection of this union of Will between Father and Son.
 
 #### simplified
 
@@ -328,27 +328,27 @@ The Holy Spirit see what the children of God were before the separation. The sep
 
 <p class=fip id=p2>
 2. The Holy Spirit is the spirit of joy. 
-<sup>2</sup>He is the Call to return with which God blessed the minds of His separated Sons. 
-<sup>3</sup>This is the vocation of the mind. 
-<sup>4</sup>The mind had no calling until the separation, because before that it had only being, and would not have understood the Call to right thinking. 
-<sup>5</sup>The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
+²He is the Call to return with which God blessed the minds of His separated Sons. 
+³This is the vocation of the mind. 
+⁴The mind had no calling until the separation, because before that it had only being, and would not have understood the Call to right thinking. 
+⁵The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
 </p>
 
 #### expanded
 
 2. The Holy Spirit is the spirit of joy. 
-<sup>2</sup>He [the Holy Spirit] is the Call to return with which [call to return] God blessed the minds of His [God’s] separated Sons. 
-<sup>3</sup>This [the call to return] is the vocation of the mind. 
-<sup>4</sup>The mind had no calling until the separation, because before that it [the mind] had only being, and would not have understood the Call to right thinking. 
-<sup>5</sup>The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
+²He [the Holy Spirit] is the Call to return with which [call to return] God blessed the minds of His [God’s] separated Sons. 
+³This [the call to return] is the vocation of the mind. 
+⁴The mind had no calling until the separation, because before that it [the mind] had only being, and would not have understood the Call to right thinking. 
+⁵The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
 
 #### substituted
 
 2. The Holy Spirit is the spirit of joy. 
-<sup>2</sup>The Holy Spirit is the Call to return, with call to return God blessed the minds of God’s separated Sons. 
-<sup>3</sup>The call to return is the vocation of the mind. 
-<sup>4</sup>The mind had no calling until the separation, because before that the mind had only being, and would not have understood the Call to right thinking. 
-<sup>5</sup>The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
+²The Holy Spirit is the Call to return, with call to return God blessed the minds of God’s separated Sons. 
+³The call to return is the vocation of the mind. 
+⁴The mind had no calling until the separation, because before that the mind had only being, and would not have understood the Call to right thinking. 
+⁵The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
 
 #### simplified
 
@@ -358,45 +358,45 @@ The Holy Spirit is the spirit of joy. The Holy Spirit is the call to return to G
 
 <p class=fip id=p3>
 3. The principle of Atonement and the separation began at the same time. 
-<sup>2</sup>When the ego was made, God placed in the mind the Call to joy. 
-<sup>3</sup>This Call is so strong that the ego always dissolves at Its sound. 
-<sup>4</sup>That is why you must choose to hear one of two voices within you. 
-<sup>5</sup>One you made yourself, and that one is not of God. 
-<sup>6</sup>But the other is given you by God, Who asks you only to listen to it. 
-<sup>7</sup>The Holy Spirit is in you in a very literal sense. 
-<sup>8</sup>His is the Voice that calls you back to where you were before and will be again. 
-<sup>9</sup>It is possible even in this world to hear only that Voice and no other. 
-<sup>10</sup>It takes effort and great willingness to learn. 
-<sup>11</sup>It is the final lesson that I learned, and God’s Sons are as equal as learners as they are as sons.
+²When the ego was made, God placed in the mind the Call to joy. 
+³This Call is so strong that the ego always dissolves at Its sound. 
+⁴That is why you must choose to hear one of two voices within you. 
+⁵One you made yourself, and that one is not of God. 
+⁶But the other is given you by God, Who asks you only to listen to it. 
+⁷The Holy Spirit is in you in a very literal sense. 
+⁸His is the Voice that calls you back to where you were before and will be again. 
+⁹It is possible even in this world to hear only that Voice and no other. 
+¹⁰It takes effort and great willingness to learn. 
+¹¹It is the final lesson that I learned, and God’s Sons are as equal as learners as they are as sons.
 </p>
 
 #### expanded
 
 3. The principle of Atonement and the separation began at the same time. 
-<sup>2</sup>When the ego was made, God placed in the mind the Call to joy. 
-<sup>3</sup>This Call [to joy] is so strong that the ego always dissolves at Its [the-Call-to-joy’s] sound. 
-<sup>4</sup>That is why you must choose to hear one of two voices within you. 
-<sup>5</sup>One [voice] you made yourself, and that one [voice] is not of God. 
-<sup>6</sup>But the other [Voice] is given you by God, Who [God] asks you only to listen to it [the Voice given you by God]. 
-<sup>7</sup>The Holy Spirit is in you in a very literal sense. 
-<sup>8</sup>His [the-Holy-Spirit’s Voice] is the Voice that calls you back to where you were before [the separation] and will be again. 
-<sup>9</sup>It is possible even in this world to hear only that [the-Holy-Spirit’s] Voice and no other [voice]. 
-<sup>10</sup>It [hearing only the Holy Spirit’s Voice] takes effort and great willingness to learn. 
-<sup>11</sup>It [hearing only the Holy Spirit’s Voice] is the final lesson that I learned, and God’s Sons are as equal as learners as they [God’s Sons] are [equal] as sons.
+²When the ego was made, God placed in the mind the Call to joy. 
+³This Call [to joy] is so strong that the ego always dissolves at Its [the-Call-to-joy’s] sound. 
+⁴That is why you must choose to hear one of two voices within you. 
+⁵One [voice] you made yourself, and that one [voice] is not of God. 
+⁶But the other [Voice] is given you by God, Who [God] asks you only to listen to it [the Voice given you by God]. 
+⁷The Holy Spirit is in you in a very literal sense. 
+⁸His [the-Holy-Spirit’s Voice] is the Voice that calls you back to where you were before [the separation] and will be again. 
+⁹It is possible even in this world to hear only that [the-Holy-Spirit’s] Voice and no other [voice]. 
+¹⁰It [hearing only the Holy Spirit’s Voice] takes effort and great willingness to learn. 
+¹¹It [hearing only the Holy Spirit’s Voice] is the final lesson that I learned, and God’s Sons are as equal as learners as they [God’s Sons] are [equal] as sons.
 
 #### substituted
 
 3. The principle of Atonement and the separation began at the same time. 
-<sup>2</sup>When the ego was made, God placed in the mind the Call to joy. 
-<sup>3</sup>The Call to joy is so strong that the ego always dissolves at the-Call-to-joy’s sound. 
-<sup>4</sup>That is why you must choose to hear one of two voices within you. 
-<sup>5</sup>One voice you made yourself, and that voice is not of God. 
-<sup>6</sup>But the other Voice is given you by God, God asks you only to listen to the Voice given you by God. 
-<sup>7</sup>The Holy Spirit is in you in a very literal sense. 
-<sup>8</sup>The-Holy-Spirit’s Voice is the Voice that calls you back to where you were before the separation and will be again. 
-<sup>9</sup>It is possible even in this world to hear only the-Holy-Spirit’s Voice and no other voice. 
-<sup>10</sup>Hearing only the Holy Spirit’s Voice takes effort and great willingness to learn. 
-<sup>11</sup>Hearing only the Holy Spirit’s Voice is the final lesson that I learned, and God’s Sons are as equal as learners as God’s Sons are equal as sons.
+²When the ego was made, God placed in the mind the Call to joy. 
+³The Call to joy is so strong that the ego always dissolves at the-Call-to-joy’s sound. 
+⁴That is why you must choose to hear one of two voices within you. 
+⁵One voice you made yourself, and that voice is not of God. 
+⁶But the other Voice is given you by God, God asks you only to listen to the Voice given you by God. 
+⁷The Holy Spirit is in you in a very literal sense. 
+⁸The-Holy-Spirit’s Voice is the Voice that calls you back to where you were before the separation and will be again. 
+⁹It is possible even in this world to hear only the-Holy-Spirit’s Voice and no other voice. 
+¹⁰Hearing only the Holy Spirit’s Voice takes effort and great willingness to learn. 
+¹¹Hearing only the Holy Spirit’s Voice is the final lesson that I learned, and God’s Sons are as equal as learners as God’s Sons are equal as sons.
 
 #### simplified
 
@@ -406,27 +406,27 @@ At the separation, God placed in the mind the Call to joy. The Call to joy disso
 
 <p class=fip id=p4>
 4. You <em>are</em> the Kingdom of Heaven, but you have let the belief in darkness enter your mind and so you need a new light. 
-<sup>2</sup>The Holy Spirit is the radiance that you must let banish the idea of darkness. 
-<sup>3</sup>His is the glory before which dissociation falls away, and the Kingdom of Heaven breaks through into its own. 
-<sup>4</sup>Before the separation you did not need guidance. 
-<sup>5</sup>You knew as you will know again, but as you do not know now.
+²The Holy Spirit is the radiance that you must let banish the idea of darkness. 
+³His is the glory before which dissociation falls away, and the Kingdom of Heaven breaks through into its own. 
+⁴Before the separation you did not need guidance. 
+⁵You knew as you will know again, but as you do not know now.
 </p>
 
 #### expanded
 
 4. You *are* the Kingdom of Heaven, but you have let the belief in darkness enter your mind and so you need a new light. 
-<sup>2</sup>The Holy Spirit is the radiance that you must let banish the idea of darkness. 
-<sup>3</sup>His [the Holy-Spirit’s glory] is the glory before which [the-Holy-Spirit’s glory] dissociation falls away, and the Kingdom of Heaven breaks through into its [the-Kingdom-of-Heaven’s] own. 
-<sup>4</sup>Before the separation you did not need guidance. 
-<sup>5</sup>You knew as you will know again, but as you do not know now.
+²The Holy Spirit is the radiance that you must let banish the idea of darkness. 
+³His [the Holy-Spirit’s glory] is the glory before which [the-Holy-Spirit’s glory] dissociation falls away, and the Kingdom of Heaven breaks through into its [the-Kingdom-of-Heaven’s] own. 
+⁴Before the separation you did not need guidance. 
+⁵You knew as you will know again, but as you do not know now.
 
 #### substituted
 
 4. You *are* the Kingdom of Heaven, but you have let the belief in darkness enter your mind and so you need a new light. 
-<sup>2</sup>The Holy Spirit is the radiance that you must let banish the idea of darkness. 
-<sup>3</sup>The Holy-Spirit’s glory is the glory, before the-Holy-Spirit’s glory dissociation falls away, and the Kingdom of Heaven breaks through into the-Kingdom-of-Heaven’s own. 
-<sup>4</sup>Before the separation you did not need guidance. 
-<sup>5</sup>You knew as you will know again, but as you do not know now.
+²The Holy Spirit is the radiance that you must let banish the idea of darkness. 
+³The Holy-Spirit’s glory is the glory, before the-Holy-Spirit’s glory dissociation falls away, and the Kingdom of Heaven breaks through into the-Kingdom-of-Heaven’s own. 
+⁴Before the separation you did not need guidance. 
+⁵You knew as you will know again, but as you do not know now.
 
 #### simplified
 
@@ -436,33 +436,33 @@ You need a new light to see you *are* the Kingdom of Heaven. The Holy Spirit is 
 
 <p class=fip id=p5>
 5. God does not guide, because He can share only perfect knowledge. 
-<sup>2</sup>Guidance is evaluative, because it implies there is a right way and also a wrong way, one to be chosen and the other to be avoided. 
-<sup>3</sup>By choosing one you give up the other. 
-<sup>4</sup>The choice for the Holy Spirit is the choice for God. 
-<sup>5</sup>God is not in you in a literal sense: you are part of Him. 
-<sup>6</sup>When you chose to leave Him He gave you a Voice to speak for Him because He could no longer share His knowledge with you without hindrance. 
-<sup>7</sup>Direct communication was broken because you had made another voice.
+²Guidance is evaluative, because it implies there is a right way and also a wrong way, one to be chosen and the other to be avoided. 
+³By choosing one you give up the other. 
+⁴The choice for the Holy Spirit is the choice for God. 
+⁵God is not in you in a literal sense: you are part of Him. 
+⁶When you chose to leave Him He gave you a Voice to speak for Him because He could no longer share His knowledge with you without hindrance. 
+⁷Direct communication was broken because you had made another voice.
 </p>
 
 #### expanded
 
 5. God does not guide, because He [God] can share only perfect knowledge. 
-<sup>2</sup>Guidance is evaluative, because it [guidance] implies there is a right way and also a wrong way, one [way] to be chosen and the other [way] to be avoided. 
-<sup>3</sup>By choosing one [way] you give up the other [way]. 
-<sup>4</sup>The choice for the Holy Spirit is the choice for God. 
-<sup>5</sup>God is not in you in a literal sense: you are part of Him [God]. 
-<sup>6</sup>When you chose to leave Him [God] He [God] gave you a Voice to speak for Him [God] because He [God] could no longer share His [God’s] knowledge with you without hindrance. 
-<sup>7</sup>Direct communication was broken because you had made another voice.
+²Guidance is evaluative, because it [guidance] implies there is a right way and also a wrong way, one [way] to be chosen and the other [way] to be avoided. 
+³By choosing one [way] you give up the other [way]. 
+⁴The choice for the Holy Spirit is the choice for God. 
+⁵God is not in you in a literal sense: you are part of Him [God]. 
+⁶When you chose to leave Him [God] He [God] gave you a Voice to speak for Him [God] because He [God] could no longer share His [God’s] knowledge with you without hindrance. 
+⁷Direct communication was broken because you had made another voice.
 
 #### substituted
 
 5. God does not guide, because God can share only perfect knowledge. 
-<sup>2</sup>Guidance is evaluative, because guidance implies there is a right way and also a wrong way, one way to be chosen and the other way to be avoided. 
-<sup>3</sup>By choosing one way you give up the other way. 
-<sup>4</sup>The choice for the Holy Spirit is the choice for God. 
-<sup>5</sup>God is not in you in a literal sense: you are part of God. 
-<sup>6</sup>When you chose to leave God, God gave you a Voice to speak for God because God could no longer share God’s knowledge with you without hindrance. 
-<sup>7</sup>Direct communication was broken because you had made another voice.
+²Guidance is evaluative, because guidance implies there is a right way and also a wrong way, one way to be chosen and the other way to be avoided. 
+³By choosing one way you give up the other way. 
+⁴The choice for the Holy Spirit is the choice for God. 
+⁵God is not in you in a literal sense: you are part of God. 
+⁶When you chose to leave God, God gave you a Voice to speak for God because God could no longer share God’s knowledge with you without hindrance. 
+⁷Direct communication was broken because you had made another voice.
 
 #### simplified
 
@@ -472,39 +472,39 @@ God can only share perfect knowledge. You need a guide who show you the way. By 
 
 <p class=fip id=p6>
 6. The Holy Spirit calls you both to remember and to forget. 
-<sup>2</sup>You have chosen to be in a state of opposition in which opposites are possible. 
-<sup>3</sup>As a result, there are choices you must make. 
-<sup>4</sup>In the holy state the will is free, so that its creative power is unlimited and choice is meaningless. 
-<sup>5</sup>Freedom to choose is the same power as freedom to create, but its application is different. 
-<sup>6</sup>Choosing depends on a split mind. 
-<sup>7</sup>The Holy Spirit is one way of choosing. 
-<sup>8</sup>God did not leave His children comfortless, even though they chose to leave Him. 
-<sup>9</sup>The voice they put in their minds was not the Voice for His Will, for which the Holy Spirit speaks.
+²You have chosen to be in a state of opposition in which opposites are possible. 
+³As a result, there are choices you must make. 
+⁴In the holy state the will is free, so that its creative power is unlimited and choice is meaningless. 
+⁵Freedom to choose is the same power as freedom to create, but its application is different. 
+⁶Choosing depends on a split mind. 
+⁷The Holy Spirit is one way of choosing. 
+⁸God did not leave His children comfortless, even though they chose to leave Him. 
+⁹The voice they put in their minds was not the Voice for His Will, for which the Holy Spirit speaks.
 </p>
 
 #### expanded
 
 6. The Holy Spirit calls you both to remember and to forget. 
-<sup>2</sup>You have chosen to be in a state of opposition in which [state of opposition] opposites are possible. 
-<sup>3</sup>As a result, there are choices you must make. 
-<sup>4</sup>In the holy state the will is free, so that its [the-will’s] creative power is unlimited and choice is meaningless. 
-<sup>5</sup>Freedom to choose is the same power as freedom to create, but its [freedom-to-choose’s] application is different. 
-<sup>6</sup>Choosing depends on a split mind. 
-<sup>7</sup>The Holy Spirit is one way of choosing. 
-<sup>8</sup>God did not leave His [God’s] children comfortless, even though they [God’s-children] chose to leave Him [God]. 
-<sup>9</sup>The voice they [God’s-children] put in their [God’s-children’s] minds was not the Voice for His [God’s] Will, for which [God’s-Will] the Holy Spirit speaks.
+²You have chosen to be in a state of opposition in which [state of opposition] opposites are possible. 
+³As a result, there are choices you must make. 
+⁴In the holy state the will is free, so that its [the-will’s] creative power is unlimited and choice is meaningless. 
+⁵Freedom to choose is the same power as freedom to create, but its [freedom-to-choose’s] application is different. 
+⁶Choosing depends on a split mind. 
+⁷The Holy Spirit is one way of choosing. 
+⁸God did not leave His [God’s] children comfortless, even though they [God’s-children] chose to leave Him [God]. 
+⁹The voice they [God’s-children] put in their [God’s-children’s] minds was not the Voice for His [God’s] Will, for which [God’s-Will] the Holy Spirit speaks.
 
 #### substituted
 
 6. The Holy Spirit calls you both to remember and to forget. 
-<sup>2</sup>You have chosen to be in a state of opposition, state of opposition opposites are possible. 
-<sup>3</sup>As a result, there are choices you must make. 
-<sup>4</sup>In the holy state the will is free, so that the-will’s creative power is unlimited and choice is meaningless. 
-<sup>5</sup>Freedom to choose is the same power as freedom to create, but freedom-to-choose’s application is different. 
-<sup>6</sup>Choosing depends on a split mind. 
-<sup>7</sup>The Holy Spirit is one way of choosing. 
-<sup>8</sup>God did not leave God’s children comfortless, even though God’s-children chose to leave God. 
-<sup>9</sup>The voice God’s-children put in God’s-children’s minds was not the Voice for God’s Will; for God’s-Will, the Holy Spirit speaks.
+²You have chosen to be in a state of opposition, state of opposition opposites are possible. 
+³As a result, there are choices you must make. 
+⁴In the holy state the will is free, so that the-will’s creative power is unlimited and choice is meaningless. 
+⁵Freedom to choose is the same power as freedom to create, but freedom-to-choose’s application is different. 
+⁶Choosing depends on a split mind. 
+⁷The Holy Spirit is one way of choosing. 
+⁸God did not leave God’s children comfortless, even though God’s-children chose to leave God. 
+⁹The voice God’s-children put in God’s-children’s minds was not the Voice for God’s Will; for God’s-Will, the Holy Spirit speaks.
 
 #### simplified
 
@@ -514,54 +514,54 @@ You chose opposition, so now you must choose the Holy Spirit. The Holy Spirit sp
 
 <p class=fip id=p7>
 1. The Voice of the Holy Spirit does not command, because It is incapable of arrogance. 
-<sup>2</sup>It does not demand, because It does not seek control. 
-<sup>3</sup>It does not overcome, because It does not attack. 
-<sup>4</sup>It merely reminds. 
-<sup>5</sup>It is compelling only because of what It reminds you <em>of</em>. 
-<sup>6</sup>It brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
-<sup>7</sup>The Voice for God is always quiet, because It speaks of peace. 
-<sup>8</sup>Peace is stronger than war because it heals. 
-<sup>9</sup>War is division, not increase. 
-<sup>10</sup>No one gains from strife. 
-<sup>11</sup>What profits it a man if he gain the whole world and lose his own soul? 
-<sup>12</sup>If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
-<sup>13</sup>You cannot lose it, but you can not know it. 
-<sup>14</sup>It is therefore ‘lost’ to you until you choose right.
+²It does not demand, because It does not seek control. 
+³It does not overcome, because It does not attack. 
+⁴It merely reminds. 
+⁵It is compelling only because of what It reminds you <em>of</em>. 
+⁶It brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
+⁷The Voice for God is always quiet, because It speaks of peace. 
+⁸Peace is stronger than war because it heals. 
+⁹War is division, not increase. 
+¹⁰No one gains from strife. 
+¹¹What profits it a man if he gain the whole world and lose his own soul? 
+¹²If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
+¹³You cannot lose it, but you can not know it. 
+¹⁴It is therefore ‘lost’ to you until you choose right.
 </p>
 
 #### expanded
 
 1. The Voice of the Holy Spirit does not command, because It [the Voice of the Holy Spirit] is incapable of arrogance. 
-<sup>2</sup>It [the Voice of the Holy Spirit] does not demand, because It [the Voice of the Holy Spirit] does not seek control. 
-<sup>3</sup>It [the Voice of the Holy Spirit] does not overcome, because It [the Voice of the Holy Spirit] does not attack. 
-<sup>4</sup>It [the Voice of the Holy Spirit] merely reminds. 
-<sup>5</sup>It [the Voice of the Holy Spirit] is compelling only because of what It [the Voice of the Holy Spirit] reminds you <em>of</em>. 
-<sup>6</sup>It [the Voice of the Holy Spirit] brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
-<sup>7</sup>The Voice for God is always quiet, because It [the Voice for God] speaks of peace. 
-<sup>8</sup>Peace is stronger than war because it [peace] heals. 
-<sup>9</sup>War is division, not increase. 
-<sup>10</sup>No one gains from strife. 
-<sup>11</sup>What profits it a man if he [a man] gain the whole world and lose his [a-man’s] own soul? 
-<sup>12</sup>If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
-<sup>13</sup>You cannot lose it [your soul], but you can not know it [your soul]. 
-<sup>14</sup>It [your soul] is therefore ‘lost’ to you until you choose right.
+²It [the Voice of the Holy Spirit] does not demand, because It [the Voice of the Holy Spirit] does not seek control. 
+³It [the Voice of the Holy Spirit] does not overcome, because It [the Voice of the Holy Spirit] does not attack. 
+⁴It [the Voice of the Holy Spirit] merely reminds. 
+⁵It [the Voice of the Holy Spirit] is compelling only because of what It [the Voice of the Holy Spirit] reminds you <em>of</em>. 
+⁶It [the Voice of the Holy Spirit] brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
+⁷The Voice for God is always quiet, because It [the Voice for God] speaks of peace. 
+⁸Peace is stronger than war because it [peace] heals. 
+⁹War is division, not increase. 
+¹⁰No one gains from strife. 
+¹¹What profits it a man if he [a man] gain the whole world and lose his [a-man’s] own soul? 
+¹²If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
+¹³You cannot lose it [your soul], but you can not know it [your soul]. 
+¹⁴It [your soul] is therefore ‘lost’ to you until you choose right.
 
 #### substituted
 
 1. The Voice of the Holy Spirit does not command, because the Voice of the Holy Spirit is incapable of arrogance. 
-<sup>2</sup>The Voice of the Holy Spirit does not demand, because the Voice of the Holy Spirit does not seek control. 
-<sup>3</sup>The Voice of the Holy Spirit does not overcome, because the Voice of the Holy Spirit does not attack. 
-<sup>4</sup>The Voice of the Holy Spirit merely reminds. 
-<sup>5</sup>The Voice of the Holy Spirit is compelling only because of what the Voice of the Holy Spirit reminds you <em>of</em>. 
-<sup>6</sup>The Voice of the Holy Spirit brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
-<sup>7</sup>The Voice for God is always quiet, because the Voice for God speaks of peace. 
-<sup>8</sup>Peace is stronger than war because peace heals. 
-<sup>9</sup>War is division, not increase. 
-<sup>10</sup>No one gains from strife. 
-<sup>11</sup>What profits it a man if a man gain the whole world and lose a-man’s own soul? 
-<sup>12</sup>If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
-<sup>13</sup>You cannot lose your soul, but you can not know your soul. 
-<sup>14</sup>Your soul is therefore ‘lost’ to you until you choose right.
+²The Voice of the Holy Spirit does not demand, because the Voice of the Holy Spirit does not seek control. 
+³The Voice of the Holy Spirit does not overcome, because the Voice of the Holy Spirit does not attack. 
+⁴The Voice of the Holy Spirit merely reminds. 
+⁵The Voice of the Holy Spirit is compelling only because of what the Voice of the Holy Spirit reminds you <em>of</em>. 
+⁶The Voice of the Holy Spirit brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
+⁷The Voice for God is always quiet, because the Voice for God speaks of peace. 
+⁸Peace is stronger than war because peace heals. 
+⁹War is division, not increase. 
+¹⁰No one gains from strife. 
+¹¹What profits it a man if a man gain the whole world and lose a-man’s own soul? 
+¹²If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
+¹³You cannot lose your soul, but you can not know your soul. 
+¹⁴Your soul is therefore ‘lost’ to you until you choose right.
 
 #### simplified
 
@@ -571,48 +571,48 @@ The Voice of the Holy Spirit reminds you of God. The Voice for God speaks for pe
 
 <p class=fip id=p8>
 8. The Holy Spirit is your Guide in choosing. 
-<sup>2</sup>He is in the part of your mind that always speaks for the right choice, because He speaks for God. 
-<sup>3</sup>He is your remaining communication with God, which you can interrupt but cannot destroy. 
-<sup>4</sup>The Holy Spirit is the way in which God’s Will is done on earth as it is in Heaven. 
-<sup>5</sup>Both Heaven and earth are in you, because the call of both is in your mind. 
-<sup>6</sup>The Voice for God comes from your own altars to Him. 
-<sup>7</sup>These altars are not things; they are devotions. 
-<sup>8</sup>Yet you have other devotions now. 
-<sup>9</sup>Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
-<sup>10</sup>The call you answer now is an evaluation because it is a decision. 
-<sup>11</sup>The decision is very simple. 
-<sup>12</sup>It is made on the basis of which call is worth more to you.
+²He is in the part of your mind that always speaks for the right choice, because He speaks for God. 
+³He is your remaining communication with God, which you can interrupt but cannot destroy. 
+⁴The Holy Spirit is the way in which God’s Will is done on earth as it is in Heaven. 
+⁵Both Heaven and earth are in you, because the call of both is in your mind. 
+⁶The Voice for God comes from your own altars to Him. 
+⁷These altars are not things; they are devotions. 
+⁸Yet you have other devotions now. 
+⁹Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
+¹⁰The call you answer now is an evaluation because it is a decision. 
+¹¹The decision is very simple. 
+¹²It is made on the basis of which call is worth more to you.
 </p>
 
 #### expanded
 
 8. The Holy Spirit is your Guide in choosing. 
-<sup>2</sup>He [the Holy Spirit] is in the part of your mind that always speaks for the right choice, because He [the Holy Spirit] speaks for God. 
-<sup>3</sup>He [the Holy Spirit] is your remaining communication with God, which you can interrupt but cannot destroy. 
-<sup>4</sup>The Holy Spirit is the way in which [way] God’s Will is done on earth as it [God’s-Will] is [done] in Heaven. 
-<sup>5</sup>Both Heaven and earth are in you, because the call of both [Heaven and earth] is in your mind. 
-<sup>6</sup>The Voice for God comes from your own altars to Him [God]. 
-<sup>7</sup>These altars [your own altars to God] are not things; they [your own altars to God] are devotions. 
-<sup>8</sup>Yet you have other devotions now. 
-<sup>9</sup>Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
-<sup>10</sup>The call you answer now is an evaluation because it [the call you answer now] is a decision. 
-<sup>11</sup>The decision is very simple. 
-<sup>12</sup>It [the decision] is made on the basis of which call is worth more to you.
+²He [the Holy Spirit] is in the part of your mind that always speaks for the right choice, because He [the Holy Spirit] speaks for God. 
+³He [the Holy Spirit] is your remaining communication with God, which you can interrupt but cannot destroy. 
+⁴The Holy Spirit is the way in which [way] God’s Will is done on earth as it [God’s-Will] is [done] in Heaven. 
+⁵Both Heaven and earth are in you, because the call of both [Heaven and earth] is in your mind. 
+⁶The Voice for God comes from your own altars to Him [God]. 
+⁷These altars [your own altars to God] are not things; they [your own altars to God] are devotions. 
+⁸Yet you have other devotions now. 
+⁹Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
+¹⁰The call you answer now is an evaluation because it [the call you answer now] is a decision. 
+¹¹The decision is very simple. 
+¹²It [the decision] is made on the basis of which call is worth more to you.
 
 #### substituted
 
 8. The Holy Spirit is your Guide in choosing. 
-<sup>2</sup>The Holy Spirit is in the part of your mind that always speaks for the right choice, because the Holy Spirit speaks for God. 
-<sup>3</sup>The Holy Spirit is your remaining communication with God, which you can interrupt but cannot destroy. 
-<sup>4</sup>The Holy Spirit is the way, in the Holy Spirit’s way, God’s Will is done on earth as God’s-Will is done in Heaven. 
-<sup>5</sup>Both Heaven and earth are in you, because the call of Heaven and earth is in your mind. 
-<sup>6</sup>The Voice for God comes from your own altars to God. 
-<sup>7</sup>Your own altars to God are not things; your own altars to God are devotions. 
-<sup>8</sup>Yet you have other devotions now. 
-<sup>9</sup>Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
-<sup>10</sup>The call you answer now is an evaluation because the call you answer now is a decision. 
-<sup>11</sup>The decision is very simple. 
-<sup>12</sup>The decision is made on the basis of which call is worth more to you.
+²The Holy Spirit is in the part of your mind that always speaks for the right choice, because the Holy Spirit speaks for God. 
+³The Holy Spirit is your remaining communication with God, which you can interrupt but cannot destroy. 
+⁴The Holy Spirit is the way, in the Holy Spirit’s way, God’s Will is done on earth as God’s-Will is done in Heaven. 
+⁵Both Heaven and earth are in you, because the call of Heaven and earth is in your mind. 
+⁶The Voice for God comes from your own altars to God. 
+⁷Your own altars to God are not things; your own altars to God are devotions. 
+⁸Yet you have other devotions now. 
+⁹Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
+¹⁰The call you answer now is an evaluation because the call you answer now is a decision. 
+¹¹The decision is very simple. 
+¹²The decision is made on the basis of which call is worth more to you.
 
 #### simplified
 
@@ -622,33 +622,33 @@ The Holy Spirit speaks for God. The Holy Spirit is the way for you to do God’s
 
 <p class=fip id=p9>
 9. My mind will always be like yours, because we were created as equals. 
-<sup>2</sup>It was only my decision that gave me all power in Heaven and earth. 
-<sup>3</sup>My only gift to you is to help you make the same decision. 
-<sup>4</sup>This decision is the choice to share it, because the decision itself <em>is</em> the decision to share. 
-<sup>5</sup>It is made by giving, and is therefore the one choice that resembles true creation. 
-<sup>6</sup>I am your model for decision. 
-<sup>7</sup>By deciding for God I showed you that this decision can be made, and that you can make it.
+²It was only my decision that gave me all power in Heaven and earth. 
+³My only gift to you is to help you make the same decision. 
+⁴This decision is the choice to share it, because the decision itself <em>is</em> the decision to share. 
+⁵It is made by giving, and is therefore the one choice that resembles true creation. 
+⁶I am your model for decision. 
+⁷By deciding for God I showed you that this decision can be made, and that you can make it.
 </p>
 
 #### expanded
 
 9. My mind will always be like yours [mind], because we were created as equals. 
-<sup>2</sup>It was only my decision that gave me all power in Heaven and earth. 
-<sup>3</sup>My only gift to you is to help you make the same decision. 
-<sup>4</sup>This decision is the choice to share it [all power in Heaven and earth], because the decision itself [decision’s-self] <em>is</em> the decision to share. 
-<sup>5</sup>It [the decision to share] is made by giving, and is therefore the one choice that resembles true creation. 
-<sup>6</sup>I am your model for decision. 
-<sup>7</sup>By deciding for God I showed you that this decision [for God] can be made, and that you can make it [the decision for God].
+²It was only my decision that gave me all power in Heaven and earth. 
+³My only gift to you is to help you make the same decision. 
+⁴This decision is the choice to share it [all power in Heaven and earth], because the decision itself [decision’s-self] <em>is</em> the decision to share. 
+⁵It [the decision to share] is made by giving, and is therefore the one choice that resembles true creation. 
+⁶I am your model for decision. 
+⁷By deciding for God I showed you that this decision [for God] can be made, and that you can make it [the decision for God].
 
 #### substituted
 
 9. My mind will always be like your mind, because we were created as equals. 
-<sup>2</sup>It was only my decision that gave me all power in Heaven and earth. 
-<sup>3</sup>My only gift to you is to help you make the same decision. 
-<sup>4</sup>This decision is the choice to share all power in Heaven and earth, because the decision decision’s-self <em>is</em> the decision to share. 
-<sup>5</sup>The decision to share is made by giving, and is therefore the one choice that resembles true creation. 
-<sup>6</sup>I am your model for decision. 
-<sup>7</sup>By deciding for God I showed you that the decision for God can be made, and that you can make the decision for God.
+²It was only my decision that gave me all power in Heaven and earth. 
+³My only gift to you is to help you make the same decision. 
+⁴This decision is the choice to share all power in Heaven and earth, because the decision decision’s-self <em>is</em> the decision to share. 
+⁵The decision to share is made by giving, and is therefore the one choice that resembles true creation. 
+⁶I am your model for decision. 
+⁷By deciding for God I showed you that the decision for God can be made, and that you can make the decision for God.
 
 #### simplified
 
@@ -658,42 +658,42 @@ I decided to share all power in Heaven and earth with you. You can share this po
 
 <p class=fip id=p10>
 10. I have assured you that the Mind that decided for me is also in you, and that you can let it change you just as it changed me. 
-<sup>2</sup>This Mind is unequivocal, because it hears only one Voice and answers in only one way. 
-<sup>3</sup>You are the light of the world with me. 
-<sup>4</sup>Rest does not come from sleeping but from waking. 
-<sup>5</sup>The Holy Spirit is the Call to awaken and be glad. 
-<sup>6</sup>The world is very tired, because it is the idea of weariness. 
-<sup>7</sup>Our task is the joyous one of waking it to the Call for God. 
-<sup>8</sup>Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
-<sup>9</sup>What better vocation could there be for any part of the Kingdom than to restore it to the perfect integration that can make it whole? 
-<sup>10</sup>Hear only this through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
+²This Mind is unequivocal, because it hears only one Voice and answers in only one way. 
+³You are the light of the world with me. 
+⁴Rest does not come from sleeping but from waking. 
+⁵The Holy Spirit is the Call to awaken and be glad. 
+⁶The world is very tired, because it is the idea of weariness. 
+⁷Our task is the joyous one of waking it to the Call for God. 
+⁸Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
+⁹What better vocation could there be for any part of the Kingdom than to restore it to the perfect integration that can make it whole? 
+¹⁰Hear only this through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
 </p>
 
 #### expanded
 
 10. I have assured you that the Mind that decided for me is also in you, and that you can let it [the Mind that decided for me] change you just as it [the Mind that decided for me] changed me. 
-<sup>2</sup>This Mind [that decided for me] is unequivocal, because it [the mind that decided for me] hears only one Voice and answers in only one way. 
-<sup>3</sup>You are the light of the world with me. 
-<sup>4</sup>Rest does not come from sleeping but from waking. 
-<sup>5</sup>The Holy Spirit is the Call to awaken and be glad. 
-<sup>6</sup>The world is very tired, because it [the world] is the idea of weariness. 
-<sup>7</sup>Our task is the joyous one [task] of waking it [the world] to the Call for God. 
-<sup>8</sup>Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
-<sup>9</sup>What better vocation could there be for any part of the Kingdom than to restore it [a part of the Kingdom] to the perfect integration that can make it [the Kingdom] whole? 
-<sup>10</sup>Hear only this [the vocation to restore the Kingdom] through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
+²This Mind [that decided for me] is unequivocal, because it [the mind that decided for me] hears only one Voice and answers in only one way. 
+³You are the light of the world with me. 
+⁴Rest does not come from sleeping but from waking. 
+⁵The Holy Spirit is the Call to awaken and be glad. 
+⁶The world is very tired, because it [the world] is the idea of weariness. 
+⁷Our task is the joyous one [task] of waking it [the world] to the Call for God. 
+⁸Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
+⁹What better vocation could there be for any part of the Kingdom than to restore it [a part of the Kingdom] to the perfect integration that can make it [the Kingdom] whole? 
+¹⁰Hear only this [the vocation to restore the Kingdom] through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
 
 #### substituted
 
 10. I have assured you that the Mind that decided for me is also in you, and that you can let the Mind that decided for me change you, just as the Mind that decided for me changed me. 
-<sup>2</sup>The Mind that decided for me is unequivocal, because the mind that decided for me hears only one Voice and answers in only one way. 
-<sup>3</sup>You are the light of the world with me. 
-<sup>4</sup>Rest does not come from sleeping but from waking. 
-<sup>5</sup>The Holy Spirit is the Call to awaken and be glad. 
-<sup>6</sup>The world is very tired, because the world is the idea of weariness. 
-<sup>7</sup>Our task is the joyous task of waking the world to the Call for God. 
-<sup>8</sup>Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
-<sup>9</sup>What better vocation could there be for any part of the Kingdom, than to restore a part of the Kingdom to the perfect integration that can make the Kingdom whole? 
-<sup>10</sup>Hear only the vocation to restore the Kingdom, through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
+²The Mind that decided for me is unequivocal, because the mind that decided for me hears only one Voice and answers in only one way. 
+³You are the light of the world with me. 
+⁴Rest does not come from sleeping but from waking. 
+⁵The Holy Spirit is the Call to awaken and be glad. 
+⁶The world is very tired, because the world is the idea of weariness. 
+⁷Our task is the joyous task of waking the world to the Call for God. 
+⁸Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
+⁹What better vocation could there be for any part of the Kingdom, than to restore a part of the Kingdom to the perfect integration that can make the Kingdom whole? 
+¹⁰Hear only the vocation to restore the Kingdom, through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
 
 #### simplified
 
@@ -703,24 +703,24 @@ The Holy Spirit decided for me and changed me. The same Mind can decide for you.
 
 <p class=fip id=11>
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making it stronger. 
-<sup>2</sup>As we share this goal, we increase its power to attract the whole Sonship, and to bring it back into the oneness in which it was created. 
-<sup>3</sup>Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
-<sup>4</sup>Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
+²As we share this goal, we increase its power to attract the whole Sonship, and to bring it back into the oneness in which it was created. 
+³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 </p>
 
 #### expanded
 
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making it [my decision] stronger. 
-<sup>2</sup>As we share this goal [of making my decision stronger], we increase its [my-decision’s] power to attract the whole Sonship, and to bring it [the whole Sonship] back into the oneness in which it [the Sonship] was created. 
-<sup>3</sup>Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
-<sup>4</sup>Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
+²As we share this goal [of making my decision stronger], we increase its [my-decision’s] power to attract the whole Sonship, and to bring it [the whole Sonship] back into the oneness in which it [the Sonship] was created. 
+³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 
 #### substituted
 
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making my decision stronger. 
-<sup>2</sup>As we share the goal of making my decision stronger, we increase my-decision’s power to attract the whole Sonship, and to bring the whole Sonship back into the oneness in which the Sonship was created. 
-<sup>3</sup>Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
-<sup>4</sup>Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
+²As we share the goal of making my decision stronger, we increase my-decision’s power to attract the whole Sonship, and to bring the whole Sonship back into the oneness in which the Sonship was created. 
+³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 
 #### simplified
 
@@ -730,30 +730,30 @@ Call on me to remind you how to share my decision. By sharing my decision we mak
 
 <p class=fip id=p12>
 12. I have enjoined you to behave as I behaved, but we must respond to the same Mind to do this. 
-<sup>2</sup>This Mind is the Holy Spirit, Whose Will is for God always. 
-<sup>3</sup>He teaches you how to keep me as the model for your thought, and to behave like me as a result. 
-<sup>4</sup>The power of our joint motivation is beyond belief, but not beyond accomplishment. 
-<sup>5</sup>What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
-<sup>6</sup>Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
+²This Mind is the Holy Spirit, Whose Will is for God always. 
+³He teaches you how to keep me as the model for your thought, and to behave like me as a result. 
+⁴The power of our joint motivation is beyond belief, but not beyond accomplishment. 
+⁵What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
+⁶Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
 </p>
 
 #### expanded
 
 12. I have enjoined you to behave as I behaved, but we must respond to the same Mind to do this [behave the same way]. 
-<sup>2</sup>This Mind [to which we must respond] is the Holy Spirit, Whose [the-Holy-Spirit’s] Will is for God always. 
-<sup>3</sup>He [the Holy Spirit] teaches you how to keep me as the model for your thought, and to behave like me as a result. 
-<sup>4</sup>The power of our joint motivation is beyond belief, but not beyond accomplishment. 
-<sup>5</sup>What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
-<sup>6</sup>Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
+²This Mind [to which we must respond] is the Holy Spirit, Whose [the-Holy-Spirit’s] Will is for God always. 
+³He [the Holy Spirit] teaches you how to keep me as the model for your thought, and to behave like me as a result. 
+⁴The power of our joint motivation is beyond belief, but not beyond accomplishment. 
+⁵What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
+⁶Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
 
 #### substituted
 
 12. I have enjoined you to behave as I behaved, but we must respond to the same Mind to do behave the same way. 
-<sup>2</sup>The Mind to which we must respond is the Holy Spirit; the-Holy-Spirit’s Will is for God always. 
-<sup>3</sup>The Holy Spirit teaches you how to keep me as the model for your thought, and to behave like me as a result. 
-<sup>4</sup>The power of our joint motivation is beyond belief, but not beyond accomplishment. 
-<sup>5</sup>What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
-<sup>6</sup>Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
+²The Mind to which we must respond is the Holy Spirit; the-Holy-Spirit’s Will is for God always. 
+³The Holy Spirit teaches you how to keep me as the model for your thought, and to behave like me as a result. 
+⁴The power of our joint motivation is beyond belief, but not beyond accomplishment. 
+⁵What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
+⁶Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
 
 #### simplified
 
@@ -765,27 +765,27 @@ Behave as I have behaved. Respond to the same Mind I responded to. The Mind is t
 
 <p class=fip id=p1>
 1. The way to recognise your brother is by recognising the Holy Spirit in him. 
-<sup>2</sup>I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms as if they were related, because in His Mind they are. 
-<sup>3</sup>This relationship must be in His Mind because, unless it were, the separation between the two ways of thinking would not be open to healing. 
-<sup>4</sup>He is part of the Holy Trinity, because His Mind is partly yours and also partly God’s. 
-<sup>5</sup>This needs clarification, not in statement but in experience.
+²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms as if they were related, because in His Mind they are. 
+³This relationship must be in His Mind because, unless it were, the separation between the two ways of thinking would not be open to healing. 
+⁴He is part of the Holy Trinity, because His Mind is partly yours and also partly God’s. 
+⁵This needs clarification, not in statement but in experience.
 </p>
 
 #### expanded
 
 1. The way to recognise your brother is by recognising the Holy Spirit in him [your brother]. 
-<sup>2</sup>I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms [perception and knowledge] as if they [perception and knowledge] were related, because in His [the Holy Spirit’s] Mind they [perception and knowldege] are [related]. 
-<sup>3</sup>This relationship [of perception and knowledge] must be in His [the Holy Spirit’s] Mind because, unless it [the relationship of perception and knowledge] were [in the Holy Spirit’s Mind], the separation between the two ways of thinking would not be open to healing. 
-<sup>4</sup>He [the Holy Spirit] is part of the Holy Trinity, because His [the Holy Spirit’s] Mind is partly yours [mind] and also partly God’s [Mind]. 
-<sup>5</sup>This [the Holy Spirit’s Mind is partly your mind and partly God’s Mind] needs clarification, not in statement but in experience.
+²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms [perception and knowledge] as if they [perception and knowledge] were related, because in His [the Holy Spirit’s] Mind they [perception and knowldege] are [related]. 
+³This relationship [of perception and knowledge] must be in His [the Holy Spirit’s] Mind because, unless it [the relationship of perception and knowledge] were [in the Holy Spirit’s Mind], the separation between the two ways of thinking would not be open to healing. 
+⁴He [the Holy Spirit] is part of the Holy Trinity, because His [the Holy Spirit’s] Mind is partly yours [mind] and also partly God’s [Mind]. 
+⁵This [the Holy Spirit’s Mind is partly your mind and partly God’s Mind] needs clarification, not in statement but in experience.
 
 #### substituted
 
 1. The way to recognise your brother is by recognising the Holy Spirit in your brother. 
-<sup>2</sup>I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use perception-and-knowledge as if perception-and-knowledge were related, because in the-Holy-Spirit’s Mind perception-and-=knowldege are related. 
-<sup>3</sup>The relationship of perception-and-knowledge must be in the-Holy-Spirit’s Mind because, unless the relationship of perception-and-knowledge were in the-Holy-Spirit’s Mind, the separation between the two ways of thinking would not be open to healing. 
-<sup>4</sup>The Holy Spirit is part of the Holy Trinity, because the-Holy-Spirit’s Mind is partly your mind and also partly God’s Mind. 
-<sup>5</sup>That the-Holy-Spirit’s Mind is partly your mind and partly God’s Mind, needs clarification, not in statement but in experience.
+²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use perception-and-knowledge as if perception-and-knowledge were related, because in the-Holy-Spirit’s Mind perception-and-=knowldege are related. 
+³The relationship of perception-and-knowledge must be in the-Holy-Spirit’s Mind because, unless the relationship of perception-and-knowledge were in the-Holy-Spirit’s Mind, the separation between the two ways of thinking would not be open to healing. 
+⁴The Holy Spirit is part of the Holy Trinity, because the-Holy-Spirit’s Mind is partly your mind and also partly God’s Mind. 
+⁵That the-Holy-Spirit’s Mind is partly your mind and partly God’s Mind, needs clarification, not in statement but in experience.
 
 #### simplified
 
@@ -795,42 +795,42 @@ You recognise your brother by recognising the Holy Spirit in him. The Holy Spiri
 
 <p class=fip id=p2>
 2. The Holy Spirit is the idea of healing. 
-<sup>2</sup>Being thought, the idea gains as it is shared. 
-<sup>3</sup>Being the Call <em>for</em> God, it is also the idea <em>of</en> God. 
-<sup>4</sup>Since you are part of God it is also the idea of yourself, as well as of all His creations. 
-<sup>5</sup>The idea of the Holy Spirit shares the property of other ideas because it follows the laws of the universe of which it is a part. 
-<sup>6</sup>It is strengthened by being given away. 
-<sup>7</sup>It increases in you as you give it to your brother. 
-<sup>8</sup>Your brother does not have to be aware of the Holy Spirit in himself or in you for this miracle to occur. 
-<sup>9</sup>He may have dissociated the Call for God, just as you have. 
-<sup>10</sup>This dissociation is healed in both of you as you become aware of the Call for God in him, and thus acknowledge Its being.
+²Being thought, the idea gains as it is shared. 
+³Being the Call <em>for</em> God, it is also the idea <em>of</en> God. 
+⁴Since you are part of God it is also the idea of yourself, as well as of all His creations. 
+⁵The idea of the Holy Spirit shares the property of other ideas because it follows the laws of the universe of which it is a part. 
+⁶It is strengthened by being given away. 
+⁷It increases in you as you give it to your brother. 
+⁸Your brother does not have to be aware of the Holy Spirit in himself or in you for this miracle to occur. 
+⁹He may have dissociated the Call for God, just as you have. 
+¹⁰This dissociation is healed in both of you as you become aware of the Call for God in him, and thus acknowledge Its being.
 </p>
 
 ### expanded
 
 2. The Holy Spirit is the idea of healing. 
-<sup>2</sup>Being thought, the idea gains as it [the idea] is shared. 
-<sup>3</sup>Being the Call <em>for</em> God, it [the idea] is also the idea <em>of</en> God. 
-<sup>4</sup>Since you are part of God it [the idea] is also the idea of yourself, as well as [the idea] of all His [God’s] creations. 
-<sup>5</sup>The idea of the Holy Spirit shares the property of other ideas because it [the idea of the Holy Spirit] follows the laws of the universe of which it [the idea of the Holy Spirit] is a part. 
-<sup>6</sup>It [the idea of the Holy Spirit] is strengthened by being given away. 
-<sup>7</sup>It [the idea of the Holy Spirit] increases in you as you give it [the idea of the Holy Spirit] to your brother. 
-<sup>8</sup>Your brother does not have to be aware of the Holy Spirit in himself [your brother’s self] or [be aware of the Holy Spirit] in you for this miracle [of the Holy Spirit increasing] to occur. 
-<sup>9</sup>He [your brother] may have dissociated the Call for God, just as you have [dissociated the Call for God]. 
-<sup>10</sup>This dissociation [of the Call for God] is healed in both of you as you become aware of the Call for God in him [your brother], and thus acknowledge Its [the Call for God’s] being.
+²Being thought, the idea gains as it [the idea] is shared. 
+³Being the Call <em>for</em> God, it [the idea] is also the idea <em>of</en> God. 
+⁴Since you are part of God it [the idea] is also the idea of yourself, as well as [the idea] of all His [God’s] creations. 
+⁵The idea of the Holy Spirit shares the property of other ideas because it [the idea of the Holy Spirit] follows the laws of the universe of which it [the idea of the Holy Spirit] is a part. 
+⁶It [the idea of the Holy Spirit] is strengthened by being given away. 
+⁷It [the idea of the Holy Spirit] increases in you as you give it [the idea of the Holy Spirit] to your brother. 
+⁸Your brother does not have to be aware of the Holy Spirit in himself [your brother’s self] or [be aware of the Holy Spirit] in you for this miracle [of the Holy Spirit increasing] to occur. 
+⁹He [your brother] may have dissociated the Call for God, just as you have [dissociated the Call for God]. 
+¹⁰This dissociation [of the Call for God] is healed in both of you as you become aware of the Call for God in him [your brother], and thus acknowledge Its [the Call for God’s] being.
 
 ### substituted
 
 2. The Holy Spirit is the idea of healing. 
-<sup>2</sup>Being thought, the idea gains as the idea is shared. 
-<sup>3</sup>Being the Call <em>for</em> God, the idea is also the idea <em>of</en> God. 
-<sup>4</sup>Since you are part of God, the idea is also the idea of yourself, as well as the idea of all God’s creations. 
-<sup>5</sup>The idea of the Holy Spirit shares the property of other ideas, because the idea of the Holy Spirit follows the laws of the universe of which the idea of the Holy Spirit is a part. 
-<sup>6</sup>The idea of the Holy Spirit is strengthened by being given away. 
-<sup>7</sup>The idea of the Holy Spirit increases in you as you give the idea of the Holy Spirit to your brother. 
-<sup>8</sup>Your brother does not have to be aware of the Holy Spirit in your-brother’s-self, or be aware of the Holy Spirit in you, for the miracle of the Holy Spirit increasing to occur. 
-<sup>9</sup>Your brother may have dissociated the Call for God, just as you have dissociated the Call for God. 
-<sup>10</sup>The dissociation of the Call for God, is healed in both of you, as you become aware of the Call for God in your brother, and thus acknowledge the-Call-for-God’s being.
+²Being thought, the idea gains as the idea is shared. 
+³Being the Call <em>for</em> God, the idea is also the idea <em>of</en> God. 
+⁴Since you are part of God, the idea is also the idea of yourself, as well as the idea of all God’s creations. 
+⁵The idea of the Holy Spirit shares the property of other ideas, because the idea of the Holy Spirit follows the laws of the universe of which the idea of the Holy Spirit is a part. 
+⁶The idea of the Holy Spirit is strengthened by being given away. 
+⁷The idea of the Holy Spirit increases in you as you give the idea of the Holy Spirit to your brother. 
+⁸Your brother does not have to be aware of the Holy Spirit in your-brother’s-self, or be aware of the Holy Spirit in you, for the miracle of the Holy Spirit increasing to occur. 
+⁹Your brother may have dissociated the Call for God, just as you have dissociated the Call for God. 
+¹⁰The dissociation of the Call for God, is healed in both of you, as you become aware of the Call for God in your brother, and thus acknowledge the-Call-for-God’s being.
 
 ### simplified
 
@@ -840,25 +840,25 @@ The Holy Spirit is the Call for God. The Call for God is an idea. Ideas gain whe
 
 <p class=fip id=p3>
 3. There are two diametrically opposed ways of seeing your brother. 
-<sup>2</sup>They must both be in your mind, because you are the perceiver. 
-<sup>3</sup>They must also be in his, because you are perceiving him. 
-<sup>4</sup>See him through the Holy Spirit in his mind, and you will recognise Him in yours. 
-<sup>5</sup>What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
+²They must both be in your mind, because you are the perceiver. 
+³They must also be in his, because you are perceiving him. 
+⁴See him through the Holy Spirit in his mind, and you will recognise Him in yours. 
+⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 </p>
 
 ### expanded
 3. There are two diametrically opposed ways of seeing your brother. 
-<sup>2</sup>They [the ways of seeing your brother] must both be in your mind, because you are the perceiver. 
-<sup>3</sup>They [the ways of seeing your brother] must also be in his [your brother’s mind], because you are perceiving him [your brother]. 
-<sup>4</sup>See him [your brother] through the Holy Spirit in his [your brother’s] mind, and you will recognise Him [the Holy Spirit] in yours [mind]. 
-<sup>5</sup>What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
+²They [the ways of seeing your brother] must both be in your mind, because you are the perceiver. 
+³They [the ways of seeing your brother] must also be in his [your brother’s mind], because you are perceiving him [your brother]. 
+⁴See him [your brother] through the Holy Spirit in his [your brother’s] mind, and you will recognise Him [the Holy Spirit] in yours [mind]. 
+⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 
 ### substituted
 3. There are two diametrically opposed ways of seeing your brother. 
-<sup>2</sup>The ways of seeing your brother must both be in your mind, because you are the perceiver. 
-<sup>3</sup>The ways of seeing your brother must also be in your-brother’s mind, because you are perceiving him [your brother]. 
-<sup>4</sup>See your brother through the Holy Spirit in your brother’s mind, and you will recognise the Holy Spirit in your mind. 
-<sup>5</sup>What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
+²The ways of seeing your brother must both be in your mind, because you are the perceiver. 
+³The ways of seeing your brother must also be in your-brother’s mind, because you are perceiving him [your brother]. 
+⁴See your brother through the Holy Spirit in your brother’s mind, and you will recognise the Holy Spirit in your mind. 
+⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 
 ### simplified
 
@@ -871,31 +871,31 @@ You can see your brother through the Holy Spirit or not. If you see your brother
 
 <p class=fip id=p1>
 1. To heal is to make happy. 
-<sup>2</sup>I have told you to think how many opportunities you have had to gladden yourself, and how many you have refused. 
-<sup>3</sup>This is the same as telling you that you have refused to heal yourself. 
-<sup>4</sup>The light that belongs to you is the light of joy. 
-<sup>5</sup>Radiance is not associated with sorrow. 
-<sup>6</sup>Joy calls forth an integrated willingness to share it, and promotes the mind’s natural impulse to respond as one. 
-<sup>7</sup>Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
+²I have told you to think how many opportunities you have had to gladden yourself, and how many you have refused. 
+³This is the same as telling you that you have refused to heal yourself. 
+⁴The light that belongs to you is the light of joy. 
+⁵Radiance is not associated with sorrow. 
+⁶Joy calls forth an integrated willingness to share it, and promotes the mind’s natural impulse to respond as one. 
+⁷Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
 </p>
 
 #### expanded
 1. To heal is to make happy. 
-<sup>2</sup>I have told you to think how many opportunities you have had to gladden yourself, and how many [opportunities to gladden yourself] you have refused. 
-<sup>3</sup>This [telling you how many opportunities to gladden yourself you have refused] is the same as telling you that you have refused to heal yourself. 
-<sup>4</sup>The light that belongs to you is the light of joy. 
-<sup>5</sup>Radiance is not associated with sorrow. 
-<sup>6</sup>Joy calls forth an integrated willingness to share it [joy], and promotes the mind’s natural impulse to respond as one. 
-<sup>7</sup>Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
+²I have told you to think how many opportunities you have had to gladden yourself, and how many [opportunities to gladden yourself] you have refused. 
+³This [telling you how many opportunities to gladden yourself you have refused] is the same as telling you that you have refused to heal yourself. 
+⁴The light that belongs to you is the light of joy. 
+⁵Radiance is not associated with sorrow. 
+⁶Joy calls forth an integrated willingness to share it [joy], and promotes the mind’s natural impulse to respond as one. 
+⁷Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
 
 #### substituted
 1. To heal is to make happy. 
-<sup>2</sup>I have told you to think how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused. 
-<sup>3</sup>Telling you how many opportunities to gladden yourself you have refused, is the same as telling you that you have refused to heal yourself. 
-<sup>4</sup>The light that belongs to you is the light of joy. 
-<sup>5</sup>Radiance is not associated with sorrow. 
-<sup>6</sup>Joy calls forth an integrated willingness to share joy, and promotes the mind’s natural impulse to respond as one. 
-<sup>7</sup>Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
+²I have told you to think how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused. 
+³Telling you how many opportunities to gladden yourself you have refused, is the same as telling you that you have refused to heal yourself. 
+⁴The light that belongs to you is the light of joy. 
+⁵Radiance is not associated with sorrow. 
+⁶Joy calls forth an integrated willingness to share joy, and promotes the mind’s natural impulse to respond as one. 
+⁷Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
 
 #### simplified
 
@@ -905,33 +905,33 @@ You can make yourself happy by healing yourself. With this joy you can heal othe
 
 <p class=fip id=p2>
 2. To be wholehearted you must be happy. 
-<sup>2</sup>If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that of love. 
-<sup>3</sup>There is no difference between love and joy. 
-<sup>4</sup>Therefore, the only possible whole state is the wholly joyous. 
-<sup>5</sup>To heal or to make joyous is therefore the same as to integrate and to make one. 
-<sup>6</sup>That is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
-<sup>7</sup>Every part benefits, and benefits equally.
+²If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that of love. 
+³There is no difference between love and joy. 
+⁴Therefore, the only possible whole state is the wholly joyous. 
+⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
+⁶That is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
+⁷Every part benefits, and benefits equally.
 </p>
 
 #### expanded
 
 2. To be wholehearted you must be happy. 
-<sup>2</sup>If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that [a state] of love. 
-<sup>3</sup>There is no difference between love and joy. 
-<sup>4</sup>Therefore, the only possible whole state is the wholly joyous [state]. 
-<sup>5</sup>To heal or to make joyous is therefore the same as to integrate and to make one. 
-<sup>6</sup>That [healing/making joyous is integrating/making one] is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
-<sup>7</sup>Every part [of the Sonship] benefits, and benefits equally.
+²If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that [a state] of love. 
+³There is no difference between love and joy. 
+⁴Therefore, the only possible whole state is the wholly joyous [state]. 
+⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
+⁶That [healing/making joyous is integrating/making one] is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
+⁷Every part [of the Sonship] benefits, and benefits equally.
 
 #### substituted
 
 2. To be wholehearted you must be happy. 
-<sup>2</sup>If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is a state of love. 
-<sup>3</sup>There is no difference between love and joy. 
-<sup>4</sup>Therefore, the only possible whole state is the wholly joyous state. 
-<sup>5</sup>To heal or to make joyous is therefore the same as to integrate and to make one. 
-<sup>6</sup>Healing/making joyous is integrating/making one — is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
-<sup>7</sup>Every part of the Sonship benefits, and benefits equally.
+²If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is a state of love. 
+³There is no difference between love and joy. 
+⁴Therefore, the only possible whole state is the wholly joyous state. 
+⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
+⁶Healing/making joyous is integrating/making one — is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
+⁷Every part of the Sonship benefits, and benefits equally.
 
 #### simplified
 
@@ -941,36 +941,36 @@ Your only possible state is a state of love and joy. Everyone benefits whenever 
 
 <p class=fip id=p3>
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
-<sup>2</sup>You should want to bless them in return, out of gratitude. 
-<sup>3</sup>You need not know them individually, or they you. 
-<sup>4</sup>The light is so strong that it radiates throughout the Sonship and returns thanks to the Father for radiating His joy upon it. 
-<sup>5</sup>Only God’s holy children are worthy channels of His beautiful joy, because only they are beautiful enough to hold it by sharing it. 
-<sup>6</sup>It is impossible for a child of God to love his neighbor except as himself. 
-<sup>7</sup>That is why the healer’s prayer is:
-<span class=course-quote><sup>8</sup>Let me know this brother as I know myself.</span>
+²You should want to bless them in return, out of gratitude. 
+³You need not know them individually, or they you. 
+⁴The light is so strong that it radiates throughout the Sonship and returns thanks to the Father for radiating His joy upon it. 
+⁵Only God’s holy children are worthy channels of His beautiful joy, because only they are beautiful enough to hold it by sharing it. 
+⁶It is impossible for a child of God to love his neighbor except as himself. 
+⁷That is why the healer’s prayer is:
+<span class=course-quote>⁸Let me know this brother as I know myself.</span>
 </p>
 
 #### expanded
 
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
-<sup>2</sup>You should want to bless them [your brothers] in return, out of gratitude. 
-<sup>3</sup>You need not know them [your brothers] individually, or they [your brothers know] you. 
-<sup>4</sup>The light is so strong that it [the light] radiates throughout the Sonship and returns thanks to the Father for radiating His [the Father’s] joy upon it [the Sonship]. 
-<sup>5</sup>Only God’s holy children are worthy channels of His [God’s] beautiful joy, because only they [God’s-holy-children] are beautiful enough to hold it [God’s-beautiful-joy] by sharing it [God’s-beautiful-joy]. 
-<sup>6</sup>It is impossible for a child of God to love his [a-child-of-God’s] neighbour except as himself [a-child-of-God’s-self]. 
-<sup>7</sup>That is why the healer’s prayer is:
-<span class=course-quote><sup>8</sup>Let me know this brother as I know myself.</span>
+²You should want to bless them [your brothers] in return, out of gratitude. 
+³You need not know them [your brothers] individually, or they [your brothers know] you. 
+⁴The light is so strong that it [the light] radiates throughout the Sonship and returns thanks to the Father for radiating His [the Father’s] joy upon it [the Sonship]. 
+⁵Only God’s holy children are worthy channels of His [God’s] beautiful joy, because only they [God’s-holy-children] are beautiful enough to hold it [God’s-beautiful-joy] by sharing it [God’s-beautiful-joy]. 
+⁶It is impossible for a child of God to love his [a-child-of-God’s] neighbour except as himself [a-child-of-God’s-self]. 
+⁷That is why the healer’s prayer is:
+<span class=course-quote>⁸Let me know this brother as I know myself.</span>
 
 #### substituted
 
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
-<sup>2</sup>You should want to bless your brothers in return, out of gratitude. 
-<sup>3</sup>You need not know your brothers individually, or your brothers know you. 
-<sup>4</sup>The light is so strong that the light radiates throughout the Sonship and returns thanks to the Father for radiating the Father’s joy upon it the Sonship. 
-<sup>5</sup>Only God’s holy children are worthy channels of God’s beautiful joy, because only God’s-holy-children are beautiful enough to hold God’s-beautiful-joy by sharing God’s-beautiful-joy. 
-<sup>6</sup>It is impossible for a child of God to love a-child-of-God’s neighbour except as a-child-of-God’s-self. 
-<sup>7</sup>That is why the healer’s prayer is:
-<span class=course-quote><sup>8</sup>Let me know this brother as I know myself.</span>
+²You should want to bless your brothers in return, out of gratitude. 
+³You need not know your brothers individually, or your brothers know you. 
+⁴The light is so strong that the light radiates throughout the Sonship and returns thanks to the Father for radiating the Father’s joy upon it the Sonship. 
+⁵Only God’s holy children are worthy channels of God’s beautiful joy, because only God’s-holy-children are beautiful enough to hold God’s-beautiful-joy by sharing God’s-beautiful-joy. 
+⁶It is impossible for a child of God to love a-child-of-God’s neighbour except as a-child-of-God’s-self. 
+⁷That is why the healer’s prayer is:
+<span class=course-quote>⁸Let me know this brother as I know myself.</span>
 
 #### simplified
 
@@ -993,54 +993,54 @@ The good thoughts of all your brothers bless you. You should bless them in retur
 
 <p id=p1 class=fip>
 1. Healing is a thought by which two minds perceive their oneness and become glad. 
-<sup>2</sup>This gladness calls to every part of the Sonship to rejoice with them, and lets God go out into them and through them. 
-<sup>3</sup>Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
-<sup>4</sup>If you do not choose to be wholly joyous, your mind cannot have what it does not choose to be. 
-<sup>5</sup>Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
-<sup>6</sup>The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
-<sup>7</sup>To spirit getting is meaningless and giving is all. 
-<sup>8</sup>Having everything, spirit holds everything by giving it, and thus creates as the Father created. 
-<sup>9</sup>While this kind of thinking is totally alien to having things, even to the lower mind it is quite comprehensible in connection with ideas. 
-<sup>10</sup>If you share a physical possession, you do divide its ownership. 
-<sup>11</sup>If you share an idea, however, you do not lessen it. 
-<sup>12</sup>All of it is still yours although all of it has been given away. 
-<sup>13</sup>Further, if the one to whom you give it accepts it as his, he reïnforces it in your mind and thus increases it. 
-<sup>14</sup>If you can accept the concept that the world is one of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
+²This gladness calls to every part of the Sonship to rejoice with them, and lets God go out into them and through them. 
+³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
+⁴If you do not choose to be wholly joyous, your mind cannot have what it does not choose to be. 
+⁵Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁷To spirit getting is meaningless and giving is all. 
+⁸Having everything, spirit holds everything by giving it, and thus creates as the Father created. 
+⁹While this kind of thinking is totally alien to having things, even to the lower mind it is quite comprehensible in connection with ideas. 
+¹⁰If you share a physical possession, you do divide its ownership. 
+¹¹If you share an idea, however, you do not lessen it. 
+¹²All of it is still yours although all of it has been given away. 
+¹³Further, if the one to whom you give it accepts it as his, he reïnforces it in your mind and thus increases it. 
+¹⁴If you can accept the concept that the world is one of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 </p>
 
 #### expanded
 
 1. Healing is a thought by which [thought] two minds perceive their [two-mind’s] oneness and become glad. 
-<sup>2</sup>This gladness [of perceiving oneness] calls to every part of the Sonship to rejoice with them [the two minds], and lets God go out into them [the two minds ] and through them [the two minds]. 
-<sup>3</sup>Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
-<sup>4</sup>If you do not choose to be wholly joyous, your mind cannot have what it [your mind] does not choose to be. 
-<sup>5</sup>Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
-<sup>6</sup>The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
-<sup>7</sup>To spirit getting is meaningless and giving is all. 
-<sup>8</sup>Having everything, spirit holds everything by giving it [everything], and thus creates as the Father created. 
-<sup>9</sup>While this kind of thinking [holding by giving] is totally alien to having things, even to the lower mind it [thinking holding is giving] is quite comprehensible in connection with ideas. 
-<sup>10</sup>If you share a physical possession, you do divide its [a-physical-possession’s] ownership. 
-<sup>11</sup>If you share an idea, however, you do not lessen it [the idea]. 
-<sup>12</sup>All of it [the idea] is still yours although all of it [the idea] has been given away. 
-<sup>13</sup>Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reïnforces it [the idea] in your mind and thus increases it [the idea]. 
-<sup>14</sup>If you can accept the concept that the world is one [a world] of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
+²This gladness [of perceiving oneness] calls to every part of the Sonship to rejoice with them [the two minds], and lets God go out into them [the two minds ] and through them [the two minds]. 
+³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
+⁴If you do not choose to be wholly joyous, your mind cannot have what it [your mind] does not choose to be. 
+⁵Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁷To spirit getting is meaningless and giving is all. 
+⁸Having everything, spirit holds everything by giving it [everything], and thus creates as the Father created. 
+⁹While this kind of thinking [holding by giving] is totally alien to having things, even to the lower mind it [thinking holding is giving] is quite comprehensible in connection with ideas. 
+¹⁰If you share a physical possession, you do divide its [a-physical-possession’s] ownership. 
+¹¹If you share an idea, however, you do not lessen it [the idea]. 
+¹²All of it [the idea] is still yours although all of it [the idea] has been given away. 
+¹³Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reïnforces it [the idea] in your mind and thus increases it [the idea]. 
+¹⁴If you can accept the concept that the world is one [a world] of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 #### substituted
 
 1. Healing is a thought, by thought two minds perceive two-mind’s oneness and become glad. 
-<sup>2</sup>The gladness of perceiving oneness calls to every part of the Sonship to rejoice with the two minds, and lets God go out into the two minds and through them [the two minds]. 
-<sup>3</sup>Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
-<sup>4</sup>If you do not choose to be wholly joyous, your mind cannot have what your mind does not choose to be. 
-<sup>5</sup>Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
-<sup>6</sup>The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
-<sup>7</sup>To spirit getting is meaningless and giving is all. 
-<sup>8</sup>Having everything, spirit holds everything by giving everything, and thus creates as the Father created. 
-<sup>9</sup>While the kind of thinking that holding is giving, is totally alien to having things, even to the lower mind, the thinking that holding is giving, is quite comprehensible in connection with ideas. 
-<sup>10</sup>If you share a physical possession, you do divide a-physical-possession’s ownership. 
-<sup>11</sup>If you share an idea, however, you do not lessen the idea. 
-<sup>12</sup>All of the idea is still yours although all of the idea has been given away. 
-<sup>13</sup>Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reïnforces the idea in your mind and thus increases the idea. 
-<sup>14</sup>If you can accept the concept that the world is a world of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
+²The gladness of perceiving oneness calls to every part of the Sonship to rejoice with the two minds, and lets God go out into the two minds and through them [the two minds]. 
+³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
+⁴If you do not choose to be wholly joyous, your mind cannot have what your mind does not choose to be. 
+⁵Remember that spirit knows no difference between <em>having</em> and <em>being</em>. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁷To spirit getting is meaningless and giving is all. 
+⁸Having everything, spirit holds everything by giving everything, and thus creates as the Father created. 
+⁹While the kind of thinking that holding is giving, is totally alien to having things, even to the lower mind, the thinking that holding is giving, is quite comprehensible in connection with ideas. 
+¹⁰If you share a physical possession, you do divide a-physical-possession’s ownership. 
+¹¹If you share an idea, however, you do not lessen the idea. 
+¹²All of the idea is still yours although all of the idea has been given away. 
+¹³Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reïnforces the idea in your mind and thus increases the idea. 
+¹⁴If you can accept the concept that the world is a world of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 #### simplified
 
@@ -1050,27 +1050,27 @@ When two minds perceive their oneness they become glad and are healed. Everythin
 
 <p id=p2 class=fip>
 2. Let us start our process of re-awakening with just a few simple concepts:
-<span class=course-quote><sup>2</sup>Thoughts increase by being given away. <br>
-<sup>3</sup>The more who believe in them the stronger they become. <br>
-<sup>4</sup>Everything is an idea. <br>
-<sup>5</sup>How, then, can giving and losing be associated?</span>
+<span class=course-quote>²Thoughts increase by being given away. <br>
+³The more who believe in them the stronger they become. <br>
+⁴Everything is an idea. <br>
+⁵How, then, can giving and losing be associated?</span>
 </p>
 
 #### expanded
 
 2. Let us start our process of re-awakening with just a few simple concepts:
-<span class=course-quote><sup>2</sup>Thoughts increase by being given away. <br>
-<sup>3</sup>The more who believe in them [thoughts] the stronger they [thoughts] become. <br>
-<sup>4</sup>Everything is an idea. <br>
-<sup>5</sup>How, then, can giving and losing be associated?</span>
+<span class=course-quote>²Thoughts increase by being given away. <br>
+³The more who believe in them [thoughts] the stronger they [thoughts] become. <br>
+⁴Everything is an idea. <br>
+⁵How, then, can giving and losing be associated?</span>
 
 #### substituted
 
 2. Let us start our process of re-awakening with just a few simple concepts:
-<span class=course-quote><sup>2</sup>Thoughts increase by being given away. <br>
-<sup>3</sup>The more who believe in thoughts the stronger thoughts become. <br>
-<sup>4</sup>Everything is an idea. <br>
-<sup>5</sup>How, then, can giving and losing be associated?</span>
+<span class=course-quote>²Thoughts increase by being given away. <br>
+³The more who believe in thoughts the stronger thoughts become. <br>
+⁴Everything is an idea. <br>
+⁵How, then, can giving and losing be associated?</span>
 
 #### simplified
 
@@ -1080,30 +1080,30 @@ Giving and losing can’t be associated because thoughts become stronger when gi
 
 <p id=p3 class=fip>
 3. This is the invitation to the Holy Spirit. 
-<sup>2</sup>I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him to you only at your own invitation. 
-<sup>3</sup>The Holy Spirit is in your right mind, as He was in mine. 
-<sup>4</sup>The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this as a blessing. 
-<sup>5</sup>It is the blessing of miracle-mindedness. 
-<sup>6</sup>It asks that you may think as I thought, joining with me in Christ thinking.
+²I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him to you only at your own invitation. 
+³The Holy Spirit is in your right mind, as He was in mine. 
+⁴The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this as a blessing. 
+⁵It is the blessing of miracle-mindedness. 
+⁶It asks that you may think as I thought, joining with me in Christ thinking.
 </p>
 
 #### expanded
 
 3. This is the invitation to the Holy Spirit. 
-<sup>2</sup>I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him [the Holy Spirit] to you only at your own invitation. 
-<sup>3</sup>The Holy Spirit is in your right mind, as He [the Holy Spirit] was in mine [my right mind]. 
-<sup>4</sup>The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this [saying] as a blessing. 
-<sup>5</sup>It [this saying] is the blessing of miracle-mindedness. 
-<sup>6</sup>It [this saying] asks that you may think as I thought, joining with me in Christ thinking.
+²I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring Him [the Holy Spirit] to you only at your own invitation. 
+³The Holy Spirit is in your right mind, as He [the Holy Spirit] was in mine [my right mind]. 
+⁴The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this [saying] as a blessing. 
+⁵It [this saying] is the blessing of miracle-mindedness. 
+⁶It [this saying] asks that you may think as I thought, joining with me in Christ thinking.
 
 #### substituted
 
 3. This is the invitation to the Holy Spirit. 
-<sup>2</sup>I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring the Holy Spirit to you only at your own invitation. 
-<sup>3</sup>The Holy Spirit is in your right mind, as the Holy Spirit was in my right mind. 
-<sup>4</sup>The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this saying as a blessing. 
-<sup>5</sup>This saying is the blessing of miracle-mindedness. 
-<sup>6</sup>This saying asks that you may think as I thought, joining with me in Christ thinking.
+²I have said already that I can reach up and bring the Holy Spirit down to you, but I can bring the Holy Spirit to you only at your own invitation. 
+³The Holy Spirit is in your right mind, as the Holy Spirit was in my right mind. 
+⁴The Bible says, “May the mind be in you that was also in Christ Jesus”, and uses this saying as a blessing. 
+⁵This saying is the blessing of miracle-mindedness. 
+⁶This saying asks that you may think as I thought, joining with me in Christ thinking.
 
 #### simplified
 
@@ -1119,45 +1119,45 @@ Ur-text/HLC/Original edition, for sentence 3, has “The Holy Spirit is nothing 
 
 <p id=p4 class=fip>
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
-<sup>2</sup>He is referred to as the Healer, the Comforter and the Guide. 
-<sup>3</sup>He is also described as something ‘separate’, apart from the Father and from the Son. 
-<sup>4</sup>I myself said, “If I go I will send you another Comforter and he will abide with you”. 
-<sup>5</sup>His symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
-<sup>6</sup>As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this Inspiration is for all. 
-<sup>7</sup>I could not have It myself without knowing this. 
-<sup>8</sup>The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He calls it forth; or better, allows it to come. 
-<sup>9</sup>I have spoken before of the higher or ‘true’ perception, which is so near to truth that God Himself can flow across the little gap. 
-<sup>10</sup>Knowledge is always ready to flow everywhere, but it cannot oppose. 
-<sup>11</sup>Therefore you can obstruct it, although you can never lose it.
+²He is referred to as the Healer, the Comforter and the Guide. 
+³He is also described as something ‘separate’, apart from the Father and from the Son. 
+⁴I myself said, “If I go I will send you another Comforter and he will abide with you”. 
+⁵His symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
+⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this Inspiration is for all. 
+⁷I could not have It myself without knowing this. 
+⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He calls it forth; or better, allows it to come. 
+⁹I have spoken before of the higher or ‘true’ perception, which is so near to truth that God Himself can flow across the little gap. 
+¹⁰Knowledge is always ready to flow everywhere, but it cannot oppose. 
+¹¹Therefore you can obstruct it, although you can never lose it.
 </p>
 
 #### expanded
 
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
-<sup>2</sup>He [the Holy Spirit] is referred to as the Healer, the Comforter and the Guide. 
-<sup>3</sup>He [the Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
-<sup>4</sup>I myself said, “If I go I will send you another Comforter and he [the other Comforter] will abide with you”. 
-<sup>5</sup>His [the-Holy-Spirit’s] symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
-<sup>6</sup>As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this [the Universal] Inspiration is for all. 
-<sup>7</sup>I could not have It [the Universal Inspiration] myself without knowing this [the Universal Inspiration is for all]. 
-<sup>8</sup>The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He [the Holy Spirit] calls it [knowledge] forth; or better, allows it [knowledge] to come. 
-<sup>9</sup>I have spoken before of the higher or ‘true’ perception, which [perception] is so near to truth that God Himself [God’s-self] can flow across the little gap. 
-<sup>10</sup>Knowledge is always ready to flow everywhere, but it [knowledge] cannot oppose. 
-<sup>11</sup>Therefore you can obstruct it [knowledge], although you can never lose it [knowledge].
+²He [the Holy Spirit] is referred to as the Healer, the Comforter and the Guide. 
+³He [the Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
+⁴I myself said, “If I go I will send you another Comforter and he [the other Comforter] will abide with you”. 
+⁵His [the-Holy-Spirit’s] symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
+⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this [the Universal] Inspiration is for all. 
+⁷I could not have It [the Universal Inspiration] myself without knowing this [the Universal Inspiration is for all]. 
+⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He [the Holy Spirit] calls it [knowledge] forth; or better, allows it [knowledge] to come. 
+⁹I have spoken before of the higher or ‘true’ perception, which [perception] is so near to truth that God Himself [God’s-self] can flow across the little gap. 
+¹⁰Knowledge is always ready to flow everywhere, but it [knowledge] cannot oppose. 
+¹¹Therefore you can obstruct it [knowledge], although you can never lose it [knowledge].
 
 #### substituted
 
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
-<sup>2</sup>The Holy Spirit is referred to as the Healer, the Comforter and the Guide. 
-<sup>3</sup>Tthe Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
-<sup>4</sup>I myself said, “If I go I will send you another Comforter and the other Comforter will abide with you”. 
-<sup>5</sup>The-Holy-Spirit’s symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
-<sup>6</sup>As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that the Universal Inspiration is for all. 
-<sup>7</sup>I could not have the Universal Inspiration myself without knowing the Universal Inspiration is for all. 
-<sup>8</sup>The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that the Holy Spirit calls knowledge forth; or better, allows it knowledge to come. 
-<sup>9</sup>I have spoken before of the higher or ‘true’ perception, true perception is so near to truth that God God’s-self can flow across the little gap. 
-<sup>10</sup>Knowledge is always ready to flow everywhere, but knowledge cannot oppose. 
-<sup>11</sup>Therefore you can obstruct knowledge, although you can never lose knowledge.
+²The Holy Spirit is referred to as the Healer, the Comforter and the Guide. 
+³Tthe Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
+⁴I myself said, “If I go I will send you another Comforter and the other Comforter will abide with you”. 
+⁵The-Holy-Spirit’s symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
+⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that the Universal Inspiration is for all. 
+⁷I could not have the Universal Inspiration myself without knowing the Universal Inspiration is for all. 
+⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that the Holy Spirit calls knowledge forth; or better, allows it knowledge to come. 
+⁹I have spoken before of the higher or ‘true’ perception, true perception is so near to truth that God God’s-self can flow across the little gap. 
+¹⁰Knowledge is always ready to flow everywhere, but knowledge cannot oppose. 
+¹¹Therefore you can obstruct knowledge, although you can never lose knowledge.
 
 #### simplified
 
@@ -1168,33 +1168,33 @@ The Holy Spirit has a symbolic function in this world. The function can be inter
 
 <p id=p5 class=fip>
 5. The Holy Spirit is the Christ Mind which is aware of the knowledge that lies beyond perception. 
-<sup>2</sup>He came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
-<sup>3</sup>Before that there was no need for healing, for no one was comfortless. 
-<sup>4</sup>The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
-<sup>5</sup>When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
-<sup>6</sup>But what God creates is eternal. 
-<sup>7</sup>The Holy Spirit will remain with the Sons of God, to bless their creations and keep them in the light of joy.
+²He came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
+³Before that there was no need for healing, for no one was comfortless. 
+⁴The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
+⁵When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
+⁶But what God creates is eternal. 
+⁷The Holy Spirit will remain with the Sons of God, to bless their creations and keep them in the light of joy.
 </p>
 
 #### expanded
 
 5. The Holy Spirit is the Christ Mind which [Christ Mind] is aware of the knowledge that lies beyond perception. 
-<sup>2</sup>He [the Holy Spirit] came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
-<sup>3</sup>Before that [the separation] there was no need for healing, for no one was comfortless. 
-<sup>4</sup>The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
-<sup>5</sup>When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
-<sup>6</sup>But what God creates is eternal. 
-<sup>7</sup>The Holy Spirit will remain with the Sons of God, to bless their [the-Sons-of-God’s] creations and keep them [the Sons of God] in the light of joy.
+²He [the Holy Spirit] came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
+³Before that [the separation] there was no need for healing, for no one was comfortless. 
+⁴The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
+⁵When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
+⁶But what God creates is eternal. 
+⁷The Holy Spirit will remain with the Sons of God, to bless their [the-Sons-of-God’s] creations and keep them [the Sons of God] in the light of joy.
 
 #### substituted
 
 5. The Holy Spirit is the Christ Mind — the Christ Mind is aware of the knowledge that lies beyond perception. 
-<sup>2</sup>The Holy Spirit came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
-<sup>3</sup>Before the separation there was no need for healing, for no one was comfortless. 
-<sup>4</sup>The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
-<sup>5</sup>When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
-<sup>6</sup>But what God creates is eternal. 
-<sup>7</sup>The Holy Spirit will remain with the Sons of God, to bless the-Sons-of-God’s creations and keep the Sons of God in the light of joy.
+²The Holy Spirit came into being with the separation as a protection, inspiring the Atonement principle at the same time. 
+³Before the separation there was no need for healing, for no one was comfortless. 
+⁴The Voice of the Holy Spirit is the Call to Atonement, or the restoration of the integrity of the mind. 
+⁵When the Atonement is complete and the whole Sonship is healed there will be no Call to return. 
+⁶But what God creates is eternal. 
+⁷The Holy Spirit will remain with the Sons of God, to bless the-Sons-of-God’s creations and keep the Sons of God in the light of joy.
 
 #### simplified
 
@@ -1204,30 +1204,30 @@ The Holy Spirit is the Christ Mind. The Christ Mind is aware there is knowledge 
 
 <p id=p6 class=fip>
 6. God honoured even the miscreations of His children because they had made them. 
-<sup>2</sup>But He also blessed His children with a way of thinking that could raise their perceptions so high they could reach almost back to Him. 
-<sup>3</sup>The Holy Spirit is the Mind of the Atonement. 
-<sup>4</sup>He represents a state of mind close enough to One-mindedness that transfer to it is at last possible. 
-<sup>5</sup>Perception is not knowledge, but it can be transferred to knowledge, or cross over into it. 
-<sup>6</sup>It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+²But He also blessed His children with a way of thinking that could raise their perceptions so high they could reach almost back to Him. 
+³The Holy Spirit is the Mind of the Atonement. 
+⁴He represents a state of mind close enough to One-mindedness that transfer to it is at last possible. 
+⁵Perception is not knowledge, but it can be transferred to knowledge, or cross over into it. 
+⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
 </p>
 
 #### expanded
 
 6. God honoured even the miscreations of His [God’s] children because they [God’s-children] had made them [miscreations]. 
-<sup>2</sup>But He [God] also blessed His [God’s] children with a way of thinking that could raise their [God’s-children’s] perceptions so high they [God’s-children] could reach almost back to Him [God]. 
-<sup>3</sup>The Holy Spirit is the Mind of the Atonement. 
-<sup>4</sup>He [the Holy Spirit] represents a state of mind close enough to One-mindedness that transfer to it [One-mindedness] is at last possible. 
-<sup>5</sup>Perception is not knowledge, but it [perception] can be transferred to knowledge, or cross over into it [knowledge]. 
-<sup>6</sup>It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+²But He [God] also blessed His [God’s] children with a way of thinking that could raise their [God’s-children’s] perceptions so high they [God’s-children] could reach almost back to Him [God]. 
+³The Holy Spirit is the Mind of the Atonement. 
+⁴He [the Holy Spirit] represents a state of mind close enough to One-mindedness that transfer to it [One-mindedness] is at last possible. 
+⁵Perception is not knowledge, but it [perception] can be transferred to knowledge, or cross over into it [knowledge]. 
+⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
 
 #### substituted
 
 6. God honoured even the miscreations of God’s children because God’s-children had made miscreations. 
-<sup>2</sup>But God also blessed God’s children with a way of thinking that could raise their God’s-children’s perceptions so high God’s-children could reach almost back to God. 
-<sup>3</sup>The Holy Spirit is the Mind of the Atonement. 
-<sup>4</sup>The Holy Spirit represents a state of mind close enough to One-mindedness that transfer to One-mindedness is at last possible. 
-<sup>5</sup>Perception is not knowledge, but perception can be transferred to knowledge, or cross over into knowledge. 
-<sup>6</sup>It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+²But God also blessed God’s children with a way of thinking that could raise their God’s-children’s perceptions so high God’s-children could reach almost back to God. 
+³The Holy Spirit is the Mind of the Atonement. 
+⁴The Holy Spirit represents a state of mind close enough to One-mindedness that transfer to One-mindedness is at last possible. 
+⁵Perception is not knowledge, but perception can be transferred to knowledge, or cross over into knowledge. 
+⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
 
 #### simplified
 
@@ -1237,30 +1237,30 @@ God honours his children’s miscreations by sending the Holy Spirit amongst the
 
 <p id=p7 class=fip>
 7. The Holy Spirit, the shared Inspiration of all the Sonship, induces a kind of perception in which many elements are like those in the Kingdom of Heaven itself:<br> 
- <sup>2</sup>First, its universality is perfectly clear, and no one who attains it could believe for one instant that sharing it involves anything but gain.<br> 
- <sup>3</sup>Second, it is incapable of attack and is therefore truly open. 
-<sup>4</sup>This means that although it does not engender knowledge, it does not obstruct it in any way.<br> 
- <sup>5</sup>Finally, it points the way beyond the healing that it brings, and leads the mind beyond its own integration toward the paths of creation. 
-<sup>6</sup>It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
+ ²First, its universality is perfectly clear, and no one who attains it could believe for one instant that sharing it involves anything but gain.<br> 
+ ³Second, it is incapable of attack and is therefore truly open. 
+⁴This means that although it does not engender knowledge, it does not obstruct it in any way.<br> 
+ ⁵Finally, it points the way beyond the healing that it brings, and leads the mind beyond its own integration toward the paths of creation. 
+⁶It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
 </p>
 
 #### expanded
 
 7. The Holy Spirit, the shared Inspiration of all the Sonship, induces a kind of perception in which many elements are like those [elements] in the Kingdom of Heaven itself [Kingdom-of-Heaven’s-self]:<br> 
- <sup>2</sup>First, its [Inspired-perception’s] universality is perfectly clear, and no one who attains it [Inspired perception] could believe for one instant that sharing it [Inspired perception] involves anything but gain.<br> 
- <sup>3</sup>Second, it [Inspired perception] is incapable of attack and is therefore truly open. 
-<sup>4</sup>This [Inspired perception is incapable of attack] means that although it [Inspired perception] does not engender knowledge, it [Inspired perception] does not obstruct it [knowledge] in any way.<br> 
- <sup>5</sup>Finally, it [Inspired perception] points the way beyond the healing that it [Inspired perception] brings, and leads the mind beyond its [the mind’s] own integration toward the paths of creation. 
-<sup>6</sup>It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
+ ²First, its [Inspired-perception’s] universality is perfectly clear, and no one who attains it [Inspired perception] could believe for one instant that sharing it [Inspired perception] involves anything but gain.<br> 
+ ³Second, it [Inspired perception] is incapable of attack and is therefore truly open. 
+⁴This [Inspired perception is incapable of attack] means that although it [Inspired perception] does not engender knowledge, it [Inspired perception] does not obstruct it [knowledge] in any way.<br> 
+ ⁵Finally, it [Inspired perception] points the way beyond the healing that it [Inspired perception] brings, and leads the mind beyond its [the mind’s] own integration toward the paths of creation. 
+⁶It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
 
 #### substituted
 
 7. The Holy Spirit, the shared Inspiration of all the Sonship, induces a kind of perception in which many elements are like elements in the Kingdom of Heaven Kingdom-of-Heaven’s-self:<br> 
- <sup>2</sup>First, Inspired-perception’s universality is perfectly clear, and no one who attains Inspired perception could believe for one instant that sharing Inspired perception involves anything but gain.<br> 
- <sup>3</sup>Second, Inspired perception is incapable of attack and is therefore truly open. 
-<sup>4</sup>Inspired perception is incapable of attack, means that although Inspired perception does not engender knowledge, Inspired perception does not obstruct knowledge in any way.<br> 
- <sup>5</sup>Finally, Inspired perception points the way beyond the healing that Inspired perception brings, and leads the mind beyond the mind’s own integration toward the paths of creation. 
-<sup>6</sup>It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
+ ²First, Inspired-perception’s universality is perfectly clear, and no one who attains Inspired perception could believe for one instant that sharing Inspired perception involves anything but gain.<br> 
+ ³Second, Inspired perception is incapable of attack and is therefore truly open. 
+⁴Inspired perception is incapable of attack, means that although Inspired perception does not engender knowledge, Inspired perception does not obstruct knowledge in any way.<br> 
+ ⁵Finally, Inspired perception points the way beyond the healing that Inspired perception brings, and leads the mind beyond the mind’s own integration toward the paths of creation. 
+⁶It is at this point that sufficient quantitative change occurs to produce a real qualitative shift.
 
 #### simplified
 
@@ -1271,33 +1271,33 @@ The Holy Spirit is the shared Inspiration of all the Sonship. Anyone who has Ins
 
 <p class=fip id=p1>
 1. Healing is not creating; it is reparation. 
-<sup>2</sup>The Holy Spirit promotes healing by looking beyond it to what the children of God were before healing was needed, and will be when they have been healed. 
-<sup>3</sup>This alteration of the time sequence should be quite familiar, because it is very similar to the shift in the perception of time that the miracle introduces. 
-<sup>4</sup>The Holy Spirit is the motivation for miracle-mindedness; the decision to heal the separation by letting it go. 
-<sup>5</sup>Your will is still in you because God placed it in your mind, and although you can keep it asleep you cannot obliterate it. 
-<sup>6</sup>God Himself keeps your will alive by transmitting it from His Mind to yours as long as there is time. 
-<sup>7</sup>The miracle itself is a reflection of this union of Will between Father and Son.
+²The Holy Spirit promotes healing by looking beyond it to what the children of God were before healing was needed, and will be when they have been healed. 
+³This alteration of the time sequence should be quite familiar, because it is very similar to the shift in the perception of time that the miracle introduces. 
+⁴The Holy Spirit is the motivation for miracle-mindedness; the decision to heal the separation by letting it go. 
+⁵Your will is still in you because God placed it in your mind, and although you can keep it asleep you cannot obliterate it. 
+⁶God Himself keeps your will alive by transmitting it from His Mind to yours as long as there is time. 
+⁷The miracle itself is a reflection of this union of Will between Father and Son.
 </p>
 
 #### expanded
 
 1. Healing is not creating; it [healing] is reparation. 
-<sup>2</sup>The Holy Spirit promotes healing by looking beyond it [healing] to what the children of God were before healing was needed, and will be when they [the children of God] have been healed. 
-<sup>3</sup>This alteration of the time sequence should be quite familiar, because it [this alteration of the time sequence] is very similar to the shift in the perception of time that the miracle introduces. 
-<sup>4</sup>The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting it [separation] go. 
-<sup>5</sup>Your will is still in you because God placed it [your will] in your mind, and although you can keep it [your will] asleep you cannot obliterate it [your will]. 
-<sup>6</sup>God Himself [God’s-self] keeps your will alive by transmitting it [your will] from His [God’s] Mind to yours [mind] as long as there is time. 
-<sup>7</sup>The miracle itself [miracle’s-self] is a reflection of this union of Will between Father and Son.
+²The Holy Spirit promotes healing by looking beyond it [healing] to what the children of God were before healing was needed, and will be when they [the children of God] have been healed. 
+³This alteration of the time sequence should be quite familiar, because it [this alteration of the time sequence] is very similar to the shift in the perception of time that the miracle introduces. 
+⁴The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting it [separation] go. 
+⁵Your will is still in you because God placed it [your will] in your mind, and although you can keep it [your will] asleep you cannot obliterate it [your will]. 
+⁶God Himself [God’s-self] keeps your will alive by transmitting it [your will] from His [God’s] Mind to yours [mind] as long as there is time. 
+⁷The miracle itself [miracle’s-self] is a reflection of this union of Will between Father and Son.
 
 #### substituted
 
 1. Healing is not creating; it is reparation. 
-<sup>2</sup>The Holy Spirit promotes healing by looking beyond healing to what the children of God were before healing was needed, and will be when the children of God have been healed. 
-<sup>3</sup>This alteration of the time sequence should be quite familiar, because this alteration of the time sequence is very similar to the shift in the perception of time that the miracle introduces. 
-<sup>4</sup>The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting separation go. 
-<sup>5</sup>Your will is still in you because God placed your will in your mind, and although you can keep your will asleep you cannot obliterate your will. 
-<sup>6</sup>God God’s-self keeps your will alive by transmitting your will from His God’s Mind to your mind as long as there is time. 
-<sup>7</sup>The miracle miracle’s-self is a reflection of this union of Will between Father and Son.
+²The Holy Spirit promotes healing by looking beyond healing to what the children of God were before healing was needed, and will be when the children of God have been healed. 
+³This alteration of the time sequence should be quite familiar, because this alteration of the time sequence is very similar to the shift in the perception of time that the miracle introduces. 
+⁴The Holy Spirit is the motivation for miracle-mindedness: the decision to heal the separation by letting separation go. 
+⁵Your will is still in you because God placed your will in your mind, and although you can keep your will asleep you cannot obliterate your will. 
+⁶God God’s-self keeps your will alive by transmitting your will from His God’s Mind to your mind as long as there is time. 
+⁷The miracle miracle’s-self is a reflection of this union of Will between Father and Son.
 
 #### simplified
 
@@ -1307,27 +1307,27 @@ The Holy Spirit see what the children of God were before the separation. The sep
 
 <p class=fip id=p2>
 2. The Holy Spirit is the spirit of joy. 
-<sup>2</sup>He is the Call to return with which God blessed the minds of His separated Sons. 
-<sup>3</sup>This is the vocation of the mind. 
-<sup>4</sup>The mind had no calling until the separation, because before that it had only being, and would not have understood the Call to right thinking. 
-<sup>5</sup>The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
+²He is the Call to return with which God blessed the minds of His separated Sons. 
+³This is the vocation of the mind. 
+⁴The mind had no calling until the separation, because before that it had only being, and would not have understood the Call to right thinking. 
+⁵The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
 </p>
 
 #### expanded
 
 2. The Holy Spirit is the spirit of joy. 
-<sup>2</sup>He [the Holy Spirit] is the Call to return with which [call to return] God blessed the minds of His [God’s] separated Sons. 
-<sup>3</sup>This [the call to return] is the vocation of the mind. 
-<sup>4</sup>The mind had no calling until the separation, because before that it [the mind] had only being, and would not have understood the Call to right thinking. 
-<sup>5</sup>The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
+²He [the Holy Spirit] is the Call to return with which [call to return] God blessed the minds of His [God’s] separated Sons. 
+³This [the call to return] is the vocation of the mind. 
+⁴The mind had no calling until the separation, because before that it [the mind] had only being, and would not have understood the Call to right thinking. 
+⁵The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
 
 #### substituted
 
 2. The Holy Spirit is the spirit of joy. 
-<sup>2</sup>The Holy Spirit is the Call to return, with call to return God blessed the minds of God’s separated Sons. 
-<sup>3</sup>The call to return is the vocation of the mind. 
-<sup>4</sup>The mind had no calling until the separation, because before that the mind had only being, and would not have understood the Call to right thinking. 
-<sup>5</sup>The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
+²The Holy Spirit is the Call to return, with call to return God blessed the minds of God’s separated Sons. 
+³The call to return is the vocation of the mind. 
+⁴The mind had no calling until the separation, because before that the mind had only being, and would not have understood the Call to right thinking. 
+⁵The Holy Spirit is God’s Answer to the separation; the means by which the Atonement heals until the whole mind returns to creating.
 
 #### simplified
 
@@ -1337,45 +1337,45 @@ The Holy Spirit is the spirit of joy. The Holy Spirit is the call to return to G
 
 <p class=fip id=p3>
 3. The principle of Atonement and the separation began at the same time. 
-<sup>2</sup>When the ego was made, God placed in the mind the Call to joy. 
-<sup>3</sup>This Call is so strong that the ego always dissolves at Its sound. 
-<sup>4</sup>That is why you must choose to hear one of two voices within you. 
-<sup>5</sup>One you made yourself, and that one is not of God. 
-<sup>6</sup>But the other is given you by God, Who asks you only to listen to it. 
-<sup>7</sup>The Holy Spirit is in you in a very literal sense. 
-<sup>8</sup>His is the Voice that calls you back to where you were before and will be again. 
-<sup>9</sup>It is possible even in this world to hear only that Voice and no other. 
-<sup>10</sup>It takes effort and great willingness to learn. 
-<sup>11</sup>It is the final lesson that I learned, and God’s Sons are as equal as learners as they are as sons.
+²When the ego was made, God placed in the mind the Call to joy. 
+³This Call is so strong that the ego always dissolves at Its sound. 
+⁴That is why you must choose to hear one of two voices within you. 
+⁵One you made yourself, and that one is not of God. 
+⁶But the other is given you by God, Who asks you only to listen to it. 
+⁷The Holy Spirit is in you in a very literal sense. 
+⁸His is the Voice that calls you back to where you were before and will be again. 
+⁹It is possible even in this world to hear only that Voice and no other. 
+¹⁰It takes effort and great willingness to learn. 
+¹¹It is the final lesson that I learned, and God’s Sons are as equal as learners as they are as sons.
 </p>
 
 #### expanded
 
 3. The principle of Atonement and the separation began at the same time. 
-<sup>2</sup>When the ego was made, God placed in the mind the Call to joy. 
-<sup>3</sup>This Call [to joy] is so strong that the ego always dissolves at Its [the-Call-to-joy’s] sound. 
-<sup>4</sup>That is why you must choose to hear one of two voices within you. 
-<sup>5</sup>One [voice] you made yourself, and that one [voice] is not of God. 
-<sup>6</sup>But the other [Voice] is given you by God, Who [God] asks you only to listen to it [the Voice given you by God]. 
-<sup>7</sup>The Holy Spirit is in you in a very literal sense. 
-<sup>8</sup>His [the-Holy-Spirit’s Voice] is the Voice that calls you back to where you were before [the separation] and will be again. 
-<sup>9</sup>It is possible even in this world to hear only that [the-Holy-Spirit’s] Voice and no other [voice]. 
-<sup>10</sup>It [hearing only the Holy Spirit’s Voice] takes effort and great willingness to learn. 
-<sup>11</sup>It [hearing only the Holy Spirit’s Voice] is the final lesson that I learned, and God’s Sons are as equal as learners as they [God’s Sons] are [equal] as sons.
+²When the ego was made, God placed in the mind the Call to joy. 
+³This Call [to joy] is so strong that the ego always dissolves at Its [the-Call-to-joy’s] sound. 
+⁴That is why you must choose to hear one of two voices within you. 
+⁵One [voice] you made yourself, and that one [voice] is not of God. 
+⁶But the other [Voice] is given you by God, Who [God] asks you only to listen to it [the Voice given you by God]. 
+⁷The Holy Spirit is in you in a very literal sense. 
+⁸His [the-Holy-Spirit’s Voice] is the Voice that calls you back to where you were before [the separation] and will be again. 
+⁹It is possible even in this world to hear only that [the-Holy-Spirit’s] Voice and no other [voice]. 
+¹⁰It [hearing only the Holy Spirit’s Voice] takes effort and great willingness to learn. 
+¹¹It [hearing only the Holy Spirit’s Voice] is the final lesson that I learned, and God’s Sons are as equal as learners as they [God’s Sons] are [equal] as sons.
 
 #### substituted
 
 3. The principle of Atonement and the separation began at the same time. 
-<sup>2</sup>When the ego was made, God placed in the mind the Call to joy. 
-<sup>3</sup>The Call to joy is so strong that the ego always dissolves at the-Call-to-joy’s sound. 
-<sup>4</sup>That is why you must choose to hear one of two voices within you. 
-<sup>5</sup>One voice you made yourself, and that voice is not of God. 
-<sup>6</sup>But the other Voice is given you by God, God asks you only to listen to the Voice given you by God. 
-<sup>7</sup>The Holy Spirit is in you in a very literal sense. 
-<sup>8</sup>The-Holy-Spirit’s Voice is the Voice that calls you back to where you were before the separation and will be again. 
-<sup>9</sup>It is possible even in this world to hear only the-Holy-Spirit’s Voice and no other voice. 
-<sup>10</sup>Hearing only the Holy Spirit’s Voice takes effort and great willingness to learn. 
-<sup>11</sup>Hearing only the Holy Spirit’s Voice is the final lesson that I learned, and God’s Sons are as equal as learners as God’s Sons are equal as sons.
+²When the ego was made, God placed in the mind the Call to joy. 
+³The Call to joy is so strong that the ego always dissolves at the-Call-to-joy’s sound. 
+⁴That is why you must choose to hear one of two voices within you. 
+⁵One voice you made yourself, and that voice is not of God. 
+⁶But the other Voice is given you by God, God asks you only to listen to the Voice given you by God. 
+⁷The Holy Spirit is in you in a very literal sense. 
+⁸The-Holy-Spirit’s Voice is the Voice that calls you back to where you were before the separation and will be again. 
+⁹It is possible even in this world to hear only the-Holy-Spirit’s Voice and no other voice. 
+¹⁰Hearing only the Holy Spirit’s Voice takes effort and great willingness to learn. 
+¹¹Hearing only the Holy Spirit’s Voice is the final lesson that I learned, and God’s Sons are as equal as learners as God’s Sons are equal as sons.
 
 #### simplified
 
@@ -1385,27 +1385,27 @@ At the separation, God placed in the mind the Call to joy. The Call to joy disso
 
 <p class=fip id=p4>
 4. You <em>are</em> the Kingdom of Heaven, but you have let the belief in darkness enter your mind and so you need a new light. 
-<sup>2</sup>The Holy Spirit is the radiance that you must let banish the idea of darkness. 
-<sup>3</sup>His is the glory before which dissociation falls away, and the Kingdom of Heaven breaks through into its own. 
-<sup>4</sup>Before the separation you did not need guidance. 
-<sup>5</sup>You knew as you will know again, but as you do not know now.
+²The Holy Spirit is the radiance that you must let banish the idea of darkness. 
+³His is the glory before which dissociation falls away, and the Kingdom of Heaven breaks through into its own. 
+⁴Before the separation you did not need guidance. 
+⁵You knew as you will know again, but as you do not know now.
 </p>
 
 #### expanded
 
 4. You *are* the Kingdom of Heaven, but you have let the belief in darkness enter your mind and so you need a new light. 
-<sup>2</sup>The Holy Spirit is the radiance that you must let banish the idea of darkness. 
-<sup>3</sup>His [the Holy-Spirit’s glory] is the glory before which [the-Holy-Spirit’s glory] dissociation falls away, and the Kingdom of Heaven breaks through into its [the-Kingdom-of-Heaven’s] own. 
-<sup>4</sup>Before the separation you did not need guidance. 
-<sup>5</sup>You knew as you will know again, but as you do not know now.
+²The Holy Spirit is the radiance that you must let banish the idea of darkness. 
+³His [the Holy-Spirit’s glory] is the glory before which [the-Holy-Spirit’s glory] dissociation falls away, and the Kingdom of Heaven breaks through into its [the-Kingdom-of-Heaven’s] own. 
+⁴Before the separation you did not need guidance. 
+⁵You knew as you will know again, but as you do not know now.
 
 #### substituted
 
 4. You *are* the Kingdom of Heaven, but you have let the belief in darkness enter your mind and so you need a new light. 
-<sup>2</sup>The Holy Spirit is the radiance that you must let banish the idea of darkness. 
-<sup>3</sup>The Holy-Spirit’s glory is the glory, before the-Holy-Spirit’s glory dissociation falls away, and the Kingdom of Heaven breaks through into the-Kingdom-of-Heaven’s own. 
-<sup>4</sup>Before the separation you did not need guidance. 
-<sup>5</sup>You knew as you will know again, but as you do not know now.
+²The Holy Spirit is the radiance that you must let banish the idea of darkness. 
+³The Holy-Spirit’s glory is the glory, before the-Holy-Spirit’s glory dissociation falls away, and the Kingdom of Heaven breaks through into the-Kingdom-of-Heaven’s own. 
+⁴Before the separation you did not need guidance. 
+⁵You knew as you will know again, but as you do not know now.
 
 #### simplified
 
@@ -1415,33 +1415,33 @@ You need a new light to see you *are* the Kingdom of Heaven. The Holy Spirit is 
 
 <p class=fip id=p5>
 5. God does not guide, because He can share only perfect knowledge. 
-<sup>2</sup>Guidance is evaluative, because it implies there is a right way and also a wrong way, one to be chosen and the other to be avoided. 
-<sup>3</sup>By choosing one you give up the other. 
-<sup>4</sup>The choice for the Holy Spirit is the choice for God. 
-<sup>5</sup>God is not in you in a literal sense: you are part of Him. 
-<sup>6</sup>When you chose to leave Him He gave you a Voice to speak for Him because He could no longer share His knowledge with you without hindrance. 
-<sup>7</sup>Direct communication was broken because you had made another voice.
+²Guidance is evaluative, because it implies there is a right way and also a wrong way, one to be chosen and the other to be avoided. 
+³By choosing one you give up the other. 
+⁴The choice for the Holy Spirit is the choice for God. 
+⁵God is not in you in a literal sense: you are part of Him. 
+⁶When you chose to leave Him He gave you a Voice to speak for Him because He could no longer share His knowledge with you without hindrance. 
+⁷Direct communication was broken because you had made another voice.
 </p>
 
 #### expanded
 
 5. God does not guide, because He [God] can share only perfect knowledge. 
-<sup>2</sup>Guidance is evaluative, because it [guidance] implies there is a right way and also a wrong way, one [way] to be chosen and the other [way] to be avoided. 
-<sup>3</sup>By choosing one [way] you give up the other [way]. 
-<sup>4</sup>The choice for the Holy Spirit is the choice for God. 
-<sup>5</sup>God is not in you in a literal sense: you are part of Him [God]. 
-<sup>6</sup>When you chose to leave Him [God] He [God] gave you a Voice to speak for Him [God] because He [God] could no longer share His [God’s] knowledge with you without hindrance. 
-<sup>7</sup>Direct communication was broken because you had made another voice.
+²Guidance is evaluative, because it [guidance] implies there is a right way and also a wrong way, one [way] to be chosen and the other [way] to be avoided. 
+³By choosing one [way] you give up the other [way]. 
+⁴The choice for the Holy Spirit is the choice for God. 
+⁵God is not in you in a literal sense: you are part of Him [God]. 
+⁶When you chose to leave Him [God] He [God] gave you a Voice to speak for Him [God] because He [God] could no longer share His [God’s] knowledge with you without hindrance. 
+⁷Direct communication was broken because you had made another voice.
 
 #### substituted
 
 5. God does not guide, because God can share only perfect knowledge. 
-<sup>2</sup>Guidance is evaluative, because guidance implies there is a right way and also a wrong way, one way to be chosen and the other way to be avoided. 
-<sup>3</sup>By choosing one way you give up the other way. 
-<sup>4</sup>The choice for the Holy Spirit is the choice for God. 
-<sup>5</sup>God is not in you in a literal sense: you are part of God. 
-<sup>6</sup>When you chose to leave God, God gave you a Voice to speak for God because God could no longer share God’s knowledge with you without hindrance. 
-<sup>7</sup>Direct communication was broken because you had made another voice.
+²Guidance is evaluative, because guidance implies there is a right way and also a wrong way, one way to be chosen and the other way to be avoided. 
+³By choosing one way you give up the other way. 
+⁴The choice for the Holy Spirit is the choice for God. 
+⁵God is not in you in a literal sense: you are part of God. 
+⁶When you chose to leave God, God gave you a Voice to speak for God because God could no longer share God’s knowledge with you without hindrance. 
+⁷Direct communication was broken because you had made another voice.
 
 #### simplified
 
@@ -1451,39 +1451,39 @@ God can only share perfect knowledge. You need a guide who show you the way. By 
 
 <p class=fip id=p6>
 6. The Holy Spirit calls you both to remember and to forget. 
-<sup>2</sup>You have chosen to be in a state of opposition in which opposites are possible. 
-<sup>3</sup>As a result, there are choices you must make. 
-<sup>4</sup>In the holy state the will is free, so that its creative power is unlimited and choice is meaningless. 
-<sup>5</sup>Freedom to choose is the same power as freedom to create, but its application is different. 
-<sup>6</sup>Choosing depends on a split mind. 
-<sup>7</sup>The Holy Spirit is one way of choosing. 
-<sup>8</sup>God did not leave His children comfortless, even though they chose to leave Him. 
-<sup>9</sup>The voice they put in their minds was not the Voice for His Will, for which the Holy Spirit speaks.
+²You have chosen to be in a state of opposition in which opposites are possible. 
+³As a result, there are choices you must make. 
+⁴In the holy state the will is free, so that its creative power is unlimited and choice is meaningless. 
+⁵Freedom to choose is the same power as freedom to create, but its application is different. 
+⁶Choosing depends on a split mind. 
+⁷The Holy Spirit is one way of choosing. 
+⁸God did not leave His children comfortless, even though they chose to leave Him. 
+⁹The voice they put in their minds was not the Voice for His Will, for which the Holy Spirit speaks.
 </p>
 
 #### expanded
 
 6. The Holy Spirit calls you both to remember and to forget. 
-<sup>2</sup>You have chosen to be in a state of opposition in which [state of opposition] opposites are possible. 
-<sup>3</sup>As a result, there are choices you must make. 
-<sup>4</sup>In the holy state the will is free, so that its [the-will’s] creative power is unlimited and choice is meaningless. 
-<sup>5</sup>Freedom to choose is the same power as freedom to create, but its [freedom-to-choose’s] application is different. 
-<sup>6</sup>Choosing depends on a split mind. 
-<sup>7</sup>The Holy Spirit is one way of choosing. 
-<sup>8</sup>God did not leave His [God’s] children comfortless, even though they [God’s-children] chose to leave Him [God]. 
-<sup>9</sup>The voice they [God’s-children] put in their [God’s-children’s] minds was not the Voice for His [God’s] Will, for which [God’s-Will] the Holy Spirit speaks.
+²You have chosen to be in a state of opposition in which [state of opposition] opposites are possible. 
+³As a result, there are choices you must make. 
+⁴In the holy state the will is free, so that its [the-will’s] creative power is unlimited and choice is meaningless. 
+⁵Freedom to choose is the same power as freedom to create, but its [freedom-to-choose’s] application is different. 
+⁶Choosing depends on a split mind. 
+⁷The Holy Spirit is one way of choosing. 
+⁸God did not leave His [God’s] children comfortless, even though they [God’s-children] chose to leave Him [God]. 
+⁹The voice they [God’s-children] put in their [God’s-children’s] minds was not the Voice for His [God’s] Will, for which [God’s-Will] the Holy Spirit speaks.
 
 #### substituted
 
 6. The Holy Spirit calls you both to remember and to forget. 
-<sup>2</sup>You have chosen to be in a state of opposition, state of opposition opposites are possible. 
-<sup>3</sup>As a result, there are choices you must make. 
-<sup>4</sup>In the holy state the will is free, so that the-will’s creative power is unlimited and choice is meaningless. 
-<sup>5</sup>Freedom to choose is the same power as freedom to create, but freedom-to-choose’s application is different. 
-<sup>6</sup>Choosing depends on a split mind. 
-<sup>7</sup>The Holy Spirit is one way of choosing. 
-<sup>8</sup>God did not leave God’s children comfortless, even though God’s-children chose to leave God. 
-<sup>9</sup>The voice God’s-children put in God’s-children’s minds was not the Voice for God’s Will; for God’s-Will, the Holy Spirit speaks.
+²You have chosen to be in a state of opposition, state of opposition opposites are possible. 
+³As a result, there are choices you must make. 
+⁴In the holy state the will is free, so that the-will’s creative power is unlimited and choice is meaningless. 
+⁵Freedom to choose is the same power as freedom to create, but freedom-to-choose’s application is different. 
+⁶Choosing depends on a split mind. 
+⁷The Holy Spirit is one way of choosing. 
+⁸God did not leave God’s children comfortless, even though God’s-children chose to leave God. 
+⁹The voice God’s-children put in God’s-children’s minds was not the Voice for God’s Will; for God’s-Will, the Holy Spirit speaks.
 
 #### simplified
 
@@ -1493,54 +1493,54 @@ You chose opposition, so now you must choose the Holy Spirit. The Holy Spirit sp
 
 <p class=fip id=p7>
 1. The Voice of the Holy Spirit does not command, because It is incapable of arrogance. 
-<sup>2</sup>It does not demand, because It does not seek control. 
-<sup>3</sup>It does not overcome, because It does not attack. 
-<sup>4</sup>It merely reminds. 
-<sup>5</sup>It is compelling only because of what It reminds you <em>of</em>. 
-<sup>6</sup>It brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
-<sup>7</sup>The Voice for God is always quiet, because It speaks of peace. 
-<sup>8</sup>Peace is stronger than war because it heals. 
-<sup>9</sup>War is division, not increase. 
-<sup>10</sup>No one gains from strife. 
-<sup>11</sup>What profits it a man if he gain the whole world and lose his own soul? 
-<sup>12</sup>If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
-<sup>13</sup>You cannot lose it, but you can not know it. 
-<sup>14</sup>It is therefore ‘lost’ to you until you choose right.
+²It does not demand, because It does not seek control. 
+³It does not overcome, because It does not attack. 
+⁴It merely reminds. 
+⁵It is compelling only because of what It reminds you <em>of</em>. 
+⁶It brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
+⁷The Voice for God is always quiet, because It speaks of peace. 
+⁸Peace is stronger than war because it heals. 
+⁹War is division, not increase. 
+¹⁰No one gains from strife. 
+¹¹What profits it a man if he gain the whole world and lose his own soul? 
+¹²If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
+¹³You cannot lose it, but you can not know it. 
+¹⁴It is therefore ‘lost’ to you until you choose right.
 </p>
 
 #### expanded
 
 1. The Voice of the Holy Spirit does not command, because It [the Voice of the Holy Spirit] is incapable of arrogance. 
-<sup>2</sup>It [the Voice of the Holy Spirit] does not demand, because It [the Voice of the Holy Spirit] does not seek control. 
-<sup>3</sup>It [the Voice of the Holy Spirit] does not overcome, because It [the Voice of the Holy Spirit] does not attack. 
-<sup>4</sup>It [the Voice of the Holy Spirit] merely reminds. 
-<sup>5</sup>It [the Voice of the Holy Spirit] is compelling only because of what It [the Voice of the Holy Spirit] reminds you <em>of</em>. 
-<sup>6</sup>It [the Voice of the Holy Spirit] brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
-<sup>7</sup>The Voice for God is always quiet, because It [the Voice for God] speaks of peace. 
-<sup>8</sup>Peace is stronger than war because it [peace] heals. 
-<sup>9</sup>War is division, not increase. 
-<sup>10</sup>No one gains from strife. 
-<sup>11</sup>What profits it a man if he [a man] gain the whole world and lose his [a-man’s] own soul? 
-<sup>12</sup>If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
-<sup>13</sup>You cannot lose it [your soul], but you can not know it [your soul]. 
-<sup>14</sup>It [your soul] is therefore ‘lost’ to you until you choose right.
+²It [the Voice of the Holy Spirit] does not demand, because It [the Voice of the Holy Spirit] does not seek control. 
+³It [the Voice of the Holy Spirit] does not overcome, because It [the Voice of the Holy Spirit] does not attack. 
+⁴It [the Voice of the Holy Spirit] merely reminds. 
+⁵It [the Voice of the Holy Spirit] is compelling only because of what It [the Voice of the Holy Spirit] reminds you <em>of</em>. 
+⁶It [the Voice of the Holy Spirit] brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
+⁷The Voice for God is always quiet, because It [the Voice for God] speaks of peace. 
+⁸Peace is stronger than war because it [peace] heals. 
+⁹War is division, not increase. 
+¹⁰No one gains from strife. 
+¹¹What profits it a man if he [a man] gain the whole world and lose his [a-man’s] own soul? 
+¹²If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
+¹³You cannot lose it [your soul], but you can not know it [your soul]. 
+¹⁴It [your soul] is therefore ‘lost’ to you until you choose right.
 
 #### substituted
 
 1. The Voice of the Holy Spirit does not command, because the Voice of the Holy Spirit is incapable of arrogance. 
-<sup>2</sup>The Voice of the Holy Spirit does not demand, because the Voice of the Holy Spirit does not seek control. 
-<sup>3</sup>The Voice of the Holy Spirit does not overcome, because the Voice of the Holy Spirit does not attack. 
-<sup>4</sup>The Voice of the Holy Spirit merely reminds. 
-<sup>5</sup>The Voice of the Holy Spirit is compelling only because of what the Voice of the Holy Spirit reminds you <em>of</em>. 
-<sup>6</sup>The Voice of the Holy Spirit brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
-<sup>7</sup>The Voice for God is always quiet, because the Voice for God speaks of peace. 
-<sup>8</sup>Peace is stronger than war because peace heals. 
-<sup>9</sup>War is division, not increase. 
-<sup>10</sup>No one gains from strife. 
-<sup>11</sup>What profits it a man if a man gain the whole world and lose a-man’s own soul? 
-<sup>12</sup>If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
-<sup>13</sup>You cannot lose your soul, but you can not know your soul. 
-<sup>14</sup>Your soul is therefore ‘lost’ to you until you choose right.
+²The Voice of the Holy Spirit does not demand, because the Voice of the Holy Spirit does not seek control. 
+³The Voice of the Holy Spirit does not overcome, because the Voice of the Holy Spirit does not attack. 
+⁴The Voice of the Holy Spirit merely reminds. 
+⁵The Voice of the Holy Spirit is compelling only because of what the Voice of the Holy Spirit reminds you <em>of</em>. 
+⁶The Voice of the Holy Spirit brings to your mind the other way, remaining quiet even in the midst of the turmoil you may make. 
+⁷The Voice for God is always quiet, because the Voice for God speaks of peace. 
+⁸Peace is stronger than war because peace heals. 
+⁹War is division, not increase. 
+¹⁰No one gains from strife. 
+¹¹What profits it a man if a man gain the whole world and lose a-man’s own soul? 
+¹²If you listen to the wrong voice you <em>have</em> lost sight of your soul. 
+¹³You cannot lose your soul, but you can not know your soul. 
+¹⁴Your soul is therefore ‘lost’ to you until you choose right.
 
 #### simplified
 
@@ -1550,48 +1550,48 @@ The Voice of the Holy Spirit reminds you of God. The Voice for God speaks for pe
 
 <p class=fip id=p8>
 8. The Holy Spirit is your Guide in choosing. 
-<sup>2</sup>He is in the part of your mind that always speaks for the right choice, because He speaks for God. 
-<sup>3</sup>He is your remaining communication with God, which you can interrupt but cannot destroy. 
-<sup>4</sup>The Holy Spirit is the way in which God’s Will is done on earth as it is in Heaven. 
-<sup>5</sup>Both Heaven and earth are in you, because the call of both is in your mind. 
-<sup>6</sup>The Voice for God comes from your own altars to Him. 
-<sup>7</sup>These altars are not things; they are devotions. 
-<sup>8</sup>Yet you have other devotions now. 
-<sup>9</sup>Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
-<sup>10</sup>The call you answer now is an evaluation because it is a decision. 
-<sup>11</sup>The decision is very simple. 
-<sup>12</sup>It is made on the basis of which call is worth more to you.
+²He is in the part of your mind that always speaks for the right choice, because He speaks for God. 
+³He is your remaining communication with God, which you can interrupt but cannot destroy. 
+⁴The Holy Spirit is the way in which God’s Will is done on earth as it is in Heaven. 
+⁵Both Heaven and earth are in you, because the call of both is in your mind. 
+⁶The Voice for God comes from your own altars to Him. 
+⁷These altars are not things; they are devotions. 
+⁸Yet you have other devotions now. 
+⁹Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
+¹⁰The call you answer now is an evaluation because it is a decision. 
+¹¹The decision is very simple. 
+¹²It is made on the basis of which call is worth more to you.
 </p>
 
 #### expanded
 
 8. The Holy Spirit is your Guide in choosing. 
-<sup>2</sup>He [the Holy Spirit] is in the part of your mind that always speaks for the right choice, because He [the Holy Spirit] speaks for God. 
-<sup>3</sup>He [the Holy Spirit] is your remaining communication with God, which you can interrupt but cannot destroy. 
-<sup>4</sup>The Holy Spirit is the way in which [way] God’s Will is done on earth as it [God’s-Will] is [done] in Heaven. 
-<sup>5</sup>Both Heaven and earth are in you, because the call of both [Heaven and earth] is in your mind. 
-<sup>6</sup>The Voice for God comes from your own altars to Him [God]. 
-<sup>7</sup>These altars [your own altars to God] are not things; they [your own altars to God] are devotions. 
-<sup>8</sup>Yet you have other devotions now. 
-<sup>9</sup>Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
-<sup>10</sup>The call you answer now is an evaluation because it [the call you answer now] is a decision. 
-<sup>11</sup>The decision is very simple. 
-<sup>12</sup>It [the decision] is made on the basis of which call is worth more to you.
+²He [the Holy Spirit] is in the part of your mind that always speaks for the right choice, because He [the Holy Spirit] speaks for God. 
+³He [the Holy Spirit] is your remaining communication with God, which you can interrupt but cannot destroy. 
+⁴The Holy Spirit is the way in which [way] God’s Will is done on earth as it [God’s-Will] is [done] in Heaven. 
+⁵Both Heaven and earth are in you, because the call of both [Heaven and earth] is in your mind. 
+⁶The Voice for God comes from your own altars to Him [God]. 
+⁷These altars [your own altars to God] are not things; they [your own altars to God] are devotions. 
+⁸Yet you have other devotions now. 
+⁹Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
+¹⁰The call you answer now is an evaluation because it [the call you answer now] is a decision. 
+¹¹The decision is very simple. 
+¹²It [the decision] is made on the basis of which call is worth more to you.
 
 #### substituted
 
 8. The Holy Spirit is your Guide in choosing. 
-<sup>2</sup>The Holy Spirit is in the part of your mind that always speaks for the right choice, because the Holy Spirit speaks for God. 
-<sup>3</sup>The Holy Spirit is your remaining communication with God, which you can interrupt but cannot destroy. 
-<sup>4</sup>The Holy Spirit is the way, in the Holy Spirit’s way, God’s Will is done on earth as God’s-Will is done in Heaven. 
-<sup>5</sup>Both Heaven and earth are in you, because the call of Heaven and earth is in your mind. 
-<sup>6</sup>The Voice for God comes from your own altars to God. 
-<sup>7</sup>Your own altars to God are not things; your own altars to God are devotions. 
-<sup>8</sup>Yet you have other devotions now. 
-<sup>9</sup>Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
-<sup>10</sup>The call you answer now is an evaluation because the call you answer now is a decision. 
-<sup>11</sup>The decision is very simple. 
-<sup>12</sup>The decision is made on the basis of which call is worth more to you.
+²The Holy Spirit is in the part of your mind that always speaks for the right choice, because the Holy Spirit speaks for God. 
+³The Holy Spirit is your remaining communication with God, which you can interrupt but cannot destroy. 
+⁴The Holy Spirit is the way, in the Holy Spirit’s way, God’s Will is done on earth as God’s-Will is done in Heaven. 
+⁵Both Heaven and earth are in you, because the call of Heaven and earth is in your mind. 
+⁶The Voice for God comes from your own altars to God. 
+⁷Your own altars to God are not things; your own altars to God are devotions. 
+⁸Yet you have other devotions now. 
+⁹Your divided devotion has given you the two voices, and you must choose at which altar you want to serve. 
+¹⁰The call you answer now is an evaluation because the call you answer now is a decision. 
+¹¹The decision is very simple. 
+¹²The decision is made on the basis of which call is worth more to you.
 
 #### simplified
 
@@ -1601,33 +1601,33 @@ The Holy Spirit speaks for God. The Holy Spirit is the way for you to do God’s
 
 <p class=fip id=p9>
 9. My mind will always be like yours, because we were created as equals. 
-<sup>2</sup>It was only my decision that gave me all power in Heaven and earth. 
-<sup>3</sup>My only gift to you is to help you make the same decision. 
-<sup>4</sup>This decision is the choice to share it, because the decision itself <em>is</em> the decision to share. 
-<sup>5</sup>It is made by giving, and is therefore the one choice that resembles true creation. 
-<sup>6</sup>I am your model for decision. 
-<sup>7</sup>By deciding for God I showed you that this decision can be made, and that you can make it.
+²It was only my decision that gave me all power in Heaven and earth. 
+³My only gift to you is to help you make the same decision. 
+⁴This decision is the choice to share it, because the decision itself <em>is</em> the decision to share. 
+⁵It is made by giving, and is therefore the one choice that resembles true creation. 
+⁶I am your model for decision. 
+⁷By deciding for God I showed you that this decision can be made, and that you can make it.
 </p>
 
 #### expanded
 
 9. My mind will always be like yours [mind], because we were created as equals. 
-<sup>2</sup>It was only my decision that gave me all power in Heaven and earth. 
-<sup>3</sup>My only gift to you is to help you make the same decision. 
-<sup>4</sup>This decision is the choice to share it [all power in Heaven and earth], because the decision itself [decision’s-self] <em>is</em> the decision to share. 
-<sup>5</sup>It [the decision to share] is made by giving, and is therefore the one choice that resembles true creation. 
-<sup>6</sup>I am your model for decision. 
-<sup>7</sup>By deciding for God I showed you that this decision [for God] can be made, and that you can make it [the decision for God].
+²It was only my decision that gave me all power in Heaven and earth. 
+³My only gift to you is to help you make the same decision. 
+⁴This decision is the choice to share it [all power in Heaven and earth], because the decision itself [decision’s-self] <em>is</em> the decision to share. 
+⁵It [the decision to share] is made by giving, and is therefore the one choice that resembles true creation. 
+⁶I am your model for decision. 
+⁷By deciding for God I showed you that this decision [for God] can be made, and that you can make it [the decision for God].
 
 #### substituted
 
 9. My mind will always be like your mind, because we were created as equals. 
-<sup>2</sup>It was only my decision that gave me all power in Heaven and earth. 
-<sup>3</sup>My only gift to you is to help you make the same decision. 
-<sup>4</sup>This decision is the choice to share all power in Heaven and earth, because the decision decision’s-self <em>is</em> the decision to share. 
-<sup>5</sup>The decision to share is made by giving, and is therefore the one choice that resembles true creation. 
-<sup>6</sup>I am your model for decision. 
-<sup>7</sup>By deciding for God I showed you that the decision for God can be made, and that you can make the decision for God.
+²It was only my decision that gave me all power in Heaven and earth. 
+³My only gift to you is to help you make the same decision. 
+⁴This decision is the choice to share all power in Heaven and earth, because the decision decision’s-self <em>is</em> the decision to share. 
+⁵The decision to share is made by giving, and is therefore the one choice that resembles true creation. 
+⁶I am your model for decision. 
+⁷By deciding for God I showed you that the decision for God can be made, and that you can make the decision for God.
 
 #### simplified
 
@@ -1637,42 +1637,42 @@ I decided to share all power in Heaven and earth with you. You can share this po
 
 <p class=fip id=p10>
 10. I have assured you that the Mind that decided for me is also in you, and that you can let it change you just as it changed me. 
-<sup>2</sup>This Mind is unequivocal, because it hears only one Voice and answers in only one way. 
-<sup>3</sup>You are the light of the world with me. 
-<sup>4</sup>Rest does not come from sleeping but from waking. 
-<sup>5</sup>The Holy Spirit is the Call to awaken and be glad. 
-<sup>6</sup>The world is very tired, because it is the idea of weariness. 
-<sup>7</sup>Our task is the joyous one of waking it to the Call for God. 
-<sup>8</sup>Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
-<sup>9</sup>What better vocation could there be for any part of the Kingdom than to restore it to the perfect integration that can make it whole? 
-<sup>10</sup>Hear only this through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
+²This Mind is unequivocal, because it hears only one Voice and answers in only one way. 
+³You are the light of the world with me. 
+⁴Rest does not come from sleeping but from waking. 
+⁵The Holy Spirit is the Call to awaken and be glad. 
+⁶The world is very tired, because it is the idea of weariness. 
+⁷Our task is the joyous one of waking it to the Call for God. 
+⁸Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
+⁹What better vocation could there be for any part of the Kingdom than to restore it to the perfect integration that can make it whole? 
+¹⁰Hear only this through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
 </p>
 
 #### expanded
 
 10. I have assured you that the Mind that decided for me is also in you, and that you can let it [the Mind that decided for me] change you just as it [the Mind that decided for me] changed me. 
-<sup>2</sup>This Mind [that decided for me] is unequivocal, because it [the mind that decided for me] hears only one Voice and answers in only one way. 
-<sup>3</sup>You are the light of the world with me. 
-<sup>4</sup>Rest does not come from sleeping but from waking. 
-<sup>5</sup>The Holy Spirit is the Call to awaken and be glad. 
-<sup>6</sup>The world is very tired, because it [the world] is the idea of weariness. 
-<sup>7</sup>Our task is the joyous one [task] of waking it [the world] to the Call for God. 
-<sup>8</sup>Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
-<sup>9</sup>What better vocation could there be for any part of the Kingdom than to restore it [a part of the Kingdom] to the perfect integration that can make it [the Kingdom] whole? 
-<sup>10</sup>Hear only this [the vocation to restore the Kingdom] through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
+²This Mind [that decided for me] is unequivocal, because it [the mind that decided for me] hears only one Voice and answers in only one way. 
+³You are the light of the world with me. 
+⁴Rest does not come from sleeping but from waking. 
+⁵The Holy Spirit is the Call to awaken and be glad. 
+⁶The world is very tired, because it [the world] is the idea of weariness. 
+⁷Our task is the joyous one [task] of waking it [the world] to the Call for God. 
+⁸Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
+⁹What better vocation could there be for any part of the Kingdom than to restore it [a part of the Kingdom] to the perfect integration that can make it [the Kingdom] whole? 
+¹⁰Hear only this [the vocation to restore the Kingdom] through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
 
 #### substituted
 
 10. I have assured you that the Mind that decided for me is also in you, and that you can let the Mind that decided for me change you, just as the Mind that decided for me changed me. 
-<sup>2</sup>The Mind that decided for me is unequivocal, because the mind that decided for me hears only one Voice and answers in only one way. 
-<sup>3</sup>You are the light of the world with me. 
-<sup>4</sup>Rest does not come from sleeping but from waking. 
-<sup>5</sup>The Holy Spirit is the Call to awaken and be glad. 
-<sup>6</sup>The world is very tired, because the world is the idea of weariness. 
-<sup>7</sup>Our task is the joyous task of waking the world to the Call for God. 
-<sup>8</sup>Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
-<sup>9</sup>What better vocation could there be for any part of the Kingdom, than to restore a part of the Kingdom to the perfect integration that can make the Kingdom whole? 
-<sup>10</sup>Hear only the vocation to restore the Kingdom, through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
+²The Mind that decided for me is unequivocal, because the mind that decided for me hears only one Voice and answers in only one way. 
+³You are the light of the world with me. 
+⁴Rest does not come from sleeping but from waking. 
+⁵The Holy Spirit is the Call to awaken and be glad. 
+⁶The world is very tired, because the world is the idea of weariness. 
+⁷Our task is the joyous task of waking the world to the Call for God. 
+⁸Everyone will answer the Call of the Holy Spirit, or the Sonship cannot be as One. 
+⁹What better vocation could there be for any part of the Kingdom, than to restore a part of the Kingdom to the perfect integration that can make the Kingdom whole? 
+¹⁰Hear only the vocation to restore the Kingdom, through the Holy Spirit within you, and teach your brothers to listen as I am teaching you.
 
 #### simplified
 
@@ -1682,24 +1682,24 @@ The Holy Spirit decided for me and changed me. The same Mind can decide for you.
 
 <p class=fip id=11>
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making it stronger. 
-<sup>2</sup>As we share this goal, we increase its power to attract the whole Sonship, and to bring it back into the oneness in which it was created. 
-<sup>3</sup>Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
-<sup>4</sup>Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
+²As we share this goal, we increase its power to attract the whole Sonship, and to bring it back into the oneness in which it was created. 
+³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 </p>
 
 #### expanded
 
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making it [my decision] stronger. 
-<sup>2</sup>As we share this goal [of making my decision stronger], we increase its [my-decision’s] power to attract the whole Sonship, and to bring it [the whole Sonship] back into the oneness in which it [the Sonship] was created. 
-<sup>3</sup>Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
-<sup>4</sup>Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
+²As we share this goal [of making my decision stronger], we increase its [my-decision’s] power to attract the whole Sonship, and to bring it [the whole Sonship] back into the oneness in which it [the Sonship] was created. 
+³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 
 #### substituted
 
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making my decision stronger. 
-<sup>2</sup>As we share the goal of making my decision stronger, we increase my-decision’s power to attract the whole Sonship, and to bring the whole Sonship back into the oneness in which the Sonship was created. 
-<sup>3</sup>Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
-<sup>4</sup>Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
+²As we share the goal of making my decision stronger, we increase my-decision’s power to attract the whole Sonship, and to bring the whole Sonship back into the oneness in which the Sonship was created. 
+³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 
 #### simplified
 
@@ -1709,30 +1709,30 @@ Call on me to remind you how to share my decision. By sharing my decision we mak
 
 <p class=fip id=p12>
 12. I have enjoined you to behave as I behaved, but we must respond to the same Mind to do this. 
-<sup>2</sup>This Mind is the Holy Spirit, Whose Will is for God always. 
-<sup>3</sup>He teaches you how to keep me as the model for your thought, and to behave like me as a result. 
-<sup>4</sup>The power of our joint motivation is beyond belief, but not beyond accomplishment. 
-<sup>5</sup>What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
-<sup>6</sup>Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
+²This Mind is the Holy Spirit, Whose Will is for God always. 
+³He teaches you how to keep me as the model for your thought, and to behave like me as a result. 
+⁴The power of our joint motivation is beyond belief, but not beyond accomplishment. 
+⁵What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
+⁶Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
 </p>
 
 #### expanded
 
 12. I have enjoined you to behave as I behaved, but we must respond to the same Mind to do this [behave the same way]. 
-<sup>2</sup>This Mind [to which we must respond] is the Holy Spirit, Whose [the-Holy-Spirit’s] Will is for God always. 
-<sup>3</sup>He [the Holy Spirit] teaches you how to keep me as the model for your thought, and to behave like me as a result. 
-<sup>4</sup>The power of our joint motivation is beyond belief, but not beyond accomplishment. 
-<sup>5</sup>What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
-<sup>6</sup>Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
+²This Mind [to which we must respond] is the Holy Spirit, Whose [the-Holy-Spirit’s] Will is for God always. 
+³He [the Holy Spirit] teaches you how to keep me as the model for your thought, and to behave like me as a result. 
+⁴The power of our joint motivation is beyond belief, but not beyond accomplishment. 
+⁵What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
+⁶Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
 
 #### substituted
 
 12. I have enjoined you to behave as I behaved, but we must respond to the same Mind to do behave the same way. 
-<sup>2</sup>The Mind to which we must respond is the Holy Spirit; the-Holy-Spirit’s Will is for God always. 
-<sup>3</sup>The Holy Spirit teaches you how to keep me as the model for your thought, and to behave like me as a result. 
-<sup>4</sup>The power of our joint motivation is beyond belief, but not beyond accomplishment. 
-<sup>5</sup>What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
-<sup>6</sup>Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
+²The Mind to which we must respond is the Holy Spirit; the-Holy-Spirit’s Will is for God always. 
+³The Holy Spirit teaches you how to keep me as the model for your thought, and to behave like me as a result. 
+⁴The power of our joint motivation is beyond belief, but not beyond accomplishment. 
+⁵What we can accomplish together has no limits, because the Call for God is the Call to the unlimited. 
+⁶Child of God, my message is for you, to hear and give away as you answer the Holy Spirit within you.
 
 #### simplified
 
@@ -1744,27 +1744,27 @@ Behave as I have behaved. Respond to the same Mind I responded to. The Mind is t
 
 <p class=fip id=p1>
 1. The way to recognise your brother is by recognising the Holy Spirit in him. 
-<sup>2</sup>I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms as if they were related, because in His Mind they are. 
-<sup>3</sup>This relationship must be in His Mind because, unless it were, the separation between the two ways of thinking would not be open to healing. 
-<sup>4</sup>He is part of the Holy Trinity, because His Mind is partly yours and also partly God’s. 
-<sup>5</sup>This needs clarification, not in statement but in experience.
+²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms as if they were related, because in His Mind they are. 
+³This relationship must be in His Mind because, unless it were, the separation between the two ways of thinking would not be open to healing. 
+⁴He is part of the Holy Trinity, because His Mind is partly yours and also partly God’s. 
+⁵This needs clarification, not in statement but in experience.
 </p>
 
 #### expanded
 
 1. The way to recognise your brother is by recognising the Holy Spirit in him [your brother]. 
-<sup>2</sup>I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms [perception and knowledge] as if they [perception and knowledge] were related, because in His [the Holy Spirit’s] Mind they [perception and knowldege] are [related]. 
-<sup>3</sup>This relationship [of perception and knowledge] must be in His [the Holy Spirit’s] Mind because, unless it [the relationship of perception and knowledge] were [in the Holy Spirit’s Mind], the separation between the two ways of thinking would not be open to healing. 
-<sup>4</sup>He [the Holy Spirit] is part of the Holy Trinity, because His [the Holy Spirit’s] Mind is partly yours [mind] and also partly God’s [Mind]. 
-<sup>5</sup>This [the Holy Spirit’s Mind is partly your mind and partly God’s Mind] needs clarification, not in statement but in experience.
+²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms [perception and knowledge] as if they [perception and knowledge] were related, because in His [the Holy Spirit’s] Mind they [perception and knowldege] are [related]. 
+³This relationship [of perception and knowledge] must be in His [the Holy Spirit’s] Mind because, unless it [the relationship of perception and knowledge] were [in the Holy Spirit’s Mind], the separation between the two ways of thinking would not be open to healing. 
+⁴He [the Holy Spirit] is part of the Holy Trinity, because His [the Holy Spirit’s] Mind is partly yours [mind] and also partly God’s [Mind]. 
+⁵This [the Holy Spirit’s Mind is partly your mind and partly God’s Mind] needs clarification, not in statement but in experience.
 
 #### substituted
 
 1. The way to recognise your brother is by recognising the Holy Spirit in your brother. 
-<sup>2</sup>I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use perception-and-knowledge as if perception-and-knowledge were related, because in the-Holy-Spirit’s Mind perception-and-=knowldege are related. 
-<sup>3</sup>The relationship of perception-and-knowledge must be in the-Holy-Spirit’s Mind because, unless the relationship of perception-and-knowledge were in the-Holy-Spirit’s Mind, the separation between the two ways of thinking would not be open to healing. 
-<sup>4</sup>The Holy Spirit is part of the Holy Trinity, because the-Holy-Spirit’s Mind is partly your mind and also partly God’s Mind. 
-<sup>5</sup>That the-Holy-Spirit’s Mind is partly your mind and partly God’s Mind, needs clarification, not in statement but in experience.
+²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use perception-and-knowledge as if perception-and-knowledge were related, because in the-Holy-Spirit’s Mind perception-and-=knowldege are related. 
+³The relationship of perception-and-knowledge must be in the-Holy-Spirit’s Mind because, unless the relationship of perception-and-knowledge were in the-Holy-Spirit’s Mind, the separation between the two ways of thinking would not be open to healing. 
+⁴The Holy Spirit is part of the Holy Trinity, because the-Holy-Spirit’s Mind is partly your mind and also partly God’s Mind. 
+⁵That the-Holy-Spirit’s Mind is partly your mind and partly God’s Mind, needs clarification, not in statement but in experience.
 
 #### simplified
 
@@ -1774,42 +1774,42 @@ You recognise your brother by recognising the Holy Spirit in him. The Holy Spiri
 
 <p class=fip id=p2>
 2. The Holy Spirit is the idea of healing. 
-<sup>2</sup>Being thought, the idea gains as it is shared. 
-<sup>3</sup>Being the Call <em>for</em> God, it is also the idea <em>of</en> God. 
-<sup>4</sup>Since you are part of God it is also the idea of yourself, as well as of all His creations. 
-<sup>5</sup>The idea of the Holy Spirit shares the property of other ideas because it follows the laws of the universe of which it is a part. 
-<sup>6</sup>It is strengthened by being given away. 
-<sup>7</sup>It increases in you as you give it to your brother. 
-<sup>8</sup>Your brother does not have to be aware of the Holy Spirit in himself or in you for this miracle to occur. 
-<sup>9</sup>He may have dissociated the Call for God, just as you have. 
-<sup>10</sup>This dissociation is healed in both of you as you become aware of the Call for God in him, and thus acknowledge Its being.
+²Being thought, the idea gains as it is shared. 
+³Being the Call <em>for</em> God, it is also the idea <em>of</en> God. 
+⁴Since you are part of God it is also the idea of yourself, as well as of all His creations. 
+⁵The idea of the Holy Spirit shares the property of other ideas because it follows the laws of the universe of which it is a part. 
+⁶It is strengthened by being given away. 
+⁷It increases in you as you give it to your brother. 
+⁸Your brother does not have to be aware of the Holy Spirit in himself or in you for this miracle to occur. 
+⁹He may have dissociated the Call for God, just as you have. 
+¹⁰This dissociation is healed in both of you as you become aware of the Call for God in him, and thus acknowledge Its being.
 </p>
 
 ### expanded
 
 2. The Holy Spirit is the idea of healing. 
-<sup>2</sup>Being thought, the idea gains as it [the idea] is shared. 
-<sup>3</sup>Being the Call <em>for</em> God, it [the idea] is also the idea <em>of</en> God. 
-<sup>4</sup>Since you are part of God it [the idea] is also the idea of yourself, as well as [the idea] of all His [God’s] creations. 
-<sup>5</sup>The idea of the Holy Spirit shares the property of other ideas because it [the idea of the Holy Spirit] follows the laws of the universe of which it [the idea of the Holy Spirit] is a part. 
-<sup>6</sup>It [the idea of the Holy Spirit] is strengthened by being given away. 
-<sup>7</sup>It [the idea of the Holy Spirit] increases in you as you give it [the idea of the Holy Spirit] to your brother. 
-<sup>8</sup>Your brother does not have to be aware of the Holy Spirit in himself [your brother’s self] or [be aware of the Holy Spirit] in you for this miracle [of the Holy Spirit increasing] to occur. 
-<sup>9</sup>He [your brother] may have dissociated the Call for God, just as you have [dissociated the Call for God]. 
-<sup>10</sup>This dissociation [of the Call for God] is healed in both of you as you become aware of the Call for God in him [your brother], and thus acknowledge Its [the Call for God’s] being.
+²Being thought, the idea gains as it [the idea] is shared. 
+³Being the Call <em>for</em> God, it [the idea] is also the idea <em>of</en> God. 
+⁴Since you are part of God it [the idea] is also the idea of yourself, as well as [the idea] of all His [God’s] creations. 
+⁵The idea of the Holy Spirit shares the property of other ideas because it [the idea of the Holy Spirit] follows the laws of the universe of which it [the idea of the Holy Spirit] is a part. 
+⁶It [the idea of the Holy Spirit] is strengthened by being given away. 
+⁷It [the idea of the Holy Spirit] increases in you as you give it [the idea of the Holy Spirit] to your brother. 
+⁸Your brother does not have to be aware of the Holy Spirit in himself [your brother’s self] or [be aware of the Holy Spirit] in you for this miracle [of the Holy Spirit increasing] to occur. 
+⁹He [your brother] may have dissociated the Call for God, just as you have [dissociated the Call for God]. 
+¹⁰This dissociation [of the Call for God] is healed in both of you as you become aware of the Call for God in him [your brother], and thus acknowledge Its [the Call for God’s] being.
 
 ### substituted
 
 2. The Holy Spirit is the idea of healing. 
-<sup>2</sup>Being thought, the idea gains as the idea is shared. 
-<sup>3</sup>Being the Call <em>for</em> God, the idea is also the idea <em>of</en> God. 
-<sup>4</sup>Since you are part of God, the idea is also the idea of yourself, as well as the idea of all God’s creations. 
-<sup>5</sup>The idea of the Holy Spirit shares the property of other ideas, because the idea of the Holy Spirit follows the laws of the universe of which the idea of the Holy Spirit is a part. 
-<sup>6</sup>The idea of the Holy Spirit is strengthened by being given away. 
-<sup>7</sup>The idea of the Holy Spirit increases in you as you give the idea of the Holy Spirit to your brother. 
-<sup>8</sup>Your brother does not have to be aware of the Holy Spirit in your-brother’s-self, or be aware of the Holy Spirit in you, for the miracle of the Holy Spirit increasing to occur. 
-<sup>9</sup>Your brother may have dissociated the Call for God, just as you have dissociated the Call for God. 
-<sup>10</sup>The dissociation of the Call for God, is healed in both of you, as you become aware of the Call for God in your brother, and thus acknowledge the-Call-for-God’s being.
+²Being thought, the idea gains as the idea is shared. 
+³Being the Call <em>for</em> God, the idea is also the idea <em>of</en> God. 
+⁴Since you are part of God, the idea is also the idea of yourself, as well as the idea of all God’s creations. 
+⁵The idea of the Holy Spirit shares the property of other ideas, because the idea of the Holy Spirit follows the laws of the universe of which the idea of the Holy Spirit is a part. 
+⁶The idea of the Holy Spirit is strengthened by being given away. 
+⁷The idea of the Holy Spirit increases in you as you give the idea of the Holy Spirit to your brother. 
+⁸Your brother does not have to be aware of the Holy Spirit in your-brother’s-self, or be aware of the Holy Spirit in you, for the miracle of the Holy Spirit increasing to occur. 
+⁹Your brother may have dissociated the Call for God, just as you have dissociated the Call for God. 
+¹⁰The dissociation of the Call for God, is healed in both of you, as you become aware of the Call for God in your brother, and thus acknowledge the-Call-for-God’s being.
 
 ### simplified
 
@@ -1819,25 +1819,25 @@ The Holy Spirit is the Call for God. The Call for God is an idea. Ideas gain whe
 
 <p class=fip id=p3>
 3. There are two diametrically opposed ways of seeing your brother. 
-<sup>2</sup>They must both be in your mind, because you are the perceiver. 
-<sup>3</sup>They must also be in his, because you are perceiving him. 
-<sup>4</sup>See him through the Holy Spirit in his mind, and you will recognise Him in yours. 
-<sup>5</sup>What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
+²They must both be in your mind, because you are the perceiver. 
+³They must also be in his, because you are perceiving him. 
+⁴See him through the Holy Spirit in his mind, and you will recognise Him in yours. 
+⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 </p>
 
 ### expanded
 3. There are two diametrically opposed ways of seeing your brother. 
-<sup>2</sup>They [the ways of seeing your brother] must both be in your mind, because you are the perceiver. 
-<sup>3</sup>They [the ways of seeing your brother] must also be in his [your brother’s mind], because you are perceiving him [your brother]. 
-<sup>4</sup>See him [your brother] through the Holy Spirit in his [your brother’s] mind, and you will recognise Him [the Holy Spirit] in yours [mind]. 
-<sup>5</sup>What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
+²They [the ways of seeing your brother] must both be in your mind, because you are the perceiver. 
+³They [the ways of seeing your brother] must also be in his [your brother’s mind], because you are perceiving him [your brother]. 
+⁴See him [your brother] through the Holy Spirit in his [your brother’s] mind, and you will recognise Him [the Holy Spirit] in yours [mind]. 
+⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 
 ### substituted
 3. There are two diametrically opposed ways of seeing your brother. 
-<sup>2</sup>The ways of seeing your brother must both be in your mind, because you are the perceiver. 
-<sup>3</sup>The ways of seeing your brother must also be in your-brother’s mind, because you are perceiving him [your brother]. 
-<sup>4</sup>See your brother through the Holy Spirit in your brother’s mind, and you will recognise the Holy Spirit in your mind. 
-<sup>5</sup>What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
+²The ways of seeing your brother must both be in your mind, because you are the perceiver. 
+³The ways of seeing your brother must also be in your-brother’s mind, because you are perceiving him [your brother]. 
+⁴See your brother through the Holy Spirit in your brother’s mind, and you will recognise the Holy Spirit in your mind. 
+⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 
 ### simplified
 
@@ -1850,31 +1850,31 @@ You can see your brother through the Holy Spirit or not. If you see your brother
 
 <p class=fip id=p1>
 1. To heal is to make happy. 
-<sup>2</sup>I have told you to think how many opportunities you have had to gladden yourself, and how many you have refused. 
-<sup>3</sup>This is the same as telling you that you have refused to heal yourself. 
-<sup>4</sup>The light that belongs to you is the light of joy. 
-<sup>5</sup>Radiance is not associated with sorrow. 
-<sup>6</sup>Joy calls forth an integrated willingness to share it, and promotes the mind’s natural impulse to respond as one. 
-<sup>7</sup>Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
+²I have told you to think how many opportunities you have had to gladden yourself, and how many you have refused. 
+³This is the same as telling you that you have refused to heal yourself. 
+⁴The light that belongs to you is the light of joy. 
+⁵Radiance is not associated with sorrow. 
+⁶Joy calls forth an integrated willingness to share it, and promotes the mind’s natural impulse to respond as one. 
+⁷Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
 </p>
 
 #### expanded
 1. To heal is to make happy. 
-<sup>2</sup>I have told you to think how many opportunities you have had to gladden yourself, and how many [opportunities to gladden yourself] you have refused. 
-<sup>3</sup>This [telling you how many opportunities to gladden yourself you have refused] is the same as telling you that you have refused to heal yourself. 
-<sup>4</sup>The light that belongs to you is the light of joy. 
-<sup>5</sup>Radiance is not associated with sorrow. 
-<sup>6</sup>Joy calls forth an integrated willingness to share it [joy], and promotes the mind’s natural impulse to respond as one. 
-<sup>7</sup>Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
+²I have told you to think how many opportunities you have had to gladden yourself, and how many [opportunities to gladden yourself] you have refused. 
+³This [telling you how many opportunities to gladden yourself you have refused] is the same as telling you that you have refused to heal yourself. 
+⁴The light that belongs to you is the light of joy. 
+⁵Radiance is not associated with sorrow. 
+⁶Joy calls forth an integrated willingness to share it [joy], and promotes the mind’s natural impulse to respond as one. 
+⁷Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
 
 #### substituted
 1. To heal is to make happy. 
-<sup>2</sup>I have told you to think how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused. 
-<sup>3</sup>Telling you how many opportunities to gladden yourself you have refused, is the same as telling you that you have refused to heal yourself. 
-<sup>4</sup>The light that belongs to you is the light of joy. 
-<sup>5</sup>Radiance is not associated with sorrow. 
-<sup>6</sup>Joy calls forth an integrated willingness to share joy, and promotes the mind’s natural impulse to respond as one. 
-<sup>7</sup>Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
+²I have told you to think how many opportunities you have had to gladden yourself, and how many opportunities to gladden yourself you have refused. 
+³Telling you how many opportunities to gladden yourself you have refused, is the same as telling you that you have refused to heal yourself. 
+⁴The light that belongs to you is the light of joy. 
+⁵Radiance is not associated with sorrow. 
+⁶Joy calls forth an integrated willingness to share joy, and promotes the mind’s natural impulse to respond as one. 
+⁷Those who attempt to heal without being wholly joyous themselves call forth different kinds of responses at the same time, and thus deprive others of the joy of responding wholeheartedly.
 
 #### simplified
 
@@ -1884,33 +1884,33 @@ You can make yourself happy by healing yourself. With this joy you can heal othe
 
 <p class=fip id=p2>
 2. To be wholehearted you must be happy. 
-<sup>2</sup>If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that of love. 
-<sup>3</sup>There is no difference between love and joy. 
-<sup>4</sup>Therefore, the only possible whole state is the wholly joyous. 
-<sup>5</sup>To heal or to make joyous is therefore the same as to integrate and to make one. 
-<sup>6</sup>That is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
-<sup>7</sup>Every part benefits, and benefits equally.
+²If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that of love. 
+³There is no difference between love and joy. 
+⁴Therefore, the only possible whole state is the wholly joyous. 
+⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
+⁶That is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
+⁷Every part benefits, and benefits equally.
 </p>
 
 #### expanded
 
 2. To be wholehearted you must be happy. 
-<sup>2</sup>If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that [a state] of love. 
-<sup>3</sup>There is no difference between love and joy. 
-<sup>4</sup>Therefore, the only possible whole state is the wholly joyous [state]. 
-<sup>5</sup>To heal or to make joyous is therefore the same as to integrate and to make one. 
-<sup>6</sup>That [healing/making joyous is integrating/making one] is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
-<sup>7</sup>Every part [of the Sonship] benefits, and benefits equally.
+²If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that [a state] of love. 
+³There is no difference between love and joy. 
+⁴Therefore, the only possible whole state is the wholly joyous [state]. 
+⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
+⁶That [healing/making joyous is integrating/making one] is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
+⁷Every part [of the Sonship] benefits, and benefits equally.
 
 #### substituted
 
 2. To be wholehearted you must be happy. 
-<sup>2</sup>If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is a state of love. 
-<sup>3</sup>There is no difference between love and joy. 
-<sup>4</sup>Therefore, the only possible whole state is the wholly joyous state. 
-<sup>5</sup>To heal or to make joyous is therefore the same as to integrate and to make one. 
-<sup>6</sup>Healing/making joyous is integrating/making one — is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
-<sup>7</sup>Every part of the Sonship benefits, and benefits equally.
+²If fear and love cannot co-exist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is a state of love. 
+³There is no difference between love and joy. 
+⁴Therefore, the only possible whole state is the wholly joyous state. 
+⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
+⁶Healing/making joyous is integrating/making one — is why it makes no difference to what part or by what part of the Sonship the healing is offered. 
+⁷Every part of the Sonship benefits, and benefits equally.
 
 #### simplified
 
@@ -1920,36 +1920,36 @@ Your only possible state is a state of love and joy. Everyone benefits whenever 
 
 <p class=fip id=p3>
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
-<sup>2</sup>You should want to bless them in return, out of gratitude. 
-<sup>3</sup>You need not know them individually, or they you. 
-<sup>4</sup>The light is so strong that it radiates throughout the Sonship and returns thanks to the Father for radiating His joy upon it. 
-<sup>5</sup>Only God’s holy children are worthy channels of His beautiful joy, because only they are beautiful enough to hold it by sharing it. 
-<sup>6</sup>It is impossible for a child of God to love his neighbor except as himself. 
-<sup>7</sup>That is why the healer’s prayer is:
-<span class=course-quote><sup>8</sup>Let me know this brother as I know myself.</span>
+²You should want to bless them in return, out of gratitude. 
+³You need not know them individually, or they you. 
+⁴The light is so strong that it radiates throughout the Sonship and returns thanks to the Father for radiating His joy upon it. 
+⁵Only God’s holy children are worthy channels of His beautiful joy, because only they are beautiful enough to hold it by sharing it. 
+⁶It is impossible for a child of God to love his neighbor except as himself. 
+⁷That is why the healer’s prayer is:
+<span class=course-quote>⁸Let me know this brother as I know myself.</span>
 </p>
 
 #### expanded
 
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
-<sup>2</sup>You should want to bless them [your brothers] in return, out of gratitude. 
-<sup>3</sup>You need not know them [your brothers] individually, or they [your brothers know] you. 
-<sup>4</sup>The light is so strong that it [the light] radiates throughout the Sonship and returns thanks to the Father for radiating His [the Father’s] joy upon it [the Sonship]. 
-<sup>5</sup>Only God’s holy children are worthy channels of His [God’s] beautiful joy, because only they [God’s-holy-children] are beautiful enough to hold it [God’s-beautiful-joy] by sharing it [God’s-beautiful-joy]. 
-<sup>6</sup>It is impossible for a child of God to love his [a-child-of-God’s] neighbour except as himself [a-child-of-God’s-self]. 
-<sup>7</sup>That is why the healer’s prayer is:
-<span class=course-quote><sup>8</sup>Let me know this brother as I know myself.</span>
+²You should want to bless them [your brothers] in return, out of gratitude. 
+³You need not know them [your brothers] individually, or they [your brothers know] you. 
+⁴The light is so strong that it [the light] radiates throughout the Sonship and returns thanks to the Father for radiating His [the Father’s] joy upon it [the Sonship]. 
+⁵Only God’s holy children are worthy channels of His [God’s] beautiful joy, because only they [God’s-holy-children] are beautiful enough to hold it [God’s-beautiful-joy] by sharing it [God’s-beautiful-joy]. 
+⁶It is impossible for a child of God to love his [a-child-of-God’s] neighbour except as himself [a-child-of-God’s-self]. 
+⁷That is why the healer’s prayer is:
+<span class=course-quote>⁸Let me know this brother as I know myself.</span>
 
 #### substituted
 
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
-<sup>2</sup>You should want to bless your brothers in return, out of gratitude. 
-<sup>3</sup>You need not know your brothers individually, or your brothers know you. 
-<sup>4</sup>The light is so strong that the light radiates throughout the Sonship and returns thanks to the Father for radiating the Father’s joy upon it the Sonship. 
-<sup>5</sup>Only God’s holy children are worthy channels of God’s beautiful joy, because only God’s-holy-children are beautiful enough to hold God’s-beautiful-joy by sharing God’s-beautiful-joy. 
-<sup>6</sup>It is impossible for a child of God to love a-child-of-God’s neighbour except as a-child-of-God’s-self. 
-<sup>7</sup>That is why the healer’s prayer is:
-<span class=course-quote><sup>8</sup>Let me know this brother as I know myself.</span>
+²You should want to bless your brothers in return, out of gratitude. 
+³You need not know your brothers individually, or your brothers know you. 
+⁴The light is so strong that the light radiates throughout the Sonship and returns thanks to the Father for radiating the Father’s joy upon it the Sonship. 
+⁵Only God’s holy children are worthy channels of God’s beautiful joy, because only God’s-holy-children are beautiful enough to hold God’s-beautiful-joy by sharing God’s-beautiful-joy. 
+⁶It is impossible for a child of God to love a-child-of-God’s neighbour except as a-child-of-God’s-self. 
+⁷That is why the healer’s prayer is:
+<span class=course-quote>⁸Let me know this brother as I know myself.</span>
 
 #### simplified
 
