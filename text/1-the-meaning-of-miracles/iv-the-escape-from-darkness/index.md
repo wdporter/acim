@@ -17,9 +17,7 @@ next: T-1.V
 ⁴This step brings escape from fear. 
 ⁵When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 
-::: details Annotations 
-
-##### Expanded
+::: details Expanded
 
 The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. 
 ²This step [recognising that darkness cannot hide] usually entails fear. 
@@ -27,7 +25,9 @@ The escape from darkness involves two stages: First [stage], the recognition tha
 ⁴This step [recognising there is nothing you want to hide] brings escape from fear. 
 ⁵When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. 
 ²Recognising that darkness cannot hide usually entails fear. 
@@ -35,7 +35,9 @@ The escape from darkness involves two stages: First stage, the recognition that 
 ⁴Recognising there is nothing you want to hide brings escape from fear. 
 ⁵When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 First recognise darkness cannot hide. 
 Second recognise there is nothing you want to hide. 
@@ -56,9 +58,7 @@ You will understand peace and joy.
 ¹⁰But the Atonement restores spirit to its proper place. 
 ¹¹The mind that serves spirit *is* invulnerable.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. 
 ²This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] *is* a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
@@ -72,7 +72,9 @@ Holiness can never be really hidden in darkness, but you can deceive yourself ab
 ¹⁰But the Atonement restores spirit to its [spirit’s] proper place. 
 ¹¹The mind that serves spirit *is* invulnerable.
 
-##### Substituted
+:::
+
+::: details Substituted
 
 Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. 
 ²The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness *is* a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. 
@@ -86,7 +88,9 @@ Holiness can never be really hidden in darkness, but you can deceive yourself th
 ¹⁰But the Atonement restores spirit to spirit’s proper place. 
 ¹¹The mind that serves spirit *is* invulnerable.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 Don’t try to hide holiness in darkness. 
 A miracle brings correction to errors. 
@@ -103,9 +107,7 @@ The mind becomes invulnerable.
 ⁶The purpose of the Atonement is to restore everything to you; or rather, to restore it to your awareness. 
 ⁷You were given everything when you were created, just as everyone was.
 
-::: details Annotations
-
-##### Expanded
+::: details Expanded
 
 Darkness is lack of light as sin is lack of love. 
 ²It [darkness] has no unique properties of its [darkness’s] own. 
@@ -115,7 +117,9 @@ Darkness is lack of light as sin is lack of love.
 ⁶The purpose of the Atonement is to restore everything to you; or rather, to restore it [everything] to your awareness. 
 ⁷You were given everything when you were created, just as everyone was [given everything when they were created].
 
-##### Substituted
+:::
+
+::: details Substituted
 
 Darkness is lack of light as sin is lack of love. 
 ²Darkness has no unique properties of darkness’s own. 
@@ -125,7 +129,9 @@ Darkness is lack of light as sin is lack of love.
 ⁶The purpose of the Atonement is to restore everything to you; or rather, to restore everything to your awareness. 
 ⁷You were given everything when you were created, just as everyone was given everything when they were created.
 
-##### Simplified
+:::
+
+::: details Simplified
 
 You have everything. 
 The Atonement makes you aware you always have had everthing. 
@@ -148,9 +154,7 @@ You don’t need anything else.
 ⁷Your witnessing demonstrates your belief, and thus strengthens it. 
 ⁸Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favour of the abundance they have learned belongs to them.
 
-::: details Annotations 
-
-##### Expanded
+::: details Expanded
 
 The emptiness engendered by fear must be replaced by forgiveness. 
 ²That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
@@ -161,7 +165,9 @@ The emptiness engendered by fear must be replaced by forgiveness.
 ⁷Your witnessing demonstrates your belief, and thus strengthens it [your belief]. 
 ⁸Those who witness for me are expressing, through their [witnessers’] miracles, that they [witnessers] have abandoned the belief in deprivation in favour of the abundance they [witnessers] have learned belongs to them [witnessers].
 
-##### Substituted
+:::
+
+::: details Substituted
 
 The emptiness engendered by fear must be replaced by forgiveness. 
 ²Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
@@ -171,7 +177,10 @@ The emptiness engendered by fear must be replaced by forgiveness.
 ⁶I assure you that I will witness for anyone who lets me, and to whatever extent the one letting me witness for permits me to witness. 
 ⁷Your witnessing demonstrates your belief, and thus strengthens your belief. ⁸Those who witness for me are expressing, through witnessers’ miracles, that witnessers have abandoned the belief in deprivation in favour of the abundance witnessers have learned belongs to witnessers for me.
 
-##### Simplified
+:::
+
+::: details Simplified
+
 Forgiveness replaces fear. There is no death. The law was for protection. There was no hell-fire in the law. Allow me to witness for you. Abandon belief in deprivation. Witnessing for me strengthens your belief. Witnesses for me have abundance.
 
 :::
