@@ -7,7 +7,7 @@ eleventyNavigation:
   key: W-pI.43
   title: W-pI.43 God is my Source. I cannot see apart from Him
   parent: W-pI
-  order: 42
+  order: 43
 prev: W-pI.42
 next: W-pI.44
 ---
