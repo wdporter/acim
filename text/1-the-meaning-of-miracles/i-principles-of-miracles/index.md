@@ -260,7 +260,7 @@ Thoughts can represent a spiritual level of experience and make the spiritual.
 
 {% if showCommentary %}
 ::: details Commentary
-Jesus clearly delineates the mutually exclusive nature of the levels of the mind and the body, and cautions his students against confusing them. Such confusion… is what is responsible for sickness. And it is the miracle that heals by redirecting the Son’s attention to the proper level — the mind instead of the body — wherein is found both the problem and the answer. Here are the relevant level-confusion passages (also principles [17](#17), [23](#23), [30](#30)) that highlights the dimension of the miracle or healing (the mind) and sickness (the body) (Wapnick, A.A.C., p.230–231)
+Jesus clearly delineates the mutually exclusive nature of the levels of the mind and the body, and cautions his students against confusing them. Such confusion… is what is responsible for sickness. And it is the miracle that heals by redirecting the Son’s attention to the proper level — the mind instead of the body — whereïn is found both the problem and the answer. Here are the relevant level-confusion passages (also principles [17](#17), [23](#23), [30](#30)) that highlights the dimension of the miracle or healing (the mind) and sickness (the body) (Wapnick, A.A.C., p.230–231)
 ::: 
 {% endif %}
 
@@ -290,7 +290,7 @@ A rebirth brings past and future into the present.
 
 {% if showCommentary %}
 ::: details Commentary
-…the miracle reflects the change of mind that enables us to let go of our guilt, the belief in our past sinfulness. This then frees the Holy Spritit to work through us in the sense that we are now allowing the extension of His Love to occur. In the words of [Lesson 194](/workbook/part-1/194-i-place-the-future-in-the-hands-of-god): “I place the future in the hands of God”. This is not possible as long as we hold on to the ego’s guilt. It *is* possible, of course, when we let go of the guilt, and that is what releases the future. The “beginning and the ending” that is referred to can be understood as the beginning and the ending of a relationship. The “beginning” would be the special relationship that the ego has made real, while the “ending” is the forgiveness of that relationship — making it holy. (Wapnick, A.V.I., p. 123.)
+…the miracle reflects the change of mind that enables us to let go of our guilt, the belief in our past sinfulness. This then frees the Holy Spirit to work through us in the sense that we are now allowing the extension of His Love to occur. In the words of [Lesson 194](/workbook/part-1/194-i-place-the-future-in-the-hands-of-god): “I place the future in the hands of God”. This is not possible as long as we hold on to the ego’s guilt. It *is* possible, of course, when we let go of the guilt, and that is what releases the future. The “beginnings and endings” that is referred to can be understood as the beginning and the ending of a relationship. The “beginning” would be the special relationship that the ego has made real, while the “ending” is the forgiveness of that relationship — making it holy. (Wapnick, A.V.I., p. 123.)
 :::
 {% endif %}
 
@@ -375,7 +375,7 @@ Miracles give strength to the receiver.
 
 {% if showCommentary %}
 ::: details Commentary
-(1) What we give *is* what we receive; what we ask for *is* our return. … As the beatitude says: “Happy the merciful, they shall have mercy shown them” (*Matthew* 5:7). (Wapnick, F.A.J., p. 176.)
+(1) What we give *is* what we receive; what we ask for *is* our return. … As the beätitude says: “Happy the merciful, they shall have mercy shown them” (*Matthew* 5:7). (Wapnick, F.A.J., p. 176.)
 :::
 {% endif %}
 
