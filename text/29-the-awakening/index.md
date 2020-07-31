@@ -1,25 +1,16 @@
 ---
-layout: content.njk
-reference: T-29
+layout: landing.njk
 title: The Awakening
-prev-chapter: /text/28
-next-chapter: /text/30
+reference: T-29 
+eleventyNavigation:
+  key: T-29
+  title: T-29 The Awakening
+  parent: T
+  order: 23
 ---
 
 
-<ul>
-    <li><h3><a href=/text/28/VIII>VIII. The Anti-Christ</a></h3>
-</ul>    
 
----
-layout: content
-reference: T-29.VIII
-title: The Anti-Christ
-prev-chapter: /text/28
-next-chapter: /text/30
-prev-section: /text/29/vii
-next-section: /text/29/ix
----
 
 <div class=paragraph id="p1">
 
