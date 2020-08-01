@@ -54,6 +54,7 @@ In revelation you understand creation.
 You act according to your beliefs.
 :::
 
+
 2. Revelation is intensely personal and cannot be meaningfully translated. 
 ²That is why any attempt to describe it in words is impossible. 
 ³Revelation induces only experience. 
@@ -83,12 +84,11 @@ Revelation is intensely personal and cannot be meaningfully translated.
 :::
 
 ::: details Simplified
-Revelation is an experience of love. 
-Revelation is also an experience of freedom from fear. 
+Revelation is an experience of freedom from fear. 
+Therefore revelation is an experience of love. 
 Revelation cannot be spoken about. 
 Miracles are useful actions for others, until you are ready for revelation.
 :::
-
 
 
 3. Awe should be reserved for revelation, to which it is perfectly and correctly applicable. 
@@ -145,23 +145,26 @@ I have only what is from God.
 You have the potential to be like me. 
 :::
 
-<!--::: details Commentary
-(5–6) Jesus, thus, is the one who first completed his Atonement path. He began with us, believing in the reality of the separated world of the ego. Now, having learned his lessons perfectly and completely, he reaches back to help us walk forgiveness’ path, as he did. In the Course, he asks that we think of him as an elder brother. But he does not ask for awe … emphasising his equality with us. (Wapnick, F.A.J., p.286.)
+{% if showCommentary %}
+::: details Commentary
+(5–6) Jesus … is the one who first completed his Atonement path. He began with us, believing in the reality of the separated world of the ego. Now, having learned his lessons perfectly and completely, he reaches back to help us walk forgiveness’ path, as he did. In the Course, he asks that we think of him as an elder brother. But he does not ask for awe … emphasising his equality with us. (Wapnick, F.A.J., p.286.)
 
 (7–8) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego. … Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, F.A.J., p.286.)
 
 (7–8) [Jesus], our loving elder brother. (Wapnick, A.A.C., p. 197.)
 
-(7–12) Jesus is unlike us in having no ego thoughts of separation — guilt, fear or attack — to cloud his mind of the clear light of Christ. (Wapnick, L.D.N.C., p. 517, 518.) (see T.1.II.4:5)
+(7–12) Jesus is unlike us in having no ego thoughts of separation — guilt, fear or attack — to cloud his mind of the clear light of Christ. (Wapnick, L.D.N.C., p. 517, 518.) (see [T.1.II.4:5](#4))
 
 (7–4:7) Jesus consistently teaches in the course that he is no different from us in reality, but in the illusory and symbolic world of time he can be our teacher and guide if we allow him to be that for us. (Wapnick, A.A.C., p.214.)
 
-(10–4:1) Within the illusion of time, some people will seem to be closer to returning home … than others. The … category [Teacher of teachers] of course includes Jesus, who within the world of time is more advanced than any of us. But that is only within the illusion of time (c/f [t-1-iv-1](#t-1-iv-1) (Wapnick, A.V.I., p.130).
+(10–4:1) Within the illusion of time, some people will seem to be closer to returning home … than others. The … category [Teacher of teachers] of course includes Jesus, who within the world of time is more advanced than any of us. But that is only within the illusion of time (c/f [T:1.IV.1](/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness#1)) (Wapnick, A.V.I., p.130).
 
 (13) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego… Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, F.A.J., p.286.)
-::: -->
+::: 
+{% endif %}
 
 
+<div id=4 style=height:0></div>
 
 4. “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement is more meaningful in terms of a vertical rather than a horizontal axis. 
@@ -192,20 +195,25 @@ You have the potential to be like me.
 :::
 
 ::: details Simplified
-I stand between you and God. I bridge the distance between you and God. I am your elder brother and the Son of God. The Father is greater than the Son.
+I stand between you and God. 
+I bridge the distance between you and God. 
+I am your elder brother and the Son of God. 
+The Father is greater than the Son.
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}
+::: details Commentary
 (1) [Jesus] is not “in any way separate or different” from us except in the world of time (Wapnick, L.D.N.C., p.449).
 
-(3–5) …our role in this world, like Jesus’, is to manifest the Holy Spirit’s function of bridging time and eternity, remaining in the real world as He directs, our feet on the earth, while our hands reach to heaven. We are thus to become like Jesus, or those ascended masters who have completed their particular lessons. These teachers remain just a sliver away from Heaven, though they have its awreness, so that they help everyone else attain what they have learned. (Wapnick, A.V.I., p. 261.)
+(3–5) …our role in this world, like Jesus’, is to manifest the Holy Spirit’s function of bridging time and eternity, remaining in the real world as He directs, our feet on the earth, while our hands reach to heaven. We are thus to become like Jesus, or those ascended masters who have completed their particular lessons. These teachers remain just a sliver away from Heaven, though they have its awareness, so that they help everyone else attain what they have learned. (Wapnick, A.V.I., p. 261.)
 
 (3–6) Jesus became the Son of God, or Christ, by virtue of his having first completed his personal Atonement plan and helping us to do the same, but inherent in his nature is the Christ inherent in all of us. (Wapnick, F.A.J., p.286.)
 
-(7) In one form or another, all of us fall prey  to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7-the-gifts-of-the-kingdom#t-7-i-1). (Wapnick, F.A.J., p.263.)
+(7) In one form or another, all of us fall prey to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7-the-gifts-of-the-kingdom/i-the-last-step#1). (Wapnick, F.A.J., p.263.)
 
-(7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, excep tthat God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, A.V.I., p.99).
-::: -->
+(7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, except that God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, A.V.I., p.99).
+::: 
+{% endif %}
 
 
 5. Revelations are indirectly inspired by me because I am close to the Holy Spirit, and alert to the revelation-readiness of my brothers. 
@@ -282,9 +290,10 @@ Time is saved.
 Giver and receiver are equal.
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}
+::: details Commentary
 (1–3) … within the framework of the ego system… reflects a linear process; namely that we moved away from God in the beginning, and now we have to return. That is why, though it talks about a journey *A Course in Miracles* very often reminds us that the journey is already over and that we *are* perfect in God. …this “return” [is discussed] in terms of the horizontal framework which is rooted in time, and the vertical one which transcends time and exists only in the present (the holy instant). (Wapnick, A.V.I., p.182.)
 
 (7) *A Course in Miracles* talks a great deal about saving time. In fact, many times it talks about saving thousands of years. We are still talking about, in the world’s illusion of time, a considerable amount of time. The reason I am emphasising this is that I do not want you to feel guilty if you still have problems as you keep working with the Course. The real goal on the practical level of the Course is not to be free of problems, but to recognise what they are, and then to recognise within ourselves the means of undoing them. (Wapnick, A.T.G., p. 81.)
-::: -->
-
+:::
+{% endif %}

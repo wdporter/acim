@@ -1108,4 +1108,3 @@ Miracles compare what you make with creation.
 Miracles accept what is in accord with creation.
 :::
 
----
