@@ -59,17 +59,19 @@ Doing more miracles brings more conviction.
 Miracles are for Atonement.
 :::
 
-<!--::: details Commentary
-(1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who them became the victim of his Father’s justified vengeance. (Wapnick, F.A.J., p.189.)
+{% if showCommentary %}
+::: details Commentary
+(1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who then became the victim of his Father’s justified vengeance. (Wapnick, F.A.J., p.189.)
 
-(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [t-1-iii-4:1](#t-1-iii-4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement#t-2-ii-4).
+(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [T:1.III.4:1](#4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence#4).
 
 (1) When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin”. (Wapnick, A.V.I., p.228)
 
 (1) This ‘appointment’ of Jesus occurred on quite a different level since there is no time, and all of what we know as time is happening in this one instant, *now*, which we merely reëxperience within our minds. (Wapnick, A.A.C., p.206.)
 
 (1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, F.A.J., p.293.)
-::: -->
+::: 
+{% endif %}
 
 2. “Heaven and earth shall pass away” means that they will not continue to exist as separate states. 
 ²My word, which is the resurrection and the life, shall not pass away because life is eternal. 
@@ -100,19 +102,34 @@ You are wholly lovable and loving.
 :::
 
 
-3. The forgiven are the means of the Atonement. ²Being filled with spirit, they forgive in return. ³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. ⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
+3. The forgiven are the means of the Atonement. 
+²Being filled with spirit, they forgive in return. 
+³Those who are released must join in releasing their brothers, for this is the plan of the Atonement. 
+⁴Miracles are the way in which minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
 
 
 ::: details Expanded
-The forgiven are the means of the Atonement. ²Being filled with spirit, they [the forgiven] forgive in return. ³Those who are released must join in releasing their [the-released-ones’] brothers, for this [releasing brothers] is the plan of the Atonement. ⁴Miracles are the way in which [way] minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
-:::
-::: details Substituted
-The forgiven are the means of the Atonement. ²Being filled with spirit, the forgiven forgive in return. ³Those who are released must join in releasing the-released-ones’ brothers, for releasing brothers is the plan of the Atonement. ⁴Miracles are the way; the way minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
-:::
-::: details Simplified
-The forgiven are able to forgive. Release your brothers by forgiving them.
+The forgiven are the means of the Atonement. 
+²Being filled with spirit, they [the forgiven] forgive in return. 
+³Those who are released must join in releasing their [the-released-ones’] brothers, for this [releasing brothers] is the plan of the Atonement. 
+⁴Miracles are the way in which [way] minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
 :::
 
+::: details Substituted
+The forgiven are the means of the Atonement. 
+²Being filled with spirit, the forgiven forgive in return. 
+³Those who are released must join in releasing the-released-ones’ brothers, for releasing brothers is the plan of the Atonement. 
+⁴Miracles are the way; the way minds that serve the Holy Spirit unite with me for the salvation or release of all of God’s creations.
+:::
+
+::: details Simplified
+The forgiven are able to forgive. 
+You are forgiven.
+Release your brothers by forgiving them.
+:::
+
+
+<div id=4 style=height:0></div>
 
 4. I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
 ²You have a role in the Atonement which I will dictate to you. 
@@ -150,7 +167,9 @@ Follow my guidance.
 :::
 
 
-<a id=5></a>5. Error cannot really threaten truth, which can always withstand it. 
+<div id=5 style=height:0></div>
+
+5. Error cannot really threaten truth, which can always withstand it. 
 ²Only the error is actually vulnerable. 
 ³You are free to establish your kingdom where you see fit, but the right choice is inevitable if you remember this:
 
@@ -205,9 +224,12 @@ Do not reïnforce or defend error.
 Bless others so they may undo their distortions.
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}
+::: details Commentary
 (4–6) We live always in the grace of God’s freely given love. What Jesus taught during his earthly life is what he teaches now in the Course. (Wapnick, F.A.J., p.216.)
-::: -->
+::: 
+{% endif %}
+
 
 6. You respond to what you perceive, and as you perceive so shall you behave. 
 ²The Golden Rule asks you to do unto others as you would have them do unto you. 
@@ -243,8 +265,9 @@ Perceive others as holy and you will behave appropriately.
 :::
 
 ::: details Note
-“Do unto others as you would have others do unto you”, but what if you hate yourself? The Golden rule is descriptive, not prescriptive. Perceive yourself and others correctly and the right behaviour will naturally follow. (–Ed.)
+“Do unto others as you would have others do unto you”, but what if you hate yourself? The Golden rule is descriptive, not prescriptive. Perceive yourself and others correctly — the right behaviour will naturally follow. (–Ed.)
 :::
+
 
 7. Miracles arise from a mind that is ready for them. 
 ²By being united this mind goes out to everyone, even without the awareness of the miracle worker himself. 
@@ -275,6 +298,7 @@ Miracles arise from a mind that is ready for miracles.
 A miracle-ready mind unites all minds with God.
 :::
 
+
 8. That the miracle may have effects on your brothers that you may not recognise is not your concern. 
 ²The miracle will always bless *you*. 
 ³Miracles you are not asked to perform have not lost their value. 
@@ -303,6 +327,7 @@ You are blessed by your own miracles.
 I control how miracles are used.
 :::
 
+
 9. Miracles are selective only in the sense that they are directed towards those who can use them for themselves. 
 ²Since this makes it inevitable that they will extend them to others, a strong chain of Atonement is welded. 
 ³However, this selectivity takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. 
@@ -326,4 +351,3 @@ Miracles are selective only in the sense that miracles are directed towards thos
 Miracles are given to those who can use miracles. 
 Those who can use miracles will extend miracles to others.
 :::
-
