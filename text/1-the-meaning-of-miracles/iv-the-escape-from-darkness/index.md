@@ -11,6 +11,8 @@ prev: T-1.III
 next: T-1.V
 ---
 
+<div id=1 style=height:0></div>
+
 1. The escape from darkness involves two stages: First, the recognition that darkness cannot hide. 
 ²This step usually entails fear. 
 ³Second, the recognition that there is nothing you want to hide even if you could. 
