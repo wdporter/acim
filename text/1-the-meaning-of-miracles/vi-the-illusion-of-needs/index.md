@@ -232,6 +232,6 @@ God only creates love.
 {% if showCommentary %}
 ::: details Commentary
 (4) In the presence of God’s Love all fear automatically disappears. (Wapnick, A.V.I., p.96.)
-::: -->
+::: 
 {% endif %}
 
