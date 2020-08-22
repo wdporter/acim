@@ -90,6 +90,7 @@ A miracle brings reality, truth and love to the mind.
 The mind becomes invulnerable.
 :::
 
+
 3. Darkness is lack of light as sin is lack of love. 
 ²It has no unique properties of its own. 
 ³It is an example of the ‘scarcity’ belief, from which only error can proceed. 
