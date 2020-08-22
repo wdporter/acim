@@ -177,3 +177,7 @@ main > nav {
 details p {
 	padding-left: calc(1rem * (27 / 16));
 }
+
+details + p {
+	margin-top: 2em;
+}
