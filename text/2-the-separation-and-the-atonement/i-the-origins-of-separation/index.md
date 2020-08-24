@@ -25,7 +25,6 @@ next: T-2.II
  ¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
 
 ::: details Expanded
-
 To extend is a fundamental aspect of God which He [God] gave to His [God’s] Son. 
 ²In the creation, God extended Himself [God’s-Self] to His [God’s] creations and imbued them [God’s creations] with the same loving Will to create. 
 ³You have not only been fully created, but have also been created perfect. 
@@ -38,11 +37,9 @@ To extend is a fundamental aspect of God which He [God] gave to His [God’s] So
  ¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
  ¹¹Third, you believe that you can distort the creations of God, including yourself.  
  ¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
-
 :::
 
 ::: details Substituted
-
 To extend is a fundamental aspect of God which God gave to God’s Son. 
 ²In the creation, God extended God’s Self to God’s creations and imbued God’s creations with the same loving Will to create. 
 ³You have not only been fully created, but have also been created perfect. 
@@ -55,20 +52,18 @@ To extend is a fundamental aspect of God which God gave to God’s Son.
  ¹⁰Second, you believe that what is perfect can be rendered imperfect or lacking.  
  ¹¹Third, you believe that you can distort the creations of God, including yourself.  
  ¹²Fourth, you believe that you can create yourself, and that the direction of your own creation is up to you.
-
 :::
 
 ::: details Simplified
-
 You are God’s Son. 
 You are creative. 
 You misuse creativity by projecting. 
 You project because you believe you lack something. 
 Your projections make distortions.
-
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}
+::: details Commentary
 (7) In the Course, the words ‘extension’ and ‘projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. ‘Extension’ … is reserved for the ‘movement’ or ‘outflow’ of spirit, while ‘projection’ is almost always utilised for the ego. …we can speak of extension as being the ‘appropriate’ use of projection. (Wapnick, L.D.N.C., p.447–448).
 
 (7) The Course distinguishes between two types of ‘projection’: One is called ‘extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, F.A.J., p.39.)
@@ -80,7 +75,9 @@ Your projections make distortions.
 (9–2:1) In the dream we believed that we had the power to oppose and defeat God, usurping His authority, making up a body we call our self to inhabit a material world of duality and fragmentation. (Wapnick, A.V.I., p.38.)
 
 (9–2:1) …the entire ego thought system of betrayal and murder that begins with the insane thought that the reality of Christ must be sacrificed for the survival of the separated self. …this entire thought system is fabricated by the ego, wherein it substitutes its made-up version of the separated relationship between God and His Son for the truth of Their unity. Thus it achieves the goal of preserving its own existence. (Wapnick, A.A.C., p. ³5.)
-::: -->
+:::
+{% endif %}
+
 
 2. These related distortions represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
 ²None of this existed before the separation, nor does it actually exist now. 
@@ -92,7 +89,6 @@ Your projections make distortions.
 ⁸This requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line, in which all aspects are of the same order.
 
 ::: details Expanded
-
 These related distortions [distortions related to projection] represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
 ²None of this [projections and distortions] existed before the separation, nor does it [projections and distortions] actually exist now. ³Everything God created is like Him [God]. 
 ⁴Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from Him [God]. 
@@ -100,11 +96,9 @@ These related distortions [distortions related to projection] represent a pictur
 ⁶This is as true of the Son as [it is true] of the Father. 
 ⁷In this sense [being as true of the Son as true of the Father] the creation includes both the creation of the Son by God, and the Son’s creations when his [the Son’s] mind is healed. 
 ⁸This [creation of the Son and creation by the Son] requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line, in which [line] all aspects [of creation] are of the same order.
-
 :::
 
 ::: details Substituted
-
 Distortions related to projection represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
 ²None of projections and distortions existed before the separation, nor do projections and distortions actually exist now. 
 ³Everything God created is like God. 
@@ -113,14 +107,11 @@ Distortions related to projection represent a picture of what actually occurred 
 ⁶This is as true of the Son as it is true of the Father. 
 ⁷Being as true of the Son as it is true of the Father, the creation includes both the creation of the Son by God, and the Son’s creations when the Son’s mind is healed. 
 ⁸Creation of the Son and by the Son requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line; in line all aspects of creation are of the same order.
-
 :::
 
 ::: details Simplified
-
 Everything God creates is like God. 
 You can create just as God creates. 
-
 :::
 
 
@@ -135,9 +126,7 @@ You can create just as God creates.
 ⁹It still remains within you, however, to extend as God extended His Spirit to you. 
 ¹⁰In reality this is your only choice, because your free will was given you for your joy in creating the perfect.
 
-
 ::: details Expanded
-
 The Garden of Eden, or the preseparation condition, was a state of mind in which [state of mind] nothing was needed. 
 ²When Adam listened to the ‘lies of the serpent’, all he [Adam] heard was untruth. 
 ³You do not have to continue to believe what is not true unless you choose to do so [believe what is not true]. 
@@ -148,11 +137,9 @@ The Garden of Eden, or the preseparation condition, was a state of mind in which
 ⁸Such a rebirth is impossible as long as you continue to project or miscreate. 
 ⁹It still remains within you, however, to extend as God extended His [God’s] Spirit to you. 
 ¹⁰In reality this [extending as God extended God’s spirit to you] is your only choice, because your free will was given you for your joy in creating the perfect.
-
 :::
 
 ::: details Substituted
-
 The Garden of Eden, or the preseparation condition, was a state of mind; in state of mind nothing was needed. 
 ²When Adam listened to the ‘lies of the serpent’, all Adam heard was untruth. 
 ³You do not have to continue to believe what is not true unless you choose to believe what is not true. 
@@ -163,17 +150,15 @@ The Garden of Eden, or the preseparation condition, was a state of mind; in stat
 ⁸Such a rebirth is impossible as long as you continue to project or miscreate. 
 ⁹It still remains within you, however, to extend as God extended God’s Spirit to you. 
 ¹⁰In reality, extending as God extended God’s spirit to you, is your only choice, because your free will was given you for your joy in creating the perfect.
-
 :::
 
 ::: details Simplified
-
 You are dreaming you need something. 
 We are all still dreaming. 
 You can wake up any time. 
 You can extend the truth.
-
 :::
+
 
 4. All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to do this. 
@@ -186,7 +171,6 @@ You can extend the truth.
 ⁹The knowledge that illuminates not only sets you free, but also shows you clearly that you *are* free.
 
 ::: details Expanded
-
 All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to do this [usurp the power of God]. 
 ³Here is the real basis for your escape from fear. 
@@ -196,11 +180,9 @@ All fear is ultimately reducible to the basic misperception that you have the ab
 ⁷However, when he [the dreamer] awakens, the light is correctly perceived as the release from the dream, which [dream] is then no longer accorded reality. 
 ⁸This release [from the dream] does not depend on illusions. 
 ⁹The knowledge that illuminates not only sets you free, but also shows you clearly that you *are* free.
-
 :::
 
 ::: details Substituted
-
 All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to usurp the power of God. 
 ³Here is the real basis for your escape from fear. 
@@ -210,24 +192,24 @@ All fear is ultimately reducible to the basic misperception that you have the ab
 ⁷However, when the dreamer awakens, the light is correctly perceived as the release from the dream; dream is then no longer accorded reality. 
 ⁸Release from the dream does not depend on illusions. 
 ⁹The knowledge that illuminates not only sets you free, but also shows you clearly that you *are* free.
-
 :::
 
 ::: details Simplified
-
 You have a misperception that you can usurp the power of God. 
 This misperception puts you in a nightmare.
 Undoing this misperception will release you from fear. 
 Wake up and see the light. 
 You are free.
-
 :::
 
-<!-- ::: details Commentary
+{% if showCommentary %}
+::: details Commentary
 (para 3–4) The sin that we are most guilty of, which ultimately is the source of all our guilt, is the sin of our belief in a separation from God… This is roughly the same as what the Churches have taught as “original sin”. The description in the third chapter of Genesis gives a perfect account of how the ego was born. (Wapnick, A.T.G., p.39.)
 
 (6–9) The world was comfortably asleep, dreaming its dream of separation, individuality and specialness. Suddenly, like a telephone ringing outside the dream, Jesus appeared. His very presence stated the following: this world of time and space is a dream that in truth is already over; it is possible to awaken from this dream by listening to my words and following my example; and the many gods you believe in are not true because the real God is One of total Oneness and Love. (Wapnick, A.A.C., p.209.)
-::: -->
+:::
+{% endif %}
+
 
 5. Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. 
 ²It makes no distinctions among misperceptions. 
@@ -243,7 +225,6 @@ You are free.
 ¹²It enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
 
 ::: details Expanded
-
 Whatever lies you may believe are of no concern to the miracle, which [the miracle] can heal any of them [lies] with equal ease. 
 ²It [the miracle] makes no distinctions among misperceptions. 
 ³Its [the miracle’s] sole concern is to distinguish between truth on the one hand, and error on the other [hand]. 
@@ -256,11 +237,9 @@ Whatever lies you may believe are of no concern to the miracle, which [the mirac
 ¹⁰Illness is some form of external searching. 
 ¹¹Health is inner peace. 
 ¹²It [health] enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
-
 :::
 
 ::: details Substituted
-
 Whatever lies you may believe are of no concern to the miracle; the miracle can heal any lie with equal ease. 
 ²The miracle makes no distinctions among misperceptions. 
 ³The miracle’s sole concern is to distinguish between truth on the one hand, and error on the other hand. 
@@ -273,12 +252,11 @@ Whatever lies you may believe are of no concern to the miracle; the miracle can 
 ¹⁰Illness is some form of external searching. 
 ¹¹Health is inner peace. 
 ¹²Health enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others.
-
 :::
 
 ::: details Simplified
-
-The miracle heals all misperceptions. Health is inner peace. With health you can accept miracles and correct errors.
-
+The miracle heals all misperceptions. 
+Health is inner peace. 
+With health you can accept miracles and correct errors.
 :::
 
