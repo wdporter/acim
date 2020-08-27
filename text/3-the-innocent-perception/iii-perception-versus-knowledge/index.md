@@ -4,7 +4,7 @@ title: Perception versus Knowledge
 reference: T-3.III
 eleventyNavigation:
   key: T-3.III
-  title: T-3.III Perception versus Knowledge
+  title: T–3.III Perception versus Knowledge
   parent: T-3
   order: 3
 prev: T-3.II

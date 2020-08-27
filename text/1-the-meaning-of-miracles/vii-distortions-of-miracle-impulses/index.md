@@ -178,7 +178,7 @@ Without preparation now you may be fearful later on.
 ::: details Commentary
 (1) The miracle changes the misperceptions in our wrong mind, which reflects the purpose of *A Course in Miracles*. (Wapnick, A.V.I., p.119.)
 
-(1) …the text …explains this paradoxical situation to us of being “at home in God, [yet] dreaming of exile” ([T-10.I.2:1](/text/10-the-idols-of-sickness/i-at-home-in-god#2)): how this insane belief in separation seemd to arise in our *minds*, how it is maintained in our *minds*, and how it finally is undone in our *minds*. *A Course in Miracles* is thus … a “mind training” curriculum designed to help us change our thought system from the ego’s to the Holy Spirit’s. (Wapnick, F.C.T.L., p.13.) 
+(1) …the text …explains this paradoxical situation to us of being “at home in God, [yet] dreaming of exile” ([T–10.I.2:1](/text/10-the-idols-of-sickness/i-at-home-in-god#2)): how this insane belief in separation seemd to arise in our *minds*, how it is maintained in our *minds*, and how it finally is undone in our *minds*. *A Course in Miracles* is thus … a “mind training” curriculum designed to help us change our thought system from the ego’s to the Holy Spirit’s. (Wapnick, F.C.T.L., p.13.) 
 
 (4–5) …this gentle though firm rebuke and reminder… (Wapnick, F.C.T.L., p.16.)
 
