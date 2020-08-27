@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Illusion of Needs
-reference: T-1.VI
+reference: T–1.VI
 eleventyNavigation:
-  key: T-1.VI
-  title: T-1.VI The Illusion of Needs
-  parent: T-1
+  key: T–1.VI
+  title: T–1.VI The Illusion of Needs
+  parent: T–1
   order: 6
-prev: T-1.V
-next: T-1.VII
+prev: T–1.V
+next: T–1.VII
 ---
 
 1. You who want peace can find it only by complete forgiveness. 

@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Wholeness and Spirit
-reference: T-1.V
+reference: T–1.V
 eleventyNavigation:
-  key: T-1.V
-  title: T-1.V Wholeness and Spirit
-  parent: T-1
+  key: T–1.V
+  title: T–1.V Wholeness and Spirit
+  parent: T–1
   order: 5
-prev: T-1.IV
-next: T-1.VI
+prev: T–1.IV
+next: T–1.VI
 ---
 
 1. The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. 

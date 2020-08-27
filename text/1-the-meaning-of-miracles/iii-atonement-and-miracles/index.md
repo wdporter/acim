@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Atonement and Miracles
-reference: T-1.III
+reference: T–1.III
 eleventyNavigation:
-  key: T-1.III
-  title: T-1.III Atonement and Miracles
-  parent: T-1
+  key: T–1.III
+  title: T–1.III Atonement and Miracles
+  parent: T–1
   order: 3
-prev: T-1.II
-next: T-1.IV
+prev: T–1.II
+next: T–1.IV
 ---
 
 1. I am in charge of the process of Atonement, which I undertook to begin. 
@@ -63,7 +63,7 @@ Miracles are for Atonement.
 ::: details Commentary
 (1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who then became the victim of his Father’s justified vengeance. (Wapnick, F.A.J., p.189.)
 
-(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [T:1.III.4:1](#4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence#4).
+(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [T–1.III.4:1](#4), [T–2.II.4:2–5](/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence#4).
 
 (1) When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin”. (Wapnick, A.V.I., p.228)
 

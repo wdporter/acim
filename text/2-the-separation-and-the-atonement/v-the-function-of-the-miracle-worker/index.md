@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Function of the Miracle Worker
-reference: T-2.V
+reference: T–2.V
 eleventyNavigation:
-  key: T-2.V
-  title: T-2.V The Function of the Miracle Worker
-  parent: T-2
+  key: T–2.V
+  title: T–2.V The Function of the Miracle Worker
+  parent: T–2
   order: 5
-prev: T-2.IV
-next: T-2.VI
+prev: T–2.IV
+next: T–2.VI
 ---
 
 1. Before miracle workers are ready to undertake their function in this world, it is essential that they fully understand the fear of release. 

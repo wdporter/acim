@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Cause and Effect
-reference: T-2.VII
+reference: T–2.VII
 eleventyNavigation:
-  key: T-2.VII
-  title: T-2.VII Cause and Effect
-  parent: T-2
+  key: T–2.VII
+  title: T–2.VII Cause and Effect
+  parent: T–2
   order: 7
-prev: T-2.VI
-next: T-2.VIII
+prev: T–2.VI
+next: T–2.VIII
 ---
 
 1. You may still complain about fear, but you nevertheless persist in making yourself fearful. 

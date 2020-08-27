@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Atonement as Defence
-reference: T-2.II
+reference: T–2.II
 eleventyNavigation:
-  key: T-2.II
-  title: T-2.II The Atonement as Defence
-  parent: T-2
+  key: T–2.II
+  title: T–2.II The Atonement as Defence
+  parent: T–2
   order: 2
-prev: T-2.I
-next: T-2.III
+prev: T–2.I
+next: T–2.III
 ---
 
 1. You can do anything I ask. 
@@ -191,7 +191,7 @@ You are healed by the Atonement.
 
 {% if showCommentary %}
 ::: details Commentary
-(2–5) …the separated world needed a concrete manifestation of this [Atonement] principle, for while the Atonement came into existence with the creation of the Holy Spirit ([T-5.I.5:2](/text/5-healing-and-wholeness/i-the-invitation-to-the-holy-spirit#5)), some figure within the Son’s dream had to represent it for us. The life of Jesus was this “act of love”, for he was the “thought” within the separated mind that first remembered its relationship with God and Identity as Christ (along with the rest of the Sonship). (Wapnick, L.D.N.C., p.514.) 
+(2–5) …the separated world needed a concrete manifestation of this [Atonement] principle, for while the Atonement came into existence with the creation of the Holy Spirit ([T–5.I.5:2](/text/5-healing-and-wholeness/i-the-invitation-to-the-holy-spirit#5)), some figure within the Son’s dream had to represent it for us. The life of Jesus was this “act of love”, for he was the “thought” within the separated mind that first remembered its relationship with God and Identity as Christ (along with the rest of the Sonship). (Wapnick, L.D.N.C., p.514.) 
 :::
 {% endif %}
 

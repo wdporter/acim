@@ -1,13 +1,13 @@
 ---
 layout: content.njk
 title: Introduction
-reference: T-in
+reference: T–in
 eleventyNavigation:
-  key: T-in
-  title: T-in Introduction
+  key: T–in
+  title: T–in Introduction
   parent: T
   order: 0
-next: T-1.I
+next: T–1.I
 ---
 
 
@@ -30,6 +30,7 @@ This is a course in miracles.
 ⁷It [the course] does aim, however, at removing the blocks to the awareness of love’s presence, which [love] is your natural inheritance. 
 ⁸The opposite of love is fear, but what is all-encompassing can have no opposite.
 :::
+
 ::: details Substitued
 This is a course in miracles. 
 ²The course is a required course. 
@@ -40,6 +41,7 @@ This is a course in miracles.
 ⁷The course does aim, however, at removing the blocks to the awareness of love’s presence; love is your natural inheritance. 
 ⁸The opposite of love is fear, but what is all-encompassing can have no opposite.
 :::
+
 ::: details Simplified
 This is a course in miracles. 
 The lessons are required. 
@@ -50,6 +52,7 @@ The opposite of love is fear.
 But love is all-encompassing. 
 Love has no opposite.
 :::
+
 
 2. *This course can therefore be summed up very simply in this way:*
 
@@ -64,12 +67,14 @@ This course can therefore be summed up very simply in this way:
 ³Nothing unreal exists. 
 ⁴Herein [this course] lies the peace of God.
 :::
+
 ::: details Substituted
 This course can therefore be summed up very simply in this way: 
 ²Nothing real can be threatened. 
 ³Nothing unreal exists. 
 ⁴In this course lies the peace of God.
 :::
+
 ::: details Simplified
 What can’t change can’t be threatened. 
 The real is that which can’t be threatened because it cannot change. 

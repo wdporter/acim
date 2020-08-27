@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Origins of Separation
-reference: T-2.I
+reference: T–2.I
 eleventyNavigation:
-  key: T-2.I
-  title: T-2.I The Origins of Separation
-  parent: T-2
+  key: T–2.I
+  title: T–2.I The Origins of Separation
+  parent: T–2
   order: 1
-prev: T-1.VII
-next: T-2.II
+prev: T–1.VII
+next: T–2.II
 ---
 
 1. To extend is a fundamental aspect of God which He gave to His Son. 
@@ -146,7 +146,7 @@ The Garden of Eden, or the preseparation condition, was a state of mind; in stat
 ⁴All what is not true can literally disappear in the twinkling of an eye because what is not true is merely a misperception. 
 ⁵What is seen in dreams seems to be very real. 
 ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere in the Bible is there reference to Adam’s waking up. 
-⁷The world has not yet experienced any comprehensive re-awakening or rebirth. 
+⁷The world has not yet experienced any comprehensive reäwakening or rebirth. 
 ⁸Such a rebirth is impossible as long as you continue to project or miscreate. 
 ⁹It still remains within you, however, to extend as God extended God’s Spirit to you. 
 ¹⁰In reality, extending as God extended God’s spirit to you, is your only choice, because your free will was given you for your joy in creating the perfect.

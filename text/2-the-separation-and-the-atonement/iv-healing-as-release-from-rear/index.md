@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Healing as Release from Fear
-reference: T-2.IV
+reference: T–2.IV
 eleventyNavigation:
-  key: T-2.IV
-  title: T-2.IV Healing as Release from Fear
-  parent: T-2
+  key: T–2.IV
+  title: T–2.IV Healing as Release from Fear
+  parent: T–2
   order: 4
-prev: T-2.III
-next: T-2.V
+prev: T–2.III
+next: T–2.V
 ---
 
 1. Our emphasis is now on healing. 

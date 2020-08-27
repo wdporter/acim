@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Distortions of Miracle Impulses
-reference: T-1.VII
+reference: T–1.VII
 eleventyNavigation:
-  key: T-1.VII
-  title: T-1.VII Distortions of Miracle Impulses
-  parent: T-1
+  key: T–1.VII
+  title: T–1.VII Distortions of Miracle Impulses
+  parent: T–1
   order: 7
-prev: T-1.VI
-next: T-2.I
+prev: T–1.VI
+next: T–2.I
 ---
 
 1. Your distorted perceptions produce a dense cover over miracle impulses, making it hard for them to reach your own awareness. 
@@ -49,7 +49,7 @@ Peace can only be found in doing God’s Will.
 
 (4–5) If we truly looked at anything in this world, we would realise that what we thought had given us happiness and joy was really filled with pain. (Wapnick, A.V.I., p.265.)
 
-(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/iv-a-the-first-obstacle-the-desire-to-get-rid-of-it#17), [T-19.IV-B.12](/text/19-the-attainment-of-peace/iv-b-the-second-obstacle-the-belief-the-body-is-valuable-for-what-it-offers#12). (Wapnick, A.A.C., p. 105.)
+(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T–19.IV-A.17:10–11](/text/19-the-attainment-of-peace/iv-a-the-first-obstacle-the-desire-to-get-rid-of-it#17), [T–19.IV-B.12](/text/19-the-attainment-of-peace/iv-b-the-second-obstacle-the-belief-the-body-is-valuable-for-what-it-offers#12). (Wapnick, A.A.C., p. 105.)
 :::
 {% endif %}
 

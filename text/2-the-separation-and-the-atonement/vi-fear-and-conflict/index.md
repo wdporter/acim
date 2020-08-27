@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Fear and Conflict
-reference: T-2.VI
+reference: T–2.VI
 eleventyNavigation:
-  key: T-2.VI
-  title: T-2.VI Fear and Conflict
-  parent: T-2
+  key: T–2.VI
+  title: T–2.VI Fear and Conflict
+  parent: T–2
   order: 6
-prev: T-2.V
-next: T-2.VII
+prev: T–2.V
+next: T–2.VII
 ---
 
 1. Being afraid seems to be involuntary; something beyond your own control. 
