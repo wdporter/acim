@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: My Title
-reference: X–X.XX
+reference: X-X.XX
 eleventyNavigation:
-  key: X–X.XX
-  title: X–X.XX My Title
-  parent: X–X.XX
+  key: X-X.XX
+  title: X-X.XX My Title
+  parent: X-X.XX
   order: 1
-prev: X–X
-next: T–1.III
+prev: X-X
+next: T-1.III
 ---
 ! ! &emsp; 
 

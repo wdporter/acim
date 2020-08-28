@@ -4,7 +4,7 @@ title: Atonement Without Sacrifice
 reference: T-3.I
 eleventyNavigation:
   key: T-3.I
-  title: T–3.I Atonement Without Sacrifice
+  title: T-3.I Atonement Without Sacrifice
   parent: T-3
   order: 1
 prev: T-2.VIII

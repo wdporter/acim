@@ -4,7 +4,7 @@ title: Perception versus Knowledge
 reference: T-3.III
 eleventyNavigation:
   key: T-3.III
-  title: T–3.III Perception versus Knowledge
+  title: T-3.III Perception versus Knowledge
   parent: T-3
   order: 3
 prev: T-3.II
@@ -187,7 +187,7 @@ But True vision, or spiritual sight, is not knowledge.
 
 :::
 
-<!-- #### commentary :::tip (2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T–3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice#p8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-the-teaching-for-truth/x-the-equality-of-miracles#p1). Wapnick, FCTL, p.60.) (re Wapnick, at times we reserve some skepticism –Ed.)
+<!-- #### commentary :::tip (2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice#p8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-the-teaching-for-truth/x-the-equality-of-miracles#p1). Wapnick, FCTL, p.60.) (re Wapnick, at times we reserve some skepticism –Ed.)
 ::: -->
 
 

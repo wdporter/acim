@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Meaning of the Last Judgement
-reference: T–2.VIII
+reference: T-2.VIII
 eleventyNavigation:
-  key: T–2.VIII
-  title: T–2.VIII The Meaning of the Last Judgement
-  parent: T–2
+  key: T-2.VIII
+  title: T-2.VIII The Meaning of the Last Judgement
+  parent: T-2
   order: 8
-prev: T–2.VII
-next: T–3.I
+prev: T-2.VII
+next: T-3.I
 ---
 
 1. One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 

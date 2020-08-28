@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Escape from Darkness
-reference: T–1.IV
+reference: T-1.IV
 eleventyNavigation:
-  key: T–1.IV
-  title: T–1.IV The Escape from Darkness
-  parent: T–1
+  key: T-1.IV
+  title: T-1.IV The Escape from Darkness
+  parent: T-1
   order: 4
-prev: T–1.III
-next: T–1.V
+prev: T-1.III
+next: T-1.V
 ---
 
 <div id=1 style=height:0></div>

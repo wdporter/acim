@@ -4,7 +4,7 @@ title: Miracles as True Perception
 reference: T-3.II
 eleventyNavigation:
   key: T-3.II
-  title: T–3.II Miracles as True Perception
+  title: T-3.II Miracles as True Perception
   parent: T-3
   order: 2
 prev: T-3.I

@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Origins of Separation
-reference: T–2.I
+reference: T-2.I
 eleventyNavigation:
-  key: T–2.I
-  title: T–2.I The Origins of Separation
-  parent: T–2
+  key: T-2.I
+  title: T-2.I The Origins of Separation
+  parent: T-2
   order: 1
-prev: T–1.VII
-next: T–2.II
+prev: T-1.VII
+next: T-2.II
 ---
 
 1. To extend is a fundamental aspect of God which He gave to His Son. 

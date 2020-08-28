@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Principles of Miracles
-reference: T–1.I
+reference: T-1.I
 eleventyNavigation:
-  key: T–1.I
-  title: T–1.I Principles of Miracles
-  parent: T–1
+  key: T-1.I
+  title: T-1.I Principles of Miracles
+  parent: T-1
   order: 1
-prev: T–in
-next: T–1.II
+prev: T-in
+next: T-1.II
 ---
 
 1. There is no order of difficulty in miracles. 
@@ -40,7 +40,7 @@ Miracles are all the same to do. Love always expresses as much as it can.
 
 (1) [It’s] a simple plan for salvation that has no exceptions, [miracles] are all the same because there is likewise no hierarchy in illusions (Wapnick, L.D.N.C., p. 562)  
 
-(1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T–23.II.2:3](/text/23-the-war-against-yourself/ii-the-laws-of-chaos#2)). (Wapnick, A.A.C., p. 58.)  
+(1) The first principle of miracles … counteracts the ego’s first law of chaos “there is a hierarchy of illusions” ([T-23.II.2:3](/text/23-the-war-against-yourself/ii-the-laws-of-chaos#2)). (Wapnick, A.A.C., p. 58.)  
 
 The very first principle of miracles that begins the text proper contains the whole thought system of the Course. In that sense the rest of the text is a commentary on this first principle which is the cornerstone of the teaching. (Wapnick, FCTL, p.15.)  
 :::
@@ -481,7 +481,7 @@ Miracles heal by making you aware that the spirit is the altar of truth.
 
 {% if showCommentary %}
 ::: details Commentary
-It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([w–pI.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, F.A.J., p.77.)
+It is only when we choose the miracle, and can say and truly believe that “I am under no law’s but God’s” ([w-pI.76](/workbook/part-1/76-i-am-under-no-laws-but-gods)) that the effects of the ego’s laws disappear. (Wapnick, F.A.J., p.77.)
 :::
 {% endif %}
 

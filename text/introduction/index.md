@@ -1,13 +1,13 @@
 ---
 layout: content.njk
 title: Introduction
-reference: T–in
+reference: T-in
 eleventyNavigation:
-  key: T–in
-  title: T–in Introduction
+  key: T-in
+  title: T-in Introduction
   parent: T
   order: 0
-next: T–1.I
+next: T-1.I
 ---
 
 

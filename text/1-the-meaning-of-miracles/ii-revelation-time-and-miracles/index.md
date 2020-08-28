@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: Revelation, Time and Miracles
-reference: T–1.II
+reference: T-1.II
 eleventyNavigation:
-  key: T–1.II
-  title: T–1.II Revelation, Time and Miracles
-  parent: T–1
+  key: T-1.II
+  title: T-1.II Revelation, Time and Miracles
+  parent: T-1
   order: 1
-prev: T–1.I
-next: T–1.III
+prev: T-1.I
+next: T-1.III
 ---
 
 1. Revelation induces complete but temporary suspension of doubt and fear. 
@@ -153,11 +153,11 @@ You have the potential to be like me.
 
 (7–8) [Jesus], our loving elder brother. (Wapnick, A.A.C., p. 197.)
 
-(7–12) Jesus is unlike us in having no ego thoughts of separation — guilt, fear or attack — to cloud his mind of the clear light of Christ. (Wapnick, L.D.N.C., p. 517, 518.) (see [T–1.II.4:5](#4))
+(7–12) Jesus is unlike us in having no ego thoughts of separation — guilt, fear or attack — to cloud his mind of the clear light of Christ. (Wapnick, L.D.N.C., p. 517, 518.) (see [T-1.II.4:5](#4))
 
 (7–4:7) Jesus consistently teaches in the course that he is no different from us in reality, but in the illusory and symbolic world of time he can be our teacher and guide if we allow him to be that for us. (Wapnick, A.A.C., p.214.)
 
-(10–4:1) Within the illusion of time, some people will seem to be closer to returning home … than others. The … category [Teacher of teachers] of course includes Jesus, who within the world of time is more advanced than any of us. But that is only within the illusion of time (c/f [T–1.IV.1](/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness#1)) (Wapnick, A.V.I., p.130).
+(10–4:1) Within the illusion of time, some people will seem to be closer to returning home … than others. The … category [Teacher of teachers] of course includes Jesus, who within the world of time is more advanced than any of us. But that is only within the illusion of time (c/f [T-1.IV.1](/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness#1)) (Wapnick, A.V.I., p.130).
 
 (13) By Jesus’ transcending his ego identity, he and Christ became one. In this sense he *is* the Christ, for he is no longer his ego… Thus we can say that we and Jesus are different in time, but not in eternity. (Wapnick, F.A.J., p.286.)
 ::: 
@@ -209,7 +209,7 @@ The Father is greater than the Son.
 
 (3–6) Jesus became the Son of God, or Christ, by virtue of his having first completed his personal Atonement plan and helping us to do the same, but inherent in his nature is the Christ inherent in all of us. (Wapnick, F.A.J., p.286.)
 
-(7) In one form or another, all of us fall prey to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T–7.I.1:4](/text/7-the-gifts-of-the-kingdom/i-the-last-step#1). (Wapnick, F.A.J., p.263.)
+(7) In one form or another, all of us fall prey to this mistake of forgetting that we are … not God. This has been a fairly common characteristic of many contemporary spiritualities, where our spiritual Self is identified with the Self of the Creator. The course clarifies this: “Yet in creation you are not in reciprocal relation to God, since He created you but you did not create Him” [T-7.I.1:4](/text/7-the-gifts-of-the-kingdom/i-the-last-step#1). (Wapnick, F.A.J., p.263.)
 
 (7) …there can be nothing in the Effect which is not in the Cause. Therefore, the Son cannot be different from his Father in attributes, except that God is First Cause, and we as Christ are His Effect. That is the meaning of the biblical phrase Jesus quotes in the text: “I and my Father are one”. (Wapnick, A.V.I., p.99).
 ::: 

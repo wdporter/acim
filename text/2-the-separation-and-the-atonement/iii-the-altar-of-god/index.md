@@ -1,14 +1,14 @@
 ---
 layout: content.njk
 title: The Altar of God
-reference: T–2.III
+reference: T-2.III
 eleventyNavigation:
-  key: T–2.III
-  title: T–2.III The Altar of God
-  parent: T–2
+  key: T-2.III
+  title: T-2.III The Altar of God
+  parent: T-2
   order: 3
-prev: T–2.II
-next: T–2.IV
+prev: T-2.II
+next: T-2.IV
 ---
 
 1. The Atonement can only be accepted within you by releasing the inner light. 
@@ -140,9 +140,9 @@ Then spiritual vision can be reäwakened.
 
 {% if showCommentary %}
 ::: details Commentary>
-(3) We cannot choose *not* to choose again; but we can delay this choice. …This limit, the Holy Spirit’s presence in our minds, ensures that at some point within the hologram of time, we shall choose to awaken from the dream. (Wapnick, A.V.I., p.13.) ::: 
+(3) We cannot choose *not* to choose again; but we can delay this choice. …This limit, the Holy Spirit’s presence in our minds, ensures that at some point within the hologram of time, we shall choose to awaken from the dream. (Wapnick, A.V.I., p.13.) 
 
-(3) Jesus speaks of the Atonement (or the Holy Spirit) as being the limit God set on the Son’s ability to miscreate. (Wapnick, A.V.I., p.130–131.) :::
+(3) Jesus speaks of the Atonement (or the Holy Spirit) as being the limit God set on the Son’s ability to miscreate. (Wapnick, A.V.I., p.130–131.) 
 
 (4–8) And what allows the Presence of God in our minds — the Holy Spirit or Jesus — to undo the ego’s seemingly invincible plot is the pain that we feel from our original and ongoing decision to remain separate from the Love of God, a decision that enables us to exist as an individual. It is this discomfort over our unhappy situation (referred to as having “an imporsioned will”) that impels us finally to ask for “a better way”. … Realising that our way has not worked… we call upon the “better way”, which means calling upon the better Teacher. (Wapnick, A.A.C., p. 176.)
 :::
@@ -248,8 +248,8 @@ The world is a means of healing the separation.
 
 {% if showCommentary %}
 ::: details Commentary 
-(11) God, of course, cannot weep or be lonely, but these references reflect both His love for us and the Holy Spirit’s desire that we return to our Father and be free from the pain of believing we are still separate from Him. (Wapnick, F.A.J., p.215.) (see [T–5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4)) 
+(11) God, of course, cannot weep or be lonely, but these references reflect both His love for us and the Holy Spirit’s desire that we return to our Father and be free from the pain of believing we are still separate from Him. (Wapnick, F.A.J., p.215.) (see [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4)) 
 
-(11) Clearly, since God is abstract and does not have a body, He does not get lonely, nor weep; as He is the All, He cannot be incomplete. Further, the very idea that He could be any of these things clearly implies that the separation of His Son from Himself has actually happened, and this of course is directly antithetical to the Course’s teachings. The point that is being made, therefore, has to be understood on the level of the *content* of God’s love for His children (itself of course an anthropocentric metaphor), expressd through the *form* of an earthly father’s love for his child. Since we are still very much children in the spiritual life —  “You are very new in the ways of salvation” ([T–17.V.9:1](/text/17-forgiveness-and-the-holy-relationship/v-the-healed-relationship#9)), *A Course in Miracles* tells us — the Course’s use of language at this level is more than appropriate. (Wapnick, L.D.N.C., p. 608.) (see also [T–5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#4), [T–7.VII.10:7](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#10), [T–9.VII.8:2](/text/9-the-acceptance-of-the-atonement/vii-the-two-evaluations#8), [T–19.II.2:7](/text/19-the-attainment-of-peace-/ii-sin-versus-error#2)) 
+(11) Clearly, since God is abstract and does not have a body, He does not get lonely, nor weep; as He is the All, He cannot be incomplete. Further, the very idea that He could be any of these things clearly implies that the separation of His Son from Himself has actually happened, and this of course is directly antithetical to the Course’s teachings. The point that is being made, therefore, has to be understood on the level of the *content* of God’s love for His children (itself of course an anthropocentric metaphor), expressd through the *form* of an earthly father’s love for his child. Since we are still very much children in the spiritual life —  “You are very new in the ways of salvation” ([T-17.V.9:1](/text/17-forgiveness-and-the-holy-relationship/v-the-healed-relationship#9)), *A Course in Miracles* tells us — the Course’s use of language at this level is more than appropriate. (Wapnick, L.D.N.C., p. 608.) (see also [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#4), [T-7.VII.10:7](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#10), [T-9.VII.8:2](/text/9-the-acceptance-of-the-atonement/vii-the-two-evaluations#8), [T-19.II.2:7](/text/19-the-attainment-of-peace-/ii-sin-versus-error#2)) 
 :::
 {% endif %}
