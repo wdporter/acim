@@ -154,6 +154,8 @@ You must heal the separation.
 <!-- #### commentary :::tip (7) There are several places in the course which speak of the separated parts of the Sonship as “aspects” ([T-13.VI.6:4](/text/13-the-guiltless-world/vi-finding-the-present#p6); [T-15.V.2:3](/text/15-the-holy-instant/v-the-holy-instant-and-special-relationships#p2). At other times Jesus refers to them as “parts” (e.g., [T-2.VII.6:2–7](/text/2-the-separation-and-the-atonement/vii-cause-and-effect#p6); [T-12.IV.6:8](/text/12-the-holy-spirits-curriculum/iv-seeking-and-finding#p6); [T-15.V.2:2](/text/15-the-holy-instant/v-the-holy-instant-and-special-relationships#p2); [T-15.V.3:1](/text/15-the-holy-instant/v-the-holy-instant-and-special-relationships#p3). Both are objective or neutral words to describe the seemingly personal individuality of God’s Sonship. The aspects of reality that we can still see here are the face of Christ that we see in each other, the sparks of the light of Christ that reflect our inherrent innocence (Wapnick, AVI, p. 259.) ::: -->
 
 
+<div id=4 style=height:0></div>
+
 4. Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
 ²You can be right-minded or wrong-minded, and even this is subject to degrees, clearly demonstrating that knowledge is not involved. 
 ³The term ‘right-mindedness’ is properly used as the correction for ‘wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
