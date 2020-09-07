@@ -98,8 +98,11 @@ document.addEventListener("DOMContentLoaded", function() {
 //initialise with today
 var today = new Date();
 var day = Math.ceil((today - new Date(today.getFullYear(),0,1)) / 86400000);
-document.getElementById("resultSpan").textContent = fipSections[day] + " (for day " + day + ")"
-
+try {
+	document.getElementById("resultSpan").textContent = fipSections[day] + " (for day " + day + ")"
+} catch(e) {
+	console.log(JSON.stringify(e))
+}
 })
 
 
