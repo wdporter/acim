@@ -343,6 +343,8 @@ Nothing can destroy truth.
 :::
 
 
+<div id=8 style=height:0></div>
+
 8. The innocence of God is the true state of the mind of His Son. 
 ²In this state your mind knows God, for God is not symbolic; He is Fact. 
 ³Knowing His Son as he is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
