@@ -24,7 +24,6 @@ next: T-3.IV
 
 
 ::: details Expanded
-
 We have been emphasising perception, and have said very little about knowledge as yet. 
 ²This is [we have emphasised perception] because perception must be straightened out before you can know anything. 
 ³To know is to be certain. 
@@ -35,11 +34,9 @@ We have been emphasising perception, and have said very little about knowledge a
 ⁸Misperceptions produce fear and true perceptions foster love, but neither [misperceptions nor true perceptions] brings certainty because all perception varies. 
 ⁹That [All perception varies] is why it [perception] is not knowledge. 
 ¹⁰True perception is the basis for knowledge, but knowing is the affirmation of truth and beyond all perceptions.
-
 :::
 
 ::: details Substituted
-
 We have been emphasising perception, and have said very little about knowledge as yet. 
 ²We have emphasised perception is because perception must be straightened out before you can know anything. 
 ³To know is to be certain. 
@@ -50,18 +47,15 @@ We have been emphasising perception, and have said very little about knowledge a
 ⁸Misperceptions produce fear and true perceptions foster love, but neither misperceptions nor true perceptions bring certainty because all perception varies. 
 ⁹All perception varies is why perception is not knowledge. 
 ¹⁰True perception is the basis for knowledge, but knowing is the affirmation of truth and beyond all perceptions.
-
 :::
 
 ::: details Simplified
-
 All perception varies. 
 Knowledge is based on true perception. 
 Knowledge is beyond all perception. 
 Knowledge is always certain. 
 Certainty is strength. 
 Strength is power. 
-
 :::
 
 
@@ -78,7 +72,6 @@ Strength is power.
 ¹¹You know when you have ceased to ask questions.
 
 ::: details Expanded
-
 All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 ²To recognise means to “know again”, implying that you knew before. 
 ³You can see in many ways because perception involves interpretation, and this [perception involves interpretation] means that it [perception] is not whole or consistent. 
@@ -90,11 +83,9 @@ All your difficulties stem from the fact that you do not recognise yourself, you
 ⁹How you perceive at any given time determines what you do, and actions must occur in time. 
 ¹⁰Knowledge is timeless, because certainty is not questionable. 
 ¹¹You know when you have ceased to ask questions.
-
 :::
 
 ::: details Substituted
-
 All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
 ²To recognise means to “know again”, implying that you knew before. 
 ³You can see in many ways because perception involves interpretation, and perception involves interpretation means that perception is not whole or consistent. 
@@ -106,16 +97,13 @@ All your difficulties stem from the fact that you do not recognise yourself, you
 ⁹How you perceive at any given time determines what you do, and actions must occur in time. 
 ¹⁰Knowledge is timeless, because certainty is not questionable. 
 ¹¹You know when you have ceased to ask questions.
-
 :::
 
 ::: details Simplified
-
 Perceptions are not whole or consistent. 
 Illusions must be questioned. 
 Miracles are the answer to the questioning of illusions. 
 When you are no longer asking questions, then you have knowledge. 
-
 :::
 
 
@@ -125,29 +113,23 @@ When you are no longer asking questions, then you have knowledge.
 ⁴This fear inhibits the tendency to question at all.
 
 ::: details Expanded
-
 The questioning mind perceives itself [questioning-mind’s-self] in time, and therefore looks for future answers. 
 ²The closed mind believes the future and the present will be the same. 
 ³This [The closed mind believing the future and the present will be the same] establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 ⁴This fear [the fear that the future will be worse than the present] inhibits the tendency to question at all.
-
 :::
 
 ::: details Substituted
-
 The questioning mind perceives questioning-mind’s self in time, and therefore looks for future answers. 
 ²The closed mind believes the future and the present will be the same. 
 ³The closed mind believing the future and the present will be the same establishes a seemingly stable state that is usually an attempt to counteract an underlying fear that the future will be worse than the present. 
 ⁴The fear that the future will be worse than the present inhibits the tendency to question at all.
-
 :::
 
 ::: details Simplified
-
 Fear is believing the future will be worse than the present. 
 Believing present and future will be the same is an attempt to counteract fear. 
-Believing these will stop you from questioning illusions.
-
+Believing present and future will stop you from questioning illusions.
 :::
 
 
@@ -159,36 +141,33 @@ Believing these will stop you from questioning illusions.
 ⁶That is why visions, however holy, do not last.
 
 ::: details Expanded
-
 True vision is the natural perception of spiritual sight, but it [true vision] is still a correction rather than a fact. 
 ²Spiritual sight is symbolic, and therefore not a device for knowing. 
 ³It [spiritual sight] is, however, a means of right perception, which brings it [right perception] into the proper domain of the miracle. 
 ⁴A ‘vision of God’ would be a miracle rather than a revelation. 
 ⁵The fact that perception is involved at all removes the experience [of a vision of God] from the realm of knowledge. 
 ⁶That is why visions, however holy, do not last.
-
 :::
 
 ::: details Substituted
-
 True vision is the natural perception of spiritual sight, but true vision is still a correction rather than a fact. 
 ²Spiritual sight is symbolic, and therefore not a device for knowing. 
 ³Spiritual sight is, however, a means of right perception, which brings right perception into the proper domain of the miracle. 
 ⁴A ‘vision of God’ would be a miracle rather than a revelation. 
 ⁵The fact that perception is involved at all removes the experience of a vision of God from the realm of knowledge. 
 ⁶That is why visions, however holy, do not last.
-
 :::
 
 ::: details Simplified
-
 True vision is the correction of perception. 
 But True vision, or spiritual sight, is not knowledge. 
-
 :::
 
-<!-- #### commentary :::tip (2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice#p8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-the-teaching-for-truth/x-the-equality-of-miracles#p1). Wapnick, FCTL, p.60.) (re Wapnick, at times we reserve some skepticism –Ed.)
-::: -->
+{% if showCommentary %}
+::: details Commentary 
+(2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice#8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-teaching-for-truth/x-the-equality-of-miracles#1). Wapnick, FCTL, p.60.) (re Wapnick, at times we reserve some skepticism –Ed.)
+:::
+{% endif %}
 
 
 5. The Bible tells you to know yourself, or to be certain. 
@@ -206,7 +185,6 @@ But True vision, or spiritual sight, is not knowledge.
 ¹³To perceive the truth is not the same as to know it.
 
 ::: details Expanded
-
 The Bible tells you to know yourself, or to be certain. 
 ²Certainty is always of God. 
 ³When you love someone you have perceived him [someone] as he [someone] is, and this [perceiving someone as someone is] makes it possible for you to know him [someone]. 
@@ -220,11 +198,9 @@ The Bible tells you to know yourself, or to be certain.
 ¹¹Even in its [perception’s] most spiritualised form perception involves the body. 
 ¹²Knowledge comes from the altar within and is timeless because it [knowledge] is certain. 
 ¹³To perceive the truth is not the same as to know it [the truth].
-
 :::
 
 ::: details Substituted
-
 5. The Bible tells you to know yourself, or to be certain. 
 ²Certainty is always of God. 
 ³When you love someone you have perceived someone as someone is, and perceiving someone as someone is makes it possible for you to know someone. 
@@ -238,11 +214,9 @@ The Bible tells you to know yourself, or to be certain.
 ¹¹Even in perception’s most spiritualised form, perception involves the body. 
 ¹²Knowledge comes from the altar within and is timeless because knowledge is certain. 
 ¹³To perceive the truth is not the same as to know the truth.
-
 :::
 
 ::: details Simplified
-
 Loving someone is perceiving them as they are. 
 Perceiving someone as they are is right perception. 
 From right perception comes right action. 
@@ -251,7 +225,6 @@ Knowledge is timeless.
 Knowledge is certain. 
 Knowledge asks no questions. 
 Knowledge makes right thinking. 
-
 :::
 
 
@@ -264,7 +237,6 @@ Knowledge makes right thinking.
 ⁷“Fear God and keep His commandments” becomes “Know God and accept His certainty”.
 
 ::: details Expanded
-
 Right perception is necessary before God can communicate directly to His [God’s] altars, which He [God] established in His [God’s] Sons. 
 ²There He [God] can communicate His [God’s] certainty, and His [God’s] knowledge will bring peace without question. 
 ³God is not a stranger to His [God’s] Sons, and His [God’s] Sons are not strangers to each other. 
@@ -272,11 +244,9 @@ Right perception is necessary before God can communicate directly to His [God’
 ⁵That is the real meaning of “Alpha and Omega, the beginning and the end”, and “Before Abraham was I am”. 
 ⁶Perception can and must be stabilised, but knowledge *is* stable. 
 ⁷“Fear God and keep His commandments” becomes “Know God and accept His certainty”.
-
 :::
 
 ::: details Substituted
-
 Right perception is necessary before God can communicate directly to God’s altars, which God established in God’s Sons. 
 ²There God can communicate God’s certainty, and God’s knowledge will bring peace without question. 
 ³God is not a stranger to God’s Sons, and God’s Sons are not strangers to each other. 
@@ -284,23 +254,26 @@ Right perception is necessary before God can communicate directly to God’s alt
 ⁵That is the real meaning of “Alpha and Omega, the beginning and the end”, and “Before Abraham was I am”. 
 ⁶Perception can and must be stabilised, but knowledge *is* stable. 
 ⁷“Fear God and keep His commandments” becomes “Know God and accept His certainty”.
-
 :::
 
 ::: details Simplified
-
 God established an altar in each of His Sons.
 God communicates from His altar.
 God knows His Sons.
 God’s Sons know each other. 
 Knowledge existed before perception and time. 
 Right perception is necessary before knowledge of God can replace perception and time. 
-
 :::
 
-<!-- #### commentary :::tip (3) It was this entrapment in an alien world that the Gnostics experienced in a particularly painful way, as we have seen. *A Course in Miracles* too expresses this alienation of our self from Self, though without the Gnostic belief in entrapment. Many passages in the Course, however, are reminiscent of the anguished cries of the Gnostics who found themselves to be “strangers in a strange land”. (Wapnick, LDNC, p.481.) :::
-:::tip (3) …a vicious circle in which we feel caught without seeming escape, entrapped in an alien world that is nothing but the reflection of the mind’s experience of being alienated from God. In many places, Jesus expresses this alienation of our self from Self, the experience of being  “a stranger in a strange land”, to borrow the famous phrase from Exodus. (Wapnick, AAC, p.105.) :::
-:::tip (3) The words “alien”, “stranger” and “homeless”, for example, recur frequently. (Wapnick, LDNC, p. 481; AAC, p.105.) ::: -->
+{% if showCommentary %}
+::: details Commentary
+(3) It was this entrapment in an alien world that the Gnostics experienced in a particularly painful way, as we have seen. *A Course in Miracles* too expresses this alienation of our self from Self, though without the Gnostic belief in entrapment. Many passages in the Course, however, are reminiscent of the anguished cries of the Gnostics who found themselves to be “strangers in a strange land”. (Wapnick, LDNC, p.481.) 
+
+(3) …a vicious circle in which we feel caught without seeming escape, entrapped in an alien world that is nothing but the reflection of the mind’s experience of being alienated from God. In many places, Jesus expresses this alienation of our self from Self, the experience of being  “a stranger in a strange land”, to borrow the famous phrase from Exodus. (Wapnick, AAC, p.105.) 
+
+(3) The words “alien”, “stranger” and “homeless”, for example, recur frequently. (Wapnick, LDNC, p. 481; AAC, p.105.) 
+:::
+{% endif %}
 
 
 7. If you attack error in another, you will hurt yourself. 
@@ -317,7 +290,6 @@ Right perception is necessary before knowledge of God can replace perception and
 ¹²When they do not recognise each other, they do not recognise Him.
 
 ::: details Expanded
-
 If you attack error in another, you will hurt yourself. 
 ²You cannot know your brother when you attack him [your brother]. 
 ³Attack is always made upon a stranger. 
@@ -330,11 +302,9 @@ If you attack error in another, you will hurt yourself.
 ¹⁰He [God] created them [God’s-children] by knowing them [God’s-children]. 
 ¹¹He [God] recognises them [God’s-children] perfectly. 
 ¹²When they [God’s-children] do not recognise each other, they [God’s-children] do not recognise Him [God].
-
 :::
 
 ::: details Substituted
-
 If you attack error in another, you will hurt yourself. 
 ²You cannot know your brother when you attack your brother. 
 ³Attack is always made upon a stranger. 
@@ -347,15 +317,10 @@ If you attack error in another, you will hurt yourself.
 ¹⁰God created God’s-children by knowing God’s-children. 
 ¹¹God recognises God’s-children perfectly. 
 ¹²When God’s-children do not recognise each other, God’s-children do not recognise God.
-
 :::
 
 ::: details Simplified
-
 Attacking a brother is making a brother into a stranger. 
 God’s creations know each other. 
 Attacking a brother is forgetting God and forgetting yourself.
-
 :::
-
----
