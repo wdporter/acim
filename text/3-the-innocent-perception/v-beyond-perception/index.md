@@ -255,6 +255,8 @@ Creation is your source and your function.
 :::tip (5) Our prayer, the, should be only for help in accepting the truth that is *already* there, …prayer is no different from forgiveness or the miracle, for they all reflect the process of undoing the ego thought system that never was, leaving to be itself the Love of God that has alway been. (Wapnick, AAC, p.259.) ::: -->
 
 
+<div id=7 style=height:0></div>
+
 7. The statement “God created man in his own image and likeness” needs reïnterpretation. 
 ²‘Image’ can be understood as ‘thought’, and ‘likeness’ as ‘of a like quality’. 
 ³God did create spirit in His Own Thought and of a quality like to His Own. 

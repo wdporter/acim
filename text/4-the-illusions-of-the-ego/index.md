@@ -2881,7 +2881,8 @@ The ego makes comparisons. The ego does not believe in equality. The ego can’t
 
 ## T-4.II.8
 
-<p class=fip id=p8>
+<div id=8 style=height:0></div>
+
 8. The ego believes it is completely on its own, which is merely another way of describing how it thinks it originated. 
 ²This is such a fearful state that it can only turn to other egos and try to unite with them in a feeble attempt at identification, or attack them in an equally feeble show of strength. 
 ³It is not free, however, to open the premise to question, because the premise is its foundation. 
@@ -4881,7 +4882,7 @@ Your kingdom is kept by God for you until you know God’s joy. God will reveal 
 
 ## T-4.VII.8
 
-<p class=fip id=p8>
+
 8. God is praised whenever any mind learns to be wholly helpful. 
 ²This is impossible without being wholly harmless, because the two beliefs must co-exist. 
 ³The truly helpful are invulnerable, because they are not protecting their egos and so nothing can hurt them. 

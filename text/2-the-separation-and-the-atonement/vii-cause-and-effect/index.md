@@ -257,6 +257,8 @@ Time is the gap that enables you to recognise the belief in separation before yo
 {% endif %}
 
 
+<div id=6 style=height:0></div>
+
 6. It should especially be noted that God has only *one* Son. 
 ²If all His creations are His Sons, every one must be an integral part of the whole Sonship. 
 ³The Sonship in its Oneness transcends the sum of its parts. 
