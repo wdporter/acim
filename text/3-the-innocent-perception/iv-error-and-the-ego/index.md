@@ -173,6 +173,8 @@ But right-mindedness is not knowledge.
 :::
 
 
+<div id=5 style=height:0></div>
+
 5. Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. 
 ²The mind is very active. 
 ³When it chooses to be separated it chooses to perceive. 
