@@ -43,4 +43,16 @@ The course, on the other hand, emphasises that to teach is to learn, so that tea
 It also emphasises that teaching is a constant process; it goes on every moment of the day and continues into sleeping thoughts as well. 
 [🡕](/manual/)
 
+***
+
+### Clarification of Terms
+
+This is not a course in philosophical speculation, nor is it concerned with precise terminology. 
+It is concerned only with Atonement, or the correction of perception. 
+The means of the Atonement is forgiveness. 
+The structure of ‘individual consciousness’ is essentially irrelevant because it is a concept representing the ‘original error’ or the ‘original sin’.
+To study the error itself does not lead to correction, if you are indeed to succeed in overlooking the error. 
+And it is just this process of overlooking at which the course aims. 
+[🡕](/clarification-of-terms/)
+
 </main>
