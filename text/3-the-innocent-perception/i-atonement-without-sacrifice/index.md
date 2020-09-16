@@ -168,7 +168,7 @@ God does not hold evil deeds against anyone.
 ::: details Commentary 
 (11) The purpose of refocusing our thinking can be especially tricky because the ego will subtly burrow into anything, like a fifth column… Thus, the ego takes a book such as *A Course on Miracles*, as egoless as any book could be, and it will still use it for ego purposes. (Wapnick, AVI, p. 178–179. Is the irony lost on him? –Ed. (and yes, the editor also has his own ego purposes…).) 
 
-(11) …in light of … all students’ proclivity for projection of guilt onto God and him, Jesus made this very clear statement (Wapnick, FCTL, p. 179) (Wapnick includes himself in that, we presume. –Ed.) 
+(11) …in light of … all students’ proclivity for projection of guilt onto God and him, Jesus made this very clear statement (Wapnick, FCTL, p. 179) 
 :::
 {% endif %}
 
@@ -374,7 +374,7 @@ In innocence you know God.
 
 {% if showCommentary %}
 ::: details Commentary
-(2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.III.4](/text/3-the-innocent-perception/iii-perception-versus-knowledge#4), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-teaching-for-truth/x-the-equality-of-miracles#1). Wapnick, FCTL, p.60.) (re Wapnick, sometimes skepticism is called for –Ed.) 
+(2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.III.4](/text/3-the-innocent-perception/iii-perception-versus-knowledge/#4), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-teaching-for-truth/x-the-equality-of-miracles/#1). Wapnick, FCTL, p.60.) 
 
 (3) The mistake [of ritualisation] is more usually spoken of in the Course as the confusion of form with content, most clearly seen in the discussion of special love relationships, where the content of hate and guilt is concealed behind the form of love. (Wapnick, LDNC, p.528.) 
 

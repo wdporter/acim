@@ -156,12 +156,10 @@ An imprisoned mind means the will can’t assert itself in accord with God’s w
 Heaven is the Son’s mind in perfect accord with the God.  
 :::
 
-::: details Commentary
-That is, oneness does not mean a numerical oneness of identity, but means being of one mind and will.
+::: details Note
+That is, oneness does not mean a numerical oneness of identity, but means being of one mind and will. (–Ed.)
 
-N.B. “afraid of God’s Will”, rather than afraid of God Himself.
-
- (–Ed.)
+N.B. “afraid of God’s Will”, rather than afraid of God Himself. (–Ed.)
 :::
 
 

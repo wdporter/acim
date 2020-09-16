@@ -302,13 +302,13 @@ Believing in error or incompleteness is believing in the existence of nothingnes
 The Atonement is the correction of the error of believing in the existence of nothing.
 :::
 
-::: details Comment
+::: details Note
 The conflict is between there being only one Son while the Son has many parts. It is an error to believe either a) we are part of the Sonship but somehow incomplete; or b) we are separate, or apart from, or not a part of, the Sonship (—Ed.)
 :::
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–3) Similarly, the Course talks about the Great Rays (not Ray), which are the extensions of the light of God, similar to the rays of light that emanate from the sun. … we may yet state that Christ consists of infinite Rays (Sons of God), all perfectly united and indivisible; however, we clearly are not speaking here of personal individuality as we experience it in the world. (Wapnick, L.D.N.C., p. 449.) (Wapnick’s qualification appears unwarranted, but is somewhat Expanded on in A.A.C., pp. 9–10. —Ed.) 
+(1–3) Similarly, the Course talks about the Great Rays (not Ray), which are the extensions of the light of God, similar to the rays of light that emanate from the sun. … we may yet state that Christ consists of infinite Rays (Sons of God), all perfectly united and indivisible; however, we clearly are not speaking here of personal individuality as we experience it in the world. (Wapnick, L.D.N.C., p. 449.) 
 
 (3) …one cannot appreciate the pure wholeness and oneness of Christ by simply adding up the billions and billions of fragments that the world thinks is the Son of God, as if the Sonship were like a huge pie, a quantifiable entity consisting of a certain amount of separated fragments. (Wapnick, FCTL, p. 67.) 
 :::

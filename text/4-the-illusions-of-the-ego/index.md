@@ -635,9 +635,9 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 You make an ego for yourself. And you make an ego for everyone you perceive. Egos are unstable. When they interact with each other, they change. Egos can be changed just by thinking about them. By this we know ego is not a fact.
 
 
-#### commentary
 
-:::tip
+
+::: details Note
 (6) The ‘real’ is that which never changes, or that which has ‘necessary’ as opposed to ‘contingent’ existence. Or in Buddhist philosopy, that which has ‘inherent’ existence.  (—Ed.) 
 :::
 
@@ -815,11 +815,12 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 
 If you have a sense of abundance you can give with true charity. Ego giving is giving up someting, with hope of bigger return later. The ego was created out of scarcity. The ego believes in scarcity. Self-esteeem is a delusion. Self-esteem is always vulnerable to stress, because self-esteem can be threatened. 
 
-#### commentary
 
-:::tip
+
+::: details Note
 (6) Scarcity, or *lack*. (—Ed.)
 :::
+
 
 ## T-4.II.7
 
@@ -918,7 +919,9 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 #### commentary
 
 :::tip
-(6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) (In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. Wapnick’s approach to interpretation is not universally shared amongst course scholars. —Ed.)
+(6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) 
+
+(In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. —Ed.)
 :::
 
 ## T-4.II.9
@@ -1376,7 +1379,9 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 -->
 
 :::tip
-(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light ‘forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) (True enough, but be wary of the idea that if you don’t agree with Ken it’s because the ego is distorting the Course’s teachings –Ed.)
+(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light ‘forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) 
+
+(True enough, but be wary of the idea that if you don’t agree with Wapnick it’s because the ego is distorting the Course’s teachings –Ed.)
 ::: 
 
 ## T-4.III.9
@@ -1869,7 +1874,7 @@ You have refused to gladden yourself. You have limited your power by your own ch
  -->
 
 :::tip
-(9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what I have termed the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p6) (Wapnick, AAC, p.33–34) (Note that ‘decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
+(9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what *I have termed* the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p6) (Wapnick, AAC, p.33–34) (italics mine. Note that ‘decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
 :::
 
 ## T-4.IV.9
@@ -2651,9 +2656,9 @@ Ask not how the ego was made in the past. Ask how the error of the ego is happen
 You make an ego for yourself. And you make an ego for everyone you perceive. Egos are unstable. When they interact with each other, they change. Egos can be changed just by thinking about them. By this we know ego is not a fact.
 
 
-#### commentary
 
-:::tip
+
+::: details Note
 (6) The ‘real’ is that which never changes, or that which has ‘necessary’ as opposed to ‘contingent’ existence. Or in Buddhist philosopy, that which has ‘inherent’ existence.  (—Ed.) 
 :::
 
@@ -2831,9 +2836,9 @@ It is not painful to undermine the ego’s thought system. You might scream at h
 
 If you have a sense of abundance you can give with true charity. Ego giving is giving up someting, with hope of bigger return later. The ego was created out of scarcity. The ego believes in scarcity. Self-esteeem is a delusion. Self-esteem is always vulnerable to stress, because self-esteem can be threatened. 
 
-#### commentary
 
-:::tip
+
+::: details Note
 (6) Scarcity, or *lack*. (—Ed.)
 :::
 
@@ -2935,7 +2940,9 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 #### commentary
 
 :::tip
-(6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) (In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. Wapnick’s approach to interpretation is not universally shared amongst course scholars. —Ed.)
+(6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) 
+
+(In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. —Ed.)
 :::
 
 ## T-4.II.9
@@ -3393,7 +3400,9 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 -->
 
 :::tip
-(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light ‘forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) (True enough, but be wary of the idea that if you don’t agree with Ken it’s because the ego is distorting the Course’s teachings –Ed.)
+(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light ‘forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) 
+
+(True enough, but be wary of the idea that if you don’t agree with Ken it’s because the ego is distorting the Course’s teachings –Ed.)
 ::: 
 
 ## T-4.III.9
@@ -3886,7 +3895,9 @@ You have refused to gladden yourself. You have limited your power by your own ch
  -->
 
 :::tip
-(9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what I have termed the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p6) (Wapnick, AAC, p.33–34) (Note that ‘decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
+(9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what *I have termed* the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#p6) (Wapnick, AAC, p.33–34) 
+
+(italics mine. Note that ‘decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
 :::
 
 ## T-4.IV.9
@@ -4281,11 +4292,13 @@ Do not seek blindly for protection, because you might not recognise protection. 
 The ego loves to stay busy with non-essential tangential issues. The ego does not wants to hide the real question. Always ask yourself what everything is for. Make sure each thing is not for diverting the ego. 
 
 
-#### commentary
 
-:::tip
+
+:::details Note
 (3) The “real question” might refer to “Where can I go for protection?” as per 5:1, or to “What is the purpose?” as per 7, 9. Either way the essence of the question is probably the same (–Ed.). 
 :::
+
+
 # T-4.VI The Rewards of God
 
 ## T-4.VI.1
@@ -4763,7 +4776,7 @@ Existence is specific in how it communicates. Being is in communication with eve
 #### commentary
 
 :::tip
-(1–4, 6–8) …when the mind appeared to separate from its Source, thereby becoming split, the ego was born. Consequently we now speak of two minds: Mind — one with God; and mind — split off from Him. This split-off mind is what eventually emerges as the full-blown ego, the separated, illusory and ‘sinful’ illusory self. *A Course in Miracles* in fact distinguishes between *being*, which refers only to spirit, the abstract Mind of God or Christ which is the only reality, and *existence*, wihch is the realm of the separated or specific mind, the illusory state of non-being. c/f [5:1,7](#p5), [T-6.IV.7:4](/text/6-the-lessons-of-love/iv-the-only-answer#p7) (Wapnick, LDNC, p.494; AAC, p.145) (But note there are numerous parts of the text that speak of God as Creator and we, with our brothers, are his creations –Ed.)
+(1–4, 6–8) …when the mind appeared to separate from its Source, thereby becoming split, the ego was born. Consequently we now speak of two minds: Mind — one with God; and mind — split off from Him. This split-off mind is what eventually emerges as the full-blown ego, the separated, illusory and ‘sinful’ illusory self. *A Course in Miracles* in fact distinguishes between *being*, which refers only to spirit, the abstract Mind of God or Christ which is the only reality, and *existence*, wihch is the realm of the separated or specific mind, the illusory state of non-being. c/f [5:1,7](#5), [T-6.IV.7:4](/text/6-the-lessons-of-love/iv-the-only-answer/#7) (Wapnick, LDNC, p.494; AAC, p.145) 
 :::
 
 

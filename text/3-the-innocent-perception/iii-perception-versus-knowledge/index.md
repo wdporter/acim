@@ -165,7 +165,7 @@ But True vision, or spiritual sight, is not knowledge.
 
 {% if showCommentary %}
 ::: details Commentary 
-(2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice#8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-teaching-for-truth/x-the-equality-of-miracles#1). Wapnick, FCTL, p.60.) (re Wapnick, at times we reserve some skepticism –Ed.)
+(2) [these] passage well illustrate Jesus’ clear awareness of the use of symbols in *A Course of Miracles* as *reflections* of the truth, since the non-dualistic nature of truth cannot be expressed directly from one to the another (also [T-3.I.8:2](/text/3-the-innocent-perception/i-atonement-without-sacrifice/#8), [T-14.X.1:2–4,6–7; 2:1–2,4](/text/14-teaching-for-truth/x-the-equality-of-miracles/). Wapnick, FCTL, p.60.) 
 :::
 {% endif %}
 

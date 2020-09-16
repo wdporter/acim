@@ -9,7 +9,7 @@ eleventyNavigation:
 
 <main>
 
-### Text
+## TEXT
 
 This is a course in miracles. 
 It is a required course. 
@@ -23,7 +23,7 @@ The opposite of love is fear, but what is all-encompassing can have no opposite.
 
 ***
 
-### Workbook for Students
+## WORKBOOK FOR STUDENTS
 
 A theoretical foundation, such as the text, is necessary as a background to make these exercises meaningful. 
 Yet it is the exercises that will make the goal possible. 
@@ -33,7 +33,7 @@ It is the purpose of these exercises to train the mind to think along the lines 
 
 ***
 
-### Manual for Teachers
+## MANUAL FOR TEACHERS
 
 The role of teaching and learning is actually reversed in the thinking of the world. 
 The reversal is characteristic. 
@@ -45,7 +45,7 @@ It also emphasises that teaching is a constant process; it goes on every moment 
 
 ***
 
-### Clarification of Terms
+## CLARIFICATION OF TERMS
 
 This is not a course in philosophical speculation, nor is it concerned with precise terminology. 
 It is concerned only with Atonement, or the correction of perception. 

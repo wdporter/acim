@@ -84,7 +84,7 @@ You cannot resolve the authority problem by depreciating the power of your mind.
 You can’t solve the authority problem by pretending the mind is weak. 
 :::
 
-::: details Commentary
+::: details Note
 (2) ‘really understand’ — Ur-Text has “you KNOW the power of your mind”. (—Ed.)
 :::
 
@@ -245,10 +245,12 @@ Nothing has truly happened since the beginning.
 Do not be afraid about the destruction of your thought system. 
 :::
 
+::: details Note
+(1–4) For ‘the devil’, we can always read ‘the belief in separation’ (–Ed.) 
+:::
+
 {% if showCommentary %}
 ::: details Commentary
-(1–4) For ‘the devil’, we could read ‘the belief in separation’ (—Ed.) 
-
 (1) Crucial to the Course’s understanding of salvation is that it is not “the world, the flesh and the devil” from which one needs to be saved, for that is not the problem. Rather, the problem is the underlying thought system of separation — the way we think — that brought about the world, the flesh and the devil. It is this “way of thinking” that we may more properly call the devil, it being nothing more than our belief that it is possible to have a force that opposes God, and that can succeed. (Wapnick, LDNC, p. 499–500.)
 
 (1) Therefore, if the problem is belief in separation, the solution can *only* be union. Forgiveness thus refers to the process of joining with another person (in a holy relationship) who heretofore had been experienced as separate from us (in a special relationship). (Wapnick, AAC, p.153.) 
