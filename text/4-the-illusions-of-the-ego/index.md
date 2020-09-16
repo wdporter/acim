@@ -921,7 +921,7 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 :::tip
 (6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) 
 
-(In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. —Ed.)
+(It is not a universally held approach to interpretation that whatever does not fit one’s metaphysical view must be either myth, metaphor or symbol. If something needs to be explained away as myth, metaphor or symbol, then perhaps a reëxamination of one's assumptions is in order. —Ed.)
 :::
 
 ## T-4.II.9
@@ -2942,7 +2942,8 @@ The ego believes it is on its own. The ego tries to unite with other egos, or at
 :::tip
 (6–7) How could God have given an Answer to a problem that the Course states clearly does not exist, and that God does even know about? …we can see the Course using language metaphorically, words that are not to be taken as literal truth. This is why we have spoken of the Course’s mythology, however psychologically spphisticated its form. God does not think, weep, nor give answers, any more than He makes things happen in the world, heal physical illness, nor end human suffering. These are metaphoric expressions Jesus (himself a symbol) uses in the Course to express the love of God that cannot be expressed except through such literary and anthropomorphic devices. c/f [T-18.VIII.1:7](/text/18-the-passing-of-the-dream/viii-the-little-garden.html#p1) (Wapnick, LDNC, p. 459) 
 
-(In other words, if Ken Wapnick does not agree with something the course says, it must be either myth, metaphor or symbol. —Ed.)
+(It is not a universally held approach to interpretation that whatever does not fit one’s metaphysical view must be either myth, metaphor or symbol. If something needs to be explained away as myth, metaphor or symbol, then perhaps a reëxamination of one's assumptions is in order. —Ed.)
+
 :::
 
 ## T-4.II.9
