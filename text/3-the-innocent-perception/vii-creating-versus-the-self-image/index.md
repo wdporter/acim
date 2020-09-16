@@ -130,13 +130,11 @@ God created knowledge and gives knowledge to His children.
 
 {% if showCommentary %}
 ::: details Commentary
-(2–3) …the ego is nothing more than [the] belief system of separation, having no reality outside of the decision-making mind that thought it. It is not anything real, but simply a *belief* of what is *thought* to be real. (Wapnick, AAC, p.44–45. c/f [C-2.1:4–8,10](/clarification-of-terms/2-the-ego-the-miracle))
+(2–3) …the ego is nothing more than [the] belief system of separation, having no reality outside of the decision-making mind that thought it. It is not anything real, but simply a *belief* of what is *thought* to be real. (Wapnick, AAC, p.44–45. c/f [C-2.1:4–8,10](/clarification-of-terms/2-the-ego-the-miracle/))
 :::
  {% endif %}
 
-## T-3.VII.4
 
-<p class=fip id=p4>
 4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 ²This is the only sense in which God and His creations are not co-creators. 
 ³The belief that they are is implicit in the ‘self-concept’, or the tendency of the self to make an image of itself. 
@@ -149,11 +147,10 @@ God created knowledge and gives knowledge to His children.
 ¹⁰You still believe you are an image of your own making. 
 ¹¹Your mind is split with the Holy Spirit on this point, and there is no resolution while you believe the one thing that is literally inconceivable. 
 ¹²That is why you cannot create and are filled with fear about what you make.
-</p>
+
 
 ::: details Expanded
-
-4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
+Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 ²This [usurping the ability for self-creating] is the only sense in which God and His [God’s] creations are not co-creators. 
 ³The belief that they [God and God’s creations] are [co-creators] is implicit in the ‘self-concept’, or the tendency of the self to make an image of itself [self’s self]. 
 ⁴Images are perceived, not known. 
@@ -165,10 +162,10 @@ God created knowledge and gives knowledge to His children.
 ¹⁰You still believe you are an image of your own making. 
 ¹¹Your mind is split with the Holy Spirit on this point [you being an image of your own making], and there is no resolution while you believe the one thing that is literally inconceivable. 
 ¹²That is why you cannot create and are filled with fear about what you make.
+:::
 
 ::: details Substituted
-
-4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
+Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 ²Usurping the ability for self-creating is the only sense in which God and His God’s creations are not co-creators. 
 ³The belief that they God and God’s creations are co-creators is implicit in the ‘self-concept’, or the tendency of the self to make an image of self’s self. 
 ⁴Images are perceived, not known. 
@@ -180,23 +177,24 @@ God created knowledge and gives knowledge to His children.
 ¹⁰You still believe you are an image of your own making. 
 ¹¹Your mind is split with the Holy Spirit on the point of you being an image of your own making, and there is no resolution while you believe the one thing that is literally inconceivable. 
 ¹²That is why you cannot create and are filled with fear about what you make.
+:::
 
 ::: details Simplified
-
-You did not create yourself. But you believe you did create yourself. You perceive an image of yourself as self-created. Your defences are used to attack anything that exposes this error. The Holy Spirit reminds you that you did not create yourself.  
-
-<!-- 
-#### commentary
-
-:::tip:
-(1–2) …though God and Christ share in spirit’s function of creating and are totally one, there is one essential difference: God created Christ; Christ did not create God. Though we are *like* God, creating as He does, we are *not* God. (Wapnick, AAC, p.14. c/f [T-7.I.1–2](/text/7-the-gifts-of-the-kingdom/i-the-last-step#p1)).
+You did not create yourself. 
+But you believe you did create yourself. 
+You perceive an image of yourself as self-created. 
+Your defences are used to attack anything that exposes this error. 
+The Holy Spirit reminds you that you did not create yourself.  
 :::
- -->
 
-## T-3.VII.5
+{% if showCommentary %}
+::: details Commentary
+(1–2) …though God and Christ share in spirit’s function of creating and are totally one, there is one essential difference: God created Christ; Christ did not create God. Though we are *like* God, creating as He does, we are *not* God. (Wapnick, AAC, p.14. c/f [T-7.I.1–2](/text/7-the-gifts-of-the-kingdom/i-the-last-step/)).
+:::
+{% endif %}
 
-<p class=fip id=p5>
-5. The mind can make the belief in separation very real and very fearful, and this belief <em>is</em> the ‘devil’. 
+
+5. The mind can make the belief in separation very real and very fearful, and this belief *is* the ‘devil’. 
 ²It is powerful, active, destructive and clearly in opposition to God, because it literally denies His Fatherhood. 
 ³Look at your life and see what the devil has made. 
 ⁴But realise that this making will surely dissolve in the light of truth, because its foundation is a lie. 
@@ -206,12 +204,10 @@ You did not create yourself. But you believe you did create yourself. You percei
 ⁸Your Self is still in peace, even though your mind is in conflict. 
 ⁹You have not yet gone back far enough, and that is why you become so fearful. 
 ¹⁰As you approach the Beginning, you feel the fear of the destruction of your thought system upon you as if it were the fear of death. 
-¹¹There is no death, but there <em>is</em> a belief in death.
-</p>
+¹¹There is no death, but there *is* a belief in death.
 
 ::: details Expanded
-
-5. The mind can make the belief in separation very real and very fearful, and this belief [in separation] <em>is</em> the ‘devil’. 
+The mind can make the belief in separation very real and very fearful, and this belief [in separation] *is* the ‘devil’. 
 ²It [the devil] is powerful, active, destructive and clearly in opposition to God, because it [the devil] literally denies His [God’s] Fatherhood. 
 ³Look at your life and see what the devil has made. 
 ⁴But realise that this [the devil’s] making will surely dissolve in the light of truth, because its [the-devil’s] foundation is a lie. 
@@ -221,11 +217,11 @@ You did not create yourself. But you believe you did create yourself. You percei
 ⁸Your Self is still in peace, even though your mind is in conflict. 
 ⁹You have not yet gone back far enough, and that [not going back far enough] is why you become so fearful. 
 ¹⁰As you approach the Beginning, you feel the fear of the destruction of your thought system upon you as if it [the fear] were the fear of death. 
-¹¹There is no death, but there <em>is</em> a belief in death.
+¹¹There is no death, but there *is* a belief in death.
+:::
 
 ::: details Substituted
-
-5. The mind can make the belief in separation very real and very fearful, and the belief in separation <em>is</em> the ‘devil’. 
+The mind can make the belief in separation very real and very fearful, and the belief in separation *is* the ‘devil’. 
 ²The devil is powerful, active, destructive and clearly in opposition to God, because the devil literally denies God’s Fatherhood. 
 ³Look at your life and see what the devil has made. 
 ⁴But realise that the devil’s making will surely dissolve in the light of truth, because the-devil’s foundation is a lie. 
@@ -235,82 +231,79 @@ You did not create yourself. But you believe you did create yourself. You percei
 ⁸Your Self is still in peace, even though your mind is in conflict. 
 ⁹You have not yet gone back far enough, and not going back far enough is why you become so fearful. 
 ¹⁰As you approach the Beginning, you feel the fear of the destruction of your thought system upon you as if the fear were the fear of death. 
-¹¹There is no death, but there <em>is</em> a belief in death.
+¹¹There is no death, but there *is* a belief in death.
+:::
 
 ::: details Simplified
+The foundation of your thought system is a false belief in separation. 
+Your thought system is your life. 
+Your true foundation is that God created you. 
+This is your real beginning. 
+Go back to your beginning. 
+At the beginning your Self is in peace. 
+Nothing has truly happened since the beginning. 
+Do not be afraid about the destruction of your thought system. 
+:::
 
-The foundation of your thought system is a false belief in separation. Your thought system is your life. Your true foundation is that God created you. This is your real beginning. Go back to your beginning. At the beginning your Self is in peace. Nothing has truly happened since the beginning. Do not be afraid about the destruction of your thought system, that is, your life. 
-
-
-#### commentary
-
-:::tip
+{% if showCommentary %}
+::: details Commentary
 (1–4) For ‘the devil’, we could read ‘the belief in separation’ (—Ed.) 
-:::
 
-<!-- 
-:::tip
 (1) Crucial to the Course’s understanding of salvation is that it is not “the world, the flesh and the devil” from which one needs to be saved, for that is not the problem. Rather, the problem is the underlying thought system of separation — the way we think — that brought about the world, the flesh and the devil. It is this “way of thinking” that we may more properly call the devil, it being nothing more than our belief that it is possible to have a force that opposes God, and that can succeed. (Wapnick, LDNC, p. 499–500.)
-:::
 
-:::tip
 (1) Therefore, if the problem is belief in separation, the solution can *only* be union. Forgiveness thus refers to the process of joining with another person (in a holy relationship) who heretofore had been experienced as separate from us (in a special relationship). (Wapnick, AAC, p.153.) 
 ::: 
--->
+{% endif %}
 
-## T-3.VII.6
 
-<p class=fip id=p6>
 6. The branch that bears no fruit will be cut off and will wither away. 
 ²Be glad! 
 ³The light will shine from the true Foundation of life, and your own thought system will stand corrected. 
 ⁴It cannot stand otherwise. 
 ⁵You who fear salvation are choosing death. 
 ⁶Life and death, light and darkness, knowledge and perception, are irreconcilable. 
-⁷To believe that they can be reconciled is to believe that God and His Son can <em>not</em>. 
+⁷To believe that they can be reconciled is to believe that God and His Son can *not*. 
 ⁸Only the oneness of knowledge is free of conflict. 
 ⁹Your Kingdom is not of this world because it was given you from beyond this world. 
 ¹⁰Only in this world is the idea of an authority problem meaningful. 
 ¹¹The world is not left by death but by truth, and truth can be known by all those for whom the Kingdom was created, and for whom it waits.
-</p>
 
 ::: details Expanded
-
-6. The branch that bears no fruit will be cut off and will wither away. 
+The branch that bears no fruit will be cut off and will wither away. 
 ²Be glad! 
 ³The light will shine from the true Foundation of life, and your own thought system will stand corrected. 
 ⁴It [your own thought system] cannot stand otherwise [other than corrected]. 
 ⁵You who fear salvation are choosing death. 
 ⁶Life and death, light and darkness, knowledge and perception, are irreconcilable. 
-⁷To believe that they [the irreconcilable] can be reconciled is to believe that God and His [God’s] Son can <em>not</em> [be reconciled]. 
+⁷To believe that they [the irreconcilable] can be reconciled is to believe that God and His [God’s] Son can *not* [be reconciled]. 
 ⁸Only the oneness of knowledge is free of conflict. 
 ⁹Your Kingdom is not of this world because it [your Kingdom] was given you from beyond this world. 
 ¹⁰Only in this world is the idea of an authority problem meaningful. 
 ¹¹The world is not left by death but by truth, and truth can be known by all those for whom the Kingdom was created, and for whom it [the Kingdom] waits.
+:::
 
 ::: details Substituted
-
-6. The branch that bears no fruit will be cut off and will wither away. 
+The branch that bears no fruit will be cut off and will wither away. 
 ²Be glad! 
 ³The light will shine from the true Foundation of life, and your own thought system will stand corrected. 
 ⁴Your own thought system cannot stand other than corrected. 
 ⁵You who fear salvation are choosing death. 
 ⁶Life and death, light and darkness, knowledge and perception, are irreconcilable. 
-⁷To believe that the irreconcilable can be reconciled is to believe that God and God’s Son can <em>not</em> be reconciled. 
+⁷To believe that the irreconcilable can be reconciled is to believe that God and God’s Son can *not* be reconciled. 
 ⁸Only the oneness of knowledge is free of conflict. 
 ⁹Your Kingdom is not of this world because your Kingdom was given you from beyond this world. 
 ¹⁰Only in this world is the idea of an authority problem meaningful. 
 ¹¹The world is not left by death but by truth, and truth can be known by all those for whom the Kingdom was created, and for whom the Kingdom waits.
+:::
 
 ::: details Simplified
+Your thought system must be corrected. 
+The Kindgom of life/light/knowledge is waiting for you. 
+You leave the world of perception/separation by way of truth.
+:::
 
-Your thought system must be corrected. The Kindgom of life/light/knowledge is waiting for you. You leave the world of perception/separation by way of truth.
-
-<!-- 
-#### commentary
-
-:::tip
+{% if showCommentary %}
+::: details Commentary
 (sections [VI](/text/3-the-innocent-perception/vi-judgement-and-the-authority-problem) and VII) Once we see through the filter of the past, we cannot see the light of Christ that shines in others. Rather, we shall see around them only a shoadow of the guilt which *we* have put there. We put it there because we have projected it from our minds as a magical atttempt to escape from the guilt of *our* past. An example of this is people who have unresolved problems with their fathers, and with authority figures in general, who then see any authority figure as if that person were their father. The ultimate origin of the authority problem of course is our belief in the separation from God, the only Authrority. (Wapnick, AVI, p. 170.)
-:::tip
- -->
-
+:::
+{% endif %}
