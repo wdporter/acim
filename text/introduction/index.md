@@ -1,10 +1,10 @@
 ---
 layout: content.njk
-title: Introduction
+title: INTRODUCTION
 reference: T-in
 eleventyNavigation:
   key: T-in
-  title: T-in Introduction
+  title: T-in INTRODUCTION
   parent: T
   order: 0
 next: T-1.I

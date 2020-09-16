@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Innocent Perception
+title: THE INNOCENT PERCEPTION
 reference: T-3 
 eleventyNavigation:
   key: T-3
-  title: T-3 The Innocent Perception
+  title: T-3 THE INNOCENT PERCEPTION
   parent: T
   order: 3
 ---

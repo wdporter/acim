@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Idols of Sickness
+title: THE IDOLS OF SICKNESS
 reference: T-10 
 eleventyNavigation:
   key: T-10
-  title: T-10 The Idols of Sickness
+  title: T-10 THE IDOLS OF SICKNESS
   parent: T
   order: 10
 ---

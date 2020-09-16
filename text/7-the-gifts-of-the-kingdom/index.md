@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Gifts of the Kingdom
+title: THE GIFTS OF THE KINGDOM
 reference: T-7 
 eleventyNavigation:
   key: T-7
-  title: T-7 The Gifts of the Kingdom
+  title: T-7 THE GIFTS OF THE KINGDOM
   parent: T
   order: 7
 ---

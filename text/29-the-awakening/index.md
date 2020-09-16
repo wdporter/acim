@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Awakening
+title: THE AWAKENING
 reference: T-29 
 eleventyNavigation:
   key: T-29
-  title: T-29 The Awakening
+  title: T-29 THE AWAKENING
   parent: T
   order: 23
 ---
