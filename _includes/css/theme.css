@@ -1,7 +1,10 @@
 :root {
 	--nc-font-sans: "Roboto", "Verdana", sans-serif; /* "Inter", "Roboto" */
 	--nc-font-serif: "Roboto Slab", "Georgia", serif; 
+	--nc-tx-1: #111111;
+	--nc-bg-1: #fffff8;
 }
+
 @media (prefers-color-scheme: dark) {
 	:root {
 		--nc-tx-1: #eeedf0;/*#ffffff*/
@@ -16,7 +19,6 @@
 		--nc-ac-tx: #FFFFFF;
 	}
 }
-
 
 body {
 	border-radius: initial;
