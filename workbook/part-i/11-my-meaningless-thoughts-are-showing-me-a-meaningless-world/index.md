@@ -20,7 +20,7 @@ next: W-pI.12
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This is the first idea we have had that is related to a major phase of the correction process: the reversal of the thinking of the world. 
 ²It seems as if the world determines what you perceive. 
@@ -28,7 +28,7 @@ This is the first idea we have had that is related to a major phase of the corre
 ⁴Be glad indeed to practice the idea in its [the idea’s] initial form, for in this idea is your release made sure. 
 ⁵The key to forgiveness lies in it [this idea].
 
-##### Substituted
+#::: details Substituted
 
 This is the first idea we have had that is related to a major phase of the correction process: the reversal of the thinking of the world. 
 ²It seems as if the world determines what you perceive. 
@@ -36,7 +36,7 @@ This is the first idea we have had that is related to a major phase of the corre
 ⁴Be glad indeed to practice the idea in the idea’s initial form, for in this idea is your release made sure. 
 ⁵The key to forgiveness lies in this idea.
 
-##### Simplified
+#::: details Simplified
 
 The process of correction reverses the thinking of the world. 
 Your thoughts determine the world you see. 

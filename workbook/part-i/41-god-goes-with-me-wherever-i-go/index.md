@@ -18,19 +18,19 @@ next: W-pI.42
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today’s idea will eventually overcome completely the sense of loneliness and abandonment all the separated ones experience. 
 ²Depression is an inevitable consequence of separation. 
 ³So [inevitable consequences of separation] are anxiety, worry, a deep sense of helplessness, misery, suffering and intense fear of loss.
 
-##### Substituted
+#::: details Substituted
 
 Today’s idea will eventually overcome completely the sense of loneliness and abandonment all the separated ones experience. 
 ²Depression is an inevitable consequence of separation. 
 ³Inevitable consequences of separation are anxiety, worry, a deep sense of helplessness, misery, suffering and intense fear of loss.
 
-##### Simplified
+#::: details Simplified
 
 Separation makes you feel lonely, abandoned, depressed, anxious, worry, helpless, miserable, suffering and fearful. 
 These feelings will be completely overcome.
@@ -46,7 +46,7 @@ These feelings will be completely overcome.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The separated ones have invented many ‘cures’ for what they [the separated ones] believe to be “the ills of the world”. 
 ²But the one thing they [the separated ones] do not do is to question the reality of the problem. 
@@ -54,7 +54,7 @@ The separated ones have invented many ‘cures’ for what they [the separated o
 ⁴The idea for today has the power to end all this foolishness forever. 
 ⁵ And foolishness it [inventing ‘cures’] is, despite the serious and tragic forms it [inventing ‘cures’] may take.
 
-##### Substituted
+#::: details Substituted
 
 The separated ones have invented many ‘cures’ for what the separated ones believe to be “the ills of the world”. 
 ²But the one thing the separated ones do not do is to question the reality of the problem. 
@@ -62,7 +62,7 @@ The separated ones have invented many ‘cures’ for what the separated ones be
 ⁴The idea for today has the power to end all this foolishness forever. 
 ⁵ And foolishness inventing ‘cures’ is, despite the serious and tragic forms inventing ‘cures’ may take.
 
-##### Simplified
+#::: details Simplified
 
 It is foolish to invent a cure for separation.
 You can’t cure what hasn’t happened.
@@ -75,17 +75,17 @@ You can’t cure what hasn’t happened.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Deep within you is everything that is perfect, ready to radiate through you and out into the world. 
 ²It [everything that is perfect] will cure all sorrow and pain and fear and loss because it [everything that is perfect] will heal the mind that thought these things [sorrow, pain, fear and loss] were real, and suffered out of its [the mind’s] allegiance to them [sorrow, pain, fear and loss].
 
-##### Substituted
+#::: details Substituted
 
 Deep within you is everything that is perfect, ready to radiate through you and out into the world. 
 ²Everything that is perfect will cure all sorrow and pain and fear and loss because everything that is perfect will heal the mind that thought sorrow, pain, fear and loss were real, and suffered out of the mind’s allegiance to sorrow, pain, fear and loss.
 
-##### Simplified
+#::: details Simplified
 
 Deep within you have the cure for sorrow, pain, fear and loss.
 
@@ -99,21 +99,21 @@ Deep within you have the cure for sorrow, pain, fear and loss.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 You can never be deprived of your perfect holiness because its [your-perfect-holiness’s] Source goes with you wherever you go. 
 ²You can never suffer because the Source of all joy goes with you wherever you go. 
 ³You can never be alone because the Source of all life goes with you wherever you go. 
 ⁴Nothing can destroy your peace of mind because God goes with you wherever you go.
 
-##### Substituted
+#::: details Substituted
 
 You can never be deprived of your perfect holiness because your-perfect-holiness’s Source goes with you wherever you go. 
 ²You can never suffer because the Source of all joy goes with you wherever you go. 
 ³You can never be alone because the Source of all life goes with you wherever you go. 
 ⁴Nothing can destroy your peace of mind because God goes with you wherever you go.
 
-##### Simplified
+#::: details Simplified
 
 You can never suffer, be deprived or alone, or have your peace of mind destroyed.
 

@@ -25,7 +25,7 @@ This workbook trains your mind to think according to the theory.
 
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}::: details Commentary
 
 Jesus conceived of his Course as an integrated work in which each book had its own particular place, making a unique contrbution to the student’s learning and growth, as well as being integrated with the other two books. (Wapnick F.C.T.L, p.11)
 
@@ -44,7 +44,7 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 (4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reïnforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
 
 (4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, F.C.T.L., p.17)
-::: -->
+::: {% endif %}
 
 2. The exercises are very simple. 
 ²They do not require a great deal of time, and it does not matter where you do them. 
@@ -135,9 +135,9 @@ Your mind will be trained to see everything differently.
 
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}::: details Commentary
 (1–2 and 5:1–2) …it is the Course’s uncompromising metaphysical absoluteness that is deeply problematic for many people. One of its stated goals, therefore, is to effect a total transfer of learning, for “the impariment of the ability to generalise is a crucial learning failure” ([T-12.V.6:4](/text/12-the-holy-spirits-curriculum#t-12-v-6)). (Wapnick, L.D.N.C., p.595; F.C.T.L, p.154)
-::: -->
+::: {% endif %}
 
 5. Transfer of training in true perception does not proceed as does transfer of the training of the world. 
 ²If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
@@ -166,9 +166,9 @@ But not if you hold any exceptions.
 
 :::
 
-<!-- ::: details Commentary
+{% if showCommentary %} ::: details Commentary
 see commentary for [4:1–2](#w-in-4).
-::: -->
+::: {% endif %}
 
 6. The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
 ²This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. 
@@ -270,11 +270,11 @@ If you use the ideas, you will see the the ideas are true.
 
 :::
 
-<!--::: details Commentary
+{% if showCommentary %}::: details Commentary
 (3–6) The course’s focus is always practical, dealing with specific ways in which to undo the interferences in our spiritual growth. Emphasis on doctrinal issues, in the context of the Course, would tend to impede one’s learning and practice of its principles. (Wapnick, C.P., p.1)
 
 (3, 5, 9:4) The introduction to the workbook highlights the important place that *using* the Course’s ideas has in the curriculum (Wapnick, F.C.T.L., p.25)
-::: -->
+::: {% endif %}
 
 9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
 ²Some of them you may actively resist. 

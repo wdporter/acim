@@ -24,7 +24,7 @@ next: W-pI.8
 
 ::: details Annotations 
 
-##### Expanded
+#::: details Expanded
 
 This idea [you see only the past] is particularly difficult to believe at first. 
 ²Yet [the idea you see only the past] is the rationale for all of the preceding ones [ideas].  
@@ -35,7 +35,7 @@ This idea [you see only the past] is particularly difficult to believe at first.
  ⁷It [you see only the past] is the reason why you are never upset for the reason you think.  
  ⁸It [you see only the past] is the reason why you are upset because you see something that is not there.
 
-##### Substituted
+#::: details Substituted
 
 You see only the past is particularly difficult to believe at first. ²Yet you see only the past is the rationale for all of the preceding ideas.  
  ³You see only the past is the reason why nothing that you see means anything.  
@@ -45,7 +45,7 @@ You see only the past is particularly difficult to believe at first. ²Yet you s
  ⁷You see only the past is the reason why you are never upset for the reason you think.  
  ⁸You see only the past is the reason why you are upset because you see something that is not there.
 
-##### Simplified
+#::: details Simplified
 
 The reason for all the preceding ideas is that you see only the past.
 
@@ -57,19 +57,19 @@ The reason for all the preceding ideas is that you see only the past.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Old ideas about time are very difficult to change, because everything you believe is rooted in time, and depends on your not learning these new ideas about it [time]. 
 ²Yet that [everything you believe is rooted in time] is precisely why you need new ideas about time. 
 ³This first time idea is not really so strange as it [this first time idea] may sound at first.
 
-##### Substituted
+#::: details Substituted
 
 Old ideas about time are very difficult to change, because everything you believe is rooted in time, and depends on your not learning these new ideas about time. 
 ²Yet everything you believe is rooted in time is precisely why you need new ideas about time. 
 ³This first time idea is not really so strange as this first time idea may sound at first.
 
-##### Simplified
+#::: details Simplified
 
 Everything you believe depends on your ideas about time. You need new ideas about time.
 
@@ -86,7 +86,7 @@ Everything you believe depends on your ideas about time. You need new ideas abou
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Look at a cup, for example. 
 ²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
@@ -96,7 +96,7 @@ Look at a cup, for example.
 ⁶You would have no idea what this cup is, except for your past learning. 
 ⁷Do you, then, really see it [the cup]?
 
-##### Substituted
+#::: details Substituted
 
 Look at a cup, for example. 
 ²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
@@ -105,7 +105,7 @@ Look at a cup, for example.
 ⁵What do you know about this cup except what you learned in the past? 
 ⁶You would have no idea what this cup is, except for your past learning. ⁷Do you, then, really see the cup?
 
-##### Simplified
+#::: details Simplified
 
 Your experiences and knowledge depend on your past experiences.
 

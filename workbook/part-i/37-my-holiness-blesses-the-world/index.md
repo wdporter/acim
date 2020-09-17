@@ -21,7 +21,7 @@ next: W-pI.38
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This idea contains the first glimmerings of your true function in the world, or why you are here [in the world]. 
 ²Your purpose is to see the world through your own holiness. 
@@ -30,7 +30,7 @@ This idea contains the first glimmerings of your true function in the world, or 
 ⁵It [this idea] signifies the end of sacrifice because it [this idea] offers everyone his [everyone’s] full due. 
 ⁶And he [everyone] is entitled to everything because it [being entitled to everything] is his [everyone’s] birthright as a Son of God.
 
-##### Substituted
+#::: details Substituted
 
 This idea contains the first glimmerings of your true function in the world, or why you are in the world. 
 ²Your purpose is to see the world through your own holiness. 
@@ -39,7 +39,7 @@ This idea contains the first glimmerings of your true function in the world, or 
 ⁵This idea signifies the end of sacrifice because this idea offers everyone everyone’s full due. 
 ⁶And everyone is entitled to everything because being entitled to everything is everyone’s birthright as a Son of God.
 
-##### Simplified
+#::: details Simplified
 
 Your purpose is to see the world through your own holiness. 
 This gives everything to everyone.
@@ -56,7 +56,7 @@ This gives everything to everyone.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 There is no other way in which the idea of sacrifice can be removed from the world’s thinking. 
 ²Any other way of seeing will inevitably demand payment of someone or something. 
@@ -66,7 +66,7 @@ There is no other way in which the idea of sacrifice can be removed from the wor
 ⁶Your holiness blesses him [the-perceiver] by asking nothing of him [the-perceiver]. 
 ⁷Those who see themselves as whole make no demands.
 
-##### Substituted
+#::: details Substituted
 
 There is no other way in which the idea of sacrifice can be removed from the world’s thinking. 
 ²Any other way of seeing will inevitably demand payment of someone or something. 
@@ -76,7 +76,7 @@ There is no other way in which the idea of sacrifice can be removed from the wor
 ⁶Your holiness blesses the-perceiver by asking nothing of the-perceiver. 
 ⁷Those who see themselves as whole make no demands.
 
-##### Simplified
+#::: details Simplified
 
 Blessing the world with you holiness removes the idea of sacrifice.
 Sacrifice demands payment and loss.
@@ -89,17 +89,17 @@ Your holiness requires nothing of others.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Your holiness is the salvation of the world. 
 ²It [your holiness] lets you teach the world that it [the world] is one with you, not by preaching to it [the world], not by telling it [the world] anything, but merely by your quiet recognition that in your holiness are all things blessed along with you.
 
-##### Substituted
+#::: details Substituted
 
 Your holiness is the salvation of the world. 
 ²Your holiness lets you teach the world that the world is one with you, not by preaching to the world, not by telling the world anything, but merely by your quiet recognition that in your holiness are all things blessed along with you.
 
-##### Simplified
+#::: details Simplified
 
 Quietly recognise that your are holy and blessed and so are all things.
 

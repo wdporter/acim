@@ -37,7 +37,7 @@ next: W-pI.2
 ⁶Only be sure that nothing you see is specifically excluded. 
 ⁷One thing is like another as far as the application of the idea is concerned.
 
-<!--::: details Commentary
+{% if showCommentary %}::: details Commentary
 (5) …rituals, as they are discussed in the Course, especially in the workbook which, given its structured exercises, *could* easily lend itself to ritual. Yet, it clearly cautions against such practices (Wapnick, L.D.N.C.,p.550, A.A.C.,p.274)
 :::
 
@@ -45,4 +45,4 @@ next: W-pI.2
 
 ::: details Note
 Keep the lesson to a minute — but you can go longer if you feel like you are hurrying up the lesson in order to keep it under a minute.
-::: -->
+::: {% endif %}

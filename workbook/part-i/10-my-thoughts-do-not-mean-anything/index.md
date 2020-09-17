@@ -20,7 +20,7 @@ next: W-pI.11
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This idea applies to all the thoughts of which [thoughts] you are aware, or become aware in the practice periods. 
 ²The reason the idea is applicable to all of them [thoughts] is that they [thoughts] are not your real thoughts. 
@@ -29,7 +29,7 @@ This idea applies to all the thoughts of which [thoughts] you are aware, or beco
 ⁵When you do [have a basis for comparison], you will have no doubt that what you once believed were your thoughts did not mean anything.
 
 
-##### Substituted
+#::: details Substituted
 
 This idea applies to all the thoughts; the thoughts you are aware, or become aware in the practice periods. 
 ²The reason the idea is applicable to all thoughts is that thoughts are not your real thoughts. 
@@ -37,7 +37,7 @@ This idea applies to all the thoughts; the thoughts you are aware, or become awa
 ⁴You have no basis for comparison as yet. 
 ⁵When you have a basis for comparison, you will have no doubt that what you once believed were your thoughts did not mean anything.
 
-##### Simplified
+#::: details Simplified
 
 You are not aware of your real thoughts yet.
 
@@ -56,7 +56,7 @@ You are not aware of your real thoughts yet.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their [the-thoughts-of-which-you-are-aware’s] past rather than their [the-thoughts-of-which-you-are-aware’s] present status. 
 ²Now we are emphasising that the presence of these ‘thoughts’ [past thoughts] means that you are not thinking. 
@@ -64,7 +64,7 @@ This aspect of the correction process began with the idea that the thoughts of w
 ⁴To recognise this [your mind is really a blank] is to recognise nothingness when you think you see it [nothingness?]. 
 ⁵As such, it [recognising nothingness] is the prerequisite for vision.
 
-##### Substituted
+#::: details Substituted
 
 This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed the-thoughts-of-which-you-are-aware’s past rather than the-thoughts-of-which-you-are-aware’s present status. 
 ²Now we are emphasising that the presence of past ‘thoughts’ of which you are aware means that you are not thinking. 
@@ -72,7 +72,7 @@ This aspect of the correction process began with the idea that the thoughts of w
 ⁴To recognise your mind is really a blank is to recognise nothingness when you think you see nothingness. 
 ⁵As such, recognising nothingness is the prerequisite for vision.
 
-##### Simplified
+#::: details Simplified
 
 Past thoughts are not real thoughts. 
 Past thoughts indicate a blank mind. 

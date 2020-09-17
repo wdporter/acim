@@ -20,7 +20,7 @@ next: W-pI.15
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The idea for today is, of course, the reason why a meaningless world is impossible. 
 ²What God did not create does not exist. 
@@ -28,7 +28,7 @@ The idea for today is, of course, the reason why a meaningless world is impossib
 ⁴The world you see has nothing to do with reality. 
 ⁵It [the world you see] is of your own making, and it [the world you see] does not exist.
 
-##### Substituted
+#::: details Substituted
 
 The idea for today is, of course, the reason why a meaningless world is impossible. 
 ²What God did not create does not exist. 
@@ -36,7 +36,7 @@ The idea for today is, of course, the reason why a meaningless world is impossib
 ⁴The world you see has nothing to do with reality. 
 ⁵The world you see is of your own making, and the world you see does not exist.
 
-##### Simplified
+#::: details Simplified
 
 You made the world you see.
 The world you see does not exist.

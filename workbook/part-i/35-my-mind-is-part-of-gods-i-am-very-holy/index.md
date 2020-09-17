@@ -19,21 +19,21 @@ next: W-pI.36
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today’s idea does not describe the way you see yourself now. 
 ²It [today’s idea] does, however, describe what vision will show you. 
 ³It is difficult for anyone who thinks he [one] is in this world to believe [today’s idea] of himself [one’s self]. 
 ⁴Yet the reason he [one] thinks he [one] is in this world is because he [one] does not believe it [today’s idea].
 
-##### Substituted
+#::: details Substituted
 
 Today’s idea does not describe the way you see yourself now. 
 ²Today’s idea does, however, describe what vision will show you. 
 ³It is difficult for anyone who thinks one is in this world to believe today’s idea of one’s self. 
 ⁴Yet the reason one thinks one is in this world is because one does not believe today’s idea.
 
-##### Simplified
+#::: details Simplified
 
 You do not believe you are very holy, so you think you are in this world. 
 Vision will show you that you are very holy.
@@ -50,7 +50,7 @@ Vision will show you that you are very holy.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 You will believe that you are part of where you think you are. 
 ²That [believing you are part of where you think you are] is because you surround yourself with the environment you want. 
@@ -60,7 +60,7 @@ You will believe that you are part of where you think you are.
 ⁶This [seeing through the eyes of the image] is not vision. 
 ⁷Images cannot see.
 
-##### Substituted
+#::: details Substituted
 
 You will believe that you are part of where you think you are. 
 ²Believing you are part of where you think you are is because you surround yourself with the environment you want. 
@@ -70,7 +70,7 @@ You will believe that you are part of where you think you are.
 ⁶Seeing through the eyes of the image is not vision. 
 ⁷Images cannot see.
 
-##### Simplified
+#::: details Simplified
 
 You create an environment to protect the image you have of yourself.
 You see what you think you are.
@@ -84,19 +84,19 @@ You cannot have true vision through the image you have of yourself.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The idea for today presents a very different view of yourself. 
 ²By establishing your Source it [the idea for today] establishes your Identity, and it [the idea for today] describes you as you must really be in truth. 
 ³We will use a somewhat different kind of application for today’s idea because the emphasis for today is on the perceiver, rather than on what he [the perceiver] perceives.
 
-##### Substituted
+#::: details Substituted
 
 The idea for today presents a very different view of yourself. 
 ²By establishing your Source, the idea for today establishes your Identity, and the idea for today describes you as you must really be in truth. 
 ³We will use a somewhat different kind of application for today’s idea because the emphasis for today is on the perceiver, rather than on what the perceiver perceives.
 
-##### Simplified
+#::: details Simplified
 
 You true identity is that your mind is part of God’s and that you are very holy.
 
@@ -126,7 +126,7 @@ You true identity is that your mind is part of God’s and that you are very hol
 
 7. You should not think of these terms in an abstract way. 
 ²They will occur to you as various situations, personalities and events in which you figure cross your mind. 
-³Pick up any specific situation that occurs to you, identify the descriptive term or terms you feel are applicable to your reactions to that situation, and use them in applying today’s idea. 
+³Pick up any specific situation that occurs to you, identify the descriptive term or terms you feel are applicable to your reäctions to that situation, and use them in applying today’s idea. 
 ⁴After you have named each one, add:
 
 >⁵But my mind is part of God’s. 

@@ -18,19 +18,19 @@ next: W-pI.39
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Your holiness reverses all the laws of the world. 
 ²It [your holiness] is beyond every restriction of time, space, distance and limits of any kind. 
 ³Your holiness is totally unlimited in its [your-holiness’] power because it [your holiness] establishes you as a Son of God, at one with the Mind of his [a-Son-of-God’s] Creator.
 
-##### Substituted
+#::: details Substituted
 
 Your holiness reverses all the laws of the world. 
 ²Your holiness is beyond every restriction of time, space, distance and limits of any kind. 
 ³Your holiness is totally unlimited in your-holiness’ power because your holiness establishes you as a Son of God, at one with the Mind of a-Son-of-God’s Creator.
 
-##### Simplified
+#::: details Simplified
 
 Your holiness places you beyond the world’s laws and the world’s limitations,
 Your holiness puts your mind at one with God.
@@ -47,7 +47,7 @@ Your holiness puts your mind at one with God.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Through your holiness the power of God is made manifest. 
 ²Through your holiness the power of God is made available. 
@@ -56,7 +56,7 @@ Through your holiness the power of God is made manifest.
 ⁵It [your holiness] can do so [end all pain, sorrow and problems] in connection with yourself and with anyone else. 
 ⁶It [your holiness] is equal in its [your-holiness’] power to help anyone because it [your holiness] is equal in its [your-holiness’] power to save anyone.
 
-##### Substituted
+#::: details Substituted
 
 Through your holiness the power of God is made manifest. 
 ²Through your holiness the power of God is made available. 
@@ -65,7 +65,7 @@ Through your holiness the power of God is made manifest.
 ⁵Your holiness can do so end all pain, sorrow and problems in connection with yourself and with anyone else. 
 ⁶Your holiness is equal in your-holiness’ power to help anyone because your holiness is equal in your-holiness’ power to save anyone.
 
-##### Simplified
+#::: details Simplified
 
 The power of God is in your holiness which means you can do anything.
 

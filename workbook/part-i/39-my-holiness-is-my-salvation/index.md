@@ -19,21 +19,21 @@ next: W-pI.40
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 If guilt is hell, what is its [guilt’s] opposite? 
 ²Like the text for which this workbook was written, the ideas used for the exercises are very simple, very clear and totally unambiguous. 
 ³We are not concerned with intellectual feats nor logical toys. 
 ⁴We are dealing only in the very obvious, which [the very obvious] has been overlooked in the clouds of complexity in which [clouds of complexity] you think you think.
 
-##### Substituted
+#::: details Substituted
 
 If guilt is hell, what is guilt’s opposite? 
 ²Like the text for which this workbook was written, the ideas used for the exercises are very simple, very clear and totally unambiguous. 
 ³We are not concerned with intellectual feats nor logical toys. 
 ⁴We are dealing only in the very obvious; the very obvious has been overlooked in the clouds of complexity; in clouds of complexity you think you think.
 
-##### Simplified
+#::: details Simplified
 
 The text and workbook are simple. 
 It is your thinking that is complex.
@@ -50,7 +50,7 @@ It is your thinking that is complex.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 If guilt is hell, what is its [guilt’s] opposite? 
 ²This [question] is not difficult, surely. 
@@ -59,7 +59,7 @@ If guilt is hell, what is its [guilt’s] opposite?
 ⁵If you did [believe that guilt is hell], you would see at once how direct and simple the text is, and you would not need a workbook at all. 
 ⁶No one needs practice to gain what is already his.
 
-##### Substituted
+#::: details Substituted
 
 If guilt is hell, what is guilt’s opposite? 
 ²“If guilt is hell, what is guilt’s opposite?” is not a difficult question, surely. 
@@ -68,7 +68,7 @@ If guilt is hell, what is guilt’s opposite?
 ⁵If you believed that guilt is hell, you would see at once how direct and simple the text is, and you would not need a workbook at all. 
 ⁶No one needs practice to gain what is already his.
 
-##### Simplified
+#::: details Simplified
 
 To understand the text, believe that guilt is hell.
 
@@ -86,7 +86,7 @@ To understand the text, believe that guilt is hell.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 We have already said that your holiness is the salvation of the world. 
 ²What about your own salvation? 
@@ -96,7 +96,7 @@ We have already said that your holiness is the salvation of the world.
 ⁶Today’s exercises will apply to you, recognising that your salvation is crucial to the salvation of the world. 
 ⁷As you apply the exercises to your world, the whole world stands to benefit.
 
-##### Substituted
+#::: details Substituted
 
 We have already said that your holiness is the salvation of the world. 
 ²What about your own salvation? 
@@ -106,7 +106,7 @@ We have already said that your holiness is the salvation of the world.
 ⁶Today’s exercises will apply to you, recognising that your salvation is crucial to the salvation of the world. 
 ⁷As you apply the exercises to your world, the whole world stands to benefit.
 
-##### Simplified
+#::: details Simplified
 
 The exercises will save you.
 You will save the world.
@@ -123,7 +123,7 @@ You will save the world.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Your holiness is the answer to every question that was ever asked, is being asked now, or will be asked in the future. 
 ²Your holiness means the end of guilt, and therefore the end of hell. 
@@ -132,7 +132,7 @@ Your holiness is the answer to every question that was ever asked, is being aske
 ⁵God does not know unholiness. 
 ⁶Can it be He [God] does not know His [God’s] Son?
 
-##### Substituted
+#::: details Substituted
 
 Your holiness is the answer to every question that was ever asked, is being asked now, or will be asked in the future. 
 ²Your holiness means the end of guilt, and therefore the end of hell. 
@@ -141,7 +141,7 @@ Your holiness is the answer to every question that was ever asked, is being aske
 ⁵God does not know unholiness. 
 ⁶Can it be God does not know God’s Son?
 
-##### Simplified
+#::: details Simplified
 
 Your holiness answers every question.
 Your holiness is the end of guilt and the end of hell.

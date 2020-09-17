@@ -21,7 +21,7 @@ next: W-pI.9
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This idea is, of course, the reason why you see only the past. 
 ²No one really sees anything. 
@@ -30,7 +30,7 @@ This idea is, of course, the reason why you see only the past.
 ⁵Your mind cannot grasp the present, which [present] is the only time there is. 
 ⁶It [your mind] therefore cannot understand time, and cannot, in fact, understand anything.
 
-##### Substituted
+#::: details Substituted
 
 This idea is, of course, the reason why you see only the past. 
 ²No one really sees anything. 
@@ -39,7 +39,7 @@ This idea is, of course, the reason why you see only the past.
 ⁵Your mind cannot grasp the present; present is the only time there is. 
 ⁶Your mind therefore cannot understand time, and cannot, in fact, understand anything.
 
-##### Simplified
+#::: details Simplified
 
 The present is the only time there is. 
 Your mind sees only the past. 
@@ -54,21 +54,21 @@ If you see only the past, you cannot understand anything in the present.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The one wholly true thought one can hold about the past is that it [the past] is not here. 
 ²To think about it [the past] at all is therefore to think about illusions. 
 ³Very few have realised what is actually entailed in picturing the past or in anticipating the future. 
 ⁴The mind is actually blank when it [the mind] does this [pictures the past or anticipates the future], because it [the mind] is not really thinking about anything.
 
-##### Substituted
+#::: details Substituted
 
 The one wholly true thought one can hold about the past is that the past is not here. 
 ²To think about the past at all is therefore to think about illusions. 
 ³Very few have realised what is actually entailed in picturing the past or in anticipating the future. 
 ⁴The mind is actually blank when the mind pictures the past or anticipates the future, because the mind is not really thinking about anything.
 
-##### Simplified
+#::: details Simplified
 Past and future do not exist. 
 Your mind is blank when you think about past and/or future.
 
@@ -80,18 +80,18 @@ Your mind is blank when you think about past and/or future.
 
 ::: details Annotations 
 
-##### Expanded
+#::: details Expanded
 The purpose of the exercises for today is to begin to train your mind to recognise when it [your mind] is not really thinking at all. 
 ²While thoughtless ideas preöccupy your mind, the truth is blocked. 
 ³Recognising that your mind has been merely blank, rather than believing that it [your mind] is filled with real ideas, is the first step to opening the way to vision.
 
-##### Substituted
+#::: details Substituted
 
 3. The purpose of the exercises for today is to begin to train your mind to recognise when your mind is not really thinking at all. 
 ²While thoughtless ideas preöccupy your mind, the truth is blocked. 
 ³Recognising that your mind has been merely blank, rather than believing that your mind is filled with real ideas, is the first step to opening the way to vision.
 
-##### Simplified
+#::: details Simplified
 
 Thinking about past and future blocks the truth. 
 

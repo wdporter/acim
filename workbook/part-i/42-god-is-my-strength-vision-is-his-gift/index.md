@@ -20,7 +20,7 @@ next: W-pI.43
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The idea for today combines two very powerful thoughts, both [thoughts] of major importance. 
 ²It [the idea for today] also sets forth a cause and effect relationship that explains why you cannot fail in your efforts to achieve the goal of the course. 
@@ -28,7 +28,7 @@ The idea for today combines two very powerful thoughts, both [thoughts] of major
 ⁴It is His [God’s] strength, not your own [strength], that gives you power. 
 ⁵And it is His [God’s] gift, rather than your own [gift], that offers vision to you.
 
-##### Substituted
+#::: details Substituted
 
 The idea for today combines two very powerful thoughts, both thoughts of major importance. 
 ²The idea for today also sets forth a cause and effect relationship that explains why you cannot fail in your efforts to achieve the goal of the course. 
@@ -36,7 +36,7 @@ The idea for today combines two very powerful thoughts, both thoughts of major i
 ⁴It is God’s strength, not your own strength, that gives you power. 
 ⁵And it is God’s gift, rather than your own gift, that offers vision to you.
 
-##### Simplified
+#::: details Simplified
 
 You cannot fail. 
 God gives you strength and power. 
@@ -54,7 +54,7 @@ God gives you vision.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 God is indeed your strength, and what He [God] gives is truly given. 
 ²This [God gives strength] means that you can receive it [God’s strength] any time and anywhere, wherever you are, and in whatever circumstance you find yourself. 
@@ -63,7 +63,7 @@ God is indeed your strength, and what He [God] gives is truly given.
 ⁵Such is the strength of God. 
 ⁶Such are His [God’s] gifts.
 
-##### Substituted
+#::: details Substituted
 
 God is indeed your strength, and what God gives is truly given. 
 ²God gives strength means that you can receive God’s strength any time and anywhere, wherever you are, and in whatever circumstance you find yourself. 
@@ -72,7 +72,7 @@ God is indeed your strength, and what God gives is truly given.
 ⁵Such is the strength of God. 
 ⁶Such are God’s gifts.
 
-##### Simplified
+#::: details Simplified
 
 God gives you the strength for every situation.
 
@@ -91,7 +91,7 @@ God gives you the strength for every situation.
 >⁵Vision must be possible. 
 ⁶God gives truly,
 
-<p style=text-align:center>or:</p>
+<p style=text-align:center>or:
 
 >⁷God’s gifts to me must be mine, because He gave them to me.
 

@@ -20,7 +20,7 @@ next: W-pI.46
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today’s idea holds the key to what your real thoughts are. 
 ²They [your real thoughts] are nothing that you think you think, just as nothing that you think you see is related to vision in any way. 
@@ -28,7 +28,7 @@ Today’s idea holds the key to what your real thoughts are.
 ⁴Nothing that you think are your real thoughts resemble your real thoughts in any respect. 
 ⁵Nothing that you think you see bears any resemblance to what vision will show you.
 
-##### Substituted
+#::: details Substituted
 
 Today’s idea holds the key to what your real thoughts are. 
 ²Your real thoughts are nothing that you think you think, just as nothing that you think you see is related to vision in any way. 
@@ -36,7 +36,7 @@ Today’s idea holds the key to what your real thoughts are.
 ⁴Nothing that you think are your real thoughts resemble your real thoughts in any respect. 
 ⁵Nothing that you think you see bears any resemblance to what vision will show you.
 
-##### Simplified
+#::: details Simplified
 
 The thoughts you are aware of are not your real thoughts. 
 What you see is not real vision.
@@ -55,7 +55,7 @@ What you see is not real vision.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 You think with the Mind of God. 
 ²Therefore you share your thoughts with Him [God], as He [God] shares His [God’s thoughts] with you. 
@@ -66,7 +66,7 @@ You think with the Mind of God.
 ⁷They [your thoughts] are in your mind as well, where He [God] is. 
 ⁸As you are part of His [God’s] Mind, so are your thoughts part of His [God’s] Mind.
 
-##### Substituted
+#::: details Substituted
 
 You think with the Mind of God. 
 ²Therefore you share your thoughts with God, as God shares God’s thoughts with you. 
@@ -77,7 +77,7 @@ You think with the Mind of God.
 ⁷Your thoughts are in your mind as well, where God is. 
 ⁸As you are part of God’s Mind, so are your thoughts part of God’s Mind.
 
-##### Simplified
+#::: details Simplified
 
 Your thoughts and God’s thoughts are the same thoughts.
 Your thoughts and God’s thoughts are thought by the same Mind.
@@ -94,7 +94,7 @@ Your thoughts and God’s thoughts are thought by the same Mind.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Where, then, are your real thoughts? 
 ²Today we will attempt to reach them [your real thoughts]. 
@@ -102,7 +102,7 @@ Where, then, are your real thoughts?
 ⁴They [your real thoughts] must still be there [in your mind], because they [your real thoughts] cannot have left their [your real thoughts’] source. 
 ⁵What is thought by the Mind of God is eternal, being part of creation.
 
-##### Substituted
+#::: details Substituted
 
 Where, then, are your real thoughts? 
 ²Today we will attempt to reach your real thoughts. 
@@ -110,7 +110,7 @@ Where, then, are your real thoughts?
 ⁴Your real thoughts must still be in your mind, because they your real thoughts cannot have left your-real-thoughts’ source. 
 ⁵What is thought by the Mind of God is eternal, being part of creation.
 
-##### Simplified
+#::: details Simplified
 
 Thoughts cannot leave their source. Your real thoughts are somewhere in your mind and in God’s Mind.
 

@@ -245,7 +245,7 @@ Give mercy because mercy was given to you by God.
 ::: details Expanded
 I have spoken of different symptoms, and at that level [of symptoms] there is almost endless variation. 
 ²There is, however, only one cause for all of them [symptoms]: the authority problem. 
-³This [the authority problem] <em>is</em> “the root of all evil”. 
+³This [the authority problem] *is* “the root of all evil”. 
 ⁴Every symptom the ego makes involves a contradiction in terms, because the mind is split between the ego and the Holy Spirit, so that whatever the ego makes is incomplete and contradictory. 
 ⁵This untenable position [mind is split between the ego and the Holy Spirit] is the result of the authority problem which [problem], because it [the authority problem] accepts the one inconceivable thought as its [the-authority-problem’s] premise, can produce only ideas that are inconceivable.
 :::
@@ -253,7 +253,7 @@ I have spoken of different symptoms, and at that level [of symptoms] there is al
 ::: details Substituted
 I have spoken of different symptoms, and at the level of symptoms there is almost endless variation. 
 ²There is, however, only one cause for all symptoms: the authority problem. 
-³The authority problem <em>is</em> “the root of all evil”. 
+³The authority problem *is* “the root of all evil”. 
 ⁴Every symptom the ego makes involves a contradiction in terms, because the mind is split between the ego and the Holy Spirit, so that whatever the ego makes is incomplete and contradictory. 
 ⁵The untenable position that mind is split between the ego and the Holy Spirit, is the result of the authority problem; because the authority problem accepts the one inconceivable thought as the-authority-problem’s premise, the authority problem can produce only ideas that are inconceivable.
 :::

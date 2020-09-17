@@ -30,7 +30,7 @@ next: W-pI.5
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 In selecting the subjects for the application of today’s idea, the usual specificity is required. 
 ²Do not be afraid to use ‘good’ thoughts as well as ‘bad’. 
@@ -39,7 +39,7 @@ In selecting the subjects for the application of today’s idea, the usual speci
 ⁵The ‘bad’ ones [thoughts] are blocks to sight, and make seeing impossible. 
 ⁶You do not want either [shadows or blocks].
 
-##### Substituted
+#::: details Substituted
 
 In selecting the subjects for the application of today’s idea, the usual specificity is required. 
 ²Do not be afraid to use ‘good’ thoughts as well as ‘bad’. 
@@ -48,7 +48,7 @@ In selecting the subjects for the application of today’s idea, the usual speci
 ⁵The ‘bad’ thoughts are blocks to sight, and make seeing impossible. 
 ⁶You do not want either shadows or blocks.
 
-##### Simplified
+#::: details Simplified
 
 Good thoughts are shadows of real thoughts. 
 Bad thoughts are blocks to real thoughts. 
@@ -63,21 +63,21 @@ You want only real thoughts.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This is a major exercise, and will be repeated from time to time in somewhat different form. 
 ²The aim here [of this exercise] is to train you in the first steps toward the goal of separating the meaningless from the meaningful. 
 ³It [this exercise] is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within [you]. 
 ⁴It [this exercise] is also the beginning of training your mind to recognise what is the same and what is different.
 
-##### Substituted
+#::: details Substituted
 
 This is a major exercise, and will be repeated from time to time in somewhat different form. 
 ²The aim of this exercise is to train you in the first steps toward the goal of separating the meaningless from the meaningful. 
 ³This exercise is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within you. 
 ⁴This exercise is also the beginning of training your mind to recognise what is the same and what is different.
 
-##### Simplified
+#::: details Simplified
 
 What is outside you is meaningless. 
 Only what is inside you can be meaningful.

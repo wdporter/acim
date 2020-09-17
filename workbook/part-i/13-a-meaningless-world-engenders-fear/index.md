@@ -20,7 +20,7 @@ next: W-pI.14
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today’s idea is really another form of the preceding one [idea], except that it [today’s idea] is more specific as to the emotion aroused. 
 ²Actually, a meaningless world is impossible. 
@@ -28,7 +28,7 @@ Today’s idea is really another form of the preceding one [idea], except that i
 ⁴However, it does not follow that you will not think you perceive something that has no meaning. 
 ⁵On the contrary, you will be particularly likely to think you do perceive it [something that has no meaning].
 
-##### Substituted
+#::: details Substituted
 
 Today’s idea is really another form of the preceding idea, except that today’s idea is more specific as to the emotion aroused. 
 ²Actually, a meaningless world is impossible. 
@@ -36,7 +36,7 @@ Today’s idea is really another form of the preceding idea, except that today�
 ⁴However, it does not follow that you will not think you perceive something that has no meaning. 
 ⁵On the contrary, you will be particularly likely to think you do perceive something that has no meaning.
 
-##### Simplified
+#::: details Simplified
 
 Only what has meaning exists. 
 You think you are perceiving things that have no meaning.
@@ -50,21 +50,21 @@ You think you are perceiving things that have no meaning.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
 ²It [recognition of meaninglessness] represents a situation in which God and the ego ‘challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 ³The ego rushes in frantically to establish its [the-ego’s] own ideas there [in the empty space], fearful that the void may otherwise be used to demonstrate its [the ego’s] own impotence and unreality. 
 ⁴And on this [the void demonstrating the ego’s impotence and unreality] alone it [the ego] is correct.
 
-##### Substituted
+#::: details Substituted
 
 Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
 ²Recognition of meaninglessness represents a situation in which God and the ego ‘challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 ³The ego rushes in frantically to establish the ego’s own ideas in the empty space, fearful that the void may otherwise be used to demonstrate the ego’s own impotence and unreality. 
 ⁴And on the void demonstrating the ego’s impotence and unreality, alone, the ego is correct.
 
-##### Simplified
+#::: details Simplified
 
 Meaningless provides a void. 
 The ego challenges God to write the ego’s meaning in the void. 
@@ -78,19 +78,19 @@ The ego is afraid, because the void shows the ego is impotent and unreal.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 It is essential, therefore, that you learn to recognise the meaningless, and accept it [the meaningless] without fear. 
 ²If you are fearful, it is certain that you will endow the world with attributes that it [the world] does not possess, and crowd it [the world] with images that do not exist. 
 ³To the ego illusions are safety devices, as they [illusions] must also be [safety devices] to you who equate yourself with the ego.
 
-##### Substituted
+#::: details Substituted
 
 It is essential, therefore, that you learn to recognise the meaningless, and accept the meaningless without fear. 
 ²If you are fearful, it is certain that you will endow the world with attributes that the world does not possess, and crowd the world with images that do not exist. 
 ³To the ego illusions are safety devices, as illusions must also be safety devices to you who equate yourself with the ego.
 
-##### Simplified
+#::: details Simplified
 
 Accept meaninglessness without fear. 
 If you are fearful, you will use illusions to feel safe.

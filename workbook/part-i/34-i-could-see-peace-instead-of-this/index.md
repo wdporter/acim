@@ -18,21 +18,21 @@ next: W-pI.35
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The idea for today begins to describe the conditions that prevail in the other way of seeing. 
 ²Peace of mind is clearly an internal matter. 
 ³It [peace of mind] must begin with your own thoughts, and then extend outward. 
 ⁴It is from your peace of mind that a peaceful perception of the world arises.
 
-##### Substituted
+#::: details Substituted
 
 The idea for today begins to describe the conditions that prevail in the other way of seeing. 
 ²Peace of mind is clearly an internal matter. 
 ³Peace of mind must begin with your own thoughts, and then extend outward. 
 ⁴It is from your peace of mind that a peaceful perception of the world arises.
 
-##### Simplified
+#::: details Simplified
 
 Peaceful perceptions arise from peace of mind.
 

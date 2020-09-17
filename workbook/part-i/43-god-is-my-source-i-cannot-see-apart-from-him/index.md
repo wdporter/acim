@@ -22,7 +22,7 @@ next: W-pI.44
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Perception is not an attribute of God. 
 ²His [God’s-realm] is the realm of knowledge. 
@@ -42,7 +42,7 @@ Perception is not an attribute of God.
 ⁶Changing and purifying perception is the link-with-God’s function as the Holy Spirit sees it. 
 ⁷Therefore, that is the link-with-God’s function in truth.
 
-##### Simplified
+#::: details Simplified
 
 The Holy Spirit will help you change your perception into knowledge.
 
@@ -59,7 +59,7 @@ The Holy Spirit will help you change your perception into knowledge.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 In God you cannot see. 
 ²Perception has no function in God, and [perception] does not exist. 
@@ -69,7 +69,7 @@ In God you cannot see.
 ⁶Yet does the Holy Spirit give it [perception] a meaning very close to God’s [meaning]. 
 ⁷Healed perception becomes the means by which [healed perception] the Son of God forgives his [the Son of God’s] brother, and thus forgives himself [the Son of God’s self].
 
-##### Substituted
+#::: details Substituted
 
 In God you cannot see. 
 ²Perception has no function in God, and perception does not exist. 
@@ -79,7 +79,7 @@ In God you cannot see.
 ⁶Yet does the Holy Spirit give perception a meaning very close to God’s meaning. 
 ⁷Healed perception becomes the means; by healed perception the Son of God forgives the-Son-of-God’s brother, and thus forgives the-Son-of-God’s-self.
 
-##### Simplified
+#::: details Simplified
 
 Your perception can be healed. 
 Healed perception lets you forgive your brother and yourself.
@@ -93,20 +93,20 @@ Healed perception lets you forgive your brother and yourself.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 You cannot see apart from God because you cannot be apart from God. 
 ²Whatever you do you do in Him [God], because whatever you think, you think with His [God’s] Mind. 
 ³If vision is real, and it [vision] is real to the extent to which it [vision] shares the Holy Spirit’s purpose, then you cannot see apart from God.
 
-##### Substituted
+#::: details Substituted
 
 You cannot see apart from God because you cannot be apart from God. 
 ²Whatever you do you do in God, because whatever you think, you think with God’s Mind. 
 ³If vision is real, and vision is real to the extent to which vision shares the Holy Spirit’s purpose, then you cannot see apart from God.
 
 
-##### Simplified
+#::: details Simplified
 
 Everything you think is thought with God.
 Everything you see is seen with God.

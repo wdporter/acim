@@ -21,7 +21,7 @@ next: W-pI.18
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This idea is another step in the direction of identifying cause and effect as it [cause and effect] really operates in the world. 
 ²You see no neutral things because you have no neutral thoughts. 
@@ -30,7 +30,7 @@ This idea is another step in the direction of identifying cause and effect as it
 ⁵If it [thought precedes seeing] were not so, perception would have no cause, and would itself [perception’s-self] be the cause of reality. 
 ⁶In view of its [preception’s] highly variable nature, this [perception causing reality] is hardly likely.
 
-#### Substituted
+::: details Substituted
 
 This idea is another step in the direction of identifying cause and effect as cause and effect really operates in the world. 
 ²You see no neutral things because you have no neutral thoughts. 
@@ -39,7 +39,7 @@ This idea is another step in the direction of identifying cause and effect as ca
 ⁵If thought precedes seeing were not so, perception would have no cause, and perception would be the cause of reality. 
 ⁶In view of preception’s highly variable nature, perception causing reality is hardly likely.
 
-##### Simplified
+#::: details Simplified
 
 You think, and then you see.
 Your thinking causes reality.

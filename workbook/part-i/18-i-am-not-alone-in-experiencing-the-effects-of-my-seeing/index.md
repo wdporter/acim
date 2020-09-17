@@ -17,17 +17,17 @@ next: W-pI.19
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The idea for today is another step in learning that the thoughts which give rise to what you see are never neutral or unimportant. 
 ²It [the idea for today] also emphasises the idea that minds are joined, which [idea that minds are joined] will be given increasing stress later on.
 
-##### Substituted
+#::: details Substituted
 
 The idea for today is another step in learning that the thoughts which give rise to what you see are never neutral or unimportant. 
 ²The idea for today also emphasises the idea that minds are joined; the idea that minds are joined will be given increasing stress later on.
 
-##### Simplified
+#::: details Simplified
 
 Thoughts give rise to what you see
 Thoughts are never neutral or unimportant.

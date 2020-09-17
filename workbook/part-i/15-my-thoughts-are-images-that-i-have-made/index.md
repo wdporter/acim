@@ -22,7 +22,7 @@ next: W-pI.16
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 It is because the thoughts you think you think appear as images that you do not recognise them [thoughts] as nothing. 
 ²You think you think them [thoughts], and so you think you see them [thoughts]. 
@@ -32,7 +32,7 @@ It is because the thoughts you think you think appear as images that you do not 
 ⁶It [seeing thoughts] is image making. 
 ⁷It [seeing thoughts] takes the place of seeing, replacing vision with illusions.
 
-##### Substituted
+#::: details Substituted
 
 It is because the thoughts you think you think appear as images that you do not recognise thoughts as nothing. 
 ²You think you think thoughts, and so you think you see thoughts. 
@@ -42,7 +42,7 @@ It is because the thoughts you think you think appear as images that you do not 
 ⁶Seeing thoughts is image making. 
 ⁷Seeing thoughts takes the place of seeing, replacing vision with illusions.
 
-##### Simplified
+#::: details Simplified
 
 You think, and then you see what you think — rather than seeing what’s really there.
 
@@ -55,13 +55,13 @@ You think, and then you see what you think — rather than seeing what’s reall
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 This introductory idea to the process of image making that you call seeing will not have much meaning for you. 
 ²You will begin to understand it [this introductory idea] when you have seen little edges of light around the same familiar objects which you see now. 
 ³That [seeing little edges of light] is the beginning of real vision. 
 ⁴You can be certain that real vision will come quickly when this [seeing little edges of light] has occurred.
 
-##### Substituted
+#::: details Substituted
 
 This introductory idea to the process of image making that you call seeing will not have much meaning for you. 
 ²You will begin to understand this introductory idea when you have seen little edges of light around the same familiar objects which you see now. 
@@ -84,7 +84,7 @@ Real vision begins when edges of light begun to be seen
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 As we go along, you may have many ‘light episodes’. 
 ²Light episodes may take many different forms, some of the forms can be quite unexpected. 
@@ -94,7 +94,7 @@ As we go along, you may have many ‘light episodes’.
 ⁶These exercises will not reveal knowledge to you. 
 ⁷But these exercises will prepare the way to knowledge.
 
-##### Simplified
+#::: details Simplified
 
 Do not be afraid of light episodes or unexpected different forms.
 Light episodes are a step towards knowlege.

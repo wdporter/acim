@@ -23,7 +23,7 @@ next: W-pI.37
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 ²You are holy because your mind is part of God’s [mind]. 
@@ -34,7 +34,7 @@ Today’s idea extends the idea for yesterday from the perceiver to the perceive
 ⁷If your mind is part of God’s [mind] you must be sinless, or a part of His [God’s] Mind would be sinful. 
 ⁸Your sight is related to His [God’s] Holiness, [your sight is] not [related] to your ego, and therefore [your sight is] not [related] to your body.
 
-##### Substituted
+#::: details Substituted
 
 Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 ²You are holy because your mind is part of God’s mind. 
@@ -45,7 +45,7 @@ Today’s idea extends the idea for yesterday from the perceiver to the perceive
 ⁷If your mind is part of God’s mind, you must be sinless, or a part of God’s Mind would be sinful. 
 ⁸Your sight is related to God’s Holiness, your sight is not related to your ego, and therefore your sight is not related to your body.
 
-##### Simplified
+#::: details Simplified
 
 You are holy.
 Your sight is related to your holiness.

@@ -20,7 +20,7 @@ next: W-pI.47
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 God does not forgive because He [God] has never condemned. 
 ²And there must be condemnation before forgiveness is necessary. 
@@ -29,7 +29,7 @@ God does not forgive because He [God] has never condemned.
 ⁵As you condemn only yourself, so do you forgive only yourself.
 
 
-##### Substituted
+#::: details Substituted
 
 God does not forgive because God has never condemned. 
 ²And there must be condemnation before forgiveness is necessary. 
@@ -37,7 +37,7 @@ God does not forgive because God has never condemned.
 ⁴Those who forgive are thus releasing forgiver’s-selves from illusions, while those who withhold forgiveness are binding witholder’s-selves to illusions. 
 ⁵As you condemn only yourself, so do you forgive only yourself.
 
-##### Simplified
+#::: details Simplified
 
 For forgiveness, there must be condemnation first.
 God does not condemn you. 
@@ -55,7 +55,7 @@ Forgiveness in the world releases from the world’s illusions.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Yet although God does not forgive, His [God’s] Love is nevertheless the basis of forgiveness. 
 ²Fear condemns and love forgives. 
@@ -63,7 +63,7 @@ Yet although God does not forgive, His [God’s] Love is nevertheless the basis 
 ⁴For this reason [that forgiveness returns the mind to God], forgiveness can truly be called salvation. 
 ⁵It [forgiveness] is the means by which [forgiveness] illusions disappear.
 
-##### Substituted
+#::: details Substituted
 
 Yet although God does not forgive, God’s Love is nevertheless the basis of forgiveness. 
 ²Fear condemns and love forgives. 
@@ -71,7 +71,7 @@ Yet although God does not forgive, God’s Love is nevertheless the basis of for
 ⁴For the reason that forgiveness returns the mind to God, forgiveness can truly be called salvation. 
 ⁵Forgiveness is the means; by forgiveness illusions disappear.
 
-##### Simplified
+#::: details Simplified
 
 Forgiveness returns the mind to God.
 
@@ -115,7 +115,7 @@ Forgiveness returns the mind to God.
 
 7. The shorter practice periods may consist either of a repetition of the idea for today in the original or in a related form, as you prefer. 
 ²Be sure, however, to make more specific applications if they are needed. 
-³They will be needed at any time during the day when you become aware of any kind of negative reaction to anyone, present or not. 
+³They will be needed at any time during the day when you become aware of any kind of negative reäction to anyone, present or not. 
 ⁴In that event, tell him silently:
 
 >⁵God is the Love in which I forgive you.

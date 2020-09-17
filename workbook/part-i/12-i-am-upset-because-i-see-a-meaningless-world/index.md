@@ -19,21 +19,21 @@ next: W-pI.13
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The importance of this idea lies in the fact that it [this idea] contains a correction for a major perceptual distortion. 
 ²You think that what upsets you is a frightening world, or a sad world, or a violent world, or an insane world. 
 ³All these attributes [frightening, sad, violent or insane] are given it [the world] by you. 
 ⁴The world is meaningless in itself [world’s-self].
 
-##### Substituted
+#::: details Substituted
 
 The importance of this idea lies in the fact that this idea contains a correction for a major perceptual distortion. 
 ²You think that what upsets you is a frightening world, or a sad world, or a violent world, or an insane world. 
 ³Attributes of frightening, sad, violent or insane are given the world by you. 
 ⁴The world is meaningless in world’s-self.
 
-##### Simplified
+#::: details Simplified
 
 You made the world into what upsets you. 
 The world is meaningless
@@ -78,7 +78,7 @@ and so on, using whatever descriptive terms happen to occur to you.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 What is meaningless is neither good nor bad. 
 ²Why, then, should a meaningless world upset you? 
@@ -90,7 +90,7 @@ What is meaningless is neither good nor bad.
 ⁸The truth upsets you now, but when your words have been erased, you will see His [God’s words]. 
 ⁹That [seeing God’s words] is the ultimate purpose of these exercises.
 
-##### Substituted
+#::: details Substituted
 
 What is meaningless is neither good nor bad. 
 ²Why, then, should a meaningless world upset you? 
@@ -102,7 +102,7 @@ What is meaningless is neither good nor bad.
 ⁸The truth upsets you now, but when your words have been erased, you will see God’s words. 
 ⁹Seeing God’s words is the ultimate purpose of these exercises.
 
-##### Simplified
+#::: details Simplified
 
 You make the world what the world seems to be. 
 Accept that the world is meaningless and you will be happy. 

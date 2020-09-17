@@ -19,21 +19,21 @@ next: W-pI.20
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 The idea for today is obviously the reason why your seeing does not affect you alone. 
 ²You will notice that at times the ideas related to thinking precede those [ideas] related to perceiving, while at other times the order is reversed. 
 ³The reason is that the order does not matter. 
 ⁴Thinking and its [thinking’s] results are really simultaneous, for cause and effect are never separate.
 
-##### Substituted
+#::: details Substituted
 
 The idea for today is obviously the reason why your seeing does not affect you alone. 
 ²You will notice that at times the ideas related to thinking precede those ideas related to perceiving, while at other times the order is reversed. 
 ³The reason is that the order does not matter. 
 ⁴Thinking and thinking’s results are really simultaneous, for cause and effect are never separate.
 
-##### Simplified
+#::: details Simplified
 
 Cause and effect are never separate.
 Thinking and perceiving are simultaneous.
@@ -49,7 +49,7 @@ Thinking and perceiving are simultaneous.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today we are again emphasising the fact that minds are joined. 
 ²This [the fact that minds are joined] is rarely a wholly welcome idea at first, since it [the fact that minds are joined] seems to carry with it [the fact that minds are joined] an enormous sense of responsibility, and may even be regarded as an ‘invasion of privacy’. 
@@ -57,7 +57,7 @@ Today we are again emphasising the fact that minds are joined.
 ⁴Despite your initial resistance to this idea [there are no private thoughts], you will yet understand that it [the idea there are no private thoughts] must be true if salvation is possible at all. 
 ⁵And salvation must be possible because it [salvation] is the Will of God.
 
-##### Substituted
+#::: details Substituted
 
 Today we are again emphasising the fact that minds are joined. 
 ²The fact that minds are joined is rarely a wholly welcome idea at first, since the fact that minds are joined seems to carry with the fact that minds are joined an enormous sense of responsibility, and may even be regarded as an ‘invasion of privacy’. 
@@ -65,7 +65,7 @@ Today we are again emphasising the fact that minds are joined.
 ⁴Despite your initial resistance to the idea there are no private thoughts, you will yet understand that the idea there are no private thoughts must be true if salvation is possible at all. 
 ⁵And salvation must be possible because salvation is the Will of God.
 
-##### Simplified.
+#::: details Simplified.
 
 Minds are joined. 
 Thoughts are not private. 

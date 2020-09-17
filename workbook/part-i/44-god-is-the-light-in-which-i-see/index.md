@@ -19,21 +19,21 @@ next: W-pI.45
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Today we are continuing the idea for yesterday, adding another dimension to it [the idea for yesterday]. 
 ²You cannot see in darkness, and you cannot make light. 
 ³You can make darkness and then think you see in it [darkness], but light reflects life, and [light] is therefore an aspect of creation. 
 ⁴Creation and darkness cannot coëxist, but light and life must go together, being but [light and life are] different aspects of creation.
 
-##### Substituted
+#::: details Substituted
 
 Today we are continuing the idea for yesterday, adding another dimension to the idea for yesterday. 
 ²You cannot see in darkness, and you cannot make light. 
 ³You can make darkness and then think you see in darkness, but light reflects life, and light is therefore an aspect of creation. 
 ⁴Creation and darkness cannot coëxist, but light and life must go together, light and life are different aspects of creation.
 
-##### Simplified
+#::: details Simplified
 
 Light and life are aspects of creation.
 
@@ -47,21 +47,21 @@ Light and life are aspects of creation.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 In order to see, you must recognise that light is within, not without. 
 ²You do not see outside yourself, nor is the equipment for seeing outside you. 
 ³An essential part of this equipment [the equipment for seeing] is the light that makes seeing possible. 
 ⁴It [the light that makes seeing possible] is with you always, making vision possible in every circumstance.
 
-##### Substituted
+#::: details Substituted
 
 In order to see, you must recognise that light is within, not without. 
 ²You do not see outside yourself, nor is the equipment for seeing outside you. 
 ³An essential part of the equipment for seeing is the light that makes seeing possible. 
 ⁴The light that makes seeing possible is with you always, making vision possible in every circumstance.
 
-##### Simplified
+#::: details Simplified
 
 The light by which you see is always with you.
 

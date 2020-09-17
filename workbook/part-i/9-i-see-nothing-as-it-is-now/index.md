@@ -22,7 +22,7 @@ next: W-pI.10
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This idea obviously follows from the two preceding ones [ideas]. 
 ²But while you may be able to accept it [this idea] intellectually, it is unlikely that it [this idea] will mean anything to you as yet. 
@@ -32,7 +32,7 @@ This idea obviously follows from the two preceding ones [ideas].
 ⁶You do not need to practice what you already understand. 
 ⁷It would indeed be circular to aim at understanding, and assume that you have it [understanding] already.
 
-##### Substituted
+#::: details Substituted
 
 This idea obviously follows from the two preceding ideas. 
 ²But while you may be able to accept this idea intellectually, it is unlikely that this idea will mean anything to you as yet. 
@@ -57,7 +57,7 @@ You do not understand yet.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 It is difficult for the untrained mind to believe that what it [the untrained mind] seems to picture is not there. 
 ²This idea can be quite disturbing, and may meet with active resistance in any number of forms. 
@@ -73,7 +73,7 @@ It is difficult for the untrained mind to believe that what the untrained mind s
 ⁴No more than applying this idea is required for these exercises or any other exercises. 
 ⁵Each small step will clear a little of the darkness away, and understanding will finally come to lighten every corner of the mind that has been cleared of the debris that darkens it.
 
-##### Simplified
+#::: details Simplified
 
 Try to apply the idea regardless of how much resistance you meet. Each small step helps.
 

@@ -21,7 +21,7 @@ next: W-pI.21
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 We have been quite casual about our practice periods thus far. 
 ²There has been virtually no attempt to direct the time for undertaking them [our practice periods], minimal effort has been required, and not even active coöperation and interest have been asked. 
@@ -30,7 +30,7 @@ We have been quite casual about our practice periods thus far.
 ⁵The salvation of the world depends on it [the reversal of your thinking]. 
 ⁶Yet you will not see if you regard yourself as being coërced, and if you give in to resentment and opposition.
 
-##### Substituted
+#::: details Substituted
 
 We have been quite casual about our practice periods thus far. 
 ²There has been virtually no attempt to direct the time for undertaking our practice periods, minimal effort has been required, and not even active coöperation and interest have been asked. 
@@ -39,7 +39,7 @@ We have been quite casual about our practice periods thus far.
 ⁵The salvation of the world depends on the reversal of your thinking. 
 ⁶Yet you will not see if you regard yourself as being coërced, and if you give in to resentment and opposition.
 
-##### Simplified
+#::: details Simplified
 
 Your thinking needs to be reversed. 
 We can’t force you.
@@ -58,7 +58,7 @@ We can’t force you.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 This is our first attempt to introduce structure. 
 ²Do not misconstrue it [introducing structure] as an effort to exert force or pressure. 
@@ -69,7 +69,7 @@ This is our first attempt to introduce structure.
 ⁷You are now learning how to tell them [joy, sorrow, pleasure, pain, love and fear] apart. 
 ⁸And great indeed will be your reward.
 
-##### Substituted
+#::: details Substituted
 
 This is our first attempt to introduce structure. 
 ²Do not misconstrue introducing structure as an effort to exert force or pressure. 
@@ -80,7 +80,7 @@ This is our first attempt to introduce structure.
 ⁷You are now learning how to tell joy, sorrow, pleasure, pain, love and fear apart. 
 ⁸And great indeed will be your reward.
 
-##### Simplified
+#::: details Simplified
 
 The course will help you get what you want.
 
@@ -98,7 +98,7 @@ The course will help you get what you want.
 
 ::: details Annotations
 
-##### Expanded
+#::: details Expanded
 
 Your decision to see is all that vision requires. 
 ²What you want is yours. 
@@ -109,7 +109,7 @@ Your decision to see is all that vision requires.
 ⁷His [God’s] will is done because all power is given him [God’s-one-Son] in Heaven and on earth. 
 ⁸In your determination to see is vision given you.
 
-##### Substituted
+#::: details Substituted
 
 Your decision to see is all that vision requires. 
 ²What you want is yours. 
@@ -120,7 +120,7 @@ Your decision to see is all that vision requires.
 ⁷God’s will is done because all power is given God’s-one-Son in Heaven and on earth. 
 ⁸In your determination to see is vision given you.
 
-##### Simplified
+#::: details Simplified
 
 God’s will is for you to be saved. 
 You need to be determined.
