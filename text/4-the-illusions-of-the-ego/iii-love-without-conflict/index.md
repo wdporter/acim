@@ -75,6 +75,8 @@ Your spirit and God will always co-create.
 {% endif %}
 
 
+<div id=2 style=height:0></div>
+
 2. This is written in the form of a prayer because it is useful in moments of temptation. 
 ²It is a declaration of independence. 
 ³You will find it very helpful if you understand it fully. 
