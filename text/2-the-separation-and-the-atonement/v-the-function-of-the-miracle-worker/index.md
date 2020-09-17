@@ -186,7 +186,7 @@ Healing restores right-mindedness.
 
 ::: details Substituted
 
-*The sole responsibility of the miracle worker is to accept the Atonement for the miracle-worker’s self.</em>* 
+*The sole responsibility of the miracle worker is to accept the Atonement for the miracle-worker’s self.* 
 ²This means you recognise that mind is the only creative level, and that mind’s errors are healed by the Atonement. 
 ³Once you accept the Atonement, your mind can only heal. 
 ⁴By denying your mind any destructive potential and reïnstating your mind’s purely constructive powers, you place yourself in a position to undo the level confusion of others. 
