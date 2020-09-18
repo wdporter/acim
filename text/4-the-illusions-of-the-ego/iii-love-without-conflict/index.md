@@ -349,7 +349,7 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 
 (True enough, but be wary of the idea that if you don’t agree with Wapnick it’s because the ego is distorting the Course’s teachings –Ed.)
 ::: 
-
+{% endif %}
 
 9. In your own mind, though denied by the ego, is the declaration of your release. 
 ²*God has given you everything*. 
