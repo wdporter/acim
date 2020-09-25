@@ -12,7 +12,7 @@ next: T-15.VI
 ---
 
 
-<div id=2 style=height:0></div>
+<div id=2 class=zero-height></div>
 
 
-<div id=3 style=height:0></div>
+<div id=3 class=zero-height></div>

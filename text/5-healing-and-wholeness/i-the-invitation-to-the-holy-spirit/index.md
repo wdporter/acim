@@ -11,4 +11,4 @@ prev: T-4.VII
 next: T-5.II
 ---
 
-<div id=5 style=height:0></div>
+<div id=5 class=zero-height></div>

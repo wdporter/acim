@@ -67,7 +67,7 @@ The body is a learning device for the mind.
 {% endif %}
 
 
-<div id=2 style=height:0></div>
+<div id=2 class=zero-height></div>
 
 2. Magic is the mindless or the miscreative use of mind. 
 ²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so. 
@@ -166,7 +166,7 @@ Healing restores right-mindedness.
 :::
 
 
-<div id=5 style=height:0></div>
+<div id=5 class=zero-height></div>
 
 5. *The sole responsibility of the miracle worker is to accept the Atonement for himself.*
 ²This means you recognise that mind is the only creative level, and that its errors are healed by the Atonement. 
@@ -484,7 +484,7 @@ Wrong-mindedness causes projection.
 :::
 
 
-<div id=15 style=height:0></div>
+<div id=15 class=zero-height></div>
 
 15. (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until this has occurred healing cannot be understood. 

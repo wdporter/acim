@@ -59,7 +59,7 @@ God did not permit his Son to suffer for being good.
 {% endif %}
 
 
-<div id=2 style=height:0></div>
+<div id=2 class=zero-height></div>
 
 2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 ²It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it. 
@@ -117,7 +117,7 @@ God could not think this way.
 {% endif %}
 
 
-<div id=3 style=height:0></div>
+<div id=3 class=zero-height></div>
 
 3. The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own ‘evil’ past to God. 
 ²The ‘evil’ past has nothing to do with God. 
@@ -343,7 +343,7 @@ Nothing can destroy truth.
 :::
 
 
-<div id=8 style=height:0></div>
+<div id=8 class=zero-height></div>
 
 8. The innocence of God is the true state of the mind of His Son. 
 ²In this state your mind knows God, for God is not symbolic; He is Fact. 

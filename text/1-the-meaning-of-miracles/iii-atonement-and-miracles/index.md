@@ -129,7 +129,7 @@ Release your brothers by forgiving them.
 :::
 
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>
 
 4. I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
 ²You have a role in the Atonement which I will dictate to you. 
@@ -167,7 +167,7 @@ Follow my guidance.
 :::
 
 
-<div id=5 style=height:0></div>
+<div id=5 class=zero-height></div>
 
 5. Error cannot really threaten truth, which can always withstand it. 
 ²Only the error is actually vulnerable. 

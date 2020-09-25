@@ -12,4 +12,4 @@ next: T-25.IV
 ---
 
 
-<div id=13 style=height:0></div>
+<div id=13 class=zero-height></div>

@@ -12,5 +12,5 @@ next: T-10.II
 ---
 
 
-<div id=2 style=height:0></div>
+<div id=2 class=zero-height></div>
 

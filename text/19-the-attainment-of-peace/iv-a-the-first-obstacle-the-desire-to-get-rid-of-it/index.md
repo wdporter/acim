@@ -12,5 +12,5 @@ next: T-19.IV-B
 ---
 
 
-<div id=17 style=height:0></div>
+<div id=17 class=zero-height></div>
 

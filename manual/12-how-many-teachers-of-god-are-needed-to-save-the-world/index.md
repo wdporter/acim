@@ -11,4 +11,4 @@ prev: M-11
 next: M-13
 ---
 
-<div id=3 style=height:0></div>
+<div id=3 class=zero-height></div>

@@ -164,7 +164,7 @@ You have the potential to be like me.
 {% endif %}
 
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>
 
 4. “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement is more meaningful in terms of a vertical rather than a horizontal axis. 

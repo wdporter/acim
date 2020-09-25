@@ -12,5 +12,5 @@ next: T-9.VIII
 ---
 
 
-<div id=8 style=height:0></div>
+<div id=8 class=zero-height></div>
 

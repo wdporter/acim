@@ -191,7 +191,7 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 {% endif %}
 
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>
 
 4. All material means that you accept as remedies for bodily ills are restatements of magic principles. 
 ²This is the first step in believing that the body makes its own illness. 

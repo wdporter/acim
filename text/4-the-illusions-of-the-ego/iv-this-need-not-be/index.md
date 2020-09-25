@@ -49,7 +49,7 @@ The ego exists as a trick.
 :::
 
 
-<div id=2 style=height:0></div>
+<div id=2 class=zero-height></div>
 
 2. I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you *can* change your mind. 
 ²When your mood tells you that you have chosen wrongly, and this is so whenever you are not joyous, then *know this need not be* 

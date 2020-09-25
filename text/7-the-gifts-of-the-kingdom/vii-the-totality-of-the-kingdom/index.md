@@ -12,13 +12,13 @@ next: T-7.VIII
 ---
 
 
-<div id=1 style=height:0></div>
+<div id=1 class=zero-height></div>
 
 
 
-<div id=5 style=height:0></div>
+<div id=5 class=zero-height></div>
 
 
 
-<div id=6 style=height:0></div>
+<div id=6 class=zero-height></div>
 

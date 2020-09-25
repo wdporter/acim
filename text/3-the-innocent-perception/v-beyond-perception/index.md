@@ -241,7 +241,7 @@ Creation is your source and your function.
 {% endif %}
 
 
-<div id=7 style=height:0></div>
+<div id=7 class=zero-height></div>
 
 7. The statement “God created man in his own image and likeness” needs reïnterpretation. 
 ²‘Image’ can be understood as ‘thought’, and ‘likeness’ as ‘of a like quality’. 

@@ -145,7 +145,7 @@ You must heal the separation.
 {% endif %}
 
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>
 
 4. Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
 ²You can be right-minded or wrong-minded, and even this is subject to degrees, clearly demonstrating that knowledge is not involved. 
@@ -173,7 +173,7 @@ But right-mindedness is not knowledge.
 :::
 
 
-<div id=5 style=height:0></div>
+<div id=5 class=zero-height></div>
 
 5. Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. 
 ²The mind is very active. 

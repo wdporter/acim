@@ -306,7 +306,7 @@ The ego can’t be satisfied.
 :::
 
 
-<div id=8 style=height:0></div>
+<div id=8 class=zero-height></div>
 
 8. The ego believes it is completely on its own, which is merely another way of describing how it thinks it originated. 
 ²This is such a fearful state that it can only turn to other egos and try to unite with them in a feeble attempt at identification, or attack them in an equally feeble show of strength. 

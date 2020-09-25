@@ -12,5 +12,5 @@ next: T-17.VI
 ---
 
 
-<div id=10 style=height:0></div>
+<div id=10 class=zero-height></div>
 

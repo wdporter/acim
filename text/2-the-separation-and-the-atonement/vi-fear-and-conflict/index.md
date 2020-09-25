@@ -151,7 +151,7 @@ Your mind needs guidance.
 {% endif %}
 
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>
 
 4. The correction of fear *is* your responsibility. 
 ²When you ask for release from fear, you are implying that it is not. 

@@ -12,5 +12,5 @@ prev: W-pI.133
 next: W-pI.135
 ---
 
-<div id=17 style=height:0></div>
+<div id=17 class=zero-height></div>
 

@@ -11,4 +11,4 @@ prev: T-11.IV
 next: T-11.VI
 ---
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>

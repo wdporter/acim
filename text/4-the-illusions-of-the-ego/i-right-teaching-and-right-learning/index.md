@@ -329,7 +329,7 @@ Reality is: God is Real, you are God’s Son, God is pleased with His Son.
 {% endif %}
 
 
-<div id=9 style=height:0></div>
+<div id=9 class=zero-height></div>
 
 9. God is not the author of fear. 
 ²You are. 

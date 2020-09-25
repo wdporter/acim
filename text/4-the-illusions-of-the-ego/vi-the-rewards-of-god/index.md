@@ -129,7 +129,7 @@ You do not escape from the ego by controlling the ego.
  {% endif %}
 
 
-<div id=4 style=height:0></div>
+<div id=4 class=zero-height></div>
 
 4. The ego and the spirit do not know each other. 
 ²The separated mind cannot maintain the separation except by dissociating. 

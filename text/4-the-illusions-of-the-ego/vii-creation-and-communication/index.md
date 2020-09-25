@@ -181,7 +181,7 @@ You know your own reality when you communicate with all of reality.
 {% endif %}
 
 
-<div id=5 style=height:0></div>
+<div id=5 class=zero-height></div>
 
 5. God, Who encompasses all being, created beings who have everything individually, but who want to share it to increase their joy. 
 ²Nothing real can be increased except by sharing. 

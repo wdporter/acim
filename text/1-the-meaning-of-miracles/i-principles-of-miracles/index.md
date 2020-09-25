@@ -234,7 +234,7 @@ Love is received from prayer.
 Love is expressed by miracles.
 :::
 
-<div id=12 style=height:0></div>
+<div id=12 class=zero-height></div>
 
 12. Miracles are thoughts. 
 ²Thoughts can represent the lower or bodily level of experience, or the higher or spiritual level of experience. 
@@ -380,7 +380,7 @@ Miracles give strength to the receiver.
 {% endif %}
 
 
-<div id=17 style=height:0></div>
+<div id=17 class=zero-height></div>
 
 17. Miracles transcend the body. 
 ²They are sudden shifts into invisibility, away from the bodily level. 
@@ -525,7 +525,7 @@ Believing darkness can hide is a denial of spiritual sight and brings fear.
 :::
 
 
-<div id=23 style=height:0></div>
+<div id=23 class=zero-height></div>
 
 23. Miracles reärrange perception and place all levels in true perspective. 
 ²This is healing because sickness comes from confusing the levels.
@@ -684,7 +684,7 @@ Miracles heal.
 :::
  
 
-<div id=30 style=height:0></div>
+<div id=30 class=zero-height></div>
 
 30. By recognising spirit, miracles adjust the levels of perception and show them in proper alignment. 
 ²This places spirit at the centre, where it can communicate directly.

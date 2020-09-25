@@ -186,3 +186,7 @@ details p {
 details + p, details + div {
 	margin-top: 2em;
 }
+
+div.zero-height {
+	height: 0;
+}
