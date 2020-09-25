@@ -8,7 +8,7 @@ eleventyNavigation:
   parent: T-4
   order: 8
 prev: T-4.VI
-next: T-5.I
+next: T-5.in
 ---
 
 1. It is clear that while the content of any particular ego illusion does not matter, its correction is more helpful in a specific context. 
