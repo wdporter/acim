@@ -6,7 +6,7 @@ eleventyNavigation:
   key: T-4.VI
   title: T-4.VI The Rewards of God
   parent: T-4
-  order: 5
+  order: 7
 prev: T-4.V
 next: T-4.VII
 ---
