@@ -183,6 +183,6 @@ details p {
 	padding-left: calc(1rem * (27 / 16));
 }
 
-details + p {
+details + p, details + div {
 	margin-top: 2em;
 }
