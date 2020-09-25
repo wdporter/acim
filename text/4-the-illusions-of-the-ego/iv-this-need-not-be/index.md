@@ -289,7 +289,6 @@ Withdraw allegiance, protection and love from the ego.
 {% if showCommentary %} 
 ::: details Commentary
 (3–5) Jesus’ role in the process of undoing. c/f [T-11.V.1:1–2:2](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego/#1). (Wapnick, AAC, p.189)
-:::
 
 (9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what *I have termed* the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom/#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom/#5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom/#6) (Wapnick, AAC, p.33–34) 
 
