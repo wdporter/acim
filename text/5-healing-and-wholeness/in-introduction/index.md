@@ -79,6 +79,8 @@ Everyone benefits whenever anyone is healed.
 :::
 
 
+<div id=3 class=zero-height></div>
+
 3. You are being blessed by every beneficent thought of any of your brothers anywhere. 
 ²You should want to bless them in return, out of gratitude. 
 ³You need not know them individually, or they you. 

@@ -68,6 +68,8 @@ Ideas increase when shared.
 :::
 
 
+<div id=2 class=zero-height></div>
+
 2. Let us start our process of reäwakening with just a few simple concepts:
 >²Thoughts increase by being given away.  
 ³The more who believe in them the stronger they become.  

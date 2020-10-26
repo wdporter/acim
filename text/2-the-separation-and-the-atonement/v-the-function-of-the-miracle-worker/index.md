@@ -577,6 +577,8 @@ One-mindedness is directed by God.
 :::
 
 
+<div id=18 class=zero-height></div>
+
 18. (8) You can do much on behalf of your own healing and that of others if, in a situation calling for help, you think of it this way:
 
 >²I am here only to be truly helpful.  

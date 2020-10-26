@@ -169,6 +169,8 @@ The course urges us to look at the world benevolently: since we believe we are h
 {% endif %}
 
 
+<div id=5 class=zero-height></div>
+
 5. All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. 
 ²To whatever extent you are willing to submit your beliefs to this test, to that extent are your perceptions corrected. 
 ³In sorting out the false from the true, the miracle proceeds along these lines:

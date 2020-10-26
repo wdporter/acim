@@ -497,6 +497,9 @@ Spirit has a right to the Kingdom of Heaven.
 God gave the Kingdom of Heaven to God’s creations.
 :::
 
+
+<div id=13 class=zero-height></div>
+
 13. I will substitute for your ego if you wish, but never for your spirit. 
 ²A father can safely leave a child with an elder brother who has shown himself responsible, but this involves no confusion about the child’s origin. 
 ³The brother can protect the child’s body and his ego, but he does not confuse himself with the father because he does this. 
