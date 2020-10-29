@@ -130,7 +130,13 @@ The Holy Spirit is in your right-mind, but you must also invite him in.
 May you invite him in and join with me in Christ-thinking.
 :::
 
+{% if showCommentary %}
 ::: details Commentary
+(3–6) Jesus is asking us to emualate the state of his *mind*, which means setting aside our egos and choosing the Holy Spirit. (Wapnick, CP, p.76)
+:::
+{% endif %}
+
+::: details Note
 Ur-text/HLC/Original edition, for sentence 3, has “The Holy Spirit is nothing more than your own right mind. He was also mine”. [—Ed].
 :::
 

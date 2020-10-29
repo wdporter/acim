@@ -195,6 +195,12 @@ God’s Son is whole.
 Show that you cannot be hurt. 
 :::
 
+{% if showCommentary %}
+::: details Commentary
+(4–6) Aware of his real security, Jesus himself remained silent when he was brought before Pilate and asked to defend himself. An incredulous Pilate asked Jesus: “Do you not hear how many charges they have brought against you?” (Mt 27:13); and Matthew continues: “But to the governor’s complete amazement, he offered no reply to any of the charges” (Mt 27:14). As the soldiers continued to mock and scourge him, Jesus did not speak, being the perfect example of his own injunction to “turn the other cheek”. By this example, as he explains in the Course, he taught that while his body could be attacked and injured, his true identity in God remained unassailed (also [T-6.I](/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion/)) (Wapnick, CP, p. 47–8). 
+::
+{% endif %}
+
 
 5. Teaching is done in many ways, above all by example. 
 ²Teaching should be healing, because it is the sharing of ideas and the recognition that to share ideas is to strengthen them. 
@@ -227,6 +233,11 @@ Teaching the ideas makes you able to depend on the ideas.
 Being able to depend on the ideas heals you.
 :::
 
+{% if showCommentary %}
+::: details Commentary
+(1) …there are different ways of teaching, but the most important is by example. (Wapnick, CP, p.45)
+:::
+{% endif %}
 
 6. The Holy Spirit atones in all of us by undoing, and thus lifts the burden you have placed in your mind. 
 ²By following Him you are led back to God where you belong, and how can you find the way except by taking your brother with you? 

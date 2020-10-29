@@ -376,6 +376,13 @@ I have showed you that you can decide for God.
 :::
 
 
+{% if showCommentary %}
+::: details Commentary
+(6–7) …we take him as our model for learning. This certainly does not mean that we need to be crucified as he was, but rather that we identify with the meaning of his death; namely, when we find ourselves tempted to feel that we are unfairly treated, the innocent victims of what the world has done to us, we should recall Jesus’ example and ask his help. (also [12:1–3](#12), [T-6.in.2:1](/text/6-the-lessons-of-love/in-introduction/#2), [T-6.I.7:2](/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion/#7); [8:6–7(/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion/#8)]) (Wapnick, ATG, p. 127) 
+:::
+{% endif %}
+
+
 10. I have assured you that the Mind that decided for me is also in you, and that you can let it change you just as it changed me. 
 ²This Mind is unequivocal, because it hears only one Voice and answers in only one way. 
 ³You are the light of the world with me. 
