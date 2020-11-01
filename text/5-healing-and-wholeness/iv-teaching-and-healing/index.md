@@ -57,6 +57,13 @@ By accepting the Holy Spirit’s help you are joining the Atonement.
 This is the way out of fear and is the undoing of the ego.
 :::
 
+{% if showCommentary %}
+::: details Commentary
+(4) We do not have the power or the freedom to undo what God established as reality. However, we do have the freedom not to accept it. (Wapnick, FAJ, p.102)
+:::
+{% endif %}
+
+
 
 2. What the ego makes it keeps to itself, and so it is without strength. 
 ²Its existence is unshared. 
@@ -198,6 +205,8 @@ Show that you cannot be hurt.
 {% if showCommentary %}
 ::: details Commentary
 (4–6) Aware of his real security, Jesus himself remained silent when he was brought before Pilate and asked to defend himself. An incredulous Pilate asked Jesus: “Do you not hear how many charges they have brought against you?” (Mt 27:13); and Matthew continues: “But to the governor’s complete amazement, he offered no reply to any of the charges” (Mt 27:14). As the soldiers continued to mock and scourge him, Jesus did not speak, being the perfect example of his own injunction to “turn the other cheek”. By this example, as he explains in the Course, he taught that while his body could be attacked and injured, his true identity in God remained unassailed (also [T-6.I](/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion/)) (Wapnick, CP, p. 47–8). 
+
+(4–6) He was the perfect example of his own injunction to “turn the other cheek” … Becaus of his own sinlessness, he could not see attack. Thus, there was no need to defend himself or to project blame or responsibility onto others. His absolute trust in God, his certainty of who he was, made any defence unnecessary and even irrelevant. (Wapnick, FAJ, p.191)
 ::
 {% endif %}
 
@@ -236,6 +245,8 @@ Being able to depend on the ideas heals you.
 {% if showCommentary %}
 ::: details Commentary
 (1) …there are different ways of teaching, but the most important is by example. (Wapnick, CP, p.45)
+
+(1) We remember Jesus because he lived out perfectly and completely the very principles of forgiveness that he taught. (Wapnic, FAJ, p.183)
 :::
 {% endif %}
 
@@ -361,3 +372,9 @@ How can you who are so holy suffer?
 Your past kindesses and past loving thoughts have been saved for you. 
 They are from the Holy Spirit, and thus are eternal. 
 :::
+
+{% if showCommentary %}
+::: details Commentary
+(2–4) We can extend this same principle to the Course’s purification of Christianity’s errors, while at the same time it retains the kindesses and loving thoughts of Christianity. In this sense, we can see *A Course in Miracles* as an extensive commentary on the Sermon on the Mount, perhaps the clearest distillation of what Jesus’ teachings must have been, and whose principles of forgiveness are so perfectly exemplified in his own life,. The Course helps us understand what these principles are, why Jesus made them the cornerstone of his gospel, and why he chose the crucifixion as the form in which he taught that our sins are forgiven. (Wapnick, FAJ, p.9)
+:::
+{% endif %}

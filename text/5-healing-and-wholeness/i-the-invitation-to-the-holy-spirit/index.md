@@ -67,6 +67,12 @@ Everything is an idea.
 Ideas increase when shared.
 :::
 
+{% if showCommentary %}
+::: details Commentary
+(10–12) Unlike the material things of this world, thoughts are not diminished by their sharing. This holds for the thoughts of God as well as those of the ego. (Wapnick, FAJ, p.47)
+:::
+{% endif %}
+
 
 <div id=2 class=zero-height></div>
 
