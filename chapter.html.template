@@ -42,6 +42,13 @@ next: T-1.III
 
 :::
 
+{% if showCommentary %}
+::: details Commentary
+()  (Wapnick, , p.)
+:::
+{% endif %}
+
+
 ---
 
 ::: details Annotations
