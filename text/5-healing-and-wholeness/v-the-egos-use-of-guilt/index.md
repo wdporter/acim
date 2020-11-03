@@ -196,16 +196,105 @@ The ego wants to keep you from seeing sin as a lack.
 
 
 5. The guiltless mind cannot suffer. 
-2 Being sane, the mind heals the body because *it* has been healed. 
-3 The sane mind cannot conceive of illness because it cannot conceive of attacking anyone or anything. 
-4 I said before that illness is a form of magic. 
-5 It might be better to say that it is a form of magical solution. 
-6 The ego believes that by punishing itself it will mitigate the punishment of God. 
-7 Yet even in this it is arrogant. 
-8 It attributes to God a punishing intent, and then takes this intent as its own prerogative. 
-9 It tries to usurp all the functions of God as it perceives them, because it recognises that only total allegiance can be trusted.
+²Being sane, the mind heals the body because *it* has been healed. 
+³The sane mind cannot conceive of illness because it cannot conceive of attacking anyone or anything. 
+⁴I said before that illness is a form of magic. 
+⁵It might be better to say that it is a form of magical solution. 
+⁶The ego believes that by punishing itself it will mitigate the punishment of God. 
+⁷Yet even in this it is arrogant. 
+⁸It attributes to God a punishing intent, and then takes this intent as its own prerogative. 
+⁹It tries to usurp all the functions of God as it perceives them, because it recognises that only total allegiance can be trusted.
+
+::: details Expanded
+The guiltless mind cannot suffer. 
+²Being sane, the mind heals the body because *it [the mind]* has been healed. 
+³The sane mind cannot conceive of illness because it [the sane mind] cannot conceive of attacking anyone or anything. 
+⁴I said before that illness is a form of magic. 
+⁵It might be better to say that it [illness] is a form of magical solution. 
+⁶The ego believes that by punishing itself [the-ego’s-self] it [the ego] will mitigate the punishment of God. 
+⁷Yet even in this [punishing itself] it [the ego] is arrogant. 
+⁸It [the ego] attributes to God a punishing intent, and then takes this [a punishing] intent as its [the-ego’s] own prerogative. 
+⁹It [the ego] tries to usurp all the functions of God as it [the ego] perceives them [the functions of God], because it [the ego] recognises that only total allegiance can be trusted.
+:::
+
+::: details Substituted
+The guiltless mind cannot suffer. 
+²Being sane, the mind heals the body because *the mind* has been healed. 
+³The sane mind cannot conceive of illness because the sane mind cannot conceive of attacking anyone or anything. 
+⁴I said before that illness is a form of magic. 
+⁵It might be better to say that illness is a form of magical solution. 
+⁶The ego believes that by punishing the-ego’s-self the ego will mitigate the punishment of God. 
+⁷Yet even in punishing itself the ego is arrogant. 
+⁸The ego attributes to God a punishing intent, and then takes a punishing intent as the-ego’s own prerogative. 
+⁹The ego tries to usurp all the functions of God as the ego perceives the functions of God, because the ego recognises that only total allegiance can be trusted.
+:::
+
+::: details Simplified
+A guiltless mind does not attack. 
+The ego believes God wants to punish and tries to punish on God’s behalf. 
+Illness is the ego’s attempt at punishing itself. 
+:::
+
+
+6. The ego cannot oppose the laws of God any more than you can, but it can interpret them according to what it wants, just as you can. 
+²That is why the question, “What do you want?” must be answered. 
+³You are answering it every minute and every second, and each moment of decision is a judgement that is anything but ineffectual. 
+⁴Its effects will follow automatically until the decision is changed. 
+⁵Remember, though, that the alternatives themselves are unalterable. 
+⁶The Holy Spirit, like the ego, is a decision. 
+⁷Together they constitute all the alternatives the mind can accept and obey. 
+⁸The Holy Spirit and the ego are the only choices open to you. 
+⁹God created one, and so you cannot eradicate it. 
+¹⁰You made the other, and so you can. 
+¹¹Only what God creates is irreversible and unchangeable. 
+¹²What you made can always be changed because, when you do not think like God, you are not really thinking at all. 
+¹³Delusional ideas are not real thoughts, although you can believe in them. 
+¹⁴But you are wrong. 
+¹⁵The function of thought comes from God and is in God. 
+¹⁶As part of His Thought, you *cannot* think apart from Him.
+
+::: details Expanded
+The ego cannot oppose the laws of God any more than you can [oppose the laws of God], but it [the ego] can interpret them [the laws of God] according to what it [the ego] wants, just as you can [interpret the laws of God according to what you want]. 
+²That is why the question, “What do you want?” must be answered. 
+³You are answering it [the question] every minute and every second, and each moment of decision is a judgement that is anything but [never] ineffectual. 
+⁴Its [your-decision’s] effects will follow automatically until the decision is changed. 
+⁵Remember, though, that the alternatives themselves are unalterable. 
+⁶The Holy Spirit, like the ego, is a decision. 
+⁷Together they [the Holy Spirit and the ego] constitute all the alternatives the mind can accept and obey. 
+⁸The Holy Spirit and the ego are the only choices open to you. 
+⁹God created one, and so you cannot eradicate it [the choice God created]. 
+¹⁰You made the other [choice], and so you can [eradicate the choice you made]. 
+¹¹Only what God creates is irreversible and unchangeable. 
+¹²What you made can always be changed because, when you do not think like God, you are not really thinking at all. 
+¹³Delusional ideas are not real thoughts, although you can believe in them [delusional thoughts]. 
+¹⁴But you are wrong. 
+¹⁵The function of thought comes from God and is in God. 
+¹⁶As part of His [God’s] Thought, you *cannot* think apart from Him [God].
+:::
+
+::: details Substituted
+The ego cannot oppose the laws of God any more than you can [oppose the laws of God], but it [the ego] can interpret them [the laws of God] according to what it [the ego] wants, just as you can [interpret the laws of God according to what you want]. 
+²That is why the question, “What do you want?” must be answered. 
+³You are answering it [the question] every minute and every second, and each moment of decision is a judgement that is anything but [never] ineffectual. 
+⁴Its [your-decision’s] effects will follow automatically until the decision is changed. 
+⁵Remember, though, that the alternatives themselves are unalterable. 
+⁶The Holy Spirit, like the ego, is a decision. 
+⁷Together they [the Holy Spirit and the ego] constitute all the alternatives the mind can accept and obey. 
+⁸The Holy Spirit and the ego are the only choices open to you. 
+⁹God created one, and so you cannot eradicate it [the choice God created]. 
+¹⁰You made the other [choice], and so you can [eradicate the choice you made]. 
+¹¹Only what God creates is irreversible and unchangeable. 
+¹²What you made can always be changed because, when you do not think like God, you are not really thinking at all. 
+¹³Delusional ideas are not real thoughts, although you can believe in them [delusional thoughts]. 
+¹⁴But you are wrong. 
+¹⁵The function of thought comes from God and is in God. 
+¹⁶As part of His [God’s] Thought, you *cannot* think apart from Him [God].
+:::
+
+::: details Simplified
+
+:::
 
 
 
-
-</p><p>T-5.V.6. The ego cannot oppose the laws of God any more than you can, but it can interpret them according to what it wants, just as you can. 2 That is why the question, "What do you want?" must be answered. 3 You are answering it every minute and every second, and each moment of decision is a judgment that is anything but ineffectual. 4 Its effects will follow automatically until the decision is changed. 5 Remember, though, that the alternatives themselves are unalterable. 6 The Holy Spirit, like the ego, is a decision. 7 Together they constitute all the alternatives the mind can accept and obey. 8 The Holy Spirit and the ego are the only choices open to you. 9 God created one, and so you cannot eradicate it. 10 You made the other, and so you can. 11 Only what God creates is irreversible and unchangeable. 12 What you made can always be changed because, when you do not think like God, you are not really thinking at all. 13 Delusional ideas are not real thoughts, although you can believe in them. 14 But you are wrong. 15 The function of thought comes from God and is in God. 16 As part of His Thought, you <i> cannot </i> think apart from Him.</p><p>T-5.V.7. Irrational thought is disordered thought. 2 God Himself orders your thought because your thought was created by Him. 3 Guilt feelings are always a sign that you do not know this. 4 They also show that you believe you can think apart from God, and want to. 5 Every disordered thought is attended by guilt at its inception, and maintained by guilt in its continuance. 6 Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their dictates. 7 This makes them feel responsible for their errors without recognizing that, by accepting this responsibility, they are reacting irresponsibly. 8 If the sole responsibility of the miracle worker is to accept the Atonement for himself, and I assure you that it is, then the responsibility for <i> what </i> is atoned for cannot be yours. 9 The dilemma cannot be resolved except by accepting the solution of undoing. 10 You <i> would </i> be responsible for the effects of all your wrong thinking if it could not be undone. 11 The purpose of the Atonement is to save the past in purified form only. 12 If you accept the remedy for disordered thought, a remedy whose efficacy is beyond doubt, how can its symptoms remain?</p><p>T-5.V.8. The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 2 We have said this before, but did not emphasize the destructive results of the decision. 3 Any decision of the mind will affect both behavior and experience. 4 What you want you expect. 5 This is not delusional. 6 Your mind <i> does </i> make your future, and it will turn it back to full creation at any minute if it accepts the Atonement first. 7 It will also return to full creation the instant it has done so. 8 Having given up its disordered thought, the proper ordering of thought becomes quite apparent.
+</p><p>T-5.V.7. Irrational thought is disordered thought. 2 God Himself orders your thought because your thought was created by Him. 3 Guilt feelings are always a sign that you do not know this. 4 They also show that you believe you can think apart from God, and want to. 5 Every disordered thought is attended by guilt at its inception, and maintained by guilt in its continuance. 6 Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their dictates. 7 This makes them feel responsible for their errors without recognizing that, by accepting this responsibility, they are reacting irresponsibly. 8 If the sole responsibility of the miracle worker is to accept the Atonement for himself, and I assure you that it is, then the responsibility for <i> what </i> is atoned for cannot be yours. 9 The dilemma cannot be resolved except by accepting the solution of undoing. 10 You <i> would </i> be responsible for the effects of all your wrong thinking if it could not be undone. 11 The purpose of the Atonement is to save the past in purified form only. 12 If you accept the remedy for disordered thought, a remedy whose efficacy is beyond doubt, how can its symptoms remain?</p><p>T-5.V.8. The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 2 We have said this before, but did not emphasize the destructive results of the decision. 3 Any decision of the mind will affect both behavior and experience. 4 What you want you expect. 5 This is not delusional. 6 Your mind <i> does </i> make your future, and it will turn it back to full creation at any minute if it accepts the Atonement first. 7 It will also return to full creation the instant it has done so. 8 Having given up its disordered thought, the proper ordering of thought becomes quite apparent.
