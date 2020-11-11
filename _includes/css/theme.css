@@ -1,6 +1,6 @@
 :root {
-	--nc-font-sans: "Roboto", "Verdana", sans-serif; /* "Inter", "Roboto" */
-	--nc-font-serif: "Roboto Slab", "Georgia", serif; 
+	--nc-font-sans: Verdana, Geneva, sans-serif;
+	--nc-font-serif:  Georgia, Times, "Times New Roman", serif; 
 	--nc-tx-1: #111111;
 	--nc-bg-1: #fffff8;
 }
