@@ -257,12 +257,12 @@ Illness is the ego’s attempt at punishing itself.
 The ego cannot oppose the laws of God any more than you can [oppose the laws of God], but it [the ego] can interpret them [the laws of God] according to what it [the ego] wants, just as you can [interpret the laws of God according to what you want]. 
 ²That is why the question, “What do you want?” must be answered. 
 ³You are answering it [the question] every minute and every second, and each moment of decision is a judgement that is anything but [never] ineffectual. 
-⁴Its [your-decision’s] effects will follow automatically until the decision is changed. 
+⁴Its [judgement’s] effects will follow automatically until the decision is changed. 
 ⁵Remember, though, that the alternatives themselves are unalterable. 
 ⁶The Holy Spirit, like the ego, is a decision. 
 ⁷Together they [the Holy Spirit and the ego] constitute all the alternatives the mind can accept and obey. 
 ⁸The Holy Spirit and the ego are the only choices open to you. 
-⁹God created one, and so you cannot eradicate it [the choice God created]. 
+⁹God created one [choice], and so you cannot eradicate it [the choice God created]. 
 ¹⁰You made the other [choice], and so you can [eradicate the choice you made]. 
 ¹¹Only what God creates is irreversible and unchangeable. 
 ¹²What you made can always be changed because, when you do not think like God, you are not really thinking at all. 
@@ -273,28 +273,111 @@ The ego cannot oppose the laws of God any more than you can [oppose the laws of 
 :::
 
 ::: details Substituted
-The ego cannot oppose the laws of God any more than you can [oppose the laws of God], but it [the ego] can interpret them [the laws of God] according to what it [the ego] wants, just as you can [interpret the laws of God according to what you want]. 
+The ego cannot oppose the laws of God any more than you can oppose the laws of God, but the ego can interpret the laws of God according to what the ego wants, just as you can interpret the laws of God according to what you want. 
 ²That is why the question, “What do you want?” must be answered. 
-³You are answering it [the question] every minute and every second, and each moment of decision is a judgement that is anything but [never] ineffectual. 
-⁴Its [your-decision’s] effects will follow automatically until the decision is changed. 
+³You are answering the question every minute and every second, and each moment of decision is a judgement that is never ineffectual. 
+⁴Judgement’s effects will follow automatically until the decision is changed. 
 ⁵Remember, though, that the alternatives themselves are unalterable. 
 ⁶The Holy Spirit, like the ego, is a decision. 
-⁷Together they [the Holy Spirit and the ego] constitute all the alternatives the mind can accept and obey. 
+⁷Together the Holy Spirit and the ego constitute all the alternatives the mind can accept and obey. 
 ⁸The Holy Spirit and the ego are the only choices open to you. 
-⁹God created one, and so you cannot eradicate it [the choice God created]. 
-¹⁰You made the other [choice], and so you can [eradicate the choice you made]. 
+⁹God created one choice, and so you cannot eradicate the choice God created. 
+¹⁰You made the other choice, and so you can eradicate the choice you made. 
 ¹¹Only what God creates is irreversible and unchangeable. 
 ¹²What you made can always be changed because, when you do not think like God, you are not really thinking at all. 
-¹³Delusional ideas are not real thoughts, although you can believe in them [delusional thoughts]. 
+¹³Delusional ideas are not real thoughts, although you can believe in delusional thoughts. 
 ¹⁴But you are wrong. 
 ¹⁵The function of thought comes from God and is in God. 
-¹⁶As part of His [God’s] Thought, you *cannot* think apart from Him [God].
+¹⁶As part of God’s Thought, you *cannot* think apart from God.
 :::
 
 ::: details Simplified
-
+You can choose the Holy Spirit, which was made by God. 
+Or you can choose the ego, which you made. 
+If you choose the ego, you are choosing to believe in delusional thoughts.
 :::
 
 
+7. Irrational thought is disordered thought. 
+²God Himself orders your thought because your thought was created by Him. 
+³Guilt feelings are always a sign that you do not know this. 
+⁴They also show that you believe you can think apart from God, and want to. 
+⁵Every disordered thought is attended by guilt at its inception, and maintained by guilt in its continuance. 
+⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their dictates. 
+⁷This makes them feel responsible for their errors without recognising that, by accepting this responsibility, they are reäcting irresponsibly. 
+⁸If the sole responsibility of the miracle worker is to accept the Atonement for himself, and I assure you that it is, then the responsibility for *what* is atoned for cannot be yours. 
+⁹The dilemma cannot be resolved except by accepting the solution of undoing. 
+¹⁰You *would* be responsible for the effects of all your wrong thinking if it could not be undone. 
+¹¹The purpose of the Atonement is to save the past in purified form only. 
+¹²If you accept the remedy for disordered thought, a remedy whose efficacy is beyond doubt, how can its symptoms remain?
 
-</p><p>T-5.V.7. Irrational thought is disordered thought. 2 God Himself orders your thought because your thought was created by Him. 3 Guilt feelings are always a sign that you do not know this. 4 They also show that you believe you can think apart from God, and want to. 5 Every disordered thought is attended by guilt at its inception, and maintained by guilt in its continuance. 6 Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their dictates. 7 This makes them feel responsible for their errors without recognizing that, by accepting this responsibility, they are reacting irresponsibly. 8 If the sole responsibility of the miracle worker is to accept the Atonement for himself, and I assure you that it is, then the responsibility for <i> what </i> is atoned for cannot be yours. 9 The dilemma cannot be resolved except by accepting the solution of undoing. 10 You <i> would </i> be responsible for the effects of all your wrong thinking if it could not be undone. 11 The purpose of the Atonement is to save the past in purified form only. 12 If you accept the remedy for disordered thought, a remedy whose efficacy is beyond doubt, how can its symptoms remain?</p><p>T-5.V.8. The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 2 We have said this before, but did not emphasize the destructive results of the decision. 3 Any decision of the mind will affect both behavior and experience. 4 What you want you expect. 5 This is not delusional. 6 Your mind <i> does </i> make your future, and it will turn it back to full creation at any minute if it accepts the Atonement first. 7 It will also return to full creation the instant it has done so. 8 Having given up its disordered thought, the proper ordering of thought becomes quite apparent.
+::: details Expanded
+Irrational thought is disordered thought. 
+²God Himself [God’s-Self] orders your thought because your thought was created by Him [God]. 
+³Guilt feelings are always a sign that you do not know this [God orders your thought]. 
+⁴They [guilt feelings] also show that you believe you can think apart from God, and want to [think apart from God]. 
+⁵Every disordered thought is attended by guilt at its [the-disordered-thought’s] inception, and maintained by guilt in its [the-disordered-thought’s] continuance. 
+⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their [own-thoughts’] dictates. 
+⁷This [obeying-thought’s-dictates] makes them [believers-in-ordering-their-own-thoughts] feel responsible for their [believers-in-ordering-their-own-thoughts’] errors without recognising that, by accepting this responsibility [responsibility for errors], they [believers-in-ordering-their-own-thoughts] are reäcting irresponsibly. 
+⁸If the sole responsibility of the miracle worker is to accept the Atonement for himself [miracle-worker’s-self], and I assure you that it [accepting the Atonement] is [miracle-worker’s-sole-responsibility], then the responsibility for *what* is atoned for cannot be yours [your responsibility]. 
+⁹The dilemma [of whether or not you are responsible for thoughts effects] cannot be resolved except by accepting the solution of undoing. 
+¹⁰You *would* be responsible for the effects of all your wrong thinking if it [your wrong thinking] could not be undone. 
+¹¹The purpose of the Atonement is to save the past in purified form only. 
+¹²If you accept the remedy for disordered thought, a remedy whose efficacy is beyond doubt, how can its [disordered-thought’s] symptoms remain?
+:::
+
+::: details Substituted
+Irrational thought is disordered thought. 
+²God’s-Self orders your thought because your thought was created by God. 
+³Guilt feelings are always a sign that you do not know God orders your thought. 
+⁴Guilt feelings also show that you believe you can think apart from God, and want to think apart from God. 
+⁵Every disordered thought is attended by guilt at the-disordered-thought’s inception, and maintained by guilt in the-disordered-thought’s continuance. 
+⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey own-thoughts’ dictates. 
+⁷Obeying-thought’s-dictates makes believers-in-ordering-their-own-thoughts feel responsible for their believers-in-ordering-their-own-thoughts’ errors without recognising that, by accepting this responsibility for errors, they believers-in-ordering-their-own-thoughts are reäcting irresponsibly. 
+⁸If the sole responsibility of the miracle worker is to accept the Atonement for miracle-worker’s-self, and I assure you that accepting the Atonement is miracle-worker’s-sole-responsibility, then the responsibility for *what* is atoned for cannot be your responsibility. 
+⁹The dilemma, of whether or not you are responsible for thoughts effects, cannot be resolved except by accepting the solution of undoing. 
+¹⁰You *would* be responsible for the effects of all your wrong thinking if your wrong thinking could not be undone. 
+¹¹The purpose of the Atonement is to save the past in purified form only. 
+¹²If you accept the remedy for disordered thought, a remedy whose efficacy is beyond doubt, how can disordered-thought’s symptoms remain?
+:::
+
+::: details Simplified
+You are not responsible for the effects of your disorded thinking. 
+God offers the Atonement, which undoes the effects of your disorded thinking. 
+:::
+
+
+8. The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
+²We have said this before, but did not emphasise the destructive results of the decision. 
+³Any decision of the mind will affect both behaviour and experience. 
+⁴What you want you expect. 
+⁵This is not delusional. 
+⁶Your mind *does* make your future, and it will turn it back to full creation at any minute if it accepts the Atonement first. 
+⁷It will also return to full creation the instant it has done so. 
+⁸Having given up its disordered thought, the proper ordering of thought becomes quite apparent.
+
+::: details Expanded
+The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
+²We have said this [the continuing decision to remain separated is the only possible reason for continuing guilt feelings] before, but did not emphasise the destructive results of the decision [to remain separated]. 
+³Any decision of the mind will affect both behaviour and experience. 
+⁴What you want you expect. 
+⁵This [expecting what you want] is not delusional. 
+⁶Your mind *does* make your future, and it [your mind] will turn it [your future] back to full creation at any minute if it [your mind] accepts the Atonement first. 
+⁷It [your mind] will also return to full creation the instant it [your mind] has done so [accepted the Atonement]. 
+⁸Having given up its [the-mind’s] disordered thought, the proper ordering of thought becomes quite apparent.
+:::
+
+::: details Substituted
+The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
+²We have said the continuing decision to remain separated is the only possible reason for continuing guilt feelings before, but did not emphasise the destructive results of the decision to remain separated. 
+³Any decision of the mind will affect both behaviour and experience. 
+⁴What you want you expect. 
+⁵Expecting what you want is not delusional. 
+⁶Your mind *does* make your future, and your mind will turn your future back to full creation at any minute if your mind accepts the Atonement first. 
+⁷Your mind will also return to full creation the instant your mind has accepted the Atonement. 
+⁸Having given up the-mind’s disordered thought, the proper ordering of thought becomes quite apparent.
+:::
+
+::: details Simplified
+When you accept the Atonement, your thinking will return to full creation.
+:::
