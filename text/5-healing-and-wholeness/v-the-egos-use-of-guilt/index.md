@@ -39,7 +39,7 @@ Your mind can elect to side with the Holy Spirit and Heaven.
 :::
 
 ::: details Note
-(5) or is it: remember that the Holy Spirit and the ego are in you ? (—Ed.)
+(5) Not sure if ‘both’ refers to Heaven and earth, or the Holy Spirit and the ego. (—Ed.)
 :::
 
 

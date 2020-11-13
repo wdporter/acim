@@ -1,0 +1,46 @@
+body { 
+	margin: 2em auto;
+	max-width: 40em;
+	line-height: 1.8;
+	background-color: #f2f2f2;
+	font-size: 18px;
+	color: #444;
+	padding: 0 .625em;
+	text-shadow: 0 1px 0 #ffffff;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif
+}
+
+h1,h2,h3 { 
+	line-height: 1.2
+}
+
+a:visited {
+	color: rgb(0, 0, 238)
+}
+
+h1 a {
+	text-decoration: none
+}
+
+p { 
+	font-family: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+
+@media (prefers-color-scheme: dark) { 
+	body { 
+		color: white;
+		background: #444
+	}
+	a:link { 
+			color:#5bf
+	}
+	a:visited { 
+		color: #ccf
+	}
+}
+
+@media print{
+	body{
+		max-width: none
+	}
+}

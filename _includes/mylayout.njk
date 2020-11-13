@@ -10,11 +10,10 @@ showCommentary: true
 	<meta charset=utf-8>
 	<meta name=viewport content="width=device-width, initial-scale=1.0">
 	<title>{{ reference }} {{ title }} — {{ sitetitle }}</title>
-{% set css %}
-	{% include "css/new.css" %}
-	{% include "css/theme.css" %}
-{% endset %}
-<style>{{ css | cssmin | safe }}</style>
+	{% set css %}
+  {% include "css/minimal.css" %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
 <body>
 	<header>
 		<h1><a href=/>{{ sitetitle | upper }}</a></h1>
@@ -36,7 +35,7 @@ showCommentary: true
 
 <footer>
 
-<p>All quotes are from A Course in Miracles, copyright ©1992, 1999, 2007 by the Foundation for Inner Peace, 448 Ignacio Blvd., #306, Novato, CA 94949, www.acim.org and info@acim.org, used *without* permission.
+<p>All quotes are from A Course in Miracles, copyright ©1992, 1999, 2007 by the Foundation for Inner Peace, 448 Ignacio Blvd., #306, Novato, CA 94949, www.acim.org and info@acim.org, used <em>without</em> permission.
 
 <p>Annotations by <a href=mailto:acim@fea.st>W. David Porter</a>. No copyright.
 
