@@ -12,12 +12,12 @@ next: T-5.VII
 ---
 
 1. God in His knowledge is not waiting, but His Kingdom is bereft while *you* wait. 
-2 All the Sons of God are waiting for your return, just as you are waiting for theirs. 
-3 Delay does not matter in eternity, but it is tragic in time. 
-4 You have elected to be in time rather than eternity, and therefore believe you *are* in time. 
-5 Yet your election is both free and alterable. 
-6 You do not belong in time. 
-7 Your place is only in eternity, where God Himself placed you forever.
+²All the Sons of God are waiting for your return, just as you are waiting for theirs. 
+³Delay does not matter in eternity, but it is tragic in time. 
+⁴You have elected to be in time rather than eternity, and therefore believe you *are* in time. 
+⁵Yet your election is both free and alterable. 
+⁶You do not belong in time. 
+⁷Your place is only in eternity, where God Himself placed you forever.
 
 
 
