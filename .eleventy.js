@@ -3,7 +3,7 @@ const CleanCSS = require("clean-css");
 
 module.exports = function (cfg) {
 
-	let showCommentary = true
+	let showCommentary = false
 
 	cfg.addPassthroughCopy("assets");
 	cfg.addPlugin(eleventyNavigationPlugin);
