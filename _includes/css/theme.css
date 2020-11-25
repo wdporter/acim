@@ -1,6 +1,6 @@
 :root {
-	--nc-font-sans: Verdana, Geneva, sans-serif;
-	--nc-font-serif:  Georgia, Times, "Times New Roman", serif; 
+	--nc-font-sans: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	--nc-font-serif: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
 	--nc-tx-1: #111111;
 	--nc-bg-1: #fffff8;
 }
@@ -44,6 +44,10 @@ h3 {
 	margin-bottom: 1rem;
 }
 
+p {
+	font-family: var(--nc-font-serif) ;
+}
+
 
 footer {
 	background: var(--nc-bg-2);
@@ -80,6 +84,9 @@ text-decoration: none;
 color: var(--nc-lk-2);
 }
 
+p {
+	font-family: var(--nc-font-serif) ;
+}
 
 
 header h1 a, header h1 a:active, header h1 a:visited {
@@ -154,23 +161,23 @@ section {
 font: roboto; font size: 16px; content width 500px */
 
 body {
-	line-height: calc(1rem * (27 / 16));
-	max-width: 60ch;
+	line-height: calc(1rem * (26 / 16));
+	max-width: 71ch;
 }
 
 h1 {
 	font-size: calc(1rem * (42 / 16));
-	line-height: calc(1rem * (65 / 16));
+	line-height: calc(1rem * (62 / 16));
 }
 
 h2 {
 	font-size: calc(1rem * (33 / 16));
-	line-height: calc(1rem * (52 / 16));
+	line-height: calc(1rem * (50 / 16));
 }
 
 h3 {
 	font-size: calc(1rem * (26 / 16));
-	line-height: calc(1rem * (41 / 16));
+	line-height: calc(1rem * (40 / 16));
 }
 
 
@@ -180,7 +187,7 @@ main > nav {
 }
 
 details p {
-	padding-left: calc(1rem * (27 / 16));
+	padding-left: calc(1rem * (26 / 16));
 }
 
 details + p, details + div {
