@@ -84,11 +84,6 @@ text-decoration: none;
 color: var(--nc-lk-2);
 }
 
-p {
-	font-family: var(--nc-font-serif) ;
-}
-
-
 header h1 a, header h1 a:active, header h1 a:visited {
 	color: var(--nc-tx-1)
 }
