@@ -328,7 +328,7 @@ Only when all minds are healed can the Sonship create fully like God.
 ¹⁰I place the peace of God in your heart and in your hands, to hold and share. 
 ¹¹The heart is pure to hold it, and the hands are strong to give it. 
 ¹²We cannot lose. 
-¹³My judgment is as strong as the wisdom of God, in Whose Heart and Hands we have our being. 
+¹³My judgement is as strong as the wisdom of God, in Whose Heart and Hands we have our being. 
 ¹⁴His quiet children are His blessed Sons. 
 ¹⁵The Thoughts of God are with you.
 

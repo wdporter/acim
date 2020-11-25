@@ -177,7 +177,7 @@ Losing control makes it seem dangerous.
 ⁷It is curious that an ability so debilitating would be so deeply cherished. 
 ⁸Yet if you wish to be the author of reality, you will insist on holding on to judgement. 
 ⁹You will also regard judgement with fear, believing that it will someday be used against you. 
-¹⁰This belief can exist only to the extent that you believe in the efficacy of judgment as a weapon of defence for your own authority.
+¹⁰This belief can exist only to the extent that you believe in the efficacy of judgement as a weapon of defence for your own authority.
 
 ::: details Expanded
 When you feel tired, it [feeling tired] is because you have judged yourself as capable of being tired. 
@@ -189,7 +189,7 @@ When you feel tired, it [feeling tired] is because you have judged yourself as c
 ⁷It is curious that an ability so debilitating would be so deeply cherished. 
 ⁸Yet if you wish to be the author of reality, you will insist on holding on to judgement. 
 ⁹You will also regard judgement with fear, believing that it [judgement] will someday be used against you. 
-¹⁰This belief [judgement will be used against you] can exist only to the extent that you believe in the efficacy of judgment as a weapon of defence for your own authority.
+¹⁰This belief [judgement will be used against you] can exist only to the extent that you believe in the efficacy of judgement as a weapon of defence for your own authority.
 :::
 
 ::: details Substituted
@@ -202,7 +202,7 @@ When you feel tired, feeling tired is because you have judged yourself as capabl
 ⁷It is curious that an ability so debilitating would be so deeply cherished. 
 ⁸Yet if you wish to be the author of reality, you will insist on holding on to judgement. 
 ⁹You will also regard judgement with fear, believing that judgement will someday be used against you. 
-¹⁰The belief that judgement will be used against you can exist only to the extent that you believe in the efficacy of judgment as a weapon of defence for your own authority.
+¹⁰The belief that judgement will be used against you can exist only to the extent that you believe in the efficacy of judgement as a weapon of defence for your own authority.
 :::
 
 ::: details Simplified

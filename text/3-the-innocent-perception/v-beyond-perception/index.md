@@ -24,7 +24,7 @@ I have said that the abilities you possess are only shadows of your real strengt
 :::
 
 ::: details Substituted
-I have said that the abilities you possess are only shadows of your real strength; and that perception — perception is inherently judgmental — was introduced only after the separation. 
+I have said that the abilities you possess are only shadows of your real strength; and that perception — perception is inherently judgemental — was introduced only after the separation. 
 ²No one has been sure of anything since. 
 ³I have also made it clear that the resurrection was the means for the return to knowledge; resurrection was accomplished by the union of my will with the Father’s will. 
 ⁴We can now establish a distinction that will clarify some of our subsequent statements.
