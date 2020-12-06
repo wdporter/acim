@@ -51,7 +51,7 @@ The ego exists as a trick.
 
 <div id=2 class=zero-height></div>
 
-2. I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you *can* change your mind. 
+2. I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you *can* change your mind. 
 ²When your mood tells you that you have chosen wrongly, and this is so whenever you are not joyous, then *know this need not be* 
 ³In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 ⁴Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
