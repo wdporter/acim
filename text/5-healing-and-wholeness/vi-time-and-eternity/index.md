@@ -176,16 +176,16 @@ The Holy Spirit can reïnterpret the ego’s misleading interpretations.
 
 
 6. “As ye sow, so shall ye reap” He interprets to mean what you consider worth cultivating you will cultivate in yourself. 
-²Your judgment of what is worthy makes it worthy for you.
+²Your judgement of what is worthy makes it worthy for you.
 
 ::: details Expanded
 “As ye sow, so shall ye reap” He [the Holy Spirit] interprets to mean what you consider worth cultivating you will cultivate in yourself. 
-²Your judgment of what is worthy makes it [what you consider worth cultivating] worthy for you.
+²Your judgement of what is worthy makes it [what you consider worth cultivating] worthy for you.
 :::
 
 ::: details Substituted
 “As ye sow, so shall ye reap” the Holy Spirit interprets to mean what you consider worth cultivating you will cultivate in yourself. 
-²Your judgment of what is worthy makes what you consider worth cultivating worthy for you.
+²Your judgement of what is worthy makes what you consider worth cultivating worthy for you.
 :::
 
 ::: details Simplified
