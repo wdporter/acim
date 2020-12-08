@@ -6,3 +6,6 @@ charset = utf-8
 indent_style = tab
 indent_size = 2
 insert_final_newline = true
+
+# you need to install editorconfig package 
+#>npm install -g editorconfig
