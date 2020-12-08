@@ -1,7 +1,7 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const CleanCSS = require("clean-css");
 
-module.exports = function (cfg) {
+module.exports = cfg => {
 
 	let showCommentary = false
 
@@ -39,6 +39,12 @@ module.exports = function (cfg) {
 	);
 
 	cfg.setLibrary("md", markdownLib);
+
+	return {
+		dir: {
+			input: "src"
+		}
+	}
 
 };
 
