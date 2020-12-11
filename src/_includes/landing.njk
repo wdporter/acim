@@ -4,9 +4,9 @@ layout: base.njk
 
 {% include "breadcrumb.njk" %}
 
-<h2>{{ reference }} {{ title | upper }}</h2>
+<h2>{{ reference }} {{ title }}</h2>
 
-<h3> Contents </h3>
+<!-- <h3> Contents </h3> -->
 
 {% set navPages = collections.all | eleventyNavigation(reference) %}
 <ul>
