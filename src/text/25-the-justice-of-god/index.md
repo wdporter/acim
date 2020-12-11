@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: THE JUSTICE OF GOD
+title: The Justice of God
 reference: T-25 
 eleventyNavigation:
   key: T-25
-  title: T-25 THE JUSTICE OF GOD
+  title: T-25 The Justice of God
   parent: T
   order: 25
 ---

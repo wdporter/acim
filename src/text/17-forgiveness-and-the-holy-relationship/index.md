@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: FORGIVENESS AND THE HOLY RELATIONSHIP
+title: Forgiveness and the Holy Relationship
 reference: T-17 
 eleventyNavigation:
   key: T-17
-  title: T-17 FORGIVENESS AND THE HOLY RELATIONSHIP
+  title: T-17 Forgiveness and the Holy Relationship
   parent: T
   order: 17
 ---

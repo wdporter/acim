@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: THE HOLY SPIRIT’S CURRICULUM
+title: The Holy Spirit’s Curriculum
 reference: T-12 
 eleventyNavigation:
   key: T-12
-  title: T-12 THE HOLY SPIRIT’S CURRICULUM
+  title: T-12 The Holy Spirit’s Curriculum
   parent: T
   order: 12
 ---

@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: THE ACCEPTANCE OF THE ATONEMENT
+title: The Acceptance of the Atonement
 reference: T-9 
 eleventyNavigation:
   key: T-9
-  title: T-9 THE ACCEPTANCE OF THE ATONEMENT
+  title: T-9 The Acceptance of the Atonement
   parent: T
   order: 9
 ---

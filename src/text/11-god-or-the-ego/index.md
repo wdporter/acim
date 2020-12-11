@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: GOD OR THE EGO
+title: God or the Ego
 reference: T-11 
 eleventyNavigation:
   key: T-11
-  title: T-11 GOD OR THE EGO
+  title: T-11 God or the Ego
   parent: T
   order: 11
 ---

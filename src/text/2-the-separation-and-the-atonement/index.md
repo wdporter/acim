@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: THE SEPARATION AND THE ATONEMENT
+title: The Separation and the Atonement
 reference: T-2
 eleventyNavigation:
   key: T-2
-  title: T-2 THE SEPARATION AND THE ATONEMENT
+  title: T-2 The Separation and the Atonement
   parent: T
   order: 2
 ---

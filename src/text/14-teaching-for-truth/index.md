@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: TEACHING FOR TRUTH
+title: Teaching for Truth
 reference: T-14 
 eleventyNavigation:
   key: T-14
-  title: T-14 TEACHING FOR TRUTH
+  title: T-14 Teaching for Truth
   parent: T
   order: 14
 ---

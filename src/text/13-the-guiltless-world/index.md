@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: THE GUILTLESS WORLD
+title: The Guiltless World
 reference: T-13 
 eleventyNavigation:
   key: T-13
-  title: T-13 THE GUILTLESS WORLD
+  title: T-13 The Guiltless World
   parent: T
   order: 13
 ---
