@@ -82,14 +82,14 @@ Miracles are for Atonement.
 “Heaven and earth shall pass away” means that they [Heaven and earth] will not continue to exist as separate states. 
 ²My word, which is the resurrection and the life, shall not pass away because life is eternal. 
 ³You are the work of God, and His [God’s] work is wholly lovable and wholly loving. 
-⁴This [wholly lovable and wholly loving] is how a man must think of himself [a man’s self] in his [a man’s] heart, because this [wholly lovable and wholly loving] is what he [a man] is.
+⁴This [wholly lovable and wholly loving] is how a man must think of himself [the man’s self] in his [the man’s] heart, because this [wholly lovable and wholly loving] is what he [a man] is.
 :::
 
 ::: details Substituted
 “Heaven and earth shall pass away” means that Heaven and earth will not continue to exist as separate states. 
 ²My word, which is the resurrection and the life, shall not pass away because life is eternal. 
 ³You are the work of God, and God’s work is wholly lovable and wholly loving. 
-⁴Wholly lovable and wholly loving is how a man must think of a man’s self in a man’s heart, because wholly lovable and wholly loving is what a man is.
+⁴Wholly lovable and wholly loving is how a man must think of the man’s self in the man’s heart, because wholly lovable and wholly loving is what a man is.
 :::
 
 ::: details Simplified
@@ -195,7 +195,7 @@ Error cannot really threaten truth, which [truth] can always withstand it [error
 ⁷Atonement undoes all errors in this respect [as being in a state of grace], and thus uproots the source of fear. 
 ⁸Whenever you experience God’s reässurances as threat, it [experiencing God’s reässurances as threat] is always because you are defending misplaced or misdirected loyalty. 
 ⁹When you project this [defence of misplaced or misdirected loyalty] to others you imprison them [the other], but only to the extent to which you reïnforce errors they [the other] have already made. 
-¹⁰This [imprisoning the other] makes them [the other] vulnerable to the distortions of others, since their [the other’s] own perception of themselves [other’s self] is distorted. 
+¹⁰This [imprisoning the other] makes them [the other] vulnerable to the distortions of others, since their [the other’s] own perception of themselves [the other’s own self] is distorted. 
 ¹¹The miracle worker can only bless them [the other], and this [blessing the other] undoes their [the other’s] distortions and frees them [the other] from prison.
 :::
 
@@ -211,7 +211,7 @@ Error cannot really threaten truth; truth can always withstand error.
 ⁷Atonement undoes all errors as being in a state of grace, and thus uproots the source of fear. 
 ⁸Whenever you experience God’s reässurances as threat, experiencing God’s reässurances as threat is always because you are defending misplaced or misdirected loyalty. 
 ⁹When you project this defence of misplaced or misdirected loyalty to others you imprison the other, but only to the extent to which you reïnforce errors the other has already made. 
-¹⁰Imprisoning the other makes the other vulnerable to the distortions of others, since the other’s own perception of the other’s self is distorted. 
+¹⁰Imprisoning the other makes the other vulnerable to the distortions of others, since the other’s own perception of the other’s own self is distorted. 
 ¹¹The miracle worker can only bless the other, and blessing the other undoes the other’s distortions and frees the other from prison.
 :::
 
@@ -278,7 +278,7 @@ Perceive others as holy and you will behave appropriately.
 
 ::: details Expanded
 Miracles arise from a mind that is ready for them [miracles]. 
-²By being united this mind [the miracle-ready mind] goes out to everyone, even without the awareness of the miracle worker himself [miracle-worker’s self]. 
+²By being united this mind [the miracle-ready mind] goes out to everyone, even without the awareness of the miracle worker himself. 
 ³The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with their [all-creations’] Creator. 
 ⁴As an expression of what you truly are, the miracle places the mind in a state of grace. 
 ⁵The mind then naturally welcomes the Host within and the stranger without. 
@@ -287,7 +287,7 @@ Miracles arise from a mind that is ready for them [miracles].
 
 ::: details Substituted
 Miracles arise from a mind that is ready for miracles. 
-²By being united the miracle-ready mind goes out to everyone, even without the awareness of the miracle-worker’s self. 
+²By being united, the miracle-ready mind goes out to everyone, even without the awareness of the miracle worker himself. 
 ³The impersonal nature of miracles is because the Atonement itself is one, uniting all creations with all-creations’ Creator. 
 ⁴As an expression of what you truly are, the miracle places the mind in a state of grace. 
 ⁵The mind then naturally welcomes the Host within and the stranger without. 
