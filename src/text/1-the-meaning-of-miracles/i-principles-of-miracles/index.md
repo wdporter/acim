@@ -346,7 +346,7 @@ Time will end when learning ends.
 
 {% if showCommentary %}
 ::: details Commentary
-(2–4) …the course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us iteself as a classroom in which we learn the lessons that will lead us beyond the world entirely … These lines echo the spirit of Origen, for whom the world was also a classroom. (Wapnick, L.D.N.C. p. 575–6.)
+(2–4) …the course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely … These lines echo the spirit of Origen, for whom the world was also a classroom. (Wapnick, L.D.N.C. p. 575–6.)
 
 The point here is that the ego made time as a way of trapping us, reïnforcing our belief that separation and guilt are real, and so our fear of punishment is justified. The Holy Spirit, though, uses time in His own way within the illusion, so that He teaches us something else. (Wapnick, A.V.I., p. 123–124.)
 
