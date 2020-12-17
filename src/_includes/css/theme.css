@@ -119,10 +119,10 @@ main > nav li + li::before {
 
 
 blockquote {
-	padding: 1em 4em;
 	background: initial;
 	border-left: initial;
-	font-style: italic;
+	padding: initial;
+	margin-left: 2em;
 }
 
 
