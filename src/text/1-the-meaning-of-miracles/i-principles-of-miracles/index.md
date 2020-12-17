@@ -57,7 +57,7 @@ Miracles as such do not matter.
 
 :::details Substituted
 Miracles as such do not matter. 
-²The only thing that matters is miracles’ Source; miracles’ Source is far beyond evaluation.
+²The only thing that matters is miracles’ Source; the Source of miracles is far beyond evaluation.
 :::
 
 ::: details Simplified
@@ -73,13 +73,13 @@ The Source of miracles cannot be evaluated.
 ::: details Expanded
 Miracles occur naturally as expressions of love. 
 ²The real miracle is the love that inspires them [miracles]. 
-³In this sense [love inspiring miracles] everything that comes from love is a miracle.
+³In this sense everything that comes from love is a miracle.
 :::
 
 ::: details Substituted
 Miracles occur naturally as expressions of love. 
 ²The real miracle is the love that inspires miracles. 
-³Love inspires miracles, so everything that comes from love is a miracle.
+³In this sense everything that comes from love is a miracle.
 :::
 
 ::: details Simplified
@@ -138,6 +138,20 @@ Choices may be misguided.
 6. Miracles are natural. 
 ²When they do not occur something has gone wrong.
 
+::: details Expanded
+Miracles are natural. 
+²When they [miracles] do not occur something has gone wrong.
+:::
+
+::: details Substituted
+Miracles are natural. 
+²When miracles do not occur something has gone wrong.
+:::
+
+::: details Simplified
+Miracles happen naturally.
+:::
+
 {% if showCommentary %}
 ::: details Commentary 
 … the world of separation [is] made real, along with the seemingly infinite range of problems to be solved. Hence, the first principle of miracles — there is no order of difficulty among them — seems impossible and beyond our attainment. It is the purpose of *A Course in Miracles* to teach us that it is not only possible, but perfectly natural (Wapnick, A.V.I., p.51.)
@@ -174,13 +188,13 @@ Miracles go to those who have less.
 
 ::: details Expanded
 Miracles are a kind of exchange. 
-²Like all expressions of love, which [expressions of love] are always miraculous in the true sense, the exchange reverses the physical laws. 
+²Like all expressions of love, which [expressions of love] are always miraculous in the true sense, the exchange [of miracles] reverses the physical laws. 
 ³They [miracles] bring more love both to the giver and the receiver.
 :::
 
 ::: details Substituted
 Miracles are a kind of exchange. 
-²Like all expressions of love — expressions of love are always miraculous in the true sense — the exchange reverses the physical laws. 
+²Like all expressions of love — expressions of love are always miraculous in the true sense — the exchange of miracles reverses the physical laws. 
 ³Miracles bring more love both to the giver and the receiver.
 :::
 
