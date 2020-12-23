@@ -133,7 +133,7 @@ div.zero-height {
 	height: 0;
 }
 
-p.introduction {
+p.italic {
 	font-style: italic;
 }
 
@@ -141,10 +141,9 @@ p.bold {
 	font-weight: bold;
 }
 
-p.blockquote {
+p.indent {
 	margin-left: 2.5em;
 	margin-right: 2.5em;
-	font-style: italic;
 }
 
 p.double-indent {
