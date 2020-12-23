@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Lessons of Love
+title: THE LESSONS OF LOVE
 reference: T-6 
 eleventyNavigation:
   key: T-6
-  title: T-6 The Lessons of Love
+  title: T-6 THE LESSONS OF LOVE
   parent: T
   order: 6
 ---

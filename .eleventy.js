@@ -3,6 +3,8 @@ const CleanCSS = require("clean-css");
 
 module.exports = cfg => {
 
+	let showCommentary = false
+
 	cfg.addPassthroughCopy("assets");
 	cfg.addPlugin(eleventyNavigationPlugin);
 	cfg.addFilter("cssmin", function (code) {
@@ -11,6 +13,9 @@ module.exports = cfg => {
 
 	let markdownIt = require("markdown-it")({html: true});
 	let markdownItContainer = require("markdown-it-container");
+  /*let options = {
+    html: true
+  };*/
 	let markdownLib = markdownIt.use(markdownItContainer, "details",
 		{
 			validate: function (params) {

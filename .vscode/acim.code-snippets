@@ -15,16 +15,7 @@
 // 	"description": "Log output to console"
 // }
 {
-	"Details": {
-		"scope": "html",
-		"prefix": "det",
-		"body": [
-			"<details><summary>Expanded</summary>\n\n</details>\n",
-			"<details><summary>Substituted</summary>\n\n</details>\n",
-			"<details><summary>Simplified</summary>\n\n</details>"
-		],
-		"description": "Add details elements for expanded, substituted, simplified"
-	},
+	
 	"Front Matter": {
 		"scope": "html",
 		"prefix": "fm",

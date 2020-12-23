@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Holy Instant
+title: THE HOLY INSTANT
 reference: T-15 
 eleventyNavigation:
   key: T-15
-  title: T-15 The Holy Instant0
+  title: T-15 THE HOLY INSTANT
   parent: T
   order: 15
 ---

@@ -20,7 +20,6 @@
 	}
 }
 
-
 body {
 	border-radius: initial;
 	font-size: 1rem;
@@ -119,23 +118,6 @@ main > nav li + li::before {
 
 
 
-blockquote {
-	background: initial;
-	border-left: initial;
-	padding: initial;
-	margin-left: 2em;
-}
-
-
-details+details  {
-	margin-top: -1rem;
-}
-
-
-summary {
-	font-weight: initial;
-}
-
 article {
 	margin-bottom: 2rem;
 }
@@ -146,10 +128,24 @@ section {
 }
 
 
-details + p, details + div {
-	margin-top: 2em;
-}
 
 div.zero-height {
 	height: 0;
+}
+
+p.introduction {
+	font-style: italic;
+}
+
+p.bold {
+	font-weight: bold;
+}
+
+p.blockquote {
+	margin-left: 2.5em;
+	font-style: italic;
+}
+
+p.double-indent {
+	margin-left: 5em;
 }

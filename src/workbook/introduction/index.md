@@ -12,9 +12,9 @@ next: W-pI.1
 ---
 
 1. A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. 
-²Yet it is doing the exercises that will make the goal of the course possible. 
-³An untrained mind can accomplish nothing. 
-⁴It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
+Yet it is doing the exercises that will make the goal of the course possible. 
+An untrained mind can accomplish nothing. 
+It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
 
 ::: details Simplified
 
@@ -47,31 +47,31 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 ::: {% endif %}
 
 2. The exercises are very simple. 
-²They do not require a great deal of time, and it does not matter where you do them. 
-³They need no preparation. 
-⁴The training period is one year. 
-⁵The exercises are numbered from 1 to 365. 
-⁶Do not undertake to do more than one set of exercises a day.
+They do not require a great deal of time, and it does not matter where you do them. 
+They need no preparation. 
+The training period is one year. 
+The exercises are numbered from 1 to 365. 
+Do not undertake to do more than one set of exercises a day.
 
 ::: details Expanded
 
 The exercises are very simple. 
-²They [the exercises] do not require a great deal of time, and it does not matter where you do them [the exercises]. 
-³They [the exercises] need no preparation. 
-⁴The training period is one year. 
-⁵The exercises are numbered from 1 to 365. 
-⁶Do not undertake to do more than one set of exercises a day.
+They [the exercises] do not require a great deal of time, and it does not matter where you do them [the exercises]. 
+They [the exercises] need no preparation. 
+The training period is one year. 
+The exercises are numbered from 1 to 365. 
+Do not undertake to do more than one set of exercises a day.
 
 :::
 
 ::: details Substituted
 
 The exercises are very simple. 
-²The exercises do not require a great deal of time, and it does not matter where you do the exercises. 
-³The exercises need no preparation. 
-⁴The training period is one year. 
-⁵The exercises are numbered from 1 to 365. 
-⁶Do not undertake to do more than one set of exercises a day.
+The exercises do not require a great deal of time, and it does not matter where you do the exercises. 
+The exercises need no preparation. 
+The training period is one year. 
+The exercises are numbered from 1 to 365. 
+Do not undertake to do more than one set of exercises a day.
 
 :::
 
@@ -84,22 +84,22 @@ Only do one exercise a day.
 :::
 
 The workbook is divided into two main sections, the first dealing with the undoing of the way you see now, and the second with the acquisition of true perception. 
-²With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. 
-³This is followed by a description of the specific procedures by which the idea for the day is to be applied.
+With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. 
+This is followed by a description of the specific procedures by which the idea for the day is to be applied.
 
 ::: details Expanded
 
 The workbook is divided into two main sections, the first [section] dealing with the undoing of the way you see now, and the second [section] [dealing] with the acquisition of true perception. 
-²With the exception of the review periods, each day’s exercises are planned around one central idea, which [central idea] is stated first. 
-³This [the statement of the central idea] is followed by a description of the specific procedures by which [the procedures] the idea for the day is to be applied.
+With the exception of the review periods, each day’s exercises are planned around one central idea, which [central idea] is stated first. 
+This [the statement of the central idea] is followed by a description of the specific procedures by which [the procedures] the idea for the day is to be applied.
 
 :::
 
 ::: details Substituted
 
 The workbook is divided into two main sections, the first section dealing with the undoing of the way you see now, and the second section dealing with the acquisition of true perception. 
-²With the exception of the review periods, each day’s exercises are planned around one central idea; the central idea is stated first. 
-³The statement of the central idea is followed by a description of the specific procedures; by the procedures the idea for the day is to be applied.
+With the exception of the review periods, each day’s exercises are planned around one central idea; the central idea is stated first. 
+The statement of the central idea is followed by a description of the specific procedures; by the procedures the idea for the day is to be applied.
 
 :::
 
@@ -113,19 +113,19 @@ Each day also has specific procedures for applying the idea.
 :::
 
 4. The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
-²The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
+The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.
 
 ::: details Expanded
 
 The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
-²The exercises are planned to help you generalise the lessons, so that you will understand that each of them [the lessons] is equally applicable to everyone and everything you see.
+The exercises are planned to help you generalise the lessons, so that you will understand that each of them [the lessons] is equally applicable to everyone and everything you see.
 
 :::
 
 ::: details Substituted
 
 The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
-²The exercises are planned to help you generalise the lessons, so that you will understand that each of the lessons are equally applicable to everyone and everything you see.
+The exercises are planned to help you generalise the lessons, so that you will understand that each of the lessons are equally applicable to everyone and everything you see.
 
 :::
 
@@ -140,22 +140,22 @@ Your mind will be trained to see everything differently.
 ::: {% endif %}
 
 5. Transfer of training in true perception does not proceed as does transfer of the training of the world. 
-²If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
-³On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
+If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
+On the other hand, one exception held apart from true perception makes its accomplishments anywhere impossible.
 
 ::: details Expanded
 
 Transfer of training in true perception does not proceed as does transfer of the training of the world. 
-²If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
-³On the other hand, one exception held apart from true perception makes its [true perception’s] accomplishments anywhere impossible.
+If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
+On the other hand, one exception held apart from true perception makes its [true perception’s] accomplishments anywhere impossible.
 
 :::
 
 ::: details Substituted
 
 Transfer of training in true perception does not proceed as does transfer of the training of the world. 
-²If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
-³On the other hand, one exception held apart from true perception makes true perception’s accomplishments anywhere impossible.
+If true perception has been achieved in connection with any person, situation or event, total transfer to everyone and everything is certain. 
+On the other hand, one exception held apart from true perception makes true perception’s accomplishments anywhere impossible.
 
 :::
 
@@ -171,31 +171,31 @@ see commentary for [4:1–2](#w-in-4).
 ::: {% endif %}
 
 6. The only general rules to be observed throughout, then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
-²This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. 
-³Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. 
-⁴This will interfere with transfer of training. 
-⁵The very nature of true perception is that it has no limits. 
-⁶It is the opposite of the way you see now.
+This will help you to generalise the ideas involved to every situation in which you find yourself, and to everyone and everything in it. 
+Second, be sure that you do not decide for yourself that there are some people, situations or things to which the ideas are inapplicable. 
+This will interfere with transfer of training. 
+The very nature of true perception is that it has no limits. 
+It is the opposite of the way you see now.
 
 ::: details Expanded
 
 The only general rules to be observed throughout [the training], then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
-²This [practicing the exercises with specificity] will help you to generalise the ideas involved [in the training] to every situation in which [situation] you find yourself, and to everyone and everything in it [the situation]. 
-³Second, be sure that you do not decide for yourself that there are some people, situations or things to which [people, situation, things] the ideas are inapplicable. 
-⁴This [deciding some people, situations or things are inapplicable] will interfere with transfer of training. 
-⁵The very nature of true perception is that it [true perception] has no limits. 
-⁶It [true perception] is the opposite of the way you see now.
+This [practicing the exercises with specificity] will help you to generalise the ideas involved [in the training] to every situation in which [situation] you find yourself, and to everyone and everything in it [the situation]. 
+Second, be sure that you do not decide for yourself that there are some people, situations or things to which [people, situation, things] the ideas are inapplicable. 
+This [deciding some people, situations or things are inapplicable] will interfere with transfer of training. 
+The very nature of true perception is that it [true perception] has no limits. 
+It [true perception] is the opposite of the way you see now.
 
 :::
 
 ::: details Substituted
 
 The only general rules to be observed throughout [the training], then, are: First, that the exercises be practiced with great specificity, as will be indicated. 
-²Practicing the exercises with specificity will help you to generalise the ideas involved in the training to every situation; in any situation you find yourself, — and to everyone and everything in ithe situation. 
-³Second, be sure that you do not decide for yourself that there are some people, situations or things the ideas are inapplicable. 
-⁴Deciding some people,situations or things are inapplicable will interfere with transfer of training. 
-⁵The very nature of true perception is that true perception has no limits. 
-⁶True perception is the opposite of the way you see now.
+Practicing the exercises with specificity will help you to generalise the ideas involved in the training to every situation; in any situation you find yourself, — and to everyone and everything in ithe situation. 
+Second, be sure that you do not decide for yourself that there are some people, situations or things the ideas are inapplicable. 
+Deciding some people,situations or things are inapplicable will interfere with transfer of training. 
+The very nature of true perception is that true perception has no limits. 
+True perception is the opposite of the way you see now.
 :::
 
 ::: details Simplified
@@ -207,22 +207,22 @@ Making exceptions will intefere with the training.
 :::
 
 7. The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. 
-²This will require no effort on your part. 
-³The exercises themselves meet the conditions necessary for this kind of transfer.
+This will require no effort on your part. 
+The exercises themselves meet the conditions necessary for this kind of transfer.
 
 ::: details Expanded
 
 The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. 
-²This [extending the ideas to everything] will require no effort on your part. 
-³The exercises themselves meet the conditions necessary for this kind of transfer [extending the ideas].
+This [extending the ideas to everything] will require no effort on your part. 
+The exercises themselves meet the conditions necessary for this kind of transfer [extending the ideas].
 
 :::
 
 ::: details Substituted
 
 The overall aim of the exercises is to increase your ability to extend the ideas you will be practicing to include everything. 
-²Extending the ideas to everything will require no effort on your part. 
-³The exercises themselves meet the conditions necessary for the kind of transfer that extendings the ideas to everyone.
+Extending the ideas to everything will require no effort on your part. 
+The exercises themselves meet the conditions necessary for the kind of transfer that extendings the ideas to everyone.
 
 :::
 
@@ -233,31 +233,31 @@ The exercises will teach you to include everything and everyone.
 :::
 
 8. Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. 
-²This does not matter. 
-³You are merely asked to apply the ideas as you are directed to do. 
-⁴You are not asked to judge them at all. 
-⁵You are asked only to use them. 
-⁶It is their use that will give them meaning to you, and will show you that they are true.
+This does not matter. 
+You are merely asked to apply the ideas as you are directed to do. 
+You are not asked to judge them at all. 
+You are asked only to use them. 
+It is their use that will give them meaning to you, and will show you that they are true.
 
 ::: details Expanded
 
 Some of the ideas the workbook presents you will find hard to believe, and others [ideas] may seem to be quite startling. 
-²This [being incredulous or startled] does not matter. 
-³You are merely asked to apply the ideas as you are directed to do [apply the ideas]. 
-⁴You are not asked to judge them [the ideas] at all. 
-⁵You are asked only to use them [the ideas]. 
-⁶It is their [the ideas’] use that will give them [the ideas] meaning to you, and [the use of the ideas] will show you that they [the ideas] are true.
+This [being incredulous or startled] does not matter. 
+You are merely asked to apply the ideas as you are directed to do [apply the ideas]. 
+You are not asked to judge them [the ideas] at all. 
+You are asked only to use them [the ideas]. 
+It is their [the ideas’] use that will give them [the ideas] meaning to you, and [the use of the ideas] will show you that they [the ideas] are true.
 
 :::
 
 ::: details Substituted
 
 Some of the ideas the workbook presents you will find hard to believe, and other ideas may seem to be quite startling. 
-²Being incredulous or startled does not matter. 
-³You are merely asked to apply the ideas as you are directed to apply the ideas. 
-⁴You are not asked to judge the ideas at all. 
-⁵You are asked only to use the ideas. 
-⁶It is the ideas’ use that will give the ideas meaning to you, and the use of the ideas will show you that the ideas are true.
+Being incredulous or startled does not matter. 
+You are merely asked to apply the ideas as you are directed to apply the ideas. 
+You are not asked to judge the ideas at all. 
+You are asked only to use the ideas. 
+It is the ideas’ use that will give the ideas meaning to you, and the use of the ideas will show you that the ideas are true.
 
 :::
 
@@ -277,28 +277,28 @@ If you use the ideas, you will see the the ideas are true.
 ::: {% endif %}
 
 9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
-²Some of them you may actively resist. 
-³None of this will matter, or decrease their efficacy. 
-⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. 
-⁵Nothing more than that is required.
+Some of them you may actively resist. 
+None of this will matter, or decrease their efficacy. 
+But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. 
+Nothing more than that is required.
 
 ::: details Expanded
 
 Remember only this: you need not believe the ideas, you need not accept them [the ideas], and you need not even welcome them [the ideas]. 
-²Some of them [the ideas] you may actively resist. 
-³None of this [neither believing, accepting noR welcoming] will matter, or decrease their [the ideas’] efficacy. 
-⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them [the ideas]. 
-⁵Nothing more than that [using the ideas] is required.
+Some of them [the ideas] you may actively resist. 
+None of this [neither believing, accepting noR welcoming] will matter, or decrease their [the ideas’] efficacy. 
+But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them [the ideas]. 
+Nothing more than that [using the ideas] is required.
 
 :::
 
 ::: details Substituted
 
 Remember only this: you need not believe the ideas, you need not accept the ideas, and you need not even welcome the ideas. 
-²Some of the ideas you may actively resist. 
-³Neither believing, accepting nor welcoming will matter, or decrease the ideas’ efficacy. 
-⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use the ideas. 
-⁵Nothing more than using the ideas is required.
+Some of the ideas you may actively resist. 
+Neither believing, accepting nor welcoming will matter, or decrease the ideas’ efficacy. 
+But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use the ideas. 
+Nothing more than using the ideas is required.
 
 :::
 

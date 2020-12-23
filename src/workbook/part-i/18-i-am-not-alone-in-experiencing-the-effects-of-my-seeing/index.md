@@ -13,19 +13,19 @@ next: W-pI.19
 ---
 
 1. The idea for today is another step in learning that the thoughts which give rise to what you see are never neutral or unimportant. 
-²It also emphasises the idea that minds are joined, which will be given increasing stress later on.
+It also emphasises the idea that minds are joined, which will be given increasing stress later on.
 
 ::: details Annotations
 
 #::: details Expanded
 
 The idea for today is another step in learning that the thoughts which give rise to what you see are never neutral or unimportant. 
-²It [the idea for today] also emphasises the idea that minds are joined, which [idea that minds are joined] will be given increasing stress later on.
+It [the idea for today] also emphasises the idea that minds are joined, which [idea that minds are joined] will be given increasing stress later on.
 
 #::: details Substituted
 
 The idea for today is another step in learning that the thoughts which give rise to what you see are never neutral or unimportant. 
-²The idea for today also emphasises the idea that minds are joined; the idea that minds are joined will be given increasing stress later on.
+The idea for today also emphasises the idea that minds are joined; the idea that minds are joined will be given increasing stress later on.
 
 #::: details Simplified
 
@@ -37,15 +37,15 @@ Minds are joined.
 
 
 2. Today’s idea does not refer to what you see as much as to how you see it. 
-²Therefore, the exercises for today emphasise this aspect of your perception. 
-³The three or four practice periods which are recommended should be done as follows:
+Therefore, the exercises for today emphasise this aspect of your perception. 
+The three or four practice periods which are recommended should be done as follows:
 
 3. Look about you, selecting subjects for the application of the idea for today as randomly as possible, and keeping your eyes on each one long enough to say:
 
->²I am not alone in experiencing the effects of how I see _____.
+>I am not alone in experiencing the effects of how I see _____.
 
-³Conclude each practice period by repeating the more general statement:
+Conclude each practice period by repeating the more general statement:
 
->⁴I am not alone in experiencing the effects of my seeing.
+>I am not alone in experiencing the effects of my seeing.
 
-⁵A minute or so, or even less, will be sufficient for each practice period.
+A minute or so, or even less, will be sufficient for each practice period.

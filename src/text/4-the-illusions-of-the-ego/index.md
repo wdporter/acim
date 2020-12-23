@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: The Illusions of the Ego
+title: THE ILLUSIONS OF THE EGO
 reference: T-4 
 eleventyNavigation:
   key: T-4
-  title: T-4 The Illusions of the Ego
+  title: T-4 THE ILLUSIONS OF THE EGO
   parent: T
   order: 4
 ---

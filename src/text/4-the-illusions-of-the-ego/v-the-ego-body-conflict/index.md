@@ -12,28 +12,28 @@ next: T-4.VI
 ---
 
 1. All things work together for good. 
-²There are no exceptions except in the ego’s judgement. 
-³The ego exerts maximal vigilance about what it permits into awareness, and this is not the way a balanced mind holds together. 
-⁴The ego is thrown further off balance because it keeps its primary motivation from your awareness, and raises control rather than sanity to predominance. 
-⁵The ego has every reason to do this, according to the thought system which gave rise to it and which it serves. 
-⁶Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of its self-preservation.
+There are no exceptions except in the ego’s judgement. 
+The ego exerts maximal vigilance about what it permits into awareness, and this is not the way a balanced mind holds together. 
+The ego is thrown further off balance because it keeps its primary motivation from your awareness, and raises control rather than sanity to predominance. 
+The ego has every reason to do this, according to the thought system which gave rise to it and which it serves. 
+Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of its self-preservation.
 
 ::: details Expanded
 All things work together for good. 
-²There are no exceptions except in the ego’s judgement. 
-³The ego exerts maximal vigilance about what it [the ego] permits into awareness, and this [exerting maximal vigilance] is not the way a balanced mind holds together. 
-⁴The ego is thrown further off balance because it [the ego] keeps its [the-ego’s] primary motivation from your awareness, and raises control rather than sanity to predominance. 
-⁵The ego has every reason to do this [raise control to predominance], according to the thought system which gave rise to it [the ego] and which [thought system] it [the ego] serves. 
-⁶Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of its [the-ego’s] self-preservation.
+There are no exceptions except in the ego’s judgement. 
+The ego exerts maximal vigilance about what it [the ego] permits into awareness, and this [exerting maximal vigilance] is not the way a balanced mind holds together. 
+The ego is thrown further off balance because it [the ego] keeps its [the-ego’s] primary motivation from your awareness, and raises control rather than sanity to predominance. 
+The ego has every reason to do this [raise control to predominance], according to the thought system which gave rise to it [the ego] and which [thought system] it [the ego] serves. 
+Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of its [the-ego’s] self-preservation.
 :::
 
 ::: details Substituted
 All things work together for good. 
-²There are no exceptions except in the ego’s judgement. 
-³The ego exerts maximal vigilance about what the ego permits into awareness, and exerting maximal vigilance is not the way a balanced mind holds together. 
-⁴The ego is thrown further off balance because the ego keeps the-ego’s primary motivation from your awareness, and raises control rather than sanity to predominance. 
-⁵The ego has every reason to raise control to predominance, according to the thought system which gave rise to the ego; this thought system the ego serves. 
-⁶Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of the-ego’s self-preservation.
+There are no exceptions except in the ego’s judgement. 
+The ego exerts maximal vigilance about what the ego permits into awareness, and exerting maximal vigilance is not the way a balanced mind holds together. 
+The ego is thrown further off balance because the ego keeps the-ego’s primary motivation from your awareness, and raises control rather than sanity to predominance. 
+The ego has every reason to raise control to predominance, according to the thought system which gave rise to the ego; this thought system the ego serves. 
+Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of the-ego’s self-preservation.
 :::
 
 ::: details Simplified
@@ -44,31 +44,31 @@ The ego needs to keep its thought system out of awareness.
 :::
 
 2. A major source of the ego’s off-balanced state is its lack of discrimination between the body and the Thoughts of God. 
-²Thoughts of God are unacceptable to the ego, because they clearly point to the non-existence of the ego itself. 
-³The ego therefore either distorts them or refuses to accept them. 
-⁴It cannot, however, make them cease to be. 
-⁵It therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because both are threatening to it. 
-⁶Being concerned primarily with its own preservation in the face of threat, the ego perceives them as the same. 
-⁷By perceiving them as the same, the ego attempts to save itself from being swept away, as it would surely be in the presence of knowledge.
+Thoughts of God are unacceptable to the ego, because they clearly point to the non-existence of the ego itself. 
+The ego therefore either distorts them or refuses to accept them. 
+It cannot, however, make them cease to be. 
+It therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because both are threatening to it. 
+Being concerned primarily with its own preservation in the face of threat, the ego perceives them as the same. 
+By perceiving them as the same, the ego attempts to save itself from being swept away, as it would surely be in the presence of knowledge.
 
 ::: details Expanded
 A major source of the ego’s off-balanced state is its [the-ego’s] lack of discrimination between the body and the Thoughts of God. 
-²Thoughts of God are unacceptable to the ego, because they [the Thoughts of God] clearly point to the non-existence of the ego itself [the-ego’s-self]. 
-³The ego therefore either distorts them [the Thoughts of God] or refuses to accept them [the Thoughts of God]. 
-⁴It [the ego] cannot, however, make them [the Thoughts of God] cease to be. 
-⁵It [the ego] therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because both [unacceptable body impulses and thoughts of God] are threatening to it [the ego]. 
-⁶Being concerned primarily with its [the-ego’s] own preservation in the face of threat, the ego perceives them [unacceptable body impulses and thougts of God] as the same. 
-⁷By perceiving them [unacceptable body impulses and thougts of God] as the same, the ego attempts to save itself [the-ego’s-self] from being swept away, as it [the ego] would surely be in the presence of knowledge.
+Thoughts of God are unacceptable to the ego, because they [the Thoughts of God] clearly point to the non-existence of the ego itself [the-ego’s-self]. 
+The ego therefore either distorts them [the Thoughts of God] or refuses to accept them [the Thoughts of God]. 
+It [the ego] cannot, however, make them [the Thoughts of God] cease to be. 
+It [the ego] therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because both [unacceptable body impulses and thoughts of God] are threatening to it [the ego]. 
+Being concerned primarily with its [the-ego’s] own preservation in the face of threat, the ego perceives them [unacceptable body impulses and thougts of God] as the same. 
+By perceiving them [unacceptable body impulses and thougts of God] as the same, the ego attempts to save itself [the-ego’s-self] from being swept away, as it [the ego] would surely be in the presence of knowledge.
 :::
 
 ::: details Substituted
 A major source of the ego’s off-balanced state is the-ego’s lack of discrimination between the body and the Thoughts of God. 
-²Thoughts of God are unacceptable to the ego, because the Thoughts of God clearly point to the non-existence of the-ego’s-self. 
-³The ego therefore either distorts the Thoughts of God or refuses to accept the Thoughts of God. 
-⁴The ego cannot, however, make them the Thoughts of God cease to be. 
-⁵The ego therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because unacceptable body impulses and thoughts of God are threatening to the ego. 
-⁶Being concerned primarily with the-ego’s own preservation in the face of threat, the ego perceives unacceptable body impulses and thougts of God as the same. 
-⁷By perceiving unacceptable body impulses and thougts of God as the same, the ego attempts to save the-ego’s-self from being swept away, as the ego would surely be in the presence of knowledge.
+Thoughts of God are unacceptable to the ego, because the Thoughts of God clearly point to the non-existence of the-ego’s-self. 
+The ego therefore either distorts the Thoughts of God or refuses to accept the Thoughts of God. 
+The ego cannot, however, make them the Thoughts of God cease to be. 
+The ego therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because unacceptable body impulses and thoughts of God are threatening to the ego. 
+Being concerned primarily with the-ego’s own preservation in the face of threat, the ego perceives unacceptable body impulses and thougts of God as the same. 
+By perceiving unacceptable body impulses and thougts of God as the same, the ego attempts to save the-ego’s-self from being swept away, as the ego would surely be in the presence of knowledge.
 :::
 
 ::: details Simplified
@@ -78,22 +78,22 @@ The ego tries to change the thoughts of God.
 
 
 3. Any thought system that confuses God and the body must be insane. 
-²Yet this confusion is essential to the ego, which judges only in terms of threat or non-threat to itself. 
-³In one sense the ego’s fear of God is at least logical, since the idea of Him does dispel the ego. 
-⁴But fear of the body, with which the ego identifies so closely, makes no sense at all.
+Yet this confusion is essential to the ego, which judges only in terms of threat or non-threat to itself. 
+In one sense the ego’s fear of God is at least logical, since the idea of Him does dispel the ego. 
+But fear of the body, with which the ego identifies so closely, makes no sense at all.
 
 ::: details Expanded
 Any thought system that confuses God and the body must be insane. 
-²Yet this confusion [between God and the body] is essential to the ego, which judges only in terms of threat or non-threat to itself [the-ego’s-self]. 
-³In one sense the ego’s fear of God is at least logical, since the idea of Him does dispel the ego. 
-⁴But fear of the body, with which [the body] the ego identifies so closely, makes no sense at all.
+Yet this confusion [between God and the body] is essential to the ego, which judges only in terms of threat or non-threat to itself [the-ego’s-self]. 
+In one sense the ego’s fear of God is at least logical, since the idea of Him does dispel the ego. 
+But fear of the body, with which [the body] the ego identifies so closely, makes no sense at all.
 :::
 
 ::: details Substituted
 Any thought system that confuses God and the body must be insane. 
-²Yet confusion between God and the body is essential to the ego, which judges only in terms of threat or non-threat to the-ego’s-self. 
-³In one sense the ego’s fear of God is at least logical, since the idea of Him does dispel the ego. 
-⁴But fear of the body, the body the ego identifies so closely, makes no sense at all.
+Yet confusion between God and the body is essential to the ego, which judges only in terms of threat or non-threat to the-ego’s-self. 
+In one sense the ego’s fear of God is at least logical, since the idea of Him does dispel the ego. 
+But fear of the body, the body the ego identifies so closely, makes no sense at all.
 :::
 
 ::: details Simplified
@@ -104,43 +104,43 @@ It makes no sense for the ego to fear the body.
 
 
 4. The body is the ego’s home by its own election. 
-²It is the only identification with which the ego feels safe, since the body’s vulnerability is its own best argument that you cannot be of God. 
-³This is the belief that the ego sponsors eagerly. 
-⁴Yet the ego hates the body, because it cannot accept it as good enough to be its home. 
-⁵Here is where the mind becomes actually dazed. 
-⁶Being told by the ego that it is really part of the body and that the body is its protector, the mind is also told that the body cannot protect it. 
-⁷Therefore, the mind asks, “Where can I go for protection?”, to which the ego replies, “Turn to me”. 
-⁸The mind, and not without cause, reminds the ego that it has itself insisted that it is identified with the body, so there is no point in turning to *it* for protection. 
-⁹The ego has no real answer to this because there is none, but it does have a typical solution. 
-¹⁰It obliterates the question from the mind’s awareness. 
-¹¹Once out of awareness the question can and does produce uneasiness, but it cannot be answered because it cannot be asked.
+It is the only identification with which the ego feels safe, since the body’s vulnerability is its own best argument that you cannot be of God. 
+This is the belief that the ego sponsors eagerly. 
+Yet the ego hates the body, because it cannot accept it as good enough to be its home. 
+Here is where the mind becomes actually dazed. 
+Being told by the ego that it is really part of the body and that the body is its protector, the mind is also told that the body cannot protect it. 
+Therefore, the mind asks, “Where can I go for protection?”, to which the ego replies, “Turn to me”. 
+The mind, and not without cause, reminds the ego that it has itself insisted that it is identified with the body, so there is no point in turning to *it* for protection. 
+The ego has no real answer to this because there is none, but it does have a typical solution. 
+It obliterates the question from the mind’s awareness. 
+Once out of awareness the question can and does produce uneasiness, but it cannot be answered because it cannot be asked.
 
 ::: details Expanded
 The body is the ego’s home by its [the-ego’s] own election. 
-²It [the-body-is-the-ego’s-home] is the only identification with which [identification] the ego feels safe, since the body’s vulnerability is its [the-ego’s] own best argument that you cannot be of God. 
-³This [that you cannot be of God] is the belief that the ego sponsors eagerly. 
-⁴Yet the ego hates the body, because it [the ego] cannot accept it [the body] as good enough to be its [the-ego’s] home. 
-⁵Here is where the mind becomes actually dazed. 
-⁶Being told by the ego that it [the mind] is really part of the body and that the body is its [the mind’s] protector, the mind is also told that the body cannot protect it [the mind]. 
-⁷Therefore, the mind asks, “Where can I go for protection?”, to which [question] the ego replies, “Turn to me”. 
-⁸The mind, and not without cause, reminds the ego that it [the ego] has itself [the-ego’s-self] insisted that it [the mind] is identified with the body, so there is no point in turning to *it* [*the mind*] for protection. 
-⁹The ego has no real answer to this [reminder] because there is none [answer], but it [the ego] does have a typical solution. 
-¹⁰It [the ego] obliterates the question from the mind’s awareness. 
-¹¹Once out of awareness the question can and does produce uneasiness, but it [the question] cannot be answered because it [the question] cannot be asked.
+It [the-body-is-the-ego’s-home] is the only identification with which [identification] the ego feels safe, since the body’s vulnerability is its [the-ego’s] own best argument that you cannot be of God. 
+This [that you cannot be of God] is the belief that the ego sponsors eagerly. 
+Yet the ego hates the body, because it [the ego] cannot accept it [the body] as good enough to be its [the-ego’s] home. 
+Here is where the mind becomes actually dazed. 
+Being told by the ego that it [the mind] is really part of the body and that the body is its [the mind’s] protector, the mind is also told that the body cannot protect it [the mind]. 
+Therefore, the mind asks, “Where can I go for protection?”, to which [question] the ego replies, “Turn to me”. 
+The mind, and not without cause, reminds the ego that it [the ego] has itself [the-ego’s-self] insisted that it [the mind] is identified with the body, so there is no point in turning to *it* [*the mind*] for protection. 
+The ego has no real answer to this [reminder] because there is none [answer], but it [the ego] does have a typical solution. 
+It [the ego] obliterates the question from the mind’s awareness. 
+Once out of awareness the question can and does produce uneasiness, but it [the question] cannot be answered because it [the question] cannot be asked.
 :::
 
 ::: details Substituted
 The body is the ego’s home by the-ego’s own election. 
-²The-body-is-the-ego’s-home is the only identification, with identification the ego feels safe, since the body’s vulnerability is the-ego’s own best argument that you cannot be of God. 
-³That you cannot be of God is the belief that the ego sponsors eagerly. 
-⁴Yet the ego hates the body, because the ego cannot accept the body as good enough to be the-ego’s home. 
-⁵Here is where the mind becomes actually dazed. 
-⁶Being told by the ego that the mind is really part of the body and that the body is the mind’s protector, the mind is also told that the body cannot protect the mind. 
-⁷Therefore, the mind asks, “Where can I go for protection?”, to question the ego replies, “Turn to me”. 
-⁸The mind, and not without cause, reminds the ego that the ego’s-self insisted that the mind is identified with the body, so there is no point in turning to *the mind* for protection. 
-⁹The ego has no real answer to this reminder because there is no answer, but the ego does have a typical solution. 
-¹⁰The ego obliterates the question from the mind’s awareness. 
-¹¹Once out of awareness the question can and does produce uneasiness, but the question cannot be answered because the question cannot be asked.
+The-body-is-the-ego’s-home is the only identification, with identification the ego feels safe, since the body’s vulnerability is the-ego’s own best argument that you cannot be of God. 
+That you cannot be of God is the belief that the ego sponsors eagerly. 
+Yet the ego hates the body, because the ego cannot accept the body as good enough to be the-ego’s home. 
+Here is where the mind becomes actually dazed. 
+Being told by the ego that the mind is really part of the body and that the body is the mind’s protector, the mind is also told that the body cannot protect the mind. 
+Therefore, the mind asks, “Where can I go for protection?”, to question the ego replies, “Turn to me”. 
+The mind, and not without cause, reminds the ego that the ego’s-self insisted that the mind is identified with the body, so there is no point in turning to *the mind* for protection. 
+The ego has no real answer to this reminder because there is no answer, but the ego does have a typical solution. 
+The ego obliterates the question from the mind’s awareness. 
+Once out of awareness the question can and does produce uneasiness, but the question cannot be answered because the question cannot be asked.
 :::
 
 ::: details Simplified
@@ -163,34 +163,34 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 
 
 5. This is the question that *must* be asked: “Where can I go for protection?”. 
-²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
-³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
-⁴The goal must be formulated clearly and kept in mind. 
-⁵Learning and wanting to learn are inseparable. 
-⁶You learn best when you believe what you are trying to learn is of value to you. 
-⁷However, not everything you may want to learn has lasting value. 
-⁸Indeed, many of the things you want to learn may be chosen *because* their value will not last.
+“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
+Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
+The goal must be formulated clearly and kept in mind. 
+Learning and wanting to learn are inseparable. 
+You learn best when you believe what you are trying to learn is of value to you. 
+However, not everything you may want to learn has lasting value. 
+Indeed, many of the things you want to learn may be chosen *because* their value will not last.
 
 ::: details Expanded
 This is the question that *must* be asked: “Where can I go for protection?”. 
-²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
-³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
-⁴The goal must be formulated clearly and kept in mind. 
-⁵Learning and wanting to learn are inseparable. 
-⁶You learn best when you believe what you are trying to learn is of value to you. 
-⁷However, not everything you may want to learn has lasting value. 
-⁸Indeed, many of the things you want to learn may be chosen *because* their [the-things-you-want-to-learn’s] value will not last.
+“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
+Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
+The goal must be formulated clearly and kept in mind. 
+Learning and wanting to learn are inseparable. 
+You learn best when you believe what you are trying to learn is of value to you. 
+However, not everything you may want to learn has lasting value. 
+Indeed, many of the things you want to learn may be chosen *because* their [the-things-you-want-to-learn’s] value will not last.
 :::
 
 ::: details Substituted
 This is the question that *must* be asked: “Where can I go for protection?”. 
-²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
-³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
-⁴The goal must be formulated clearly and kept in mind. 
-⁵Learning and wanting to learn are inseparable. 
-⁶You learn best when you believe what you are trying to learn is of value to you. 
-⁷However, not everything you may want to learn has lasting value. 
-⁸Indeed, many of the things you want to learn may be chosen *because* the-things-you-want-to-learn’s value will not last.
+“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
+Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
+The goal must be formulated clearly and kept in mind. 
+Learning and wanting to learn are inseparable. 
+You learn best when you believe what you are trying to learn is of value to you. 
+However, not everything you may want to learn has lasting value. 
+Indeed, many of the things you want to learn may be chosen *because* the-things-you-want-to-learn’s value will not last.
 :::
 
 ::: details Simplified
@@ -202,43 +202,43 @@ Many things you want to learn have no lasting value.
 
 
 6. The ego thinks it is an advantage not to commit itself to anything that is eternal, because the eternal must come from God. 
-²Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. 
-³The ego compromises with the issue of the eternal, just as it does with all issues touching on the real question in any way. 
-⁴By becoming involved with tangential issues, it hopes to hide the real question and keep it out of mind. 
-⁵The ego’s characteristic busyness with nonessentials is for precisely that purpose. 
-⁶Preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
-⁷In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
-⁸This is the question that *you* must learn to ask in connection with everything. 
-⁹What is the purpose? 
-¹⁰Whatever it is, it will direct your efforts automatically. 
-¹¹When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
+Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. 
+The ego compromises with the issue of the eternal, just as it does with all issues touching on the real question in any way. 
+By becoming involved with tangential issues, it hopes to hide the real question and keep it out of mind. 
+The ego’s characteristic busyness with nonessentials is for precisely that purpose. 
+Preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
+This is the question that *you* must learn to ask in connection with everything. 
+What is the purpose? 
+Whatever it is, it will direct your efforts automatically. 
+When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
 
 ::: details Expanded
 The ego thinks it is an advantage not to commit itself [the-ego’s-self] to anything that is eternal, because the eternal must come from God. 
-²Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. 
-³The ego compromises with the issue of the eternal, just as it [the ego] does [compromises] with all issues touching on the real question in any way. 
-⁴By becoming involved with tangential issues, it [the ego] hopes to hide the real question and keep it [the real question] out of mind. 
-⁵The ego’s characteristic busyness with non-essentials is for precisely that purpose [keeping the real question out of mind]. 
-⁶Preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
-⁷In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
-⁸This is the question that *you* must learn to ask in connection with everything. 
-⁹What is the purpose? 
-¹⁰Whatever it [the purpose] is, it [the purpose] will direct your efforts automatically. 
-¹¹When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
+Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. 
+The ego compromises with the issue of the eternal, just as it [the ego] does [compromises] with all issues touching on the real question in any way. 
+By becoming involved with tangential issues, it [the ego] hopes to hide the real question and keep it [the real question] out of mind. 
+The ego’s characteristic busyness with non-essentials is for precisely that purpose [keeping the real question out of mind]. 
+Preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
+This is the question that *you* must learn to ask in connection with everything. 
+What is the purpose? 
+Whatever it [the purpose] is, it [the purpose] will direct your efforts automatically. 
+When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
 :::
 
 ::: details Substituted
 The ego thinks it is an advantage not to commit the-ego’s-self to anything that is eternal, because the eternal must come from God. 
-²Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. 
-³The ego compromises with the issue of the eternal, just as the ego compromises with all issues touching on the real question in any way. 
-⁴By becoming involved with tangential issues, the ego hopes to hide the real question and keep the real question out of mind. 
-⁵The ego’s characteristic busyness with non-essentials is for precisely the purpose of keeping the real question out of mind. 
-⁶Preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
-⁷In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
-⁸This is the question that *you* must learn to ask in connection with everything. 
-⁹What is the purpose? 
-¹⁰Whatever the purpose is, the purpose will direct your efforts automatically. 
-¹¹When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
+Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. 
+The ego compromises with the issue of the eternal, just as the ego compromises with all issues touching on the real question in any way. 
+By becoming involved with tangential issues, the ego hopes to hide the real question and keep the real question out of mind. 
+The ego’s characteristic busyness with non-essentials is for precisely the purpose of keeping the real question out of mind. 
+Preöccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
+This is the question that *you* must learn to ask in connection with everything. 
+What is the purpose? 
+Whatever the purpose is, the purpose will direct your efforts automatically. 
+When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
 :::
 
 ::: details Simplified

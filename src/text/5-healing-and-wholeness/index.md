@@ -1,10 +1,10 @@
 ---
 layout: landing.njk
-title: Healing and Wholeness
+title: HEALING AND WHOLENESS
 reference: T-5 
 eleventyNavigation:
   key: T-5
-  title: T-5 Healing and Wholeness
+  title: T-5 HEALING AND WHOLENESS
   parent: T
   order: 5
 ---

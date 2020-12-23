@@ -13,52 +13,52 @@ next: T-4.IV
 
 
 1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
-²This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
-³The word ‘within’ is unnecessary. 
-⁴The Kingdom of Heaven *is* you. 
-⁵What else *but* you did the Creator create, and what else *but* you is His Kingdom? 
-⁶This is the whole message of the Atonement; a message which in its totality transcends the sum of its parts. 
-⁷You, too, have a Kingdom that your spirit created. 
-⁸It has not ceased to create because of the ego’s illusions. 
-⁹Your creations are no more fatherless than you are. 
-¹⁰Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be. 
-¹¹Be confident that your creations are as safe as you are.
+This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
+The word ‘within’ is unnecessary. 
+The Kingdom of Heaven *is* you. 
+What else *but* you did the Creator create, and what else *but* you is His Kingdom? 
+This is the whole message of the Atonement; a message which in its totality transcends the sum of its parts. 
+You, too, have a Kingdom that your spirit created. 
+It has not ceased to create because of the ego’s illusions. 
+Your creations are no more fatherless than you are. 
+Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be. 
+Be confident that your creations are as safe as you are.
 
->¹²The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. 
-¹³Amen.
+>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it. 
+Amen.
 
 ::: details Expanded
 It is hard to understand what “The Kingdom of Heaven is within you” really means. 
-²This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
-³The word ‘within’ is unnecessary. 
-⁴The Kingdom of Heaven *is* you. 
-⁵What else *but* you did the Creator create, and what else *but* you is His [the-Creator’s] Kingdom? 
-⁶This [The Kingdom of Heaven is you] is the whole message of the Atonement; a message which in its [message’s] totality transcends the sum of its [the message’s] parts. 
-⁷You, too, have a Kingdom that your spirit created. 
-⁸It [your spirit] has not ceased to create because of the ego’s illusions. 
-⁹Your creations are no more fatherless than you are. 
-¹⁰Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be [co-creators]. 
-¹¹Be confident that your creations are as safe as you are [safe].
+This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
+The word ‘within’ is unnecessary. 
+The Kingdom of Heaven *is* you. 
+What else *but* you did the Creator create, and what else *but* you is His [the-Creator’s] Kingdom? 
+This [The Kingdom of Heaven is you] is the whole message of the Atonement; a message which in its [message’s] totality transcends the sum of its [the message’s] parts. 
+You, too, have a Kingdom that your spirit created. 
+It [your spirit] has not ceased to create because of the ego’s illusions. 
+Your creations are no more fatherless than you are. 
+Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be [co-creators]. 
+Be confident that your creations are as safe as you are [safe].
 
->¹²The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it [the Kingdom]. 
-¹³Amen.
+>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against it [the Kingdom]. 
+Amen.
 :::
 
 ::: details Substituted
 It is hard to understand what “The Kingdom of Heaven is within you” really means. 
-²“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
-³The word ‘within’ is unnecessary. 
-⁴The Kingdom of Heaven *is* you. 
-⁵What else *but* you did the Creator create, and what else *but* you is the Creator’s Kingdom? 
-⁶The Kingdom of Heaven is you, is the whole message of the Atonement; a message which in message’s totality transcends the sum of the message’s parts. 
-⁷You, too, have a Kingdom that your spirit created. 
-⁸Your spirit has not ceased to create because of the ego’s illusions. 
-⁹Your creations are no more fatherless than you are. 
-¹⁰Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be co-creators. 
-¹¹Be confident that your creations are as safe as you are safe.
+“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
+The word ‘within’ is unnecessary. 
+The Kingdom of Heaven *is* you. 
+What else *but* you did the Creator create, and what else *but* you is the Creator’s Kingdom? 
+The Kingdom of Heaven is you, is the whole message of the Atonement; a message which in message’s totality transcends the sum of the message’s parts. 
+You, too, have a Kingdom that your spirit created. 
+Your spirit has not ceased to create because of the ego’s illusions. 
+Your creations are no more fatherless than you are. 
+Your ego and your spirit will never be co-creators, but your spirit and your Creator will always be co-creators. 
+Be confident that your creations are as safe as you are safe.
 
->¹²The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against the Kingdom. 
-¹³Amen.
+>The Kingdom is perfectly united and perfectly protected, and the ego will not prevail against the Kingdom. 
+Amen.
 :::
 
 ::: details Simplified
@@ -78,28 +78,28 @@ Your spirit and God will always co-create.
 <div id=2 class=zero-height></div>
 
 2. This is written in the form of a prayer because it is useful in moments of temptation. 
-²It is a declaration of independence. 
-³You will find it very helpful if you understand it fully. 
-⁴The reason you need my help is because you have denied your own Guide and therefore need guidance. 
-⁵My role is to separate the true from the false, so truth can break through the barriers the ego has set up and can shine into your mind. 
-⁶Against our united strength the ego cannot prevail.
+It is a declaration of independence. 
+You will find it very helpful if you understand it fully. 
+The reason you need my help is because you have denied your own Guide and therefore need guidance. 
+My role is to separate the true from the false, so truth can break through the barriers the ego has set up and can shine into your mind. 
+Against our united strength the ego cannot prevail.
 
 ::: details Expanded
 This [“The Kingdom is perfectly united and perfectly protected…” etc.] is written in the form of a prayer because it [the prayer] is useful in moments of temptation. 
-²It [the prayer] is a declaration of independence. 
-³You will find it [the prayer] very helpful if you understand it [the prayer] fully. 
-⁴The reason you need my help is because you have denied your own Guide and therefore need guidance. 
-⁵My role is to separate the true from the false, so truth can break through the barriers the ego has set up and can shine into your mind. 
-⁶Against our united strength the ego cannot prevail.
+It [the prayer] is a declaration of independence. 
+You will find it [the prayer] very helpful if you understand it [the prayer] fully. 
+The reason you need my help is because you have denied your own Guide and therefore need guidance. 
+My role is to separate the true from the false, so truth can break through the barriers the ego has set up and can shine into your mind. 
+Against our united strength the ego cannot prevail.
 :::
 
 ::: details Substituted
 “The Kingdom is perfectly united and perfectly protected…” etc. is written in the form of a prayer because the prayer is useful in moments of temptation. 
-²The prayer is a declaration of independence. 
-³You will find the prayer very helpful if you understand the prayer fully. 
-⁴The reason you need my help is because you have denied your own Guide and therefore need guidance. 
-⁵My role is to separate the true from the false, so truth can break through the barriers the ego has set up and can shine into your mind. 
-⁶Against our united strength the ego cannot prevail.
+The prayer is a declaration of independence. 
+You will find the prayer very helpful if you understand the prayer fully. 
+The reason you need my help is because you have denied your own Guide and therefore need guidance. 
+My role is to separate the true from the false, so truth can break through the barriers the ego has set up and can shine into your mind. 
+Against our united strength the ego cannot prevail.
 :::
 
 ::: details Simplified
@@ -111,34 +111,34 @@ I will separate the true from the false.
 
 
 3. It is surely apparent by now why the ego regards spirit as its ‘enemy’. 
-²The ego arose from the separation, and its continued existence depends on your continuing belief in the separation. 
-³The ego must offer you some sort of reward for maintaining this belief. 
-⁴All it can offer is a sense of temporary existence, which begins with its own beginning and ends with its own ending. 
-⁵It tells you this life is your existence because it is its own. 
-⁶Against this sense of temporary existence spirit offers you the knowledge of permanence and unshakable being. 
-⁷No one who has experienced the revelation of this can ever fully believe in the ego again. 
-⁸How can its meagre offering to you prevail against the glorious gift of God?
+The ego arose from the separation, and its continued existence depends on your continuing belief in the separation. 
+The ego must offer you some sort of reward for maintaining this belief. 
+All it can offer is a sense of temporary existence, which begins with its own beginning and ends with its own ending. 
+It tells you this life is your existence because it is its own. 
+Against this sense of temporary existence spirit offers you the knowledge of permanence and unshakable being. 
+No one who has experienced the revelation of this can ever fully believe in the ego again. 
+How can its meagre offering to you prevail against the glorious gift of God?
 
 ::: details Expanded
 It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘enemy’. 
-²The ego arose from the separation, and its [the-ego’s] continued existence depends on your continuing belief in the separation. 
-³The ego must offer you some sort of reward for maintaining this belief [in the separation]. 
-⁴All it [the ego] can offer is a sense of temporary existence, which begins with its [the-ego’s] own beginning and ends with its [the-ego’s] own ending. 
-⁵It [the ego] tells you this life is your existence because it [this life] is its [the-ego’s] own [life]. 
-⁶Against this sense of temporary existence spirit offers you the knowledge of permanence and unshakable being. 
-⁷No one who has experienced the revelation of this [permanence and unshakeable being] can ever fully believe in the ego again. 
-⁸How can its [the-ego’s] meagre offering to you prevail against the glorious gift of God?
+The ego arose from the separation, and its [the-ego’s] continued existence depends on your continuing belief in the separation. 
+The ego must offer you some sort of reward for maintaining this belief [in the separation]. 
+All it [the ego] can offer is a sense of temporary existence, which begins with its [the-ego’s] own beginning and ends with its [the-ego’s] own ending. 
+It [the ego] tells you this life is your existence because it [this life] is its [the-ego’s] own [life]. 
+Against this sense of temporary existence spirit offers you the knowledge of permanence and unshakable being. 
+No one who has experienced the revelation of this [permanence and unshakeable being] can ever fully believe in the ego again. 
+How can its [the-ego’s] meagre offering to you prevail against the glorious gift of God?
 :::
 
 ::: details Substituted
 It is surely apparent by now why the ego regards spirit as the-ego’s ‘enemy’. 
-²The ego arose from the separation, and the-ego’s continued existence depends on your continuing belief in the separation. 
-³The ego must offer you some sort of reward for maintaining belief in the separation. 
-⁴All the ego can offer is a sense of temporary existence, which (existence) begins with the-ego’s own beginning and ends with the-ego’s own ending. 
-⁵The ego tells you this life is your existence because this life is the-ego’s own life. 
-⁶Against this sense of temporary existence spirit offers you the knowledge of permanence and unshakable being. 
-⁷No one who has experienced the revelation of permanence and unshakeable being can ever fully believe in the ego again. 
-⁸How can the-ego’s meagre offering to you prevail against the glorious gift of God?
+The ego arose from the separation, and the-ego’s continued existence depends on your continuing belief in the separation. 
+The ego must offer you some sort of reward for maintaining belief in the separation. 
+All the ego can offer is a sense of temporary existence, which (existence) begins with the-ego’s own beginning and ends with the-ego’s own ending. 
+The ego tells you this life is your existence because this life is the-ego’s own life. 
+Against this sense of temporary existence spirit offers you the knowledge of permanence and unshakable being. 
+No one who has experienced the revelation of permanence and unshakeable being can ever fully believe in the ego again. 
+How can the-ego’s meagre offering to you prevail against the glorious gift of God?
 :::
 
 ::: details Simplified
@@ -151,34 +151,34 @@ The ego’s offering can’t prevail over the glorious gift of God.
 
 
 4. You who identify with your ego cannot believe God loves you. 
-²You do not love what you made, and what you made does not love you. 
-³Being made out of the denial of the Father, the ego has no allegiance to its maker. 
-⁴You cannot conceive of the real relationship that exists between God and His creations because of your hatred for the self you made. 
-⁵You project onto the ego the decision to separate, and this conflicts with the love you feel for the ego because you made it. 
-⁶No love in this world is without this ambivalence, and since no ego has experienced love without ambivalence the concept is beyond its understanding. 
-⁷Love will enter immediately into any mind that truly wants it, but it must want it truly. 
-⁸This means that it wants it without ambivalence, and this kind of wanting is wholly without the ego’s ‘drive to get’.
+You do not love what you made, and what you made does not love you. 
+Being made out of the denial of the Father, the ego has no allegiance to its maker. 
+You cannot conceive of the real relationship that exists between God and His creations because of your hatred for the self you made. 
+You project onto the ego the decision to separate, and this conflicts with the love you feel for the ego because you made it. 
+No love in this world is without this ambivalence, and since no ego has experienced love without ambivalence the concept is beyond its understanding. 
+Love will enter immediately into any mind that truly wants it, but it must want it truly. 
+This means that it wants it without ambivalence, and this kind of wanting is wholly without the ego’s ‘drive to get’.
 
 ::: details Expanded
 You who identify with your ego cannot believe God loves you. 
-²You do not love what you made, and what you made does not love you. 
-³Being made out of the denial of the Father, the ego has no allegiance to its [the-ego’s] maker. 
-⁴You cannot conceive of the real relationship that exists between God and His [God’s] creations because of your hatred for the self you made. 
-⁵You project onto the ego the decision to separate, and this [projecting the decision to separate] conflicts with the love you feel for the ego because you made it [the ego]. 
-⁶No love in this world is without this ambivalence [between loving and hating], and since no ego has experienced love without ambivalence the concept [of love] is beyond its [the-ego’s] understanding. 
-⁷Love will enter immediately into any mind that truly wants it [love], but it [the mind] must want it [love] truly. 
-⁸This [wanting love truly] means that it [the mind] wants it [love] without ambivalence, and this kind of wanting [without ambivalence] is wholly without the ego’s ‘drive to get’.
+You do not love what you made, and what you made does not love you. 
+Being made out of the denial of the Father, the ego has no allegiance to its [the-ego’s] maker. 
+You cannot conceive of the real relationship that exists between God and His [God’s] creations because of your hatred for the self you made. 
+You project onto the ego the decision to separate, and this [projecting the decision to separate] conflicts with the love you feel for the ego because you made it [the ego]. 
+No love in this world is without this ambivalence [between loving and hating], and since no ego has experienced love without ambivalence the concept [of love] is beyond its [the-ego’s] understanding. 
+Love will enter immediately into any mind that truly wants it [love], but it [the mind] must want it [love] truly. 
+This [wanting love truly] means that it [the mind] wants it [love] without ambivalence, and this kind of wanting [without ambivalence] is wholly without the ego’s ‘drive to get’.
 :::
 
 ::: details Substituted
 You who identify with your ego cannot believe God loves you. 
-²You do not love what you made, and what you made does not love you. 
-³Being made out of the denial of the Father, the ego has no allegiance to the-ego’s maker. 
-⁴You cannot conceive of the real relationship that exists between God and God’s creations because of your hatred for the self you made. 
-⁵You project onto the ego the decision to separate, and projecting the decision to separate conflicts with the love you feel for the ego, because you made the ego. 
-⁶No love in this world is without ambivalence between loving and hating, and since no ego has experienced love without ambivalence, the concept of love is beyond the-ego’s understanding. 
-⁷Love will enter immediately into any mind that truly wants love, but the mind must want love truly. 
-⁸Wanting love truly means that the mind wants love without ambivalence, and wanting without ambivalence, is wholly without the ego’s ‘drive to get’.
+You do not love what you made, and what you made does not love you. 
+Being made out of the denial of the Father, the ego has no allegiance to the-ego’s maker. 
+You cannot conceive of the real relationship that exists between God and God’s creations because of your hatred for the self you made. 
+You project onto the ego the decision to separate, and projecting the decision to separate conflicts with the love you feel for the ego, because you made the ego. 
+No love in this world is without ambivalence between loving and hating, and since no ego has experienced love without ambivalence, the concept of love is beyond the-ego’s understanding. 
+Love will enter immediately into any mind that truly wants love, but the mind must want love truly. 
+Wanting love truly means that the mind wants love without ambivalence, and wanting without ambivalence, is wholly without the ego’s ‘drive to get’.
 :::
 
 ::: details Simplified
@@ -190,25 +190,25 @@ Love will come to you but you must truly want love to come.
 
 
 5. There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it again. 
-²It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
-³The Bible gives many references to the immeasurable gifts which are for you, but for which you must ask. 
-⁴This is not a condition as the ego sets conditions. 
-⁵It is the glorious condition of what you are.
+It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
+The Bible gives many references to the immeasurable gifts which are for you, but for which you must ask. 
+This is not a condition as the ego sets conditions. 
+It is the glorious condition of what you are.
 
 ::: details Expanded
 There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide it [the experience] again. 
-²It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
-³The Bible gives many references to the immeasurable gifts which are for you, but for which [gifts] you must ask. 
-⁴This [the condition that you must ask] is not a condition as the ego sets conditions. 
-⁵It [the condition that you must ask] is the glorious condition of what you are.
+It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
+The Bible gives many references to the immeasurable gifts which are for you, but for which [gifts] you must ask. 
+This [the condition that you must ask] is not a condition as the ego sets conditions. 
+It [the condition that you must ask] is the glorious condition of what you are.
 :::
 
 ::: details Substituted
 There is a kind of experience so different from anything the ego can offer that you will never want to cover or hide the experience again. 
-²It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
-³The Bible gives many references to the immeasurable gifts which are for you, but, for gifts, you must ask. 
-⁴The condition, that you must ask, is not a condition as the ego sets conditions. 
-⁵The condition, that you must ask, is the glorious condition of what you are.
+It is necessary to repeat that your belief in darkness and hiding is why the light cannot enter. 
+The Bible gives many references to the immeasurable gifts which are for you, but, for gifts, you must ask. 
+The condition, that you must ask, is not a condition as the ego sets conditions. 
+The condition, that you must ask, is the glorious condition of what you are.
 :::
 
 ::: details Simplified
@@ -220,28 +220,28 @@ But the experience is a condition of your being.
 
 
 6. No force except your own will is strong enough or worthy enough to guide you. 
-²In this you are as free as God, and must remain so forever. 
-³Let us ask the Father in my name to keep you mindful of His Love for you and yours for Him. 
-⁴He has never failed to answer this request, because it asks only for what He has already willed. 
-⁵Those who call truly are always answered. 
-⁶You shall have no other gods before Him because there *are* none.
+In this you are as free as God, and must remain so forever. 
+Let us ask the Father in my name to keep you mindful of His Love for you and yours for Him. 
+He has never failed to answer this request, because it asks only for what He has already willed. 
+Those who call truly are always answered. 
+You shall have no other gods before Him because there *are* none.
 
 ::: details Expanded
 No force except your own will is strong enough or worthy enough to guide you. 
-²In this [only your own will is strong enough for you] you are as free as God, and must remain so [as free as God] forever. 
-³Let us ask the Father in my name to keep you mindful of His [the Father’s] Love for you and yours [your love] for Him [God]. 
-⁴He [God] has never failed to answer this request [to keep you mindful of God’s love for you], because it [the request] asks only for what He [God] has already willed. 
-⁵Those who call truly are always answered. 
-⁶You shall have no other gods before Him [God] because there *are* none [gods].
+In this [only your own will is strong enough for you] you are as free as God, and must remain so [as free as God] forever. 
+Let us ask the Father in my name to keep you mindful of His [the Father’s] Love for you and yours [your love] for Him [God]. 
+He [God] has never failed to answer this request [to keep you mindful of God’s love for you], because it [the request] asks only for what He [God] has already willed. 
+Those who call truly are always answered. 
+You shall have no other gods before Him [God] because there *are* none [gods].
 :::
 
 ::: details Substituted
 No force except your own will is strong enough or worthy enough to guide you. 
-²In that only your own will is strong enough for you, you are as free as God, and must remain as free as God forever. 
-³Let us ask the Father in my name to keep you mindful of the Father’s Love for you and your love for God. 
-⁴God has never failed to answer the request to keep you mindful of God’s Love for you, because the request asks only for what God has already willed. 
-⁵Those who call truly are always answered. 
-⁶You shall have no other gods before God because there *are* no other gods.
+In that only your own will is strong enough for you, you are as free as God, and must remain as free as God forever. 
+Let us ask the Father in my name to keep you mindful of the Father’s Love for you and your love for God. 
+God has never failed to answer the request to keep you mindful of God’s Love for you, because the request asks only for what God has already willed. 
+Those who call truly are always answered. 
+You shall have no other gods before God because there *are* no other gods.
 :::
 
 ::: details Simplified
@@ -253,39 +253,39 @@ There are no other gods.
 
 
 7. It has never really entered your mind to give up every idea you ever had that opposes knowledge. 
-²You retain thousands of little scraps of fear that prevent the Holy One from entering. 
-³Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. 
-⁴No one can see through a wall, but I can step around it. 
-⁵Watch your mind for the scraps of fear, or you will be unable to ask me to do so. 
-⁶I can help you only as our Father created us. 
-⁷I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. 
-⁸I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. 
-⁹Because I wait in love and not in impatience, you will surely ask me truly. 
-¹⁰I will come in response to a single unequivocal call.
+You retain thousands of little scraps of fear that prevent the Holy One from entering. 
+Light cannot penetrate through the walls you make to block it, and it is forever unwilling to destroy what you have made. 
+No one can see through a wall, but I can step around it. 
+Watch your mind for the scraps of fear, or you will be unable to ask me to do so. 
+I can help you only as our Father created us. 
+I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. 
+I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. 
+Because I wait in love and not in impatience, you will surely ask me truly. 
+I will come in response to a single unequivocal call.
 
 ::: details Expanded
 It has never really entered your mind to give up every idea you ever had that opposes knowledge. 
-²You retain thousands of little scraps of fear that prevent the Holy One from entering. 
-³Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. 
-⁴No one can see through a wall, but I can step around it [a wall]. 
-⁵Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around a wall]. 
-⁶I can help you only as our Father created us. 
-⁷I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. 
-⁸I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
-⁹Because I wait in love and not [wait] in impatience, you will surely ask me truly. 
-¹⁰I will come in response to a single unequivocal call.
+You retain thousands of little scraps of fear that prevent the Holy One from entering. 
+Light cannot penetrate through the walls you make to block it [light], and it [light] is forever unwilling to destroy what you have made. 
+No one can see through a wall, but I can step around it [a wall]. 
+Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around a wall]. 
+I can help you only as our Father created us. 
+I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. 
+I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
+Because I wait in love and not [wait] in impatience, you will surely ask me truly. 
+I will come in response to a single unequivocal call.
 
 ::: details Substituted
 It has never really entered your mind to give up every idea you ever had that opposes knowledge. 
-²You retain thousands of little scraps of fear that prevent the Holy One from entering. 
-³Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. 
-⁴No one can see through a wall, but I can step around a wall. 
-⁵Watch your mind for the scraps of fear, or you will be unable to ask me to step around a wall. 
-⁶I can help you only as our Father created us. 
-⁷I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. 
-⁸I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
-⁹Because I wait in love and not wait in impatience, you will surely ask me truly. 
-¹⁰I will come in response to a single unequivocal call.
+You retain thousands of little scraps of fear that prevent the Holy One from entering. 
+Light cannot penetrate through the walls you make to block light, and light is forever unwilling to destroy what you have made. 
+No one can see through a wall, but I can step around a wall. 
+Watch your mind for the scraps of fear, or you will be unable to ask me to step around a wall. 
+I can help you only as our Father created us. 
+I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. 
+I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
+Because I wait in love and not wait in impatience, you will surely ask me truly. 
+I will come in response to a single unequivocal call.
 :::
 
 ::: details Simplified
@@ -307,25 +307,25 @@ I come when you ask truly.
 
 
 8. Watch carefully and see what it is you are really asking for. 
-²Be very honest with yourself in this, for we must hide nothing from each other. 
-³If you will really try to do this, you have taken the first step toward preparing your mind for the Holy One to enter. 
-⁴We will prepare for this together, for once He has come, you will be ready to help me make other minds ready for Him. 
-⁵How long will you deny Him His Kingdom?
+Be very honest with yourself in this, for we must hide nothing from each other. 
+If you will really try to do this, you have taken the first step toward preparing your mind for the Holy One to enter. 
+We will prepare for this together, for once He has come, you will be ready to help me make other minds ready for Him. 
+How long will you deny Him His Kingdom?
 
 ::: details Expanded
 Watch carefully and see what it is you are really asking for. 
-²Be very honest with yourself in this [seeing what you are really asking for], for we must hide nothing from each other. 
-³If you will really try to do this [seeing what you are really asking for], you have taken the first step toward preparing your mind for the Holy One to enter. 
-⁴We will prepare for this [the Holy One to enter your mind] together, for once He [the Holy One] has come, you will be ready to help me make other minds ready for Him [the Holy One]. 
-⁵How long will you deny Him [the Holy One] His [the-Holy-One’s] Kingdom?
+Be very honest with yourself in this [seeing what you are really asking for], for we must hide nothing from each other. 
+If you will really try to do this [seeing what you are really asking for], you have taken the first step toward preparing your mind for the Holy One to enter. 
+We will prepare for this [the Holy One to enter your mind] together, for once He [the Holy One] has come, you will be ready to help me make other minds ready for Him [the Holy One]. 
+How long will you deny Him [the Holy One] His [the-Holy-One’s] Kingdom?
 :::
 
 ::: details Substituted
 Watch carefully and see what it is you are really asking for. 
-²Be very honest with yourself in seeing what you are really asking for, for we must hide nothing from each other. 
-³If you will really try to see what you are really asking for, you have taken the first step toward preparing your mind for the Holy One to enter. 
-⁴We will prepare for the Holy One to enter your mind together, for once the Holy One has come, you will be ready to help me make other minds ready for the Holy One. 
-⁵How long will you deny the Holy One the-Holy-One’s Kingdom?
+Be very honest with yourself in seeing what you are really asking for, for we must hide nothing from each other. 
+If you will really try to see what you are really asking for, you have taken the first step toward preparing your mind for the Holy One to enter. 
+We will prepare for the Holy One to enter your mind together, for once the Holy One has come, you will be ready to help me make other minds ready for the Holy One. 
+How long will you deny the Holy One the-Holy-One’s Kingdom?
 :::
 
 ::: details Simplified
@@ -352,31 +352,31 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 {% endif %}
 
 9. In your own mind, though denied by the ego, is the declaration of your release. 
-²*God has given you everything*. 
-³This one fact means the ego does not exist, and this makes it profoundly afraid. 
-⁴In the ego’s language, ‘to have’ and ‘to be’ are different, but they are identical to the Holy Spirit. 
-⁵The Holy Spirit knows that you both *have* everything and *are* everything. 
-⁶Any distinction in this respect is meaningful only when the idea of ‘getting’, which implies a lack, has already been accepted. 
-⁷That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
+*God has given you everything*. 
+This one fact means the ego does not exist, and this makes it profoundly afraid. 
+In the ego’s language, ‘to have’ and ‘to be’ are different, but they are identical to the Holy Spirit. 
+The Holy Spirit knows that you both *have* everything and *are* everything. 
+Any distinction in this respect is meaningful only when the idea of ‘getting’, which implies a lack, has already been accepted. 
+That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
 
 ::: details Expanded
 In your own mind, though denied by the ego, is the declaration of your release. 
-²*God has given you everything*. 
-³This one fact [that God has given you everything] means the ego does not exist, and this [the ego not existing] makes it [the ego] profoundly afraid. 
-⁴In the ego’s language, ‘to have’ and ‘to be’ are different, but they [to have and to be] are identical to the Holy Spirit. 
-⁵The Holy Spirit knows that you both *have* everything and *are* everything. 
-⁶Any distinction in this respect [having and being everything] is meaningful only when the idea of ‘getting’, which [idea] implies a lack, has already been accepted. 
-⁷That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
+*God has given you everything*. 
+This one fact [that God has given you everything] means the ego does not exist, and this [the ego not existing] makes it [the ego] profoundly afraid. 
+In the ego’s language, ‘to have’ and ‘to be’ are different, but they [to have and to be] are identical to the Holy Spirit. 
+The Holy Spirit knows that you both *have* everything and *are* everything. 
+Any distinction in this respect [having and being everything] is meaningful only when the idea of ‘getting’, which [idea] implies a lack, has already been accepted. 
+That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
 :::
 
 ::: details Substituted
 In your own mind, though denied by the ego, is the declaration of your release. 
-²*God has given you everything*. 
-³The one fact that God has given you everything, means the ego does not exist, and the ego not existing, makes the ego profoundly afraid. 
-⁴In the ego’s language, ‘to have’ and ‘to be’ are different, but to have and to be are identical to the Holy Spirit. 
-⁵The Holy Spirit knows that you both *have* everything and *are* everything. 
-⁶Any distinction in the respect of having and being everything, is meaningful only when the idea of ‘getting’, the idea of getting implies a lack, the idea of getting has already been accepted. 
-⁷That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
+*God has given you everything*. 
+The one fact that God has given you everything, means the ego does not exist, and the ego not existing, makes the ego profoundly afraid. 
+In the ego’s language, ‘to have’ and ‘to be’ are different, but to have and to be are identical to the Holy Spirit. 
+The Holy Spirit knows that you both *have* everything and *are* everything. 
+Any distinction in the respect of having and being everything, is meaningful only when the idea of ‘getting’, the idea of getting implies a lack, the idea of getting has already been accepted. 
+That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
 :::
 
 ::: details Simplified
@@ -388,22 +388,22 @@ Lack requires getting in order to have.
 
 
 10. The calm being of God’s Kingdom, which in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
-²The ego is desperate because it opposes literally invincible odds, whether you are asleep or awake. 
-³Consider how much vigilance you have been willing to exert to protect your ego, and how little to protect your right mind. 
-⁴Who but the insane would undertake to believe what is not true, and then protect this belief at the cost of truth?
+The ego is desperate because it opposes literally invincible odds, whether you are asleep or awake. 
+Consider how much vigilance you have been willing to exert to protect your ego, and how little to protect your right mind. 
+Who but the insane would undertake to believe what is not true, and then protect this belief at the cost of truth?
 
 ::: details Expanded
 The calm being of God’s Kingdom, which [calm being] in your sane mind is perfectly conscious, is ruthlessly banished from the part of the mind the ego rules. 
-²The ego is desperate because it [the ego] opposes literally invincible odds, whether you are asleep or awake. 
-³Consider how much vigilance you have been willing to exert to protect your ego, and how little [vigilance] to protect your right mind. 
-⁴Who but the insane would undertake to believe what is not true, and then protect this belief [in what is not true] at the cost of truth?
+The ego is desperate because it [the ego] opposes literally invincible odds, whether you are asleep or awake. 
+Consider how much vigilance you have been willing to exert to protect your ego, and how little [vigilance] to protect your right mind. 
+Who but the insane would undertake to believe what is not true, and then protect this belief [in what is not true] at the cost of truth?
 :::
 
 ::: details Substituted
 The calm being of God’s Kingdom, calm being in your sane mind is perfectly conscious, calm being is ruthlessly banished from the part of the mind the ego rules. 
-²The ego is desperate because the ego opposes literally invincible odds, whether you are asleep or awake. 
-³Consider how much vigilance you have been willing to exert to protect your ego, and how little vigilance to protect your right mind. 
-⁴Who but the insane would undertake to believe what is not true, and then protect this belief in what is not true at the cost of truth?
+The ego is desperate because the ego opposes literally invincible odds, whether you are asleep or awake. 
+Consider how much vigilance you have been willing to exert to protect your ego, and how little vigilance to protect your right mind. 
+Who but the insane would undertake to believe what is not true, and then protect this belief in what is not true at the cost of truth?
 :::
 
 ::: details Simplified

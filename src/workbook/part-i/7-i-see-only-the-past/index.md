@@ -13,13 +13,13 @@ next: W-pI.8
 ---
 
 1. This idea is particularly difficult to believe at first. 
-²Yet it is the rationale for all of the preceding ones.  
- ³It is the reason why nothing that you see means anything.  
- ⁴It is the reason why you have given everything you see all the meaning that it has for you.  
- ⁵It is the reason why you do not understand anything you see.  
- ⁶It is the reason why your thoughts do not mean anything, and why they are like the things you see.  
- ⁷It is the reason why you are never upset for the reason you think.  
- ⁸It is the reason why you are upset because you see something that is not there.
+Yet it is the rationale for all of the preceding ones.  
+ It is the reason why nothing that you see means anything.  
+ It is the reason why you have given everything you see all the meaning that it has for you.  
+ It is the reason why you do not understand anything you see.  
+ It is the reason why your thoughts do not mean anything, and why they are like the things you see.  
+ It is the reason why you are never upset for the reason you think.  
+ It is the reason why you are upset because you see something that is not there.
 
 
 ::: details Annotations 
@@ -27,23 +27,23 @@ next: W-pI.8
 #::: details Expanded
 
 This idea [you see only the past] is particularly difficult to believe at first. 
-²Yet [the idea you see only the past] is the rationale for all of the preceding ones [ideas].  
- ³It [you see only the past] is the reason why nothing that you see means anything.  
- ⁴It [you see only the past] is the reason why you have given everything you see all the meaning that it [everything you see] has for you.  
- ⁵It [you see only the past] is the reason why you do not understand anything you see.  
- ⁶It [you see only the past] is the reason why your thoughts do not mean anything, and why they [your thoughts] are like the things you see.  
- ⁷It [you see only the past] is the reason why you are never upset for the reason you think.  
- ⁸It [you see only the past] is the reason why you are upset because you see something that is not there.
+Yet [the idea you see only the past] is the rationale for all of the preceding ones [ideas].  
+ It [you see only the past] is the reason why nothing that you see means anything.  
+ It [you see only the past] is the reason why you have given everything you see all the meaning that it [everything you see] has for you.  
+ It [you see only the past] is the reason why you do not understand anything you see.  
+ It [you see only the past] is the reason why your thoughts do not mean anything, and why they [your thoughts] are like the things you see.  
+ It [you see only the past] is the reason why you are never upset for the reason you think.  
+ It [you see only the past] is the reason why you are upset because you see something that is not there.
 
 #::: details Substituted
 
-You see only the past is particularly difficult to believe at first. ²Yet you see only the past is the rationale for all of the preceding ideas.  
- ³You see only the past is the reason why nothing that you see means anything.  
- ⁴You see only the past is the reason why you have given everything you see all the meaning that everything you see has for you.  
- ⁵You see only the past is the reason why you do not understand anything you see.  
- ⁶You see only the past is the reason why your thoughts do not mean anything, and why your thoughts are like the things you see.  
- ⁷You see only the past is the reason why you are never upset for the reason you think.  
- ⁸You see only the past is the reason why you are upset because you see something that is not there.
+You see only the past is particularly difficult to believe at first. Yet you see only the past is the rationale for all of the preceding ideas.  
+ You see only the past is the reason why nothing that you see means anything.  
+ You see only the past is the reason why you have given everything you see all the meaning that everything you see has for you.  
+ You see only the past is the reason why you do not understand anything you see.  
+ You see only the past is the reason why your thoughts do not mean anything, and why your thoughts are like the things you see.  
+ You see only the past is the reason why you are never upset for the reason you think.  
+ You see only the past is the reason why you are upset because you see something that is not there.
 
 #::: details Simplified
 
@@ -52,22 +52,22 @@ The reason for all the preceding ideas is that you see only the past.
 :::
 
 2. Old ideas about time are very difficult to change, because everything you believe is rooted in time, and depends on your not learning these new ideas about it. 
-²Yet that is precisely why you need new ideas about time. 
-³This first time idea is not really so strange as it may sound at first.
+Yet that is precisely why you need new ideas about time. 
+This first time idea is not really so strange as it may sound at first.
 
 ::: details Annotations
 
 #::: details Expanded
 
 Old ideas about time are very difficult to change, because everything you believe is rooted in time, and depends on your not learning these new ideas about it [time]. 
-²Yet that [everything you believe is rooted in time] is precisely why you need new ideas about time. 
-³This first time idea is not really so strange as it [this first time idea] may sound at first.
+Yet that [everything you believe is rooted in time] is precisely why you need new ideas about time. 
+This first time idea is not really so strange as it [this first time idea] may sound at first.
 
 #::: details Substituted
 
 Old ideas about time are very difficult to change, because everything you believe is rooted in time, and depends on your not learning these new ideas about time. 
-²Yet everything you believe is rooted in time is precisely why you need new ideas about time. 
-³This first time idea is not really so strange as this first time idea may sound at first.
+Yet everything you believe is rooted in time is precisely why you need new ideas about time. 
+This first time idea is not really so strange as this first time idea may sound at first.
 
 #::: details Simplified
 
@@ -77,33 +77,33 @@ Everything you believe depends on your ideas about time. You need new ideas abou
 
 
 3. Look at a cup, for example. 
-²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-³Are not your aesthetic reäctions to the cup, too, based on past experiences? 
-⁴How else would you know whether or not this kind of cup will break if you drop it? 
-⁵What do you know about this cup except what you learned in the past? 
-⁶You would have no idea what this cup is, except for your past learning. 
-⁷Do you, then, really see it?
+Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
+Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+How else would you know whether or not this kind of cup will break if you drop it? 
+What do you know about this cup except what you learned in the past? 
+You would have no idea what this cup is, except for your past learning. 
+Do you, then, really see it?
 
 ::: details Annotations
 
 #::: details Expanded
 
 Look at a cup, for example. 
-²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-³Are not your aesthetic reäctions to the cup, too, based on past experiences? 
-⁴How else would you know whether or not this kind of cup will break if you drop it [the cup]? 
-⁵What do you know about this cup except what you learned in the past? 
-⁶You would have no idea what this cup is, except for your past learning. 
-⁷Do you, then, really see it [the cup]?
+Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
+Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+How else would you know whether or not this kind of cup will break if you drop it [the cup]? 
+What do you know about this cup except what you learned in the past? 
+You would have no idea what this cup is, except for your past learning. 
+Do you, then, really see it [the cup]?
 
 #::: details Substituted
 
 Look at a cup, for example. 
-²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-³Are not your aesthetic reäctions to the cup, too, based on past experiences? 
-⁴How else would you know whether or not this kind of cup will break if you drop the cup? 
-⁵What do you know about this cup except what you learned in the past? 
-⁶You would have no idea what this cup is, except for your past learning. ⁷Do you, then, really see the cup?
+Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
+Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+How else would you know whether or not this kind of cup will break if you drop the cup? 
+What do you know about this cup except what you learned in the past? 
+You would have no idea what this cup is, except for your past learning. Do you, then, really see the cup?
 
 #::: details Simplified
 
@@ -112,16 +112,16 @@ Your experiences and knowledge depend on your past experiences.
 :::
 
 4. Look about you. 
-²This is equally true of whatever you look at. 
-³Acknowledge this by applying the idea for today indiscriminately to whatever catches your eye. 
-⁴For example:
+This is equally true of whatever you look at. 
+Acknowledge this by applying the idea for today indiscriminately to whatever catches your eye. 
+For example:
 
->⁵I see only the past in this pencil.  
-⁶I see only the past in this shoe.  
-⁷I see only the past in this hand.  
-⁸I see only the past in that body.  
-⁹I see only the past in that face.
+>I see only the past in this pencil.  
+I see only the past in this shoe.  
+I see only the past in this hand.  
+I see only the past in that body.  
+I see only the past in that face.
 
 5. Do not linger over any one thing in particular, but remember to omit nothing specifically. 
-²Glance briefly at each subject, and then move on to the next. 
-³Three or four practice periods, each to last a minute or so, will be enough.
+Glance briefly at each subject, and then move on to the next. 
+Three or four practice periods, each to last a minute or so, will be enough.
