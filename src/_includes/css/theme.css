@@ -143,6 +143,7 @@ p.bold {
 
 p.blockquote {
 	margin-left: 2.5em;
+	margin-right: 2.5em;
 	font-style: italic;
 }
 
