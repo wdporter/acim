@@ -16,5 +16,7 @@
     "clean-css": "^4.2.3",
     "markdown-it-container": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "dependency-graph": "^0.9.0"
+  }
 }
