@@ -15,7 +15,6 @@
 // 	"description": "Log output to console"
 // }
 {
-	
 	"Front Matter": {
 		"scope": "html",
 		"prefix": "fm",
@@ -23,15 +22,28 @@
 			"---",
 			"layout: content.njk",
 			"title: SECTION TITLE",
-			"reference: T-N.X",
+			"reference: T-Ch.X",
+			"prev: T-Ch.X - I",
+			"next: T-Ch.X + I",
 			"eleventyNavigation:",
-			"\tkey: T-N.X",
-			"\ttitle: T-N.X SECTION TITLE",
-			"\tparent: T-N",
+			"\tkey: T-Ch.X",
+			"\ttitle: T-Ch.X SECTION TITLE",
+			"\tparent: T-Ch",
 			"\torder: SECTION NUMBER",
-			"prev: T-N.X - I",
-			"next: T-N.X + I",
 			"---"
+		],
+		"description": "Add front matter for section"
+	},
+	"Details": {
+		"scope": "html",
+		"prefix": "det",
+		"body": [
+			"{% if showDetails %}",
+			"<details>",
+			"\t<summary>Expanded</summary>",
+			"\t",
+			"</details>",
+			"{% endif %}"
 		],
 		"description": "Add front matter for section"
 	}

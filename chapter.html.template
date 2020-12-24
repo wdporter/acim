@@ -61,4 +61,10 @@ next: T-1.III
 :::
 {% endif %}
 
+{% if showDetails %}
+<details>
+  <summary>Expanded</summary>
+
+</details>
+{% endif %}
 

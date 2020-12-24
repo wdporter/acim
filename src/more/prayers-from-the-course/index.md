@@ -88,3 +88,16 @@ I do not feel guilty, because the Holy Spirit will undo all the consequences of 
 I choose to let the Holy Spirit, by allowing the Holy Spirit to decide for God for me.  
 —[T-5.VII.6:7–11](/text/5-healing-and-wholeness/vii-the-decision-for-god#p6)
 
+## Teach Only Love
+Teach only love, for that is what you are.  
+—[T-6.I.13:1](/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion#p13)
+
+## The Lessons of the Holy Spirit
+To have, give all to all.  
+—[T-6.V-A.5:13](/text/6-the-lessons-of-love/v-a-to-have-give-all-to-all#p5)
+
+To have peace, teach peace to learn it.  
+[T-6.V-B.7:5](/text/6-the-lessons-of-love/v-b-to-have-peace-teach-peace-to-learn-it#p7)
+
+Be vigilant only for God and His Kingdom.  
+[T-6.V-C.2:7](/text/6-the-lessons-of-love/v-c-be-vigilant-only-for-god-and-his-kingdom#p2)

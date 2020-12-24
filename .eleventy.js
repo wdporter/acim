@@ -3,8 +3,6 @@ const CleanCSS = require("clean-css");
 
 module.exports = cfg => {
 
-	let showCommentary = false
-
 	cfg.addPassthroughCopy("assets");
 	cfg.addPlugin(eleventyNavigationPlugin);
 	cfg.addFilter("cssmin", function (code) {
