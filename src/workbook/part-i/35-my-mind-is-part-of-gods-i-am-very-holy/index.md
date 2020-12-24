@@ -134,7 +134,7 @@ I am very holy.
 
 8. During the longer exercise periods, there will probably be intervals in which nothing specific occurs to you. 
 Do not strain to think up specific things to fill the interval, but merely relax and repeat today’s idea slowly until something occurs to you. 
-Although nothing that does occur should be omitted from the exercises, nothing should be ‘dug out’ with effort. 
+Although nothing that does occur should be omitted from the exercises, nothing should be <q>dug out</q> with effort. 
 Neither force nor discrimination should be used.
 
 9. As often as possible during the day, pick up a specific attribute or attributes you are ascribing to yourself at the time and apply the idea for today to them, adding the idea in the form stated above to each of them. 

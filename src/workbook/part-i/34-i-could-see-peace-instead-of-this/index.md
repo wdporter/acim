@@ -44,7 +44,7 @@ All applications should be done with your eyes closed.
 It is your inner world to which the applications of today's idea should be made.
 
 3. Some five minutes of mind searching are required for each of the longer practice periods. 
-Search your mind for fear thoughts, anxiety-provoking situations, ‘offending’ personalities or events, or anything else about which you are harbouring unloving thoughts. 
+Search your mind for fear thoughts, anxiety-provoking situations, <q>offending</q> personalities or events, or anything else about which you are harbouring unloving thoughts. 
 Note them all casually, repeating the idea for today slowly as you watch them arise in your mind, and let each one go, to be replaced by the next.
 
 4. If you begin to experience difficulty in thinking of specific subjects, continue to repeat the idea to yourself in an unhurried manner, without applying it to anything in particular. 

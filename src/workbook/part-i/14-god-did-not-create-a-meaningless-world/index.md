@@ -67,9 +67,9 @@ God did not create that airplane crash, and so it is not real.
 God did not create that disaster [specify], and so it is not real.
 
 5. Suitable subjects for the application of today's idea also include anything you are afraid might happen to you, or to anyone about whom you are concerned. 
-In each case, name the ‘disaster’ quite specifically. 
+In each case, name the <q>disaster</q> quite specifically. 
 Do not use general terms. 
-For example, do not say, “God did not create illness”, but, “God did not create cancer”, or heart attacks, or whatever may arouse fear in you.
+For example, do not say, <q>God did not create illness</q>, but, <q>God did not create cancer</q>, or heart attacks, or whatever may arouse fear in you.
 
 6. This is your personal repertory of horrors at which you are looking. 
 These things are part of the world you see. 

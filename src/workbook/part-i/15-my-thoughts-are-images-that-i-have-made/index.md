@@ -14,7 +14,7 @@ next: W-pI.16
 
 1. It is because the thoughts you think you think appear as images that you do not recognise them as nothing. 
 You think you think them, and so you think you see them. 
-This is how your ‘seeing’ was made. 
+This is how your <q>seeing</q> was made. 
 This is the function you have given your body’s eyes. 
 It is not seeing. 
 It is image making. 
@@ -22,25 +22,6 @@ It takes the place of seeing, replacing vision with illusions.
 
 ::: details Annotations
 
-#::: details Expanded
-
-It is because the thoughts you think you think appear as images that you do not recognise them [thoughts] as nothing. 
-You think you think them [thoughts], and so you think you see them [thoughts]. 
-This [thinking] is how your ‘seeing’ was made. 
-This [seeing thoughts] is the function you have given your body’s eyes. 
-It [seeing thoughts] is not seeing. 
-It [seeing thoughts] is image making. 
-It [seeing thoughts] takes the place of seeing, replacing vision with illusions.
-
-#::: details Substituted
-
-It is because the thoughts you think you think appear as images that you do not recognise thoughts as nothing. 
-You think you think thoughts, and so you think you see thoughts. 
-Thinking is how your ‘seeing’ was made. 
-Seeing thoughts is the function you have given your body’s eyes. 
-Seeing thoughts is not seeing. 
-Seeing thoughts is image making. 
-Seeing thoughts takes the place of seeing, replacing vision with illusions.
 
 #::: details Simplified
 
@@ -74,7 +55,7 @@ Real vision begins when edges of light begun to be seen
 
 :::
 
-3. As we go along, you may have many ‘light episodes’. 
+3. As we go along, you may have many <q>light episodes</q>. 
 They [light episodes] may take many different forms, some of them [forms] quite unexpected. 
 Do not be afraid of them [light episodes]. 
 They [light episodes] are signs that you are opening your eyes at last. 
@@ -84,15 +65,6 @@ But they [these exercises] will prepare the way to it [knowledge].
 
 ::: details Annotations
 
-#::: details Expanded
-
-As we go along, you may have many ‘light episodes’. 
-Light episodes may take many different forms, some of the forms can be quite unexpected. 
-Do not be afraid of light episodes. 
-Light episodes are signs that you are opening your eyes at last. 
-Light episodes will not persist, because light episodes merely symbolise true perception, and light episodes are not related to knowledge. 
-These exercises will not reveal knowledge to you. 
-But these exercises will prepare the way to knowledge.
 
 #::: details Simplified
 

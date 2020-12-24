@@ -15,7 +15,7 @@ next: W-pI.37
 1. Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 You are holy because your mind is part of God’s. 
 And because you are holy, your sight must be holy as well. 
-‘Sinless’ means without sin. 
+<q>Sinless</q> means without sin. 
 You cannot be without sin a little. 
 You are sinless or not. 
 If your mind is part of God’s you must be sinless, or a part of His Mind would be sinful. 
@@ -23,27 +23,7 @@ Your sight is related to His Holiness, not to your ego, and therefore not to you
 
 ::: details Annotations
 
-#::: details Expanded
 
-Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
-You are holy because your mind is part of God’s [mind]. 
-And because you are holy, your sight must be holy as well. 
-‘Sinless’ means without sin. 
-You cannot be without sin a little. 
-You are sinless or not. 
-If your mind is part of God’s [mind] you must be sinless, or a part of His [God’s] Mind would be sinful. 
-Your sight is related to His [God’s] Holiness, [your sight is] not [related] to your ego, and therefore [your sight is] not [related] to your body.
-
-#::: details Substituted
-
-Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
-You are holy because your mind is part of God’s mind. 
-And because you are holy, your sight must be holy as well. 
-‘Sinless’ means without sin. 
-You cannot be without sin a little. 
-You are sinless or not. 
-If your mind is part of God’s mind, you must be sinless, or a part of God’s Mind would be sinful. 
-Your sight is related to God’s Holiness, your sight is not related to your ego, and therefore your sight is not related to your body.
 
 #::: details Simplified
 

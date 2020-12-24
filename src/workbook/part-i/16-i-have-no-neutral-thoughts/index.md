@@ -50,26 +50,13 @@ Thoughts create their own likeness.
 
 :::
 
-2. There is no more self-contradictory concept than that of ‘idle thoughts’. 
+2. There is no more self-contradictory concept than that of <q>idle thoughts</q>. 
 What gives rise to the perception of a whole world can hardly be called idle. 
 Every thought you have contributes to truth or to illusion; either it extends the truth or it multiplies illusions. 
 You can indeed multiply nothing, but you will not extend it by doing so.
 
 ::: details Annotations
 
-#::: details Expanded
-
-There is no more self-contradictory concept than that [the concept] of ‘idle thoughts’. 
-What gives rise to the perception of a whole world can hardly be called idle. 
-Every thought you have contributes to truth or to illusion; either it [any thought you have] extends the truth or it [any thought you have] multiplies illusions. 
-You can indeed multiply nothing, but you will not extend it [nothing] by doing so [multiplying nothing].
-
-#::: details Substituted
-
-There is no more self-contradictory concept than the concept of ‘idle thoughts’. 
-What gives rise to the perception of a whole world can hardly be called idle. 
-Every thought you have contributes to truth or to illusion; either any thought you have extends the truth or any thought you have multiplies illusions. 
-You can indeed multiply nothing, but you will not extend nothing by multiplying nothing.
 
 #::: details Simplified
 
@@ -107,7 +94,7 @@ All fear thoughts are destructive and unreal.
 
 :::
 
-4. In applying the idea for today, search your mind for a minute or so with eyes closed, and actively seek not to overlook any ‘little’ thought that may tend to elude the search. 
+4. In applying the idea for today, search your mind for a minute or so with eyes closed, and actively seek not to overlook any <q>little</q> thought that may tend to elude the search. 
 This is quite difficult until you get used to it. 
 You will find that it is still hard for you not to make artificial distinctions. 
 Every thought that occurs to you, regardless of the qualities that you assign to it, is a suitable subject for applying today’s idea.

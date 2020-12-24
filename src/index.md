@@ -50,7 +50,7 @@ It also emphasises that teaching is a constant process; it goes on every moment 
 This is not a course in philosophical speculation, nor is it concerned with precise terminology. 
 It is concerned only with Atonement, or the correction of perception. 
 The means of the Atonement is forgiveness. 
-The structure of ‘individual consciousness’ is essentially irrelevant because it is a concept representing the ‘original error’ or the ‘original sin’.
+The structure of <q>individual consciousness</q> is essentially irrelevant because it is a concept representing the <q>original error</q> or the <q>original sin</q>.
 To study the error itself does not lead to correction, if you are indeed to succeed in overlooking the error. 
 And it is just this process of overlooking at which the course aims. 
 [🡕](/clarification-of-terms/)
