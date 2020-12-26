@@ -1,14 +1,9 @@
 ---
 layout: content.njk
-title: Search
+title: Search Index
 reference: ""
-prev: More-P
+prev: ""
 next: ""
-eleventyNavigation:
-  key: More-S
-  title: Search
-  parent: More
-  order: 2
 ---
 
 <input type=text id=searchTerm onkeydown="if (event.key == 'Enter') search()">
@@ -156,10 +151,7 @@ eleventyNavigation:
   ]
 
 const words = [
-    {
-      us: "coexist",
-      gb: "coëxist"
-    }, {
+  {
       us: "emphasize",
       gb: "emphasise"
     }, {
@@ -219,13 +211,13 @@ const words = [
   })
 
 
+  //create a file download for a pre-built index
+  // use it like this:
+  // var idx = lunr.Index.load(JSON.parse(data))
   const serialisedIndex = JSON.stringify(idx)
   const file = new Blob([serialisedIndex], {type: "application/json"})
   downloadButton.setAttribute("href", URL.createObjectURL(file))
   downloadButton.setAttribute("download", "index.json")
-
-
-  //todo, create a file download for a pre-built index
 
 
   var search = function () {
