@@ -150,3 +150,7 @@ p.indent {
 p.double-indent {
 	margin-left: 5em;
 }
+
+mark {
+	padding: initial;
+}
