@@ -1,0 +1,128 @@
+---
+layout: content.njk
+title: Search
+reference: ""
+eleventyNavigation:
+  key: More-S
+  title: Search
+  parent: More
+  order: 2
+prev: "More-P"
+next: ""
+---
+
+<input type=text id=searchTerm onkeydown="if (event.key == 'Enter') search()">
+
+<button onclick=search()>Search</button>
+
+<div id=result></div>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+
+var data = `
+{% include search-index.json %}
+`
+
+
+
+const words = [
+  {
+      us: "emphasize",
+      gb: "emphasise"
+    }, {
+      us: "judgment",
+      gb: "judgement"
+    }, {
+      us: "realize",
+      gb: "realise"
+    }, {
+      us: "recognize",
+      gb: "recognise"
+    }
+  ]
+
+
+  const normaliseSpelling = function (builder) {
+
+    // Define a pipeline function that converts 'gray' to 'grey'
+
+    const pipelineFunction = function (token) {
+      
+      const word = words.find(function (w) {
+        return w.us == token.toString()
+      })
+
+      if (word) {
+        return token.update(function () {
+          searchTokens.push(word.gb)
+          return word.gb
+        })
+      } else {
+        searchTokens.push(token.toString())
+        return token
+      }
+    }
+
+    // Register the pipeline function so the index can be serialised
+    lunr.Pipeline.registerFunction(pipelineFunction, 'normaliseSpelling')
+
+    // Add the pipeline function to both the indexing pipeline …
+    // builder.pipeline.before(lunr.stemmer, pipelineFunction) pretty sure it's not necessary, might want to make sure
+    // … and the searching pipeline
+    builder.searchPipeline.before(lunr.stemmer, pipelineFunction)
+  }
+
+  const searchTokens = []
+
+  let idx = lunr(function () {
+    this.use(normaliseSpelling)
+  })
+  idx = lunr.Index.load(JSON.parse(data)) // TODO perhaps one day load via ajax
+
+
+
+  var search = function () {
+    console.log(`searching: ${searchTerm.value}`)
+    searchTokens.length = 0;
+    result.innerHTML = ""
+    var results = idx.search(searchTerm.value)
+    if (results.length == 0) {
+      result.innerHTML = `We could not find anything for ‘${searchTerm.value}’.`
+      return;
+    }
+    var out = []
+
+    for (var i = 0; i < results.length; ++i) {
+      var item = results[i]
+      // find our document that matches this search result
+
+      //TODO load via ajax the matching file
+      var doc = documents.find(function (doc) {
+        return item.ref === doc.id
+      })
+
+      // add mark tags into the document's body
+      var docFormatted = doc.body
+      let keys = Object.keys(item.matchData.metadata).concat(searchTokens)
+      keys = [...new Set(keys)] // deduplicate
+      keys.forEach(function (key) {
+        var reg = new RegExp(key, "gi")
+        docFormatted = docFormatted.replace(reg, "<mark>$&</mark>")
+      })
+
+      // create a marked up string to be our search result
+      var searchResultHtml = `<p><a href="${doc.url}">${doc.id}</a>&emsp;${docFormatted} <a href="${doc.url}">→</a></p><blockquote>${JSON.stringify(item)}</blockquote>`
+
+      out.push(searchResultHtml)
+    }
+
+    result.innerHTML = out.join("<hr>")
+
+  }
+
+  const downloadIndex = function() {
+    
+  }
+
+</script>
