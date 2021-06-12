@@ -1,6 +1,7 @@
 :root {
-	--nc-font-sans: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
-	--nc-font-serif: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	--nc-font-sans: sans-serif;
+	--nc-font-serif: serif; 
+	--nc-font-mono: mono; 
 	--nc-tx-1: #111111;
 	--nc-bg-1: #fffff8;
 }
@@ -27,6 +28,12 @@ body {
 	line-height: 1.625;
 }
 
+article {
+	margin-bottom: 2rem;
+	font-family: var(--nc-font-serif);
+}
+
+
 h1,
 h2,
 h3 {
@@ -39,6 +46,10 @@ h3 {
 h2, h3 {
 	line-height: 1.25;
 	text-align: center;
+}
+
+h2 {
+	font-family: var(--nc-font-sans);
 }
 
 h3 {
@@ -127,8 +138,10 @@ margin-top: -2rem;
 }
 
 details > summary {
-  background-color: var(--nc-bg-2);
+  background-color: var(--nc-bg-3);
   padding: .5rem 1rem;
+	font-family: var(--nc-font-sans);
+;
 }
 
 details[open] summary {
@@ -136,15 +149,10 @@ details[open] summary {
 }
 
 details > p {
-  border: 2px solid var(--nc-bg-2);
+  border: 2px solid var(--nc-bg-3);
   margin-top: 0;
   padding: 1rem;
 }
-
-article {
-	margin-bottom: 2rem;
-}
-
 
 section { 
 	overflow:auto
