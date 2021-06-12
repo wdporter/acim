@@ -117,7 +117,29 @@ main > nav li + li::before {
 	content: "→";
 }
 
+details {
+background-color: initial;
+border: initial;
+}
 
+details + details {
+margin-top: -2rem;
+}
+
+details > summary {
+  background-color: var(--nc-bg-2);
+  padding: .5rem 1rem;
+}
+
+details[open] summary {
+	margin-bottom: initial; 
+}
+
+details > p {
+  border: 2px solid var(--nc-bg-2);
+  margin-top: 0;
+  padding: 1rem;
+}
 
 article {
 	margin-bottom: 2rem;
