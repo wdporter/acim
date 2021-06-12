@@ -1,7 +1,7 @@
 :root {
-	--nc-font-sans: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif
-	--nc-font-serif: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
-	--nc-font-mono: Consolas, 'Lucida Console', monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
+	--nc-font-sans: sans-serif;
+	--nc-font-serif: serif; 
+	--nc-font-mono:  monospace;
 
 	/* Light theme */
 	--nc-tx-1: #000000;
