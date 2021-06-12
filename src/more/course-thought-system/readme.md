@@ -1,3 +1,19 @@
+---
+layout: content-no-prevnext.njk
+title: Course Thought System
+reference: ""
+eleventyNavigation:
+  key: More-CTS
+  title: Course Thought System
+  parent: More
+  order: 2
+prev: ""
+next: ""
+---
+
+
+
+
 ## Course Thought System 
 
 #### by Tony Ponticello

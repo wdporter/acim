@@ -1,22 +1,25 @@
 {
-  "name": "a-course-in-miracles",
-  "version": "1.0.0",
-  "description": "",
-  "main": ".eleventy.js",
-  "scripts": {
-    "start": "npx eleventy --serve --quiet"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.2.0",
-    "@exampledev/new.css": "^1.1.3",
-    "clean-css": "^4.2.3",
-    "markdown-it-container": "^2.0.0"
-  },
-  "dependencies": {
-    "dependency-graph": "^0.9.0"
-  }
+	"name": "a-course-in-miracles",
+	"version": "1.0.0",
+	"description": "",
+	"main": ".eleventy.js",
+	"scripts": {
+		"serve": "npx @11ty/eleventy --serve",
+		"watch": "npx @11ty/eleventy --watch",
+		"build": "npx @11ty/eleventy",
+		"clean": "rmdir /s /q _site"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@11ty/eleventy": "^0.12.1",
+		"@11ty/eleventy-navigation": "^0.2.0",
+		"@exampledev/new.css": "^1.1.3",
+		"clean-css": "^4.2.3",
+		"markdown-it-container": "^2.0.0"
+	},
+	"dependencies": {
+		"dependency-graph": "^0.9.0"
+	}
 }
