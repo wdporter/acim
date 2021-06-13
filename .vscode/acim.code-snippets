@@ -57,5 +57,17 @@
 			"{% endif %}"
 		],
 		"description": "Add front matter for section"
+	},
+	"Search": {
+		"scope": "javascript",
+		"prefix": "search",
+		"body": [
+			"\t\t{",
+			"\t\t\t\"id\": \"T-1.I.${1:p}$0\",",
+			"\t\t\t\"url\": \"/text/i-the-meaning-of-miracles/i-principles-of-miracles/#p${1:p}\",",
+			"\t\t\t\"body\": \"$2\"",
+			"\t\t},",
+		],
+		"description": "add a search json entry"
 	}
 }
