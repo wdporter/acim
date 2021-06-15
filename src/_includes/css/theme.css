@@ -148,7 +148,7 @@ details[open] summary {
 	margin-bottom: initial; 
 }
 
-details > p {
+details > div {
   border: 2px solid var(--nc-bg-3);
   margin-top: 0;
   padding: 1rem;
@@ -184,3 +184,11 @@ p.double-indent {
 mark {
 	padding: initial;
 }
+
+blockquote {
+	padding: unset;
+	background: unset;
+	border-left: unset;
+	font-style:italic;
+}
+

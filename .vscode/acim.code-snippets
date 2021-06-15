@@ -43,17 +43,20 @@
 			"\t<summary>Expanded</summary>",
 			"\t<p>",
 			"\t\t$0",
-			"</details>",
+			"</div>
+</details>",
 			"<details>",
 			"\t<summary>Substituted</summary>",
 			"\t<p>",
 			"\t\t",
-			"</details>",
+			"</div>
+</details>",
 			"<details>",
 			"\t<summary>Simplified</summary>",
 			"\t<p>",
 			"\t\t",
-			"</details>",
+			"</div>
+</details>",
 			"{% endif %}"
 		],
 		"description": "Add front matter for section"

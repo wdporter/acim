@@ -155,9 +155,12 @@ abbr:hover {
 }
 
 blockquote {
-	padding: 1.5rem;
-	background: var(--nc-bg-2);
-	border-left: 5px solid var(--nc-bg-3);
+	padding: unset;
+	background: unset;
+	border-left: unset;
+
+	display: block;
+	margin: 1em 40px;
 }
 
 abbr {
