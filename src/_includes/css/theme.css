@@ -164,21 +164,17 @@ div.zero-height {
 	height: 0;
 }
 
-p.italic {
+
+.italic {
 	font-style: italic;
 }
 
-p.bold {
+.bold {
 	font-weight: bold;
 }
 
-p.indent {
-	margin-left: 2.5em;
-	margin-right: 2.5em;
-}
-
-p.double-indent {
-	margin-left: 5em;
+.larger {
+	font-size: 1.25rem;
 }
 
 mark {
