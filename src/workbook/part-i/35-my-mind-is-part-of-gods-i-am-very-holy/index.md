@@ -106,7 +106,7 @@ You true identity is that your mind is part of God’s and that you are very hol
 Include all the ego-based attributes which you ascribe to yourself, positive or negative, desirable or undesirable, grandiose or debased. 
 All of them are equally unreal, because you do not look upon yourself through the eyes of holiness.
 
-5. In the earlier part of the mind-searching period, you will probably emphasise what you consider to be the more negative aspects of your perception of yourself. 
+5. In the earlier part of the mind-searching period, you will probably emphasize what you consider to be the more negative aspects of your perception of yourself. 
 Toward the latter part of the exercise period, however, more self-inflating descriptive terms may well cross your mind. 
 Try to recognize that the direction of your fantasies about yourself does not matter. 
 Illusions have no direction in reality. 
@@ -126,7 +126,7 @@ I see myself as virtuous.
 
 7. You should not think of these terms in an abstract way. 
 They will occur to you as various situations, personalities and events in which you figure cross your mind. 
-Pick up any specific situation that occurs to you, identify the descriptive term or terms you feel are applicable to your reäctions to that situation, and use them in applying today’s idea. 
+Pick up any specific situation that occurs to you, identify the descriptive term or terms you feel are applicable to your reactions to that situation, and use them in applying today’s idea. 
 After you have named each one, add:
 
 >But my mind is part of God’s. 

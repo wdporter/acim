@@ -15,9 +15,9 @@ todo:
 
 americanisations
 
-emphasize emphasise
-judgment  judgement
-realize   realise
+emphasize emphasize
+judgment  judgment
+realize   realize
 recognize recognize
 
 

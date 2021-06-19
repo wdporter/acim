@@ -78,6 +78,6 @@ This practice is useful, but is not a substitute for the more random procedures 
 Do not, however, examine your mind for more than a minute or so. 
 You are too inexperienced as yet to avoid a tendency to become pointlessly preöccupied.
 
-6. Further, since these exercises are the first of their kind, you may find the suspension of judgement in connection with thoughts particularly difficult. 
+6. Further, since these exercises are the first of their kind, you may find the suspension of judgment in connection with thoughts particularly difficult. 
 Do not repeat these exercises more than three or four times during the day. 
 We will return to them later.

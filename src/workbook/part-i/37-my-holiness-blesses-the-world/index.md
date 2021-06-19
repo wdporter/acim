@@ -120,7 +120,7 @@ The practice period should conclude with a repetition of the idea with your eyes
 
 6. The shorter exercises consist of repeating the idea as often as you can. 
 It is particularly helpful to apply it silently to anyone you meet, using his name as you do so. 
-It is essential to use the idea if anyone seems to cause an adverse reäction in you. 
+It is essential to use the idea if anyone seems to cause an adverse reaction in you. 
 Offer him the blessing of your holiness immediately, that you may learn to keep it in your own awareness.
 
 ---

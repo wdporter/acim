@@ -92,6 +92,6 @@ I do not see this arm as it is now.
 I do not see that door as it is now.  
 I do not see that face as it is now.
 
-5. It is emphasised again that while complete inclusion should not be attempted, specific exclusion must be avoided. 
+5. It is emphasized again that while complete inclusion should not be attempted, specific exclusion must be avoided. 
 Be sure you are honest with yourself in making this distinction. 
 You may be tempted to obscure it.

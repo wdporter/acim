@@ -37,10 +37,10 @@ Into this reality, where all was one, a false idea came into the mind of the Chr
 This false idea is not a problem, the problem arose<br>
  when the creation took the idea seriously and forgot to laugh at it.
 
-That was the original “sin” or the original “mistake”.
+That was the original <q>sin</q> or the original <q>mistake</q>.
 
 The force of this mistake was so seemingly powerful,<br>
- that the Christ Mind Literally “knocked itself out”. It put itself to sleep.
+ that the Christ Mind Literally <q>knocked itself out</q>. It put itself to sleep.
 
 The creation now became lost in the nightmare it was having while asleep.
 
@@ -50,7 +50,7 @@ This nightmare, is the three-dimensional world of time and space<br>
 Since this world is based on the thought that we could cut ourselves off<br>
  from light and life, in it are the dark illusions of sickness, death and war.
 
-This is a world of total illusion. Nothing in it is “real”.
+This is a world of total illusion. Nothing in it is <q>real</q>.
 
 ---
 
@@ -82,7 +82,7 @@ The dark illusions of sickness, death and war start to heal.
 
 The world becomes happier and healthier and more full of light.
 
-We call this healed existence the “real world” because it is closer to reality.
+We call this healed existence the <q>real world</q> because it is closer to reality.
 
 ---
 

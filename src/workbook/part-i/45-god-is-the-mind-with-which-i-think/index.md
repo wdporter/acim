@@ -151,7 +151,7 @@ Here is your mind joined with the Mind of God.
 Here are your thoughts one with His. 
 For this kind of practice only one thing is necessary; approach it as you would an altar dedicated in Heaven to God the Father and to God the Son. 
 For such is the place you are trying to reach. 
-You will probably be unable as yet to realise how high you are trying to go. 
+You will probably be unable as yet to realize how high you are trying to go. 
 Yet even with the little understanding you have already gained, you should be able to remind yourself that this is no idle game, but an exercise in holiness and an attempt to reach the Kingdom of Heaven.
 
 

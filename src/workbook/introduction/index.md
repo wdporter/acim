@@ -41,7 +41,7 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 
 (4) …the workbook clarifies its purpose (Wapnick, L.D.N.C., p.603)
 
-(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reïnforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
+(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reinforing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
 
 (4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, F.C.T.L., p.17)
 ::: {% endif %}
@@ -279,7 +279,7 @@ If you use the ideas, you will see the the ideas are true.
 9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
 Some of them you may actively resist. 
 None of this will matter, or decrease their efficacy. 
-But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. 
+But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. 
 Nothing more than that is required.
 
 ::: details Expanded
@@ -287,7 +287,7 @@ Nothing more than that is required.
 Remember only this: you need not believe the ideas, you need not accept them [the ideas], and you need not even welcome them [the ideas]. 
 Some of them [the ideas] you may actively resist. 
 None of this [neither believing, accepting noR welcoming] will matter, or decrease their [the ideas’] efficacy. 
-But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them [the ideas]. 
+But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them [the ideas]. 
 Nothing more than that [using the ideas] is required.
 
 :::
@@ -297,7 +297,7 @@ Nothing more than that [using the ideas] is required.
 Remember only this: you need not believe the ideas, you need not accept the ideas, and you need not even welcome the ideas. 
 Some of the ideas you may actively resist. 
 Neither believing, accepting nor welcoming will matter, or decrease the ideas’ efficacy. 
-But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use the ideas. 
+But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use the ideas. 
 Nothing more than using the ideas is required.
 
 :::

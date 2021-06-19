@@ -115,7 +115,7 @@ The practice period should end, however, with a repetition of today’s idea as 
 
 7. The shorter practice periods may consist either of a repetition of the idea for today in the original or in a related form, as you prefer. 
 Be sure, however, to make more specific applications if they are needed. 
-They will be needed at any time during the day when you become aware of any kind of negative reäction to anyone, present or not. 
+They will be needed at any time during the day when you become aware of any kind of negative reaction to anyone, present or not. 
 In that event, tell him silently:
 
 >God is the Love in which I forgive you.

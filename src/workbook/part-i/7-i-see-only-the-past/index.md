@@ -78,7 +78,7 @@ Everything you believe depends on your ideas about time. You need new ideas abou
 
 3. Look at a cup, for example. 
 Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+Are not your aesthetic reactions to the cup, too, based on past experiences? 
 How else would you know whether or not this kind of cup will break if you drop it? 
 What do you know about this cup except what you learned in the past? 
 You would have no idea what this cup is, except for your past learning. 
@@ -90,7 +90,7 @@ Do you, then, really see it?
 
 Look at a cup, for example. 
 Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+Are not your aesthetic reactions to the cup, too, based on past experiences? 
 How else would you know whether or not this kind of cup will break if you drop it [the cup]? 
 What do you know about this cup except what you learned in the past? 
 You would have no idea what this cup is, except for your past learning. 
@@ -100,7 +100,7 @@ Do you, then, really see it [the cup]?
 
 Look at a cup, for example. 
 Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+Are not your aesthetic reactions to the cup, too, based on past experiences? 
 How else would you know whether or not this kind of cup will break if you drop the cup? 
 What do you know about this cup except what you learned in the past? 
 You would have no idea what this cup is, except for your past learning. Do you, then, really see the cup?

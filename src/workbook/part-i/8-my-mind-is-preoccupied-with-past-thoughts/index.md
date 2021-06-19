@@ -49,7 +49,7 @@ If you see only the past, you cannot understand anything in the present.
 
 2. The one wholly true thought one can hold about the past is that it is not here. 
 To think about it at all is therefore to think about illusions. 
-Very few have realised what is actually entailed in picturing the past or in anticipating the future. 
+Very few have realized what is actually entailed in picturing the past or in anticipating the future. 
 The mind is actually blank when it does this, because it is not really thinking about anything.
 
 ::: details Annotations
@@ -58,14 +58,14 @@ The mind is actually blank when it does this, because it is not really thinking 
 
 The one wholly true thought one can hold about the past is that it [the past] is not here. 
 To think about it [the past] at all is therefore to think about illusions. 
-Very few have realised what is actually entailed in picturing the past or in anticipating the future. 
+Very few have realized what is actually entailed in picturing the past or in anticipating the future. 
 The mind is actually blank when it [the mind] does this [pictures the past or anticipates the future], because it [the mind] is not really thinking about anything.
 
 #::: details Substituted
 
 The one wholly true thought one can hold about the past is that the past is not here. 
 To think about the past at all is therefore to think about illusions. 
-Very few have realised what is actually entailed in picturing the past or in anticipating the future. 
+Very few have realized what is actually entailed in picturing the past or in anticipating the future. 
 The mind is actually blank when the mind pictures the past or anticipates the future, because the mind is not really thinking about anything.
 
 #::: details Simplified

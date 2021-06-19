@@ -72,7 +72,7 @@ Then add:
 
 >This idea will help to release me from all that I now believe.
 
-The exercises consist, as before, in searching your mind for all the thoughts that are available to you, without selection or judgement. 
+The exercises consist, as before, in searching your mind for all the thoughts that are available to you, without selection or judgment. 
 Try to avoid classification of any kind. 
 In fact, if you find it helpful to do so, you might imagine that you are watching an oddly assorted procession going by, which has little if any personal meaning to you. 
 As each one crosses your mind, say:
