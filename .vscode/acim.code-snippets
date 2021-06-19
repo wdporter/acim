@@ -41,22 +41,21 @@
 			"{% if showDetails %}",
 			"<details>",
 			"\t<summary>Expanded</summary>",
-			"\t<p>",
-			"\t\t$0",
-			"</div>
-</details>",
+			"\t<div>",
+			"$0",
+			"\t</div>",
+			"</details>",
 			"<details>",
 			"\t<summary>Substituted</summary>",
-			"\t<p>",
-			"\t\t",
-			"</div>
-</details>",
+			"\t</div>",
+			"",
+			"</details>",
 			"<details>",
 			"\t<summary>Simplified</summary>",
-			"\t<p>",
-			"\t\t",
-			"</div>
-</details>",
+			"\t<div>",
+			"",
+			"\t</div>",
+			"</details>",
 			"{% endif %}"
 		],
 		"description": "Add front matter for section"
