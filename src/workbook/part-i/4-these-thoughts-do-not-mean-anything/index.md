@@ -42,7 +42,7 @@ You want only real thoughts.
 3. This is a major exercise, and will be repeated from time to time in somewhat different form. 
 The aim here is to train you in the first steps toward the goal of separating the meaningless from the meaningful. 
 It is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within. 
-It is also the beginning of training your mind to recognise what is the same and what is different.
+It is also the beginning of training your mind to recognize what is the same and what is different.
 
 ::: details Annotations
 
@@ -51,14 +51,14 @@ It is also the beginning of training your mind to recognise what is the same and
 This is a major exercise, and will be repeated from time to time in somewhat different form. 
 The aim here [of this exercise] is to train you in the first steps toward the goal of separating the meaningless from the meaningful. 
 It [this exercise] is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within [you]. 
-It [this exercise] is also the beginning of training your mind to recognise what is the same and what is different.
+It [this exercise] is also the beginning of training your mind to recognize what is the same and what is different.
 
 #::: details Substituted
 
 This is a major exercise, and will be repeated from time to time in somewhat different form. 
 The aim of this exercise is to train you in the first steps toward the goal of separating the meaningless from the meaningful. 
 This exercise is a first attempt in the long-range purpose of learning to see the meaningless as outside you, and the meaningful within you. 
-This exercise is also the beginning of training your mind to recognise what is the same and what is different.
+This exercise is also the beginning of training your mind to recognize what is the same and what is different.
 
 #::: details Simplified
 
@@ -73,7 +73,7 @@ Only what is inside you can be meaningful.
 It is like the things I see in this room [on this street, and so on].
 
 
-5. You can also use the idea for a particular thought that you recognise as harmful. 
+5. You can also use the idea for a particular thought that you recognize as harmful. 
 This practice is useful, but is not a substitute for the more random procedures to be followed for the exercises. 
 Do not, however, examine your mind for more than a minute or so. 
 You are too inexperienced as yet to avoid a tendency to become pointlessly preöccupied.

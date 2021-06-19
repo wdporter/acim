@@ -40,7 +40,7 @@ Light and life are aspects of creation.
 :::
 
 
-2. In order to see, you must recognise that light is within, not without. 
+2. In order to see, you must recognize that light is within, not without. 
 You do not see outside yourself, nor is the equipment for seeing outside you. 
 An essential part of this equipment is the light that makes seeing possible. 
 It is with you always, making vision possible in every circumstance.
@@ -49,14 +49,14 @@ It is with you always, making vision possible in every circumstance.
 
 #::: details Expanded
 
-In order to see, you must recognise that light is within, not without. 
+In order to see, you must recognize that light is within, not without. 
 You do not see outside yourself, nor is the equipment for seeing outside you. 
 An essential part of this equipment [the equipment for seeing] is the light that makes seeing possible. 
 It [the light that makes seeing possible] is with you always, making vision possible in every circumstance.
 
 #::: details Substituted
 
-In order to see, you must recognise that light is within, not without. 
+In order to see, you must recognize that light is within, not without. 
 You do not see outside yourself, nor is the equipment for seeing outside you. 
 An essential part of the equipment for seeing is the light that makes seeing possible. 
 The light that makes seeing possible is with you always, making vision possible in every circumstance.

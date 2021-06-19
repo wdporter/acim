@@ -18,7 +18,7 @@ americanisations
 emphasize emphasise
 judgment  judgement
 realize   realise
-recognize recognise
+recognize recognize
 
 
 diacresis

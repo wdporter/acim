@@ -51,7 +51,7 @@ The emphasis is now on the lack of reality of what you think you think.
 3. This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their past rather than their present status. 
 Now we are emphasising that the presence of these <q>thoughts</q> means that you are not thinking. 
 This is merely another way of repeating our earlier statement that your mind is really a blank. 
-To recognise this is to recognise nothingness when you think you see it. 
+To recognize this is to recognize nothingness when you think you see it. 
 As such, it is the prerequisite for vision.
 
 ::: details Annotations

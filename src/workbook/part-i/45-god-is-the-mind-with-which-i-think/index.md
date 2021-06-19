@@ -122,7 +122,7 @@ We will attempt to leave the unreal and seek for the real.
 We will deny the world in favour of truth. 
 We will not let the thoughts of the world hold us back. 
 We will not let the beliefs of the world tell us that what God would have us do is impossible. 
-Instead, we will try to recognise that only what God would have us do is possible.
+Instead, we will try to recognize that only what God would have us do is possible.
 
 
 5. We will also try to understand that only what God would have us do is what we want to do. 

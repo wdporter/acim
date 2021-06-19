@@ -12,7 +12,7 @@ prev: W-pI.14
 next: W-pI.16
 ---
 
-1. It is because the thoughts you think you think appear as images that you do not recognise them as nothing. 
+1. It is because the thoughts you think you think appear as images that you do not recognize them as nothing. 
 You think you think them, and so you think you see them. 
 This is how your <q>seeing</q> was made. 
 This is the function you have given your body’s eyes. 

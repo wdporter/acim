@@ -101,7 +101,7 @@ Your holiness lets you teach the world that the world is one with you, not by pr
 
 #::: details Simplified
 
-Quietly recognise that your are holy and blessed and so are all things.
+Quietly recognize that your are holy and blessed and so are all things.
 
 :::
 

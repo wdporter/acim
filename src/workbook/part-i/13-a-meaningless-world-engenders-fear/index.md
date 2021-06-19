@@ -59,7 +59,7 @@ The ego is afraid, because the void shows the ego is impotent and unreal.
 
 :::
 
-3. It is essential, therefore, that you learn to recognise the meaningless, and accept it without fear. 
+3. It is essential, therefore, that you learn to recognize the meaningless, and accept it without fear. 
 If you are fearful, it is certain that you will endow the world with attributes that it does not possess, and crowd it with images that do not exist. 
 To the ego illusions are safety devices, as they must also be to you who equate yourself with the ego.
 
@@ -67,13 +67,13 @@ To the ego illusions are safety devices, as they must also be to you who equate 
 
 #::: details Expanded
 
-It is essential, therefore, that you learn to recognise the meaningless, and accept it [the meaningless] without fear. 
+It is essential, therefore, that you learn to recognize the meaningless, and accept it [the meaningless] without fear. 
 If you are fearful, it is certain that you will endow the world with attributes that it [the world] does not possess, and crowd it [the world] with images that do not exist. 
 To the ego illusions are safety devices, as they [illusions] must also be [safety devices] to you who equate yourself with the ego.
 
 #::: details Substituted
 
-It is essential, therefore, that you learn to recognise the meaningless, and accept the meaningless without fear. 
+It is essential, therefore, that you learn to recognize the meaningless, and accept the meaningless without fear. 
 If you are fearful, it is certain that you will endow the world with attributes that the world does not possess, and crowd the world with images that do not exist. 
 To the ego illusions are safety devices, as illusions must also be safety devices to you who equate yourself with the ego.
 

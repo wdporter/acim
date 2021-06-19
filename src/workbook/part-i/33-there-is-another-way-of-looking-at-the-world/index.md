@@ -12,7 +12,7 @@ prev: W-pI.32
 next: W-pI.34
 ---
 
-1. Today’s idea is an attempt to recognise that you can shift your perception of the world in both its outer and inner aspects. 
+1. Today’s idea is an attempt to recognize that you can shift your perception of the world in both its outer and inner aspects. 
 A full five minutes should be devoted to the morning and evening applications. 
 In these practice periods, the idea should be repeated as often as you find comfortable, though unhurried applications are essential. 
 Alternate between surveying your outer and inner perceptions, but without an abrupt sense of shifting.

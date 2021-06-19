@@ -108,7 +108,7 @@ All of them are equally unreal, because you do not look upon yourself through th
 
 5. In the earlier part of the mind-searching period, you will probably emphasise what you consider to be the more negative aspects of your perception of yourself. 
 Toward the latter part of the exercise period, however, more self-inflating descriptive terms may well cross your mind. 
-Try to recognise that the direction of your fantasies about yourself does not matter. 
+Try to recognize that the direction of your fantasies about yourself does not matter. 
 Illusions have no direction in reality. 
 They are merely not true.
 

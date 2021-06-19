@@ -74,20 +74,20 @@ Your mind is blank when you think about past and/or future.
 
 :::
 
-3. The purpose of the exercises for today is to begin to train your mind to recognise when it is not really thinking at all. 
+3. The purpose of the exercises for today is to begin to train your mind to recognize when it is not really thinking at all. 
 While thoughtless ideas preöccupy your mind, the truth is blocked. 
 Recognising that your mind has been merely blank, rather than believing that it is filled with real ideas, is the first step to opening the way to vision.
 
 ::: details Annotations 
 
 #::: details Expanded
-The purpose of the exercises for today is to begin to train your mind to recognise when it [your mind] is not really thinking at all. 
+The purpose of the exercises for today is to begin to train your mind to recognize when it [your mind] is not really thinking at all. 
 While thoughtless ideas preöccupy your mind, the truth is blocked. 
 Recognising that your mind has been merely blank, rather than believing that it [your mind] is filled with real ideas, is the first step to opening the way to vision.
 
 #::: details Substituted
 
-3. The purpose of the exercises for today is to begin to train your mind to recognise when your mind is not really thinking at all. 
+3. The purpose of the exercises for today is to begin to train your mind to recognize when your mind is not really thinking at all. 
 While thoughtless ideas preöccupy your mind, the truth is blocked. 
 Recognising that your mind has been merely blank, rather than believing that your mind is filled with real ideas, is the first step to opening the way to vision.
 
@@ -98,7 +98,7 @@ Thinking about past and future blocks the truth.
 :::
 
 4. The exercises for today should be done with eyes closed. 
-This is because you actually cannot see anything, and it is easier to recognise that no matter how vividly you may picture a thought, you are not seeing anything. 
+This is because you actually cannot see anything, and it is easier to recognize that no matter how vividly you may picture a thought, you are not seeing anything. 
 With as little investment as possible, search your mind for the usual minute or so, merely noting the thoughts you find there. 
 Name each one by the central figure or theme it contains, and pass on to the next. 
 Introduce the practice period by saying:
