@@ -389,6 +389,34 @@ export default data = [
 		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p6",
 		"body": "The miracle is a sign that the mind has chosen to be led by me in Christ’s service. The abundance of Christ is the natural result of choosing to follow Him. All shallow roots must be uprooted, because they are not deep enough to sustain you. The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. As these false underpinnings are given up, the equilibrium is temporarily experienced as unstable. However, nothing is less stable than an upside-down orientation. Nor can anything that holds it upside down be conducive to increased stability."
 	},
+	{
+		"id": "T-1.VI.1",
+		"url": "/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs/#p1",
+		"body": "You who want peace can find it only by complete forgiveness. No learning is acquired by anyone unless he wants to learn it and believes in some way that he needs it. While lack does not exist in the creation of God, it is very apparent in what you have made. It is, in fact, the essential difference between them. Lack implies that you would be better off in a state somehow different from the one you are in. Until the separation, which is the meaning of the fall, nothing was lacking. There were no needs at all. Needs arise only when you deprive yourself. You act according to the particular order of needs you establish. This, in turn, depends on your perception of what you are."
+	},
+	{
+		"id": "T-1.VI.2",
+		"url": "/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs/#p2",
+		"body": "A sense of separation from God is the only lack you really need correct. This sense of separation would never have arisen if you had not distorted your perception of truth, and had thus perceived yourself as lacking. The idea of order of needs arose because, having made this fundamental error, you had already fragmented yourself into levels with different needs. As you integrate you become one, and your needs become one accordingly. Unified needs lead to unified action, because this produces a lack of conflict."
+	},
+	{
+		"id": "T-1.VI.3",
+		"url": "/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs/#p3",
+		"body": "The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its own level before the error of perceiving levels at all can be corrected. You cannot behave effectively while you function on different levels. However, while you do, correction must be introduced vertically from the bottom up. This is because you think you live in space, where concepts such as up and down are meaningful. Ultimately, space is as meaningless as time.Both are merely beliefs. "
+	},
+	{
+		"id": "T-1.VI.4",
+		"url": "/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs/#p4",
+		"body": "The real purpose of this world is to use it to correct your unbelief. You can never control the effects of fear yourself, because you made fear, and you believe in what you made. In attitude, then, though not in content, you resemble your Creator, Who has perfect faith in His creations because He created them. Belief produces the acceptance of existence. That is why you can believe what no one else thinks is true. It is true for you because it was made by you."
+	},
+	{
+		"id": "T-1.VI.5",
+		"url": "/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs/#p5",
+		"body": "All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. To whatever extent you are willing to submit your beliefs to this test, to that extent are your perceptions corrected. In sorting out the false from the true, the miracle proceeds along these lines: Perfect love casts out fear. If fear exists, Then there is not perfect love. But: Only perfect love exists. If there is fear, It produces a state that does not exist. Believe this and you will be free. Only God can establish this solution, and this faith <em>is</em> His gift."
+	},
+
+
+
 
 
 

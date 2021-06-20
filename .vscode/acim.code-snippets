@@ -65,8 +65,8 @@
 		"prefix": "jsonsearch",
 		"body": [
 			"\t\t{",
-			"\t\t\t\"id\": \"T-1.V.${1:p}$0\",",
-			"\t\t\t\"url\": \"/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p${1:p}\",",
+			"\t\t\t\"id\": \"T-1.VI.${1:p}$0\",",
+			"\t\t\t\"url\": \"/text/1-the-meaning-of-miracles/vi-the-illusion-of-needs/#p${1:p}\",",
 			"\t\t\t\"body\": \"$2\"",
 			"\t\t},",
 		],
