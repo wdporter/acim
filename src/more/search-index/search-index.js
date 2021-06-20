@@ -339,7 +339,56 @@ export default data = [
 		"url": "/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#p9",
 		"body": "Miracles are selective only in the sense that they are directed towards those who can use them for themselves. Since this makes it inevitable that they will extend them to others, a strong chain of Atonement is welded. However, this selectivity takes no account of the magnitude of the miracle itself, because the concept of size exists on a plane that is itself unreal. Since the miracle aims at restoring the awareness of reality, it would not be useful if it were bound by laws that govern the error it aims to correct."
 	},
-
+	{
+		"id": "T-1.IV.1",
+		"url": "/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness/#p1",
+		"body": "The escape from darkness involves two stages: First, the recognition that darkness cannot hide. This step usually entails fear. Second, the recognition that there is nothing you want to hide even if you could. This step brings escape from fear. When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy."
+	},
+	{
+		"id": "T-1.IV.2",
+		"url": "/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness/#p2",
+		"body": "Holiness can never be really hidden in darkness, but you can deceive yourself about it. This deception makes you fearful because you realize in your heart it is a deception, and you exert enormous efforts to establish its reality. The miracle sets reality where it belongs. Reality belongs only to spirit, and the miracle acknowledges only truth. It thus dispels illusions about yourself, and puts you in communion with yourself and God. The miracle joins in the Atonement by placing the mind in the service of the Holy Spirit. This establishes the proper function of the mind and corrects its errors, which are merely lacks of love. Your mind can be possessed by illusions, but spirit is eternally free. If a mind perceives without love, it perceives an empty shell and is unaware of the spirit within. But the Atonement restores spirit to its proper place. The mind that serves spirit is invulnerable."
+	},
+	{
+		"id": "T-1.IV.3",
+		"url": "/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness/#p3",
+		"body": "Darkness is lack of light as sin is lack of love. It has no unique properties of its own. It is an example of the scarcity belief, from which only error can proceed. Truth is always abundant. Those who perceive and acknowledge that they have everything have no needs of any kind. The purpose of the Atonement is to restore everything to you; or rather, to restore it to your awareness. You were given everything when you were created, just as everyone was."
+	},
+	{
+		"id": "T-1.IV.4",
+		"url": "/text/1-the-meaning-of-miracles/iv-the-escape-from-darkness/#p4",
+		"body": "The emptiness engendered by fear must be replaced by forgiveness. That is what the Bible means by There is no death, and why I could demonstrate that death does not exist. I came to fulfill the law by reinterpreting it. The law itself, if properly understood, offers only protection. It is those who have not yet changed their minds who brought the hell-fire concept into it. I assure you that I will witness for anyone who lets me, and to whatever extent he permits it. Your witnessing demonstrates your belief, and thus strengthens it. Those who witness for me are expressing, through their miracles, that they have abandoned the belief in deprivation in favor of the abundance they have learned belongs to them."
+	},
+	{
+		"id": "T-1.V.1",
+		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p1",
+		"body": "The miracle is much like the body in that both are learning aids for facilitating a state in which they become unnecessary. When spirit’s original state of direct communication is reached, neither the body nor the miracle serves any purpose. While you believe you are in a body, however, you can choose between loveless and miraculous channels of expression. You can make an empty shell, but you cannot express nothing at all. You can wait, delay, paralyse yourself or reduce your creativity almost to nothing. But you cannot abolish it. You can destroy your medium of communication, but not your potential. You did not create yourself."
+	},
+	{
+		"id": "T-1.V.2",
+		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p2",
+		"body": "The basic decision of the miracle-minded is not to wait on time any longer than is necessary. Time can waste as well as be wasted. The miracle worker, therefore, accepts the time-control factor gladly. He recognizes that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. Equality does not imply equality now. When everyone recognizes that he has everything, individual contributions to the Sonship will no longer be necessary."
+	},
+	{
+		"id": "T-1.V.3",
+		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p3",
+		"body": "When the Atonement has been completed, all talents will be shared by all the Sons of God. God is not partial. All His children have His total Love, and all His gifts are freely given to everyone alike. Except ye become as little children means that unless you fully recognize your complete dependence on God, you cannot know the real power of the Son in his true relationship with the Father. The specialness of God’s Sons does not stem from exclusion but from inclusion. All my brothers are special. If they believe they are deprived of anything, their perception becomes distorted. When this occurs the whole family of God, or the Sonship, is impaired in its relationships."
+	},
+	{
+		"id": "T-1.V.4",
+		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p4",
+		"body": "Ultimately, every member of the family of God must return. The miracle calls him to return because it blesses and honors him, even though he may be absent in spirit. God is not mocked is not a warning but a reassurance. God would be mocked if any of His creations lacked holiness. The creation is whole, and the mark of wholeness is holiness. Miracles are affirmations of Sonship, which is a state of completion and abundance."
+	},
+	{
+		"id": "T-1.V.5",
+		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p5",
+		"body": "Whatever is true is eternal, and cannot change or be changed. Spirit is therefore unalterable because it is already perfect, but the mind can elect what it chooses to serve. The only limit put on its choice is that it cannot serve two masters. If it elects to do so, the mind can become the medium by which spirit creates along the line of its own creation. If it does not freely elect to do so, it retains its creative potential but places itself under tyrannous rather than Authoritative control. As a result it imprisons, because such are the dictates of tyrants. To change your mind means to place it at the disposal of true Authority."
+	},
+	{
+		"id": "T-1.V.6",
+		"url": "/text/1-the-meaning-of-miracles/v-wholeness-and-spirit/#p6",
+		"body": "The miracle is a sign that the mind has chosen to be led by me in Christ’s service. The abundance of Christ is the natural result of choosing to follow Him. All shallow roots must be uprooted, because they are not deep enough to sustain you. The illusion that shallow roots can be deepened, and thus made to hold, is one of the distortions on which the reverse of the Golden Rule rests. As these false underpinnings are given up, the equilibrium is temporarily experienced as unstable. However, nothing is less stable than an upside-down orientation. Nor can anything that holds it upside down be conducive to increased stability."
+	},
 
 
 

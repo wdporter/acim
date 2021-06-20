@@ -119,7 +119,7 @@ Thoughts cannot leave their source. Your real thoughts are somewhere in your min
 
 4. Our three five-minute practice periods for today will take the same general form that we used in applying yesterday’s idea. 
 We will attempt to leave the unreal and seek for the real. 
-We will deny the world in favour of truth. 
+We will deny the world in favor of truth. 
 We will not let the thoughts of the world hold us back. 
 We will not let the beliefs of the world tell us that what God would have us do is impossible. 
 Instead, we will try to recognize that only what God would have us do is possible.
