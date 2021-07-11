@@ -467,6 +467,9 @@ export default data = [
 
 
 
+	
+
+
 	{
 		"id": "T-7.V.i2atonementext/7-the-giftsof-the-kingdom/v-healing-and-the-changelessness-of-mind/#p2",
 		"body": "Only minds communicate. Since the ego cannot obliterate the impulse to communicate because it is also the impulse to create, it can only teach you that the body can both communicate and create, and therefore does not need the mind. The ego thus tries to teach you that the body can act like the mind, and is therefore self-sufficient. Yet we have learned that behavior is not the level for either teaching or learning, since you can act in accordance with what you do not believe. To do this, however, will weaken you as a teacher and a learner because, as has been repeatedly emphasized, you teach what you do believe. An inconsistent lesson will be poorly taught and poorly learned. If you teach both sickness and healing, you are both a poor teacher and a poor learner."
