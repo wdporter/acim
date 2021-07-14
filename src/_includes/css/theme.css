@@ -22,7 +22,7 @@
 body {
 	border-radius: initial;
 	font-size: 18px;
-	max-width: 500px;
+	max-width: 512px;
 	line-height: 1.625;
 }
 
@@ -129,6 +129,8 @@ main > nav li + li::before {
 details {
 background-color: initial;
 border: initial;
+padding-left: initial;
+padding-right: initial;
 }
 
 details + details {
