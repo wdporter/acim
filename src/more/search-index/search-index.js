@@ -494,8 +494,16 @@ export default data = [
 			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p6",
 			"body": "Evolution is a process in which you seem to proceed from one degree to the next. You correct your previous missteps by stepping forward. This process is actually incomprehensible in temporal terms, because you return as you go forward. The Atonement is the device by which you can free yourself from the past as you go ahead. It undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. In this sense the Atonement saves time, but like the miracle it serves, does not abolish it. As long as there is need for Atonement, there is need for time. But the Atonement as a completed plan has a unique relationship to time. Until the Atonement is complete, its various phases will proceed in time, but the whole Atonement stands at time’s end. At that point the bridge of return has been built."
 		},
+		{
+			"id": "T-2.II.7",
+			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p7",
+			"body": "The Atonement is a total commitment. You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. It is hard to believe a defense that cannot attack is the best defense. This is what is meant by the meek shall inherit the earth. They will literally take it over because of their strength. A two-way defense is inherently weak precisely because it has two edges, and can be turned against you very unexpectedly. This possibility cannot be controlled except by miracles. The miracle turns the defense of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son."
+		},
 
 
+
+
+		
 	{
 		"id": "T-7.V.i2atonementext/7-the-giftsof-the-kingdom/v-healing-and-the-changelessness-of-mind/#p2",
 		"body": "Only minds communicate. Since the ego cannot obliterate the impulse to communicate because it is also the impulse to create, it can only teach you that the body can both communicate and create, and therefore does not need the mind. The ego thus tries to teach you that the body can act like the mind, and is therefore self-sufficient. Yet we have learned that behavior is not the level for either teaching or learning, since you can act in accordance with what you do not believe. To do this, however, will weaken you as a teacher and a learner because, as has been repeatedly emphasized, you teach what you do believe. An inconsistent lesson will be poorly taught and poorly learned. If you teach both sickness and healing, you are both a poor teacher and a poor learner."
