@@ -14,7 +14,7 @@ next: W-pI.16
 
 1. It is because the thoughts you think you think appear as images that you do not recognize them as nothing. 
 You think you think them, and so you think you see them. 
-This is how your <q>seeing</q> was made. 
+This is how your “seeing” was made. 
 This is the function you have given your body’s eyes. 
 It is not seeing. 
 It is image making. 
@@ -55,7 +55,7 @@ Real vision begins when edges of light begun to be seen
 
 :::
 
-3. As we go along, you may have many <q>light episodes</q>. 
+3. As we go along, you may have many “light episodes”. 
 They [light episodes] may take many different forms, some of them [forms] quite unexpected. 
 Do not be afraid of them [light episodes]. 
 They [light episodes] are signs that you are opening your eyes at last. 

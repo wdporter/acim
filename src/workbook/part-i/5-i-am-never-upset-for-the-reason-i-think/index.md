@@ -55,7 +55,7 @@ Through the dynamic of projection, the ego continually seeks to have us believe 
 >I am not angry at _____ for the reason I think.  
 I am not afraid of _____ for the reason I think.
 
-3. But again, this should not be substituted for practice periods in which you first search your mind for <q>sources</q> of upset in which you believe, and forms of upset which you think result.
+3. But again, this should not be substituted for practice periods in which you first search your mind for “sources” of upset in which you believe, and forms of upset which you think result.
 
 4. In these exercises, more than in the preceding ones, you may find it hard to be indiscriminate, and to avoid giving greater weight to some subjects than to others. 
 It might help to precede the exercises with the statement:

@@ -81,7 +81,7 @@ Forgiveness returns the mind to God.
 3. Today’s exercises require at least three full five-minute practice periods, and as many shorter ones as possible. 
 Begin the longer practice periods by repeating today’s idea to yourself, as usual. 
 Close your eyes as you do so, and spend a minute or two in searching your mind for those whom you have not forgiven. 
-It does not matter <q>how much</q> you have not forgiven them. 
+It does not matter “how much” you have not forgiven them. 
 You have forgiven them entirely or not at all.
 
 

@@ -15,7 +15,7 @@ next: W-pI.37
 1. Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 You are holy because your mind is part of God’s. 
 And because you are holy, your sight must be holy as well. 
-<q>Sinless</q> means without sin. 
+“Sinless” means without sin. 
 You cannot be without sin a little. 
 You are sinless or not. 
 If your mind is part of God’s you must be sinless, or a part of His Mind would be sinful. 

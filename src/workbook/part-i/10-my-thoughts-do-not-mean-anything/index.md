@@ -45,11 +45,11 @@ You are not aware of your real thoughts yet.
 
 2. This is the second time we have used this kind of idea. 
 The form is only slightly different. 
-This time the idea is introduced with <q>My thoughts</q> instead of <q>These thoughts</q>, and no link is made overtly with the things around you. 
+This time the idea is introduced with “My thoughts” instead of “These thoughts”, and no link is made overtly with the things around you. 
 The emphasis is now on the lack of reality of what you think you think.
 
 3. This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their past rather than their present status. 
-Now we are emphasising that the presence of these <q>thoughts</q> means that you are not thinking. 
+Now we are emphasising that the presence of these “thoughts” means that you are not thinking. 
 This is merely another way of repeating our earlier statement that your mind is really a blank. 
 To recognize this is to recognize nothingness when you think you see it. 
 As such, it is the prerequisite for vision.

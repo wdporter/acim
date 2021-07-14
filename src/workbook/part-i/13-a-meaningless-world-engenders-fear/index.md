@@ -44,7 +44,7 @@ You think you are perceiving things that have no meaning.
 :::
 
 2. Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
-It represents a situation in which God and the ego <q>challenge</q> each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
+It represents a situation in which God and the ego “challenge” each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 The ego rushes in frantically to establish its own ideas there, fearful that the void may otherwise be used to demonstrate its own impotence and unreality. 
 And on this alone it is correct.
 
@@ -96,7 +96,7 @@ Then close your eyes, and conclude with:
 >A meaningless world engenders fear because I think I am in competition with God.
 
 5. You may find it difficult to avoid resistance, in one form or another, to this concluding statement. 
-Whatever form such resistance may take, remind yourself that you are really afraid of such a thought because of the <q>vengeance</q> of the <q>enemy</q>. 
+Whatever form such resistance may take, remind yourself that you are really afraid of such a thought because of the “vengeance” of the “enemy”. 
 You are not expected to believe the statement at this point, and will probably dismiss it as preposterous. 
 Note carefully, however, any signs of overt or covert fear which it may arouse.
 

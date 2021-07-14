@@ -91,7 +91,7 @@ You might like, for example, to include thoughts such as:
 
 >There is nothing my holiness cannot do because the power of God lies in it.
 
-Introduce whatever variations appeal to you, but keep the exercises focused on the theme, <q>There is nothing my holiness cannot do</q>. 
+Introduce whatever variations appeal to you, but keep the exercises focused on the theme, “There is nothing my holiness cannot do”. 
 The purpose of today’s exercises is to begin to instill in you a sense that you have dominion over all things because of what you are.
 
 6. In the frequent shorter applications, apply the idea in its original form unless a specific problem concerning you or someone else arises, or comes to mind. 

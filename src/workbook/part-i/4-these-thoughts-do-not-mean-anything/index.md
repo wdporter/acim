@@ -17,15 +17,15 @@ next: W-pI.5
 In these practice periods, begin with noting the thoughts that are crossing your mind for about a minute. 
 Then apply the idea to them. 
 If you are already aware of unhappy thoughts, use them as subjects for the idea. 
-Do not, however, select only the thoughts you think are <q>bad</q>. 
-You will find, if you train yourself to look at your thoughts, that they represent such a mixture that, in a sense, none of them can be called <q>good</q> or <q>bad</q>. 
+Do not, however, select only the thoughts you think are “bad”. 
+You will find, if you train yourself to look at your thoughts, that they represent such a mixture that, in a sense, none of them can be called “good” or “bad”. 
 This is why they do not mean anything.
 
 2. In selecting the subjects for the application of today’s idea, the usual specificity is required. 
-Do not be afraid to use <q>good</q> thoughts as well as <q>bad</q>. 
+Do not be afraid to use “good” thoughts as well as “bad”. 
 None of them represents your real thoughts, which are being covered up by them. 
-The <q>good</q> ones are but shadows of what lies beyond, and shadows make sight difficult. 
-The <q>bad</q> ones are blocks to sight, and make seeing impossible. 
+The “good” ones are but shadows of what lies beyond, and shadows make sight difficult. 
+The “bad” ones are blocks to sight, and make seeing impossible. 
 You do not want either.
 
 ::: details Annotations

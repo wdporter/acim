@@ -54,9 +54,9 @@ This is a beginning step in learning to give them all equal value.
 
 and so on, using whatever descriptive terms happen to occur to you. 
 If terms which seem positive rather than negative occur to you, include them. 
-For example, you might think of <q>a good world</q>, or <q>a satisfying world</q>. 
+For example, you might think of “a good world”, or “a satisfying world”. 
 If such terms occur to you, use them along with the rest. 
-You may not yet understand why these <q>nice</q> adjectives belong in these exercises but remember that a <q>good world</q> implies a <q>bad</q> one, and a <q>satisfying world</q> implies an <q>unsatisfying</q> one. 
+You may not yet understand why these “nice” adjectives belong in these exercises but remember that a “good world” implies a “bad” one, and a “satisfying world” implies an “unsatisfying” one. 
 All terms which cross your mind are suitable subjects for today’s exercises. 
 Their seeming quality does not matter.
 

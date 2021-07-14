@@ -42,7 +42,7 @@ Thinking and perceiving are simultaneous.
 
 
 2. Today we are again emphasising the fact that minds are joined. 
-This is rarely a wholly welcome idea at first, since it seems to carry with it an enormous sense of responsibility, and may even be regarded as an <q>invasion of privacy</q>. 
+This is rarely a wholly welcome idea at first, since it seems to carry with it an enormous sense of responsibility, and may even be regarded as an “invasion of privacy”. 
 Yet it is a fact that there are no private thoughts. 
 Despite your initial resistance to this idea, you will yet understand that it must be true if salvation is possible at all. 
 And salvation must be possible because it is the Will of God.
@@ -69,7 +69,7 @@ Do not forget, however, that random selection of subjects for all practice perio
 Lack of order in this connection will ultimately make the recognition of lack of order in miracles meaningful to you.
 
 
-5. Apart from the <q>as needed</q> application of today’s idea, at least three practice periods are required, shortening the length of time involved, if necessary. 
+5. Apart from the “as needed” application of today’s idea, at least three practice periods are required, shortening the length of time involved, if necessary. 
 Do not attempt more than four.
 
 ---
