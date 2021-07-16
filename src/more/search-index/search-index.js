@@ -499,11 +499,36 @@ export default data = [
 			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p7",
 			"body": "The Atonement is a total commitment. You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. It is hard to believe a defense that cannot attack is the best defense. This is what is meant by the meek shall inherit the earth. They will literally take it over because of their strength. A two-way defense is inherently weak precisely because it has two edges, and can be turned against you very unexpectedly. This possibility cannot be controlled except by miracles. The miracle turns the defense of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son."
 		},
-
+		{
+			"id": "T-2.III.1",
+			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p1",
+			"body": "The Atonement can only be accepted within you by releasing the inner light. Since the separation, defenses have been used almost entirely to defend against the Atonement, and thus maintain the separation. This is generally seen as a need to protect the body. The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining atonement. Perceiving the body as a temple is only the first step in correcting this distortion, because it alters only part of it. It does recognize that Atonement in physical terms is impossible. The next step, however, is to realize that a temple is not a structure at all. Its true holiness lies at the inner altar around which the structure is built. The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. The real beauty of the temple cannot be seen with the physical eye. Spiritual sight, on the other hand, cannot see the structure at all because it is perfect vision. It can, however, see the altar with perfect clarity."
+		},
+		{
+			"id": "T-2.III.2",
+			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p2",
+			"body": "For perfect effectiveness the Atonement belongs at the center of the inner altar, where it undoes the separation and restores the wholeness of the mind. Before the separation the mind was invulnerable to fear, because fear did not exist. Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. This heals the separation by placing within you the one effective defense against all separation thoughts and making you perfectly invulnerable."
+		},
+		{
+			"id": "T-2.III.3",
+			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p3",
+			"body": "The acceptance of the Atonement by everyone is only a matter of time. This may appear to contradict free will because of the inevitability of the final decision, but this is not so. You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who set the limits on your ability to miscreate. An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. Tolerance for pain may be high, but it is not without limit. Eventually everyone begins to recognize, however dimly, that there must be a better way. As this recognition becomes more firmly established, it becomes a turning point. This ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. But the outcome is as certain as God."
+		},
+		{
+			"id": "T-2.III.4",
+			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p4",
+			"body": "Spiritual vision literally cannot see error, and merely looks for Atonement. All solutions the physical eye seeks dissolve. Spiritual vision looks within and recognizes immediately that the altar has been defiled and needs to be repaired and protected. Perfectly aware of the right defense it passes over all others, looking past error to truth. Because of the strength of its vision, it brings the mind into its service. This reestablishes the power of the mind and makes it increasingly unable to tolerate delay, realising that it only adds unnecessary pain. As a result, the mind becomes increasingly sensitive to what it would once have regarded as very minor intrusions of discomfort."
+		},
+		{
+			"id": "T-2.III.5",
+			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p5",
+			"body": "The children of God are entitled to the perfect comfort that comes from perfect trust. Until they achieve this, they waste themselves and their true creative powers on useless attempts to make themselves more comfortable by inappropriate means. But the real means are already provided, and do not involve any effort at all on their part. The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. It was created perfect and is entirely worthy of receiving perfection. God and His creations are completely dependent on Each Other. He depends on them because He created them perfect. He gave them His peace so they could not be shaken and could not be deceived. Whenever you are afraid you are deceived, and your mind cannot serve the Holy Spirit. This starves you by denying you your daily bread. God is lonely without His Sons, and they are lonely without Him. They must learn to look upon the world as a means of healing the separation. The Atonement is the guarantee that they will ultimately succeed."
+		},
 
 
 
 		
+
 	{
 		"id": "T-7.V.i2atonementext/7-the-giftsof-the-kingdom/v-healing-and-the-changelessness-of-mind/#p2",
 		"body": "Only minds communicate. Since the ego cannot obliterate the impulse to communicate because it is also the impulse to create, it can only teach you that the body can both communicate and create, and therefore does not need the mind. The ego thus tries to teach you that the body can act like the mind, and is therefore self-sufficient. Yet we have learned that behavior is not the level for either teaching or learning, since you can act in accordance with what you do not believe. To do this, however, will weaken you as a teacher and a learner because, as has been repeatedly emphasized, you teach what you do believe. An inconsistent lesson will be poorly taught and poorly learned. If you teach both sickness and healing, you are both a poor teacher and a poor learner."
