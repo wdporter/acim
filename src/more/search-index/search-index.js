@@ -464,71 +464,90 @@ export default data = [
 		"url": "/text/2-the-separation-and-the-atonement/i-the-origins-of-separation/#p5",
 		"body": "Whatever lies you may believe are of no concern to the miracle, which can heal any of them with equal ease. It makes no distinctions among misperceptions. Its sole concern is to distinguish between truth on the one hand, and error on the other. Some miracles may seem to be of greater magnitude than others. But remember the first principle in this course; there is no order of difficulty in miracles. In reality you are perfectly unaffected by all expressions of lack of love. These can be from yourself and others, from yourself to others, or from others to you. Peace is an attribute in you. You cannot find it outside. Illness is some form of external searching. Health is inner peace. It enables you to remain unshaken by lack of love from without and capable, through your acceptance of miracles, of correcting the conditions proceeding from lack of love in others."
 	},
+	{
+		"id": "T-2.II.1",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p1",
+		"body": "You can do anything I ask. I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. When you are afraid of anything, you are acknowledging its power to hurt you. Remember that where your heart is, there is your treasure also. You believe in what you value. If you are afraid, you are valuing wrongly. Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. That is why the Bible speaks of the peace of God which passes understanding. This peace is totally incapable of being shaken by errors of any kind. It denies the ability of anything not of God to affect you. This is the proper use of denial. It is not used to hide anything, but to correct error. It brings all error into the light, and since error and darkness are the same, it corrects error automatically."
+	},
+	{
+		"id": "T-2.II.p2",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p2",
+		"body": "True denial is a powerful protective device. You can and should deny any belief that error can hurt you. This kind of denial is not a concealment but a correction. Your right mind depends on it. Denial of error is a strong defense of truth, but denial of truth results in miscreation, the projections of the ego. In the service of the right mind the denial of error frees the mind, and reestablishes the freedom of the will. When the will is really free it cannot miscreate, because it recognizes only truth."
+	},
+	{
+		"id": "T-2.II.3",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p3",
+		"body": "You can defend truth as well as error. The means are easier to understand after the value of the goal is firmly established. It is a question of what it is for. Everyone defends his treasure, and will do so automatically. The real questions are, what do you treasure, and how much do you treasure it? Once you have learned to consider these questions and to bring them into all your actions, you will have little difficulty in clarifying the means. The means are available whenever you ask. You can, however, save time if you do not protract this step unduly. The correct focus will shorten it immeasurably."
+	},
+	{
+		"id": "T-2.II.4",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p4",
+		"body": "The Atonement is the only defense that cannot be used destructively because it is not a device you made. The Atonement principle was in effect long before the Atonement began. The principle was love and the Atonement was an act of love. Acts were not necessary before the separation, because belief in space and time did not exist. It was only after the separation that the Atonement and the conditions necessary for its fulfillment were planned. Then a defense so splendid was needed that it could not be misused, although it could be refused. Refusal could not, however, turn it into a weapon of attack, which is the inherent characteristic of other defenses. The Atonement thus becomes the only defense that is not a two-edged sword. It can only heal."
+	},
+	{
+		"id": "T-2.II.5",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p5",
+		"body": "The Atonement was built into the space–time belief to set a limit on the need for the belief itself, and ultimately to make learning complete. The Atonement is the final lesson. Learning itself, like the classrooms in which it occurs, is temporary. The ability to learn has no value when change is no longer necessary. The eternally creative have nothing to learn. You can learn to improve your perceptions, and can become a better and better learner. This will bring you into closer and closer accord with the Sonship; but the Sonship itself is a perfect creation and perfection is not a matter of degree. Only while there is a belief in differences is learning meaningful."
+	},
+	{
+		"id": "T-2.II.6",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p6",
+		"body": "Evolution is a process in which you seem to proceed from one degree to the next. You correct your previous missteps by stepping forward. This process is actually incomprehensible in temporal terms, because you return as you go forward. The Atonement is the device by which you can free yourself from the past as you go ahead. It undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. In this sense the Atonement saves time, but like the miracle it serves, does not abolish it. As long as there is need for Atonement, there is need for time. But the Atonement as a completed plan has a unique relationship to time. Until the Atonement is complete, its various phases will proceed in time, but the whole Atonement stands at time’s end. At that point the bridge of return has been built."
+	},
+	{
+		"id": "T-2.II.7",
+		"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p7",
+		"body": "The Atonement is a total commitment. You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. It is hard to believe a defense that cannot attack is the best defense. This is what is meant by the meek shall inherit the earth. They will literally take it over because of their strength. A two-way defense is inherently weak precisely because it has two edges, and can be turned against you very unexpectedly. This possibility cannot be controlled except by miracles. The miracle turns the defense of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son."
+	},
+	{
+		"id": "T-2.III.1",
+		"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p1",
+		"body": "The Atonement can only be accepted within you by releasing the inner light. Since the separation, defenses have been used almost entirely to defend against the Atonement, and thus maintain the separation. This is generally seen as a need to protect the body. The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining atonement. Perceiving the body as a temple is only the first step in correcting this distortion, because it alters only part of it. It does recognize that Atonement in physical terms is impossible. The next step, however, is to realize that a temple is not a structure at all. Its true holiness lies at the inner altar around which the structure is built. The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. The real beauty of the temple cannot be seen with the physical eye. Spiritual sight, on the other hand, cannot see the structure at all because it is perfect vision. It can, however, see the altar with perfect clarity."
+	},
+	{
+		"id": "T-2.III.2",
+		"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p2",
+		"body": "For perfect effectiveness the Atonement belongs at the center of the inner altar, where it undoes the separation and restores the wholeness of the mind. Before the separation the mind was invulnerable to fear, because fear did not exist. Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. This heals the separation by placing within you the one effective defense against all separation thoughts and making you perfectly invulnerable."
+	},
+	{
+		"id": "T-2.III.3",
+		"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p3",
+		"body": "The acceptance of the Atonement by everyone is only a matter of time. This may appear to contradict free will because of the inevitability of the final decision, but this is not so. You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who set the limits on your ability to miscreate. An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. Tolerance for pain may be high, but it is not without limit. Eventually everyone begins to recognize, however dimly, that there must be a better way. As this recognition becomes more firmly established, it becomes a turning point. This ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. But the outcome is as certain as God."
+	},
+	{
+		"id": "T-2.III.4",
+		"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p4",
+		"body": "Spiritual vision literally cannot see error, and merely looks for Atonement. All solutions the physical eye seeks dissolve. Spiritual vision looks within and recognizes immediately that the altar has been defiled and needs to be repaired and protected. Perfectly aware of the right defense it passes over all others, looking past error to truth. Because of the strength of its vision, it brings the mind into its service. This reestablishes the power of the mind and makes it increasingly unable to tolerate delay, realising that it only adds unnecessary pain. As a result, the mind becomes increasingly sensitive to what it would once have regarded as very minor intrusions of discomfort."
+	},
+	{
+		"id": "T-2.III.5",
+		"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p5",
+		"body": "The children of God are entitled to the perfect comfort that comes from perfect trust. Until they achieve this, they waste themselves and their true creative powers on useless attempts to make themselves more comfortable by inappropriate means. But the real means are already provided, and do not involve any effort at all on their part. The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. It was created perfect and is entirely worthy of receiving perfection. God and His creations are completely dependent on Each Other. He depends on them because He created them perfect. He gave them His peace so they could not be shaken and could not be deceived. Whenever you are afraid you are deceived, and your mind cannot serve the Holy Spirit. This starves you by denying you your daily bread. God is lonely without His Sons, and they are lonely without Him. They must learn to look upon the world as a means of healing the separation. The Atonement is the guarantee that they will ultimately succeed."
+	},
+	{
+		"id": "T-2.IV.1",
+		"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p1",
+		"body": "Our emphasis is now on healing. The miracle is the means, the Atonement is the principle, and healing is the result. To speak of “a miracle of healing” is to combine two orders of reality inappropriately. Healing is not a miracle. The Atonement, or the final miracle, is a remedy and any type of healing is a result. The kind of error to which Atonement is applied is irrelevant. All healing is essentially the release from fear. To undertake this you cannot be fearful yourself. You do not understand healing because of your own fear."
+	},
+	{
+		"id": "T-2.IV.2",
+		"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p2",
+		"body": "A major step in the Atonement plan is to undo error at all levels. Sickness or not-right-mindedness is the result of level confusion, because it always entails the belief that what is amiss on one level can adversely affect another. We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they occur. Only the mind is capable of error. The body can act wrongly only when it is responding to misthought. The body cannot create, and the belief that it can, a fundamental error, produces all physical symptoms. Physical illness represents a belief in magic. The whole distortion that made magic rests on the belief that there is a creative ability in matter which the mind cannot control. This error can take two forms: it can be believed that the mind can miscreate in the body, or that the body can miscreate in the mind. When it is understood that the mind, the only level of creation, cannot create beyond itself, neither type of confusion need occur."
+	},
+	{
+		"id": "T-2.IV.3",
+		"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p3",
+		"body": "Only the mind can create because spirit has already been created, and the body is a learning device for the mind. Learning devices are not lessons in themselves. Their purpose is merely to facilitate learning. The worst a faulty use of a learning device can do is to fail to facilitate learning. It has no power in itself to introduce actual learning errors. The body, if properly understood, shares the invulnerability of the Atonement to two-edged application. This is not because the body is a miracle, but because it is not inherently open to misinterpretation. The body is merely part of your experience in the physical world. Its abilities can be and frequently are overevaluated. However, it is almost impossible to deny its existence in this world. Those who do so are engaging in a particularly unworthy form of denial. The term “unworthy” here implies only that it is not necessary to protect the mind by denying the unmindful. If one denies this unfortunate aspect of the mind’s power, one is also denying the power itself."
+	},
 		{
-			"id": "T-2.II.1",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p1",
-			"body": "You can do anything I ask. I have asked you to perform miracles, and have made it clear that miracles are natural, corrective, healing and universal. There is nothing they cannot do, but they cannot be performed in the spirit of doubt or fear. When you are afraid of anything, you are acknowledging its power to hurt you. Remember that where your heart is, there is your treasure also. You believe in what you value. If you are afraid, you are valuing wrongly. Your understanding will then inevitably value wrongly, and by endowing all thoughts with equal power will inevitably destroy peace. That is why the Bible speaks of the peace of God which passes understanding. This peace is totally incapable of being shaken by errors of any kind. It denies the ability of anything not of God to affect you. This is the proper use of denial. It is not used to hide anything, but to correct error. It brings all error into the light, and since error and darkness are the same, it corrects error automatically."
-		},
-		{
-			"id": "T-2.II.p2",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p2",
-			"body": "True denial is a powerful protective device. You can and should deny any belief that error can hurt you. This kind of denial is not a concealment but a correction. Your right mind depends on it. Denial of error is a strong defense of truth, but denial of truth results in miscreation, the projections of the ego. In the service of the right mind the denial of error frees the mind, and reestablishes the freedom of the will. When the will is really free it cannot miscreate, because it recognizes only truth."
-		},
-		{
-			"id": "T-2.II.3",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p3",
-			"body": "You can defend truth as well as error. The means are easier to understand after the value of the goal is firmly established. It is a question of what it is for. Everyone defends his treasure, and will do so automatically. The real questions are, what do you treasure, and how much do you treasure it? Once you have learned to consider these questions and to bring them into all your actions, you will have little difficulty in clarifying the means. The means are available whenever you ask. You can, however, save time if you do not protract this step unduly. The correct focus will shorten it immeasurably."
-		},
-		{
-			"id": "T-2.II.4",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p4",
-			"body": "The Atonement is the only defense that cannot be used destructively because it is not a device you made. The Atonement principle was in effect long before the Atonement began. The principle was love and the Atonement was an act of love. Acts were not necessary before the separation, because belief in space and time did not exist. It was only after the separation that the Atonement and the conditions necessary for its fulfillment were planned. Then a defense so splendid was needed that it could not be misused, although it could be refused. Refusal could not, however, turn it into a weapon of attack, which is the inherent characteristic of other defenses. The Atonement thus becomes the only defense that is not a two-edged sword. It can only heal."
-		},
-		{
-			"id": "T-2.II.5",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p5",
-			"body": "The Atonement was built into the space–time belief to set a limit on the need for the belief itself, and ultimately to make learning complete. The Atonement is the final lesson. Learning itself, like the classrooms in which it occurs, is temporary. The ability to learn has no value when change is no longer necessary. The eternally creative have nothing to learn. You can learn to improve your perceptions, and can become a better and better learner. This will bring you into closer and closer accord with the Sonship; but the Sonship itself is a perfect creation and perfection is not a matter of degree. Only while there is a belief in differences is learning meaningful."
-		},
-		{
-			"id": "T-2.II.6",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p6",
-			"body": "Evolution is a process in which you seem to proceed from one degree to the next. You correct your previous missteps by stepping forward. This process is actually incomprehensible in temporal terms, because you return as you go forward. The Atonement is the device by which you can free yourself from the past as you go ahead. It undoes your past errors, thus making it unnecessary for you to keep retracing your steps without advancing to your return. In this sense the Atonement saves time, but like the miracle it serves, does not abolish it. As long as there is need for Atonement, there is need for time. But the Atonement as a completed plan has a unique relationship to time. Until the Atonement is complete, its various phases will proceed in time, but the whole Atonement stands at time’s end. At that point the bridge of return has been built."
-		},
-		{
-			"id": "T-2.II.7",
-			"url": "/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defense/#p7",
-			"body": "The Atonement is a total commitment. You may still think this is associated with loss, a mistake all the separated Sons of God make in one way or another. It is hard to believe a defense that cannot attack is the best defense. This is what is meant by the meek shall inherit the earth. They will literally take it over because of their strength. A two-way defense is inherently weak precisely because it has two edges, and can be turned against you very unexpectedly. This possibility cannot be controlled except by miracles. The miracle turns the defense of Atonement to your real protection, and as you become more and more secure you assume your natural talent of protecting others, knowing yourself as both a brother and a Son."
-		},
-		{
-			"id": "T-2.III.1",
-			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p1",
-			"body": "The Atonement can only be accepted within you by releasing the inner light. Since the separation, defenses have been used almost entirely to defend against the Atonement, and thus maintain the separation. This is generally seen as a need to protect the body. The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining atonement. Perceiving the body as a temple is only the first step in correcting this distortion, because it alters only part of it. It does recognize that Atonement in physical terms is impossible. The next step, however, is to realize that a temple is not a structure at all. Its true holiness lies at the inner altar around which the structure is built. The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. The real beauty of the temple cannot be seen with the physical eye. Spiritual sight, on the other hand, cannot see the structure at all because it is perfect vision. It can, however, see the altar with perfect clarity."
-		},
-		{
-			"id": "T-2.III.2",
-			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p2",
-			"body": "For perfect effectiveness the Atonement belongs at the center of the inner altar, where it undoes the separation and restores the wholeness of the mind. Before the separation the mind was invulnerable to fear, because fear did not exist. Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. This heals the separation by placing within you the one effective defense against all separation thoughts and making you perfectly invulnerable."
-		},
-		{
-			"id": "T-2.III.3",
-			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p3",
-			"body": "The acceptance of the Atonement by everyone is only a matter of time. This may appear to contradict free will because of the inevitability of the final decision, but this is not so. You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who set the limits on your ability to miscreate. An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. Tolerance for pain may be high, but it is not without limit. Eventually everyone begins to recognize, however dimly, that there must be a better way. As this recognition becomes more firmly established, it becomes a turning point. This ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. But the outcome is as certain as God."
-		},
-		{
-			"id": "T-2.III.4",
-			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p4",
-			"body": "Spiritual vision literally cannot see error, and merely looks for Atonement. All solutions the physical eye seeks dissolve. Spiritual vision looks within and recognizes immediately that the altar has been defiled and needs to be repaired and protected. Perfectly aware of the right defense it passes over all others, looking past error to truth. Because of the strength of its vision, it brings the mind into its service. This reestablishes the power of the mind and makes it increasingly unable to tolerate delay, realising that it only adds unnecessary pain. As a result, the mind becomes increasingly sensitive to what it would once have regarded as very minor intrusions of discomfort."
-		},
-		{
-			"id": "T-2.III.5",
-			"url": "/text/2-the-separation-and-the-atonement/iii-the-altar-of-god/#p5",
-			"body": "The children of God are entitled to the perfect comfort that comes from perfect trust. Until they achieve this, they waste themselves and their true creative powers on useless attempts to make themselves more comfortable by inappropriate means. But the real means are already provided, and do not involve any effort at all on their part. The Atonement is the only gift that is worthy of being offered at the altar of God, because of the value of the altar itself. It was created perfect and is entirely worthy of receiving perfection. God and His creations are completely dependent on Each Other. He depends on them because He created them perfect. He gave them His peace so they could not be shaken and could not be deceived. Whenever you are afraid you are deceived, and your mind cannot serve the Holy Spirit. This starves you by denying you your daily bread. God is lonely without His Sons, and they are lonely without Him. They must learn to look upon the world as a means of healing the separation. The Atonement is the guarantee that they will ultimately succeed."
+			"id": "T-2.IV.4",
+			"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p4",
+			"body": "All material means that you accept as remedies for bodily ills are restatements of magic principles. This is the first step in believing that the body makes its own illness. It is a second misstep to attempt to heal it through non-creative agents. It does not follow, however, that the use of such agents for corrective purposes is evil. Sometimes the illness has a sufficiently strong hold over the mind to render a person temporarily inaccessible to the Atonement. In this case it may be wise to utilise a compromise approach to mind and body, in which something from the outside is temporarily given healing belief. This is because the last thing that can help the non-right-minded, or the sick, is an increase in fear. They are already in a fear-weakened state. If they are prematurely exposed to a miracle, they may be precipitated into panic. This is likely to occur when upside-down perception has induced the belief that miracles are frightening."
 		},
 
 
 
 		
-
 	{
 		"id": "T-7.V.i2atonementext/7-the-giftsof-the-kingdom/v-healing-and-the-changelessness-of-mind/#p2",
 		"body": "Only minds communicate. Since the ego cannot obliterate the impulse to communicate because it is also the impulse to create, it can only teach you that the body can both communicate and create, and therefore does not need the mind. The ego thus tries to teach you that the body can act like the mind, and is therefore self-sufficient. Yet we have learned that behavior is not the level for either teaching or learning, since you can act in accordance with what you do not believe. To do this, however, will weaken you as a teacher and a learner because, as has been repeatedly emphasized, you teach what you do believe. An inconsistent lesson will be poorly taught and poorly learned. If you teach both sickness and healing, you are both a poor teacher and a poor learner."
