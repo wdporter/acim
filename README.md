@@ -2,7 +2,7 @@ This is a course in miracles.
 
 For now it's just a version of the text with my preferred spelling and grammar.
 
-I'm going to add algolia to it.
+With also my expanded fixes for pronoun replacement
 
-And I'm going to make it into a "Golden Chain".
+hopefully to make it easier to understand, even while it's harder to read.
 

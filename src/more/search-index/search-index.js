@@ -526,28 +526,33 @@ export default data = [
 	},
 	{
 		"id": "T-2.IV.1",
-		"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p1",
+		"url": "/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear/#p1",
 		"body": "Our emphasis is now on healing. The miracle is the means, the Atonement is the principle, and healing is the result. To speak of “a miracle of healing” is to combine two orders of reality inappropriately. Healing is not a miracle. The Atonement, or the final miracle, is a remedy and any type of healing is a result. The kind of error to which Atonement is applied is irrelevant. All healing is essentially the release from fear. To undertake this you cannot be fearful yourself. You do not understand healing because of your own fear."
 	},
 	{
 		"id": "T-2.IV.2",
-		"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p2",
+		"url": "/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear/#p2",
 		"body": "A major step in the Atonement plan is to undo error at all levels. Sickness or not-right-mindedness is the result of level confusion, because it always entails the belief that what is amiss on one level can adversely affect another. We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they occur. Only the mind is capable of error. The body can act wrongly only when it is responding to misthought. The body cannot create, and the belief that it can, a fundamental error, produces all physical symptoms. Physical illness represents a belief in magic. The whole distortion that made magic rests on the belief that there is a creative ability in matter which the mind cannot control. This error can take two forms: it can be believed that the mind can miscreate in the body, or that the body can miscreate in the mind. When it is understood that the mind, the only level of creation, cannot create beyond itself, neither type of confusion need occur."
 	},
 	{
 		"id": "T-2.IV.3",
-		"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p3",
+		"url": "/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear/#p3",
 		"body": "Only the mind can create because spirit has already been created, and the body is a learning device for the mind. Learning devices are not lessons in themselves. Their purpose is merely to facilitate learning. The worst a faulty use of a learning device can do is to fail to facilitate learning. It has no power in itself to introduce actual learning errors. The body, if properly understood, shares the invulnerability of the Atonement to two-edged application. This is not because the body is a miracle, but because it is not inherently open to misinterpretation. The body is merely part of your experience in the physical world. Its abilities can be and frequently are overevaluated. However, it is almost impossible to deny its existence in this world. Those who do so are engaging in a particularly unworthy form of denial. The term “unworthy” here implies only that it is not necessary to protect the mind by denying the unmindful. If one denies this unfortunate aspect of the mind’s power, one is also denying the power itself."
 	},
-		{
-			"id": "T-2.IV.4",
-			"url": "/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p4",
-			"body": "All material means that you accept as remedies for bodily ills are restatements of magic principles. This is the first step in believing that the body makes its own illness. It is a second misstep to attempt to heal it through non-creative agents. It does not follow, however, that the use of such agents for corrective purposes is evil. Sometimes the illness has a sufficiently strong hold over the mind to render a person temporarily inaccessible to the Atonement. In this case it may be wise to utilise a compromise approach to mind and body, in which something from the outside is temporarily given healing belief. This is because the last thing that can help the non-right-minded, or the sick, is an increase in fear. They are already in a fear-weakened state. If they are prematurely exposed to a miracle, they may be precipitated into panic. This is likely to occur when upside-down perception has induced the belief that miracles are frightening."
-		},
+	{
+		"id": "T-2.IV.4",
+		"url": "/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear/#p4",
+		"body": "All material means that you accept as remedies for bodily ills are restatements of magic principles. This is the first step in believing that the body makes its own illness. It is a second misstep to attempt to heal it through non-creative agents. It does not follow, however, that the use of such agents for corrective purposes is evil. Sometimes the illness has a sufficiently strong hold over the mind to render a person temporarily inaccessible to the Atonement. In this case it may be wise to utilise a compromise approach to mind and body, in which something from the outside is temporarily given healing belief. This is because the last thing that can help the non-right-minded, or the sick, is an increase in fear. They are already in a fear-weakened state. If they are prematurely exposed to a miracle, they may be precipitated into panic. This is likely to occur when upside-down perception has induced the belief that miracles are frightening."
+	},
+	{
+		"id": "T-2.IV.5",
+		"url": "/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear/#p5",
+		"body": "The value of the Atonement does not lie in the manner in which it is expressed. In fact, if it is used truly, it will inevitably be expressed in whatever way is most helpful to the receiver. This means that a miracle, to attain its full efficacy, must be expressed in a language that the recipient can understand without fear. This does not necessarily mean that this is the highest level of communication of which he is capable. It does mean, however, that it is the highest level of communication of which he is capable now. The whole aim of the miracle is to raise the level of communication, not to lower it by increasing fear."
+	},
 
 
 
-		
+
 	{
 		"id": "T-7.V.i2atonementext/7-the-giftsof-the-kingdom/v-healing-and-the-changelessness-of-mind/#p2",
 		"body": "Only minds communicate. Since the ego cannot obliterate the impulse to communicate because it is also the impulse to create, it can only teach you that the body can both communicate and create, and therefore does not need the mind. The ego thus tries to teach you that the body can act like the mind, and is therefore self-sufficient. Yet we have learned that behavior is not the level for either teaching or learning, since you can act in accordance with what you do not believe. To do this, however, will weaken you as a teacher and a learner because, as has been repeatedly emphasized, you teach what you do believe. An inconsistent lesson will be poorly taught and poorly learned. If you teach both sickness and healing, you are both a poor teacher and a poor learner."

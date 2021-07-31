@@ -66,7 +66,7 @@
 		"body": [
 			"\t\t{",
 			"\t\t\t\"id\": \"T-2.IV.${1:p}$0\",",
-			"\t\t\t\"url\": \"/text/2-the-separation-and-the-atonement/iv-the-function-of-the-miracle-worker/#p${1:p}\",",
+			"\t\t\t\"url\": \"/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p${1:p}\",",
 			"\t\t\t\"body\": \"$2\"",
 			"\t\t},",
 		],
