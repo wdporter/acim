@@ -549,7 +549,56 @@ export default data = [
 		"url": "/text/2-the-separation-and-the-atonement/iv-healing-as-release-from-fear/#p5",
 		"body": "The value of the Atonement does not lie in the manner in which it is expressed. In fact, if it is used truly, it will inevitably be expressed in whatever way is most helpful to the receiver. This means that a miracle, to attain its full efficacy, must be expressed in a language that the recipient can understand without fear. This does not necessarily mean that this is the highest level of communication of which he is capable. It does mean, however, that it is the highest level of communication of which he is capable now. The whole aim of the miracle is to raise the level of communication, not to lower it by increasing fear."
 	},
-
+	{
+		"id": "T-2.V.1",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p1",
+		"body": "Before miracle workers are ready to undertake their function in this world, it is essential that they fully understand the fear of release. Otherwise they may unwittingly foster the belief that release is imprisonment, a belief that is already very prevalent. This misperception arises in turn from the belief that harm can be limited to the body. That is because of the underlying fear that the mind can hurt itself. None of these errors is meaningful, because the miscreations of the mind do not really exist. This recognition is a far better protective device than any form of level confusion, because it introduces correction at the level of the error. It is essential to remember that only the mind can create, and that correction belongs at the thought level. To amplify an earlier statement, spirit is already perfect and therefore does not require correction. The body does not exist except as a learning device for the mind. This learning device is not subject to errors of its own, because it cannot create. It is obvious, then, that inducing the mind to give up its miscreations is the only application of creative ability that is truly meaningful."
+	},
+	{
+		"id": "T-2.V.2",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p2",
+		"body": "Magic is the mindless or the miscreative use of mind. Physical medications are forms of spells, but if you are afraid to use the mind to heal, you should not attempt to do so. The very fact that you are afraid makes your mind vulnerable to miscreation. You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. Under these conditions, it is safer for you to rely temporarily on physical healing devices, because you cannot misperceive them as your own creations. As long as your sense of vulnerability persists, you should not attempt to perform miracles."
+	},
+	{
+		"id": "T-2.V.3",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p3",
+		"body": "I have already said that miracles are expressions of miracle-mindedness, and miracle-mindedness means right-mindedness. The right-minded neither exalt nor depreciate the mind of the miracle worker or the miracle receiver. However, as a correction, the miracle need not await the right-mindedness of the receiver. In fact, its purpose is to restore him to his right mind. It is essential, however, that the miracle worker be in his right mind, however briefly, or he will be unable to reestablish right-mindedness in someone else."
+	},
+	{
+		"id": "T-2.V.4",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p4",
+		"body": "The healer who relies on his own readiness is endangering his understanding. You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in mine. If your miracle working inclinations are not functioning properly, it is always because fear has intruded on your right-mindedness and has turned it upside down. All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. If you do accept it, you are in a position to recognize that those who need healing are simply those who have not realized that right-mindedness is healing."
+	},
+	{
+		"id": "T-2.V.5",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p5",
+		"body": "The sole responsibility of the miracle worker is to accept the Atonement for himself. This means you recognize that mind is the only creative level, and that its errors are healed by the Atonement. Once you accept this, your mind can only heal. By denying your mind any destructive potential and reïnstating its purely constructive powers, you place yourself in a position to undo the level confusion of others. The message you then give to them is the truth that their minds are similarly constructive, and their miscreations cannot hurt them. By affirming this you release the mind from overevaluating its own learning device, and restore the mind to its true position as the learner."
+	},
+	{
+		"id": "T-2.V.6",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p6",
+		"body": "It should be emphasized again that the body does not learn any more than it creates. As a learning device it merely follows the learner, but if it is falsely endowed with self-initiative, it becomes a serious obstruction to the very learning it should facilitate. Only the mind is capable of illumination. Spirit is already illuminated and the body in itself is too dense. The mind, however, can bring its illumination to the body by recognising that it is not the learner, and is therefore unamenable to learning. The body is, however, easily brought into alignment with a mind that has learned to look beyond it toward the light."
+	},
+	{
+		"id": "T-2.V.7",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p7",
+		"body": "Corrective learning always begins with the awakening of spirit, and the turning away from the belief in physical sight. This often entails fear, because you are afraid of what your spiritual sight will show you. I said before that the Holy Spirit cannot see error, and is capable only of looking beyond it to the defense of Atonement. There is no doubt that this may produce discomfort, yet the discomfort is not the final outcome of the perception. When the Holy Spirit is permitted to look upon the defilement of the altar, He also looks immediately toward the Atonement. Nothing He perceives can induce fear. Everything that results from spiritual awareness is merely channelized toward correction. Discomfort is aroused only to bring the need for correction into awareness."
+	},
+	{
+		"id": "T-2.V.8",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p8",
+		"body": "The fear of healing arises in the end from an unwillingness to accept unequivocally that healing is necessary. What the physical eye sees is not corrective, nor can error be corrected by any device that can be seen physically. As long as you believe in what your physical sight tells you, your attempts at correction will be misdirected. The real vision is obscured, because you cannot endure to see your own defiled altar. But since the altar has been defiled, your state becomes doubly dangerous unless it is perceived."
+	},
+	{
+		"id": "T-2.V.9",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p9",
+		"body": "Healing is an ability that developed after the separation, before which it was unnecessary. Like all aspects of the belief in space and time, it is temporary. However, as long as time persists, healing is needed as a means of protection. This is because healing rests on charity, and charity is a way of perceiving the perfection of another even if you cannot perceive it in yourself. Most of the loftier concepts of which you are capable now are time-dependent. Charity is really a weaker reflection of a much more powerful love-encompassment that is far beyond any form of charity you can conceive of as yet. Charity is essential to right-mindedness in the limited sense in which it can now be attained."
+	},
+	{
+		"id": "T-2.V.10",
+		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p10",
+		"body": "Charity is a way of looking at another as if he had already gone far beyond his actual accomplishments in time. Since his own thinking is faulty he cannot see the Atonement for himself, or he would have no need of charity. The charity that is accorded him is both an acknowledgment that he needs help, and a recognition that he will accept it. Both of these perceptions clearly imply their dependence on time, making it apparent that charity still lies within the limitations of this world. I said before that only revelation transcends time. The miracle, as an expression of charity, can only shorten it. It must be understood, however, that whenever you offer a miracle to another, you are shortening the suffering of both of you. This corrects retroactively as well as progressively."
+	},
 
 
 

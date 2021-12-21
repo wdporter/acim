@@ -44,9 +44,6 @@ h3 {
 h2, h3 {
 	line-height: 1.25;
 	text-align: center;
-}
-
-h2 {
 	font-family: var(--nc-font-sans);
 }
 
@@ -131,6 +128,7 @@ background-color: initial;
 border: initial;
 padding-left: initial;
 padding-right: initial;
+font-family: var(--nc-font-sans);
 }
 
 details + details {
@@ -140,7 +138,7 @@ margin-top: -2rem;
 details > summary {
   background-color: var(--nc-bg-3);
   padding: .5rem 1rem;
-	font-family: var(--nc-font-sans);
+font-family: var(--nc-font-sans);
 ;
 }
 
