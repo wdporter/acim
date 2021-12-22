@@ -599,7 +599,40 @@ export default data = [
 		"url": "/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker/#p10",
 		"body": "Charity is a way of looking at another as if he had already gone far beyond his actual accomplishments in time. Since his own thinking is faulty he cannot see the Atonement for himself, or he would have no need of charity. The charity that is accorded him is both an acknowledgment that he needs help, and a recognition that he will accept it. Both of these perceptions clearly imply their dependence on time, making it apparent that charity still lies within the limitations of this world. I said before that only revelation transcends time. The miracle, as an expression of charity, can only shorten it. It must be understood, however, that whenever you offer a miracle to another, you are shortening the suffering of both of you. This corrects retroactively as well as progressively."
 	},
-
+	{
+		"id": "T-2.V.A.11",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p11",
+		"body": " The miracle abolishes the need for lower-order concerns. Since it is an out-of-pattern time interval, the ordinary considerations of time and space do not apply. When you perform a miracle, I will arrange both time and space to adjust to it."
+	},
+	{
+		"id": "T-2.V.A.12",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p12",
+		"body": "A clear distinction between what is created and what is made is essential. All forms of healing rest on this fundamental correction in level perception."
+	},
+	{
+		"id": "T-2.V.A.13",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p13",
+		"body": "Never confuse right-mindedness and wrong-mindedness. Responding to any form of error with anything except a desire to heal is an expression of this confusion."
+	},
+	{
+		"id": "T-2.V.A.14",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p14",
+		"body": "The miracle is always a denial of this error and an affirmation of the truth. ²Only right-mindedness can correct in a way that has any real effect. Pragmatically, what has no real effect has no real existence. Its effect, then, is emptiness. Being without substantial content, it lends itself to projection."
+	},
+	{
+		"id": "T-2.V.A.15",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p15",
+		"body": "The level-adjustment power of the miracle induces the right perception for healing. Until this has occurred healing cannot be understood. Forgiveness is an empty gesture unless it entails correction. Without this it is essentially judgmental, rather than healing."
+	},
+	{
+		"id": "T-2.V.A.16",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p16",
+		"body": "Miracle-minded forgiveness is correction. It has no element of judgment at all. The statement “Father forgive them for they know not what they do” in no way evaluates what they do. It is an appeal to God to heal their minds. There is no reference to the outcome of the error. That does not matter."
+	},
+	{
+		"id": "T-2.V.A.17",
+		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p17",
+		"body": "The injunction “Be of one mind” is the statement for revelation-readiness. My request “Do this in remembrance of me” is the appeal for cooperation from miracle workers. The two statements are not in the same order of reality. Only the latter involves an awareness of time, since to remember is to recall the past in the present. Time is under my direction, but timelessness belongs to God. In time we exist for and with each other. In timelessness we coexist with God.
 
 
 	{

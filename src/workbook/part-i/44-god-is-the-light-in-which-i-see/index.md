@@ -15,7 +15,7 @@ next: W-pI.45
 1. Today we are continuing the idea for yesterday, adding another dimension to it. 
 You cannot see in darkness, and you cannot make light. 
 You can make darkness and then think you see in it, but light reflects life, and is therefore an aspect of creation. 
-Creation and darkness cannot coëxist, but light and life must go together, being but different aspects of creation.
+Creation and darkness cannot coexist, but light and life must go together, being but different aspects of creation.
 
 ::: details Annotations
 
@@ -24,14 +24,14 @@ Creation and darkness cannot coëxist, but light and life must go together, bein
 Today we are continuing the idea for yesterday, adding another dimension to it [the idea for yesterday]. 
 You cannot see in darkness, and you cannot make light. 
 You can make darkness and then think you see in it [darkness], but light reflects life, and [light] is therefore an aspect of creation. 
-Creation and darkness cannot coëxist, but light and life must go together, being but [light and life are] different aspects of creation.
+Creation and darkness cannot coexist, but light and life must go together, being but [light and life are] different aspects of creation.
 
 #::: details Substituted
 
 Today we are continuing the idea for yesterday, adding another dimension to the idea for yesterday. 
 You cannot see in darkness, and you cannot make light. 
 You can make darkness and then think you see in darkness, but light reflects life, and light is therefore an aspect of creation. 
-Creation and darkness cannot coëxist, but light and life must go together, light and life are different aspects of creation.
+Creation and darkness cannot coexist, but light and life must go together, light and life are different aspects of creation.
 
 #::: details Simplified
 
