@@ -172,7 +172,7 @@ export default data = [
 	{
 		"id": "T-1.I.33",
 		"url": "/text/1-the-meaning-of-miracles/i-principles-of-miracles/#p33",
-		"body": "Miracles honor you because you are loveable. They dispel illusions about yourself and perceive the light in you. They thus atone for your errors by freeing you from your nightmares. By releasing your mind from the imprisonment of your illusions, they restore your sanity."
+		"body": "Miracles honor you because you are lovable. They dispel illusions about yourself and perceive the light in you. They thus atone for your errors by freeing you from your nightmares. By releasing your mind from the imprisonment of your illusions, they restore your sanity."
 	},
 	{
 		"id": "T-1.I.34",
@@ -717,7 +717,27 @@ export default data = [
 	{
 		"id": "T-2.VIII.1",
 		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p1",
-		"body": "One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. You are apt to forget this when you become egocentric, and this puts you in a position where a belief in magic is virtually inevitable. Your will to create was given you by your Creator, Who was expressing the same Will in His creation. Since creative ability rests in the mind, everything you create is necessarily a matter of will. It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. This basic distinction leads directly into the real meaning of the Last Judgment.
+		"body": "One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. You are apt to forget this when you become egocentric, and this puts you in a position where a belief in magic is virtually inevitable. Your will to create was given you by your Creator, Who was expressing the same Will in His creation. Since creative ability rests in the mind, everything you create is necessarily a matter of will. It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. This basic distinction leads directly into the real meaning of the Last Judgment."
+	},
+	{
+		"id": "T-2.VIII.2",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p2",
+		"body": "The Last Judgment is one of the most threatening ideas in your thinking. This is because you do not understand it. Judgment is not an attribute of God. It was brought into being only after the separation, when it became one of the many learning devices to be built into the overall plan. Just as the separation occurred over millions of years, the Last Judgment will extend over a similarly long period, and perhaps an even longer one. Its length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. If a sufficient number become truly miracle-minded, this shortening process can be virtually immeasurable. It is essential, however, that you free yourself from fear quickly, because you must emerge from the conflict if you are to bring peace to other minds."
+	},
+	{
+		"id": "T-2.VIII.3",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p3",
+		"body": "The Last Judgment is generally thought of as a procedure undertaken by God. Actually it will be undertaken by my brothers with my help. It is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgment is to restore right-mindedness to you. The Last Judgment might be called a process of right evaluation. It simply means that everyone will finally come to understand what is worthy and what is not. After this, the ability to choose can be directed rationally. Until this distinction is made, however, the vacillations between free and imprisoned will cannot but continue."
+	},
+	{
+		"id": "T-2.VIII.4",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p4",
+		"body": "The first step toward freedom involves a sorting out of the false from the true. This is a process of separation in the constructive sense, and reflects the true meaning of the Apocalypse. Everyone will ultimately look upon his own creations and choose to preserve only what is good, just as God Himself looked upon what He had created and knew that it was good. At this point, the mind can begin to look with love on its own creations because of their worthiness. At the same time the mind will inevitably disown its miscreations which, without belief, will no longer exist."
+	},
+	{
+		"id": "T-2.VIII.5",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p5",
+		"body": "The term “Last Judgment” is frightening not only because it has been projected onto God, but also because of the association of “last” with death. This is an outstanding example of upside-down perception. If the meaning of the Last Judgment is objectively examined, it is quite apparent that it is really the doorway to life. No one who lives in fear is really alive. Your own last judgment cannot be directed toward yourself, because you are not your own creation. You can, however, apply it meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. This is what your right-mindedness cannot but dictate. The purpose of time is solely to “give you time” to achieve this judgment. It is your own perfect judgment of your own perfect creations. When everything you retain is lovable, there is no reason for fear to remain with you. This is your part in the Atonement.
 
 
 
