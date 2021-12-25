@@ -632,7 +632,54 @@ export default data = [
 	{
 		"id": "T-2.V.A.17",
 		"url": "/text/2-the-separation-and-the-atonement/v-a-special-principles-of-miracle-workers/#p17",
-		"body": "The injunction “Be of one mind” is the statement for revelation-readiness. My request “Do this in remembrance of me” is the appeal for cooperation from miracle workers. The two statements are not in the same order of reality. Only the latter involves an awareness of time, since to remember is to recall the past in the present. Time is under my direction, but timelessness belongs to God. In time we exist for and with each other. In timelessness we coexist with God.
+		"body": "The injunction “Be of one mind” is the statement for revelation-readiness. My request “Do this in remembrance of me” is the appeal for cooperation from miracle workers. The two statements are not in the same order of reality. Only the latter involves an awareness of time, since to remember is to recall the past in the present. Time is under my direction, but timelessness belongs to God. In time we exist for and with each other. In timelessness we coexist with God."
+	},
+	{
+		"id": "T-2.VI.1",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p1",
+		"body": "Being afraid seems to be involuntary; something beyond your own control. Yet I have said already that only constructive acts should be involuntary. My control can take over everything that does not matter, while my guidance can direct everything that does, if you so choose. Fear cannot be controlled by me, but it can be self-controlled. Fear prevents me from giving you my control. The presence of fear shows that you have raised body thoughts to the level of the mind. This removes them from my control, and makes you feel personally responsible for them. This is an obvious confusion of levels."
+	},
+	{
+		"id": "T-2.VI.2",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p2",
+		"body": "I do not foster level confusion, but you must choose to correct it. You would not excuse insane behavior on your part by saying you could not help it. Why should you condone insane thinking? There is a confusion here that you would do well to look at clearly. You may believe that you are responsible for what you do, but not for what you think. The truth is that you are responsible for what you think, because it is only at this level that you can exercise choice. What you do comes from what you think. You cannot separate yourself from the truth by “giving” autonomy to behavior. This is controlled by me automatically as soon as you place what you think under my guidance. Whenever you are afraid, it is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it."
+	},
+	{
+		"id": "T-2.VI.3",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p3",
+		"body": "It is pointless to believe that controlling the outcome of misthought can result in healing. When you are fearful, you have chosen wrongly. That is why you feel responsible for it. You must change your mind, not your behavior, and this is a matter of willingness. You do not need guidance except at the mind level. Correction belongs only at the level where change is possible. Change does not mean anything at the symptom level, where it cannot work."
+	},
+	{
+		"id": "T-2.VI.4",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p4",
+		"body": "The correction of fear is your responsibility. When you ask for release from fear, you are implying that it is not. You should ask, instead, for help in the conditions that have brought the fear about. These conditions always entail a willingness to be separate. At that level you can help it. You are much too tolerant of mind wandering, and are passively condoning your mind’s miscreations. The particular result does not matter, but the fundamental error does. The correction is always the same. Before you choose to do anything, ask me if your choice is in accord with mine. If you are sure that it is, there will be no fear."
+	},
+	{
+		"id": "T-2.VI.5",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p5",
+		"body": "Fear is always a sign of strain, arising whenever what you want conflicts with what you do. This situation arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. This produces conflicted behavior, which is intolerable to you because the part of the mind that wants to do something else is outraged. Second, you can behave as you think you should, but without entirely wanting to do so. This produces consistent behavior, but entails great strain. In both cases, the mind and the behavior are out of accord, resulting in a situation in which you are doing what you do not wholly want to do. This arouses a sense of coercion that usually produces rage, and projection is likely to follow. Whenever there is fear, it is because you have not made up your mind. Your mind is therefore split, and your behavior inevitably becomes erratic. Correcting at the behavioral level can shift the error from the first to the second type, but will not obliterate the fear."
+	},
+	{
+		"id": "T-2.VI.6",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p6",
+		"body": "It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this implies a willingness that you have not developed as yet. The Holy Spirit cannot ask more than you are willing to do. The strength to do comes from your undivided decision. There is no strain in doing God’s Will as soon as you recognize that it is also your own. The lesson here is quite simple, but particularly apt to be overlooked. I will therefore repeat it, urging you to listen. Only your mind can produce fear. It does so whenever it is conflicted in what it wants, producing inevitable strain because wanting and doing are discordant. This can be corrected only by accepting a unified goal."
+	},
+	{
+		"id": "T-2.VI.7",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p7",
+		"body": "The first corrective step in undoing the error is to know first that the conflict is an expression of fear. Say to yourself that you must somehow have chosen not to love, or the fear could not have arisen. Then the whole process of correction becomes nothing more than a series of pragmatic steps in the larger process of accepting the Atonement as the remedy. These steps may be summarised in this way: Know first that this is fear. Fear arises from lack of love. The only remedy for lack of love is perfect love. Perfect love is the Atonement."
+	},
+	{
+		"id": "T-2.VI.8",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p8",
+		"body": "I have emphasized that the miracle, or the expression of Atonement, is always a sign of respect from the worthy to the worthy. The recognition of this worth is reestablished by the Atonement. It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. You have done something loveless, having chosen without love. This is precisely the situation for which the Atonement was offered. The need for the remedy inspired its establishment. As long as you recognize only the need for the remedy, you will remain fearful. However, as soon as you accept the remedy, you have abolished the fear. This is how true healing occurs."
+	},
+	{
+		"id": "T-2.VI.9",
+		"url": "/text/2-the-separation-and-the-atonement/vi-fear-and-conflict/#p9",
+		"body": "Everyone experiences fear. Yet it would take very little right thinking to realize why fear occurs. Few appreciate the real power of the mind, and no one remains fully aware of it all the time. However, if you hope to spare yourself from fear there are some things you must realize, and realize fully. The mind is very powerful, and never loses its creative force. It never sleeps. Every instant it is creating. It is hard to recognize that thought and belief combine into a power surge that can literally move mountains. It appears at first glance that to believe such power about yourself is arrogant, but that is not the real reason you do not believe it. You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them. This may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. If you believe that what you think is ineffectual you may cease to be afraid of it, but you are hardly likely to respect it. There are no idle thoughts. All thinking produces form at some level.
+
+
 
 
 	{
