@@ -17,7 +17,7 @@ There has been virtually no attempt to direct the time for undertaking them, min
 This approach has been intentional, and very carefully planned. 
 We have not lost sight of the crucial importance of the reversal of your thinking. 
 The salvation of the world depends on it. 
-Yet you will not see if you regard yourself as being coërced, and if you give in to resentment and opposition.
+Yet you will not see if you regard yourself as being coerced, and if you give in to resentment and opposition.
 
 ::: details Annotations
 
@@ -28,7 +28,7 @@ There has been virtually no attempt to direct the time for undertaking them [our
 This [casual] approach has been intentional, and very carefully planned. 
 We have not lost sight of the crucial importance of the reversal of your thinking. 
 The salvation of the world depends on it [the reversal of your thinking]. 
-Yet you will not see if you regard yourself as being coërced, and if you give in to resentment and opposition.
+Yet you will not see if you regard yourself as being coerced, and if you give in to resentment and opposition.
 
 #::: details Substituted
 
@@ -37,7 +37,7 @@ There has been virtually no attempt to direct the time for undertaking our pract
 This casual approach has been intentional, and very carefully planned. 
 We have not lost sight of the crucial importance of the reversal of your thinking. 
 The salvation of the world depends on the reversal of your thinking. 
-Yet you will not see if you regard yourself as being coërced, and if you give in to resentment and opposition.
+Yet you will not see if you regard yourself as being coerced, and if you give in to resentment and opposition.
 
 #::: details Simplified
 
