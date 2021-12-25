@@ -707,9 +707,17 @@ export default data = [
 	{
 		"id": "T-2.VII.6",
 		"url": "/text/2-the-separation-and-the-atonement/vii-cause-and-effect/#p6",
-		"body": "It should especially be noted that God has only one Son. If all His creations are His Sons, every one must be an integral part of the whole Sonship. The Sonship in its Oneness transcends the sum of its parts. However, this is obscured as long as any of its parts is missing. That is why the conflict cannot ultimately be resolved until all the parts of the Sonship have returned. Only then can the meaning of wholeness in the true sense be understood. Any part of the Sonship can believe in error or incompleteness if he so chooses. However, if he does so, he is believing in the existence of nothingness. The correction of this error is the Atonement.
-
-
+		"body": "It should especially be noted that God has only one Son. If all His creations are His Sons, every one must be an integral part of the whole Sonship. The Sonship in its Oneness transcends the sum of its parts. However, this is obscured as long as any of its parts is missing. That is why the conflict cannot ultimately be resolved until all the parts of the Sonship have returned. Only then can the meaning of wholeness in the true sense be understood. Any part of the Sonship can believe in error or incompleteness if he so chooses. However, if he does so, he is believing in the existence of nothingness. The correction of this error is the Atonement."
+	},
+	{
+		"id": "T-2.VII.7",
+		"url": "/text/2-the-separation-and-the-atonement/vii-cause-and-effect/#p7",
+		"body": "I have already briefly spoken about readiness, but some additional points might be helpful here. Readiness is only the prerequisite for accomplishment. The two should not be confused. As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but it is by no means necessarily undivided. The state does not imply more than a potential for a change of mind. Confidence cannot develop fully until mastery has been accomplished. We have already attempted to correct the fundamental error that fear can be mastered, and have emphasized that the only real mastery is through love. Readiness is only the beginning of confidence. You may think this implies that an enormous amount of time is necessary between readiness and mastery, but let me remind you that time and space are under my control."
+	},
+	{
+		"id": "T-2.VIII.1",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p1",
+		"body": "One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. You are apt to forget this when you become egocentric, and this puts you in a position where a belief in magic is virtually inevitable. Your will to create was given you by your Creator, Who was expressing the same Will in His creation. Since creative ability rests in the mind, everything you create is necessarily a matter of will. It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. This basic distinction leads directly into the real meaning of the Last Judgment.
 
 
 
