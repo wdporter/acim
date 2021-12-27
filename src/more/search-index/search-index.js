@@ -716,28 +716,68 @@ export default data = [
 	},
 	{
 		"id": "T-2.VIII.1",
-		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p1",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgment/#p1",
 		"body": "One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. You are apt to forget this when you become egocentric, and this puts you in a position where a belief in magic is virtually inevitable. Your will to create was given you by your Creator, Who was expressing the same Will in His creation. Since creative ability rests in the mind, everything you create is necessarily a matter of will. It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. This basic distinction leads directly into the real meaning of the Last Judgment."
 	},
 	{
 		"id": "T-2.VIII.2",
-		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p2",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgment/#p2",
 		"body": "The Last Judgment is one of the most threatening ideas in your thinking. This is because you do not understand it. Judgment is not an attribute of God. It was brought into being only after the separation, when it became one of the many learning devices to be built into the overall plan. Just as the separation occurred over millions of years, the Last Judgment will extend over a similarly long period, and perhaps an even longer one. Its length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. If a sufficient number become truly miracle-minded, this shortening process can be virtually immeasurable. It is essential, however, that you free yourself from fear quickly, because you must emerge from the conflict if you are to bring peace to other minds."
 	},
 	{
 		"id": "T-2.VIII.3",
-		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p3",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgment/#p3",
 		"body": "The Last Judgment is generally thought of as a procedure undertaken by God. Actually it will be undertaken by my brothers with my help. It is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgment is to restore right-mindedness to you. The Last Judgment might be called a process of right evaluation. It simply means that everyone will finally come to understand what is worthy and what is not. After this, the ability to choose can be directed rationally. Until this distinction is made, however, the vacillations between free and imprisoned will cannot but continue."
 	},
 	{
 		"id": "T-2.VIII.4",
-		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p4",
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgment/#p4",
 		"body": "The first step toward freedom involves a sorting out of the false from the true. This is a process of separation in the constructive sense, and reflects the true meaning of the Apocalypse. Everyone will ultimately look upon his own creations and choose to preserve only what is good, just as God Himself looked upon what He had created and knew that it was good. At this point, the mind can begin to look with love on its own creations because of their worthiness. At the same time the mind will inevitably disown its miscreations which, without belief, will no longer exist."
 	},
 	{
 		"id": "T-2.VIII.5",
-		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement/#p5",
-		"body": "The term “Last Judgment” is frightening not only because it has been projected onto God, but also because of the association of “last” with death. This is an outstanding example of upside-down perception. If the meaning of the Last Judgment is objectively examined, it is quite apparent that it is really the doorway to life. No one who lives in fear is really alive. Your own last judgment cannot be directed toward yourself, because you are not your own creation. You can, however, apply it meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. This is what your right-mindedness cannot but dictate. The purpose of time is solely to “give you time” to achieve this judgment. It is your own perfect judgment of your own perfect creations. When everything you retain is lovable, there is no reason for fear to remain with you. This is your part in the Atonement.
+		"url": "/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgment/#p5",
+		"body": "The term “Last Judgment” is frightening not only because it has been projected onto God, but also because of the association of “last” with death. This is an outstanding example of upside-down perception. If the meaning of the Last Judgment is objectively examined, it is quite apparent that it is really the doorway to life. No one who lives in fear is really alive. Your own last judgment cannot be directed toward yourself, because you are not your own creation. You can, however, apply it meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. This is what your right-mindedness cannot but dictate. The purpose of time is solely to “give you time” to achieve this judgment. It is your own perfect judgment of your own perfect creations. When everything you retain is lovable, there is no reason for fear to remain with you. This is your part in the Atonement."
+	},
+	{
+		"id": "T-3.I.1",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p1",
+		"body": "A further point must be perfectly clear before any residual fear still associated with miracles can disappear. The crucifixion did not establish the Atonement; the resurrection did. Many sincere Christians have misunderstood this.No one who is free of the belief in scarcity could possibly make this mistake. If the crucifixion is seen from an upside-down point of view, it does appear as if God permitted and even encouraged one of His Sons to suffer because he was good. This particularly unfortunate interpretation, which arose out of projection, has led many people to be bitterly afraid of God. Such anti-religious concepts enter into many religions. Yet the real Christian should pause and ask, How could this be? Is it likely that God Himself would be capable of the kind of thinking which His Own words have clearly stated is unworthy of His Son?"
+	},
+	{
+		"id": "T-3.I.2",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p2",
+		"body": "The best defense, as always, is not to attack another’s position, but rather to protect the truth. It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it. This procedure is painful in its minor applications and genuinely tragic on a wider scale. Persecution frequently results in an attempt to justify the terrible misperception that God Himself persecuted His Own Son on behalf of salvation. The very words are meaningless. It has been particularly difficult to overcome this because, although the error itself is no harder to correct than any other, many have been unwilling to give it up in view of its prominent value as a defense. In milder forms a parent says, This hurts me more than it hurts you, and feels exonerated in beating a child. Can you believe our Father really thinks this way? It is so essential that all such thinking be dispelled that we must be sure that nothing of this kind remains in your mind. I was not punished because you were bad. The wholly benign lesson the Atonement teaches is lost if it is tainted with this kind of distortion in any form."
+	},
+	{
+		"id": "T-3.I.3",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p3",
+		"body": "The statement, Vengeance is mine, says the Lord, is a misperception by which one assigns his own evil past to God. The evil past has nothing to do with God. He did not create it and He does not maintain it. God does not believe in retribution. His Mind does not create that way. He does not hold your evil deeds against you. Is it likely that He would hold them against me? Be very sure that you recognize how utterly impossible this assumption is, and how entirely it arises from projection. This kind of error is responsible for a host of related errors, including the belief that God rejected Adam and forced him out of the Garden of Eden. It is also why you may believe from time to time that I am misdirecting you. I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish."
+	},
+	{
+		"id": "T-3.I.4",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p4",
+		"body": "Sacrifice is a notion totally unknown to God. It arises solely from fear, and frightened people can be vicious. Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. It has been hard for many Christians to realize that this applies to themselves. Good teachers never terrorise their students. To terrorise is to attack, and this results in rejection of what the teacher offers. The result is learning failure."
+	},
+	{
+		"id": "T-3.I.5",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p5",
+		"body": "I have been correctly referred to as the lamb of God who takes away the sins of the world, but those who represent the lamb as blood-stained do not understand the meaning of the symbol. Correctly understood, it is a very simple symbol that speaks of my innocence. The lion and the lamb lying down together symbolise that strength and innocence are not in conflict, but naturally live in peace. Blessed are the pure in heart for they shall see God, is another way of saying the same thing. A pure mind knows the truth and this is its strength. It does not confuse destruction with innocence because it associates innocence with strength, not with weakness."
+	},
+	{
+		"id": "T-3.I.6",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p6",
+		"body": "Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its wholeness. It cannot project. It can only honor other minds, because honor is the natural greeting of the truly loved to others who are like them. The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one in which the meaning of the Atonement is perfectly apparent. The Atonement is entirely unambiguous. It is perfectly clear because it exists in light. Only the attempts to shroud it in darkness have made it inaccessible to those who do not choose to see."
+	},
+	{
+		"id": "T-3.I.7",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p7",
+		"body": "The Atonement itself radiates nothing but truth. It therefore epitomises harmlessness and sheds only blessing. It could not do this if it arose from anything but perfect innocence. Innocence is wisdom because it is unaware of evil, and evil does not exist. It is, however, perfectly aware of everything that is true. The resurrection demonstrated that nothing can destroy truth. Good can withstand any form of evil, as light abolishes forms of darkness. The Atonement is therefore the perfect lesson. It is the final demonstration that all the other lessons I taught are true. If you can accept this one generalisation now, there will be no need to learn from many smaller lessons. You are released from all errors if you believe this."
+	},
+	{
+		"id": "T-3.I.8",
+		"url": "/text/3-the-innocent-perception/i-atonement-without-sacrifice/#p8",
+		"body": "The innocence of God is the true state of the mind of His Son. In this state your mind knows God, for God is not symbolic; He is Fact. Knowing His Son as he is, you realize that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. The understanding of the innocent is truth. That is why their altars are truly radiant.
 
 
 
