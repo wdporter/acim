@@ -1,8 +1,5 @@
 This is a course in miracles.
 
-For now it's just a version of the text with my preferred spelling and grammar.
+placeholder repo. There is nothing here of interest. 
 
-With also my expanded fixes for pronoun replacement
-
-hopefully to make it easier to understand, even while it's harder to read.
 
